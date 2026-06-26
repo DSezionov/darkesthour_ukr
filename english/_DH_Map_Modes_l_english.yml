@@ -1,0 +1,218 @@
+﻿l_english:
+ ##############################################
+ ##### Integrated from the Map Modes+ mod #####
+ ##############################################
+ # Constants:
+ MAPMODE_CONSTANT: "Map Mode"
+ DOTTET_LINE_SEPERATOR: "\n--------------\n"
+
+ # Map Modes:
+ dh_map_mode_core_map_mode: "Cores & Claims"
+ MAPMODE_DH_MAP_MODE_CORE_MAP_MODE: "§Y$dh_map_mode_core_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_CORE_MAP_MODE_NAME: "$dh_map_mode_core_map_mode$"
+ MAPMODE_DH_MAP_MODE_CORE_MAP_MODE_DESCRIPTION: "Shows our core states, non-core states and occupied states in different colors."
+ dh_map_mode_core_map_mode_tooltip: "[From.GetDhMapModeCoreMapModeTooltip]"
+ dh_map_mode_core_map_mode_tooltip_delayed: "[From.GetDhMapModeCoreMapModeTooltipDelayed]"
+
+ dh_map_mode_caused_world_tension_map_mode: "$WORLD_TENSION_NAME$"
+ MAPMODE_DH_MAP_MODE_CAUSED_WORLD_TENSION_MAP_MODE: "§Y$dh_map_mode_caused_world_tension_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_CAUSED_WORLD_TENSION_MAP_MODE_NAME: "$dh_map_mode_caused_world_tension_map_mode$"
+ MAPMODE_DH_MAP_MODE_CAUSED_WORLD_TENSION_MAP_MODE_DESCRIPTION: "Shows how much world tension each country has caused."
+ dh_map_mode_caused_world_tension_map_mode_tooltip: "[From.Controller.GetDhMapModeCausedWorldTensionMapModeTooltip]"
+ dh_map_mode_caused_world_tension_map_mode_tooltip_delayed: ""
+
+ dh_map_mode_stability_map_mode: "$STABILITY$"
+ MAPMODE_DH_MAP_MODE_STABILITY_MAP_MODE: "§Y$dh_map_mode_stability_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_STABILITY_MAP_MODE_NAME: "$dh_map_mode_stability_map_mode$"
+ MAPMODE_DH_MAP_MODE_STABILITY_MAP_MODE_DESCRIPTION: "Shows how much stability each country has."
+ dh_map_mode_stability_map_mode_tooltip: "§Y[From.Controller.GetNameWithFlag]§! currently has a stability of §Y[?From.Controller:stability|2%]§!."
+ dh_map_mode_stability_map_mode_tooltip_delayed: "[From.Controller.GetDhMapModeStabilityMapModeTooltipDelayed]"
+
+ dh_map_mode_war_support_map_mode: "$WAR_SUPPORT$"
+ MAPMODE_DH_MAP_MODE_WAR_SUPPORT_MAP_MODE: "§Y$dh_map_mode_war_support_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_WAR_SUPPORT_MAP_MODE_NAME: "$dh_map_mode_war_support_map_mode$"
+ MAPMODE_DH_MAP_MODE_WAR_SUPPORT_MAP_MODE_DESCRIPTION: "Shows how much war support each country has."
+ dh_map_mode_war_support_map_mode_tooltip: "§Y[From.Controller.GetNameWithFlag]§! currently has a war support of §Y[?From.Controller:has_war_support|2%]§!."
+ dh_map_mode_war_support_map_mode_tooltip_delayed: "[From.Controller.GetDhMapModeWarSupportMapModeTooltipDelayed]"
+
+ dh_map_mode_war_goals_map_mode: "War Goals on us"
+ MAPMODE_DH_MAP_MODE_WAR_GOALS_MAP_MODE: "§Y$dh_map_mode_war_goals_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_WAR_GOALS_MAP_MODE_NAME: "$dh_map_mode_war_goals_map_mode$"
+ MAPMODE_DH_MAP_MODE_WAR_GOALS_MAP_MODE_DESCRIPTION: "Shows which countries currently are justifying or already have a war goal against us."
+ dh_map_mode_war_goals_map_mode_tooltip: "[From.Controller.GetDhMapModeWarGoalsMapModeTooltip]"
+ dh_map_mode_war_goals_map_mode_tooltip_delayed: ""
+
+ dh_map_mode_anti_air_map_mode: "$anti_air_building$ Level"
+ MAPMODE_DH_MAP_MODE_ANTI_AIR_MAP_MODE: "§Y$dh_map_mode_anti_air_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_ANTI_AIR_MAP_MODE_NAME: "$dh_map_mode_anti_air_map_mode$"
+ MAPMODE_DH_MAP_MODE_ANTI_AIR_MAP_MODE_DESCRIPTION: "Shows the level of §Y$anti_air_building_plural$§! in each state controlled by us, our allies and our enemies."
+ dh_map_mode_anti_air_map_mode_tooltip: "[From.Controller.GetDhMapModeAntiAirMapModeTooltip]"
+ dh_map_mode_anti_air_map_mode_tooltip_delayed: "[From.Controller.GetDhMapModeAntiAirMapModeTooltipDelayed]"
+
+ dh_map_mode_air_base_map_mode: "$air_base$ Level"
+ MAPMODE_DH_MAP_MODE_AIR_BASE_MAP_MODE: "§Y$dh_map_mode_air_base_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_AIR_BASE_MAP_MODE_NAME: "$dh_map_mode_air_base_map_mode$"
+ MAPMODE_DH_MAP_MODE_AIR_BASE_MAP_MODE_DESCRIPTION: "Shows the level of §Y$air_base_plural$§! in each state controlled by us, our allies and our enemies."
+ dh_map_mode_air_base_map_mode_tooltip: "[From.Controller.GetDhMapModeAirBaseMapModeTooltip]"
+ dh_map_mode_air_base_map_mode_tooltip_delayed: "[From.Controller.GetDhMapModeAirBaseMapModeTooltipDelayed]"
+
+ dh_map_mode_technologies_map_mode: "Technologies"
+ MAPMODE_DH_MAP_MODE_TECHNOLOGIES_MAP_MODE: "§Y$dh_map_mode_technologies_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_TECHNOLOGIES_MAP_MODE_NAME: "$dh_map_mode_technologies_map_mode$"
+ MAPMODE_DH_MAP_MODE_TECHNOLOGIES_MAP_MODE_DESCRIPTION: "Shows the amount of researched technologies of each country."
+ dh_map_mode_technologies_map_mode_tooltip: "§Y[From.Controller.GetName]§! currently has researched §Y[?From.Controller:num_researched_technologies]§! technologies."
+ dh_map_mode_technologies_map_mode_tooltip_delayed: ""
+
+ dh_map_mode_intervention_map_mode: "Our Interventions"
+ MAPMODE_DH_MAP_MODE_INTERVENTION_MAP_MODE: "§Y$dh_map_mode_intervention_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_INTERVENTION_MAP_MODE_NAME: "$dh_map_mode_intervention_map_mode$"
+ MAPMODE_DH_MAP_MODE_INTERVENTION_MAP_MODE_DESCRIPTION: "Shows the countries we have volunteers or expeditionary forces in or from."
+ dh_map_mode_intervention_map_mode_tooltip: "[From.Controller.GetDhMapModeInterventionMapModeTooltip]"
+ dh_map_mode_intervention_map_mode_tooltip_delayed: ""
+
+ dh_map_mode_majors_map_mode: "Majors"
+ MAPMODE_DH_MAP_MODE_MAJORS_MAP_MODE: "§Y$dh_map_mode_majors_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_MAJORS_MAP_MODE_NAME: "$dh_map_mode_majors_map_mode$"
+ MAPMODE_DH_MAP_MODE_MAJORS_MAP_MODE_DESCRIPTION: "Highlights the major countries."
+ dh_map_mode_majors_map_mode_tooltip: "[From.Controller.GetDhMapModeMajorsMapModeTooltip]"
+ dh_map_mode_majors_map_mode_tooltip_delayed: ""
+
+ dh_map_mode_world_war_map_mode: "World War"
+ MAPMODE_DH_MAP_MODE_WORLD_WAR_MAP_MODE: "§Y$dh_map_mode_world_war_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_WORLD_WAR_MAP_MODE_NAME: "$dh_map_mode_world_war_map_mode$"
+ MAPMODE_DH_MAP_MODE_WORLD_WAR_MAP_MODE_DESCRIPTION: "Shows which countries are currently at war."
+ dh_map_mode_world_war_map_mode_tooltip: "[From.Controller.GetDhMapModeWorldWarMapModeTooltip]"
+ dh_map_mode_world_war_map_mode_tooltip_delayed: ""
+
+ dh_map_mode_spymasters_map_mode: "Spy Masters"
+ MAPMODE_DH_MAP_MODE_SPYMASTERS_MAP_MODE: "§Y$dh_map_mode_spymasters_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_SPYMASTERS_MAP_MODE_NAME: "$dh_map_mode_spymasters_map_mode$"
+ MAPMODE_DH_MAP_MODE_SPYMASTERS_MAP_MODE_DESCRIPTION: "Shows which countries are spy masters of their faction."
+ dh_map_mode_spymasters_map_mode_tooltip: "[From.Controller.GetDhMapModeSpyMastersMapModeTooltip]"
+ dh_map_mode_spymasters_map_mode_tooltip_delayed: "[From.Controller.GetDhMapModeSpyMastersMapModeTooltipDelayed]"
+
+ dh_map_mode_guarantees_map_mode: "Guarantees"
+ MAPMODE_DH_MAP_MODE_GUARANTEES_MAP_MODE: "§Y$dh_map_mode_guarantees_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_GUARANTEES_MAP_MODE_NAME: "$dh_map_mode_guarantees_map_mode$"
+ MAPMODE_DH_MAP_MODE_GUARANTEES_MAP_MODE_DESCRIPTION: "Shows the countries the selected target has guaranteed and is guaranteed by. \n$dh_map_mode_guarantees_map_mode_tooltip_delayed$"
+ dh_map_mode_guarantees_map_mode_tooltip: "[From.Controller.GetDhMapModeGuaranteesMapModeTooltip]"
+ dh_map_mode_guarantees_map_mode_tooltip_delayed: "$DH_MAP_MODE_COUNTRY_MAP_MODE_WINDOW_BUTTON_TT_DELAYED$"
+
+ dh_map_mode_subjects_map_mode: "Subjects"
+ MAPMODE_DH_MAP_MODE_SUBJECTS_MAP_MODE: "§Y$dh_map_mode_subjects_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_SUBJECTS_MAP_MODE_NAME: "$dh_map_mode_subjects_map_mode$"
+ MAPMODE_DH_MAP_MODE_SUBJECTS_MAP_MODE_DESCRIPTION: "Shows the subjects and/or overlord of the selected target. \n$dh_map_mode_subjects_map_mode_tooltip_delayed$"
+ dh_map_mode_subjects_map_mode_tooltip: "[From.Controller.GetDhMapModeSubjectsMapModeTooltip]"
+ dh_map_mode_subjects_map_mode_tooltip_delayed: "$DH_MAP_MODE_COUNTRY_MAP_MODE_WINDOW_BUTTON_TT_DELAYED$"
+
+ dh_map_mode_pure_terrain_map_mode: "Satellite Terrain"
+ MAPMODE_DH_MAP_MODE_PURE_TERRAIN_MAP_MODE: "§Y$dh_map_mode_pure_terrain_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_PURE_TERRAIN_MAP_MODE_NAME: "$dh_map_mode_pure_terrain_map_mode$"
+ MAPMODE_DH_MAP_MODE_PURE_TERRAIN_MAP_MODE_DESCRIPTION: "Shows the map purely without any country or state overlays, like a satellite photo."
+ dh_map_mode_pure_terrain_map_mode_tooltip: "§Y[From.GetName]§! ([From.Controller.GetNameWithFlag])"
+ dh_map_mode_pure_terrain_map_mode_tooltip_delayed: ""
+
+ dh_map_mode_market_access_map_mode: "Market Access"
+ MAPMODE_DH_MAP_MODE_MARKET_ACCESS_MAP_MODE: "§Y$dh_map_mode_market_access_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_MARKET_ACCESS_MAP_MODE_NAME: "$dh_map_mode_market_access_map_mode$"
+ MAPMODE_DH_MAP_MODE_MARKET_ACCESS_MAP_MODE_DESCRIPTION: "Shows which countries the selected target has International Market access to."
+ dh_map_mode_market_access_map_mode_tooltip: "[From.Controller.GetDhMapModeMarketAccessMapModeTooltip]"
+ dh_map_mode_market_access_map_mode_tooltip_delayed: "[This.GetDhMapModeMarketAccessMapModeTooltipDelayed]"
+
+ # Scripted Localisation:
+ dh_map_mode_show_mapicons_button_tt_disable: "§GClick§! to disable the map icons for all custom map modes that use mapicons."
+ dh_map_mode_show_mapicons_button_tt_enable: "§GClick§! to enable the map icons for all custom map modes that use mapicons."
+
+ dh_map_mode_core_map_mode_tt_core: "The state of §Y[From.GetName]§! is a §Ccore state§! of us."
+ dh_map_mode_core_map_mode_tt_claimed: "The state of §Y[From.GetName]§! is §Cclaimed§! by us."
+ dh_map_mode_core_map_mode_tt_owned: "The state of §Y[From.GetName]§! is a §Cnon-core state§! of us."
+ dh_map_mode_core_map_mode_tt_occupied: "The state of §Y[From.GetName]§! is §Coccupied§! by us."
+ dh_map_mode_core_map_mode_tt_owner_green_controller_green: "Owner: §G[From.Owner.GetNameWithFlag]§! \nController: §G[From.Controller.GetNameWithFlag]§!"
+ dh_map_mode_core_map_mode_tt_owner_green_controller_red: "Owner: §G[From.Owner.GetNameWithFlag]§! \nController: §R[From.Controller.GetNameWithFlag]§!"
+ dh_map_mode_core_map_mode_tt_owner_red_controller_green: "Owner: §R[From.Owner.GetNameWithFlag]§! \nController: §G[From.Controller.GetNameWithFlag]§!"
+ dh_map_mode_core_map_mode_tt_owner_red_controller_red: "Owner: §R[From.Owner.GetNameWithFlag]§! \nController: §R[From.Controller.GetNameWithFlag]§!"
+
+ dh_map_mode_stability_map_mode_tt: "It changes by [?temp|2%=+] per week."
+ dh_map_mode_war_support_map_mode_tt: "$dh_map_mode_stability_map_mode_tt$"
+
+ dh_map_mode_caused_world_tension_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! has caused [?threat_temp|2%%-] world tension."
+ dh_map_mode_caused_world_tension_map_mode_tt_none: "§Y[From.Controller.GetNameWithFlag]§! has not caused any world tension."
+
+ dh_map_mode_war_goals_map_mode_tt_us: "We are §Y[From.Controller.GetNameWithFlag]§!."
+ dh_map_mode_war_goals_map_mode_tt_enemy: "§Y[From.Controller.GetNameWithFlag]§! has a war goal against us."
+ dh_map_mode_war_goals_map_mode_tt_justifying: "§Y[From.Controller.GetNameWithFlag]§! is currently justifying a war goal against us."
+
+ dh_map_mode_anti_air_map_mode_tt: "§Y[From.GetName]§! currently has a §Y$anti_air_building$§! level of §Y[?From.building_level@anti_air_building]§!."
+ dh_map_mode_anti_air_map_mode_tt_our_state: "§Y[From.GetName]§! is under §Gour§! control."
+ dh_map_mode_anti_air_map_mode_tt_allied_state: "§Y[From.GetName]§! is under §Callied§! control."
+ dh_map_mode_anti_air_map_mode_tt_enemy_state: "§Y[From.GetName]§! is under §Renemy§! control."
+
+ dh_map_mode_air_base_map_mode_tt: "§Y[From.GetName]§! currently has a §Y$air_base$§! level of §Y[?From.building_level@air_base]§!."
+ dh_map_mode_air_base_map_mode_tt_our_state: "$dh_map_mode_anti_air_map_mode_tt_our_state$"
+ dh_map_mode_air_base_map_mode_tt_allied_state: "$dh_map_mode_anti_air_map_mode_tt_allied_state$"
+ dh_map_mode_air_base_map_mode_tt_enemy_state: "$dh_map_mode_anti_air_map_mode_tt_enemy_state$"
+
+ dh_map_mode_intervention_map_mode_tt_us: "$dh_map_mode_war_goals_map_mode_tt_us$"
+ dh_map_mode_intervention_map_mode_tt_both_received_expeditionaries: "$dh_map_mode_intervention_map_mode_tt_they_received_expeditionaries$ \n$dh_map_mode_intervention_map_mode_tt_we_received_expeditionaries$"
+ dh_map_mode_intervention_map_mode_tt_they_received_expeditionaries: "§Y[From.Controller.GetNameWithFlag]§! has received §YExpeditionary Forces§! from us."
+ dh_map_mode_intervention_map_mode_tt_we_received_expeditionaries: "We have received §YExpeditionary Forces§! from §Y[From.Controller.GetNameWithFlag]§!."
+ dh_map_mode_intervention_map_mode_tt_they_received_volunteers: "§Y[From.Controller.GetNameWithFlag]§! has received §YVolunteers§! from us."
+ dh_map_mode_intervention_map_mode_tt_we_received_volunteers: "We have received §YVolunteers§! from §Y[From.Controller.GetNameWithFlag]§!."
+
+ dh_map_mode_majors_map_mode_tt_major: "§Y[From.Controller.GetNameWithFlag]§! is a §Cmajor§!."
+ dh_map_mode_majors_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! is a minor."
+
+ dh_map_mode_world_war_map_mode_tt_war: "§Y[From.Controller.GetNameWithFlag]§! is at §Rwar§!."
+ dh_map_mode_world_war_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! is at §Gpeace§!."
+
+ dh_map_mode_spymasters_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! is the §CSpy Master§! of their faction."
+ dh_map_mode_spymasters_map_mode_tt_faction: "§Y[From.Controller.GetNameWithFlag]§! is a member of the §Y[From.Controller.GetFactionName]§!."
+ dh_map_mode_spymasters_map_mode_tt_no_faction: "§Y[From.Controller.GetNameWithFlag]§! is not in any faction."
+
+ dh_map_mode_guarantees_map_mode_tt_target: "We are currently seeing the $MAPMODE_DH_MAP_MODE_GUARANTEES_MAP_MODE$ out of the perspective of §C[From.Controller.GetNameWithFlag]§!. [This.GetDhMapModeGuaranteesMapModeTooltipNumGivenGuarantees][This.GetDhMapModeGuaranteesMapModeTooltipNumReceivedGuarantees]"
+ dh_map_mode_guarantees_map_mode_tt_has_guaranteed: "The independence of §Y[From.Controller.GetNameWithFlag]§! is guaranteed by §C[?temp_target.GetNameWithFlag]§!."
+ dh_map_mode_guarantees_map_mode_tt_is_guaranteed: "§Y[From.Controller.GetNameWithFlag]§! is guaranteeing the independence of §C[?temp_target.GetNameWithFlag]§!."
+ dh_map_mode_guarantees_map_mode_tt_num_of_given_guarantees: "$DOTTET_LINE_SEPERATOR$§C[From.Controller.GetNameWithFlag]§! currently guarantees the independence of §Y[?given_guarantees_temp|0]§! nations."
+ dh_map_mode_guarantees_map_mode_tt_num_of_received_guarantees: "$DOTTET_LINE_SEPERATOR$The independence of §C[From.Controller.GetNameWithFlag]§! is currently guaranteed by §Y[?received_guarantees_temp|0]§! nations."
+
+ dh_map_mode_subjects_map_mode_tt_target: "We are currently seeing the $MAPMODE_DH_MAP_MODE_SUBJECTS_MAP_MODE$ out of the perspective of §C[From.Controller.GetNameWithFlag]§!. [This.GetDhMapModeSubjectsMapModeTooltipNumSubjects]"
+ dh_map_mode_subjects_map_mode_tt_is_subject: "§Y[From.Controller.GetNameWithFlag]§! is a subject of §C[?temp_target.GetNameWithFlag]§!."
+ dh_map_mode_subjects_map_mode_tt_is_overlord: "§Y[From.Controller.GetNameWithFlag]§! is the overlord of §C[?temp_target.GetNameWithFlag]§!."
+ dh_map_mode_subjects_map_mode_tt_is_other_subject_of_overlord: "§Y[From.Controller.GetNameWithFlag]§! is a subject of §C[?temp_target.GetNameWithFlag]'s§! overlord, §7[?temp_target_overlord.GetNameWithFlag]§!."
+ dh_map_mode_subjects_map_mode_tt_num_of_subjects: "$DOTTET_LINE_SEPERATOR$§C[From.Controller.GetNameWithFlag]§! has §Y[?num_subjects_temp|0]§! subjects."
+
+ dh_map_mode_market_access_map_mode_tt_target: "We are currently seeing the $MAPMODE_DH_MAP_MODE_MARKET_ACCESS_MAP_MODE$ out of the perspective of §C[From.Controller.GetNameWithFlag]§!."
+ dh_map_mode_market_access_map_mode_tt_access: "§C[?temp_target.GetNameWithFlag]§! has §Gaccess§! to the [From.Controller.GetFlag] §Y[From.Controller.GetAdjective]§! market."
+ dh_map_mode_market_access_map_mode_tt_no_access: "§C[?temp_target.GetNameWithFlag]§! has §Rno access§! to the [From.Controller.GetFlag] §Y[From.Controller.GetAdjective]§! market."
+ dh_map_mode_market_access_map_mode_tt_no_dlc: "§RThe §YInternational Market§! mechanic requires the §YArms Against Tyranny DLC§!.§W"
+
+ # GUIs:
+ DH_MAP_MODE_NO_MAPICONS_HEADER: "Map Icons"
+ DH_MAP_MODE_NO_MAPICONS_BUTTON_TEXT: "Show Map Icons"
+ DH_MAP_MODE_NO_MAPICONS_BUTTON_TT: "[This.GetDhMapModeShowMapIconsButtonTooltip]"
+
+ DH_MAP_MODE_COUNTRY_MAP_MODE_WINDOW_HEADER: "Map Mode Target"
+ DH_MAP_MODE_COUNTRY_MAP_MODE_WINDOW_BUTTON_TEXT: "[?temp_target.GetFlag] §Y[?temp_target.GetName]§!"
+ DH_MAP_MODE_COUNTRY_MAP_MODE_WINDOW_BUTTON_TT: "Currently selected target: §Y[?temp_target.GetNameWithFlag]§! \n--------------\n§GClick§! to open the list of countries to select a target. \n§GRight-click§! to reset the target of the current map mode to your country, §Y[This.GetNameWithFlag]§!."
+ DH_MAP_MODE_COUNTRY_MAP_MODE_WINDOW_BUTTON_TT_DELAYED: "§LYou can click on the £dh_map_mode_capital_vp_map_icon_texticon£ over the capital of a country to select it as the target for the map mode.§!"
+ DH_MAP_MODE_COUNTRY_MAP_MODE_LIST_WINDOW_HEADER: "Pick Map Mode Target"
+
+ DH_MAP_MODE_COUNTRY_MAP_MODE_MAPICON_TT: "§GClick§! to select §Y[This.GetNameWithFlag]§! as the target for the current map mode."
+
+ ############################
+ ##### New DH Map Modes #####
+ ############################
+ # Map Modes:
+ dh_map_mode_war_room_intel_map_mode: "War Room Intel"
+ MAPMODE_DH_MAP_MODE_WAR_ROOM_INTEL_MAP_MODE: "§Y$dh_map_mode_war_room_intel_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_DH_MAP_MODE_WAR_ROOM_INTEL_MAP_MODE_NAME: "$dh_map_mode_war_room_intel_map_mode$"
+ MAPMODE_DH_MAP_MODE_WAR_ROOM_INTEL_MAP_MODE_DESCRIPTION: "Shows which countries we have any §YWar Room Intel§! on."
+ dh_map_mode_war_room_intel_map_mode_tooltip: "[From.Controller.GetDhMapModeWarRoomIntelMapModeTooltip]"
+ dh_map_mode_war_room_intel_map_mode_tooltip_delayed: "[From.Controller.GetDhMapModeWarRoomIntelMapModeTooltipDelayed]"
+
+ # Scripted Localisation:
+ dh_map_mode_war_room_intel_map_mode_tt_1_operations: "We have intel of §Y1§! War Room Operation that §Y[From.Controller.GetNameWithFlag]§! is planning."
+ dh_map_mode_war_room_intel_map_mode_tt_2_operations: "We have intel of §Y2§! War Room Operations that §Y[From.Controller.GetNameWithFlag]§! is planning."
+ dh_map_mode_war_room_intel_map_mode_tt_3_operations: "We have intel of at least §Y3§! War Room Operations that §Y[From.Controller.GetNameWithFlag]§! is planning."
+ dh_map_mode_war_room_intel_map_mode_tt_delayed_dlc: "§LTo check what intel you have exactly, view the §YWar Room Intel Tab§! in the §YIntelligence Agency Tab§!.§W"
+ dh_map_mode_war_room_intel_map_mode_tt_delayed: "§LTo check what intel you have exactly, view the §YWar Room Intel Tab§! in the §YDiplomacy Tab§! (country list).§W"

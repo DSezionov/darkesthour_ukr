@@ -1,0 +1,73 @@
+﻿l_english:
+
+######################################################################
+# Events
+######################################################################
+
+ ### Operation Groza
+ #If ROM not in Axis
+ ROM_Operation_Groza_Defence.1.t: "Berlin Calling!"
+ ROM_Operation_Groza_Defence.1.d: "When German ambassador Manfred von Killinger requested an urgent meeting with the Prime Minister, many assumed it was another attempt by Hitler to woo them for Romanian oil. However, what Killinger said stunned the government to its core. The Soviets appeared to be planning an offensive into Romania as a way to attack Germany. This was not as surprising as some might have thought, however, everyone was concerned that they would resort to all-out war.\n\nA hurried meeting with the King, who was still recovering from the night before's party, was essentially an afterthought. Carol, head pounding, heard little and cared little. He shooed his government away, dismissively applauding whatever they were up in arms about. When he awoke the next day, his rage at their actions had given way to terror and acceptance of their reasons. The resulting \"Treaty of Peace and Friendship between Germany and Romania\" was scribbled on a serviette and typed up in about 30 minutes. Two hours later, it was signed. When Romanians went to bed that night, every man and woman in the country cast a fearful eye to the East, terrified of the impending thunder."
+ ROM_Operation_Groza_Defence.1.A: "Doamne, ai milă de noi!"
+ ROM_Operation_Groza_Defence.1.B: "This is German propaganda!"
+
+ #If ROM in Axis
+ ROM_Operation_Groza_Defence.2.t: "Berlin Calling!"
+ ROM_Operation_Groza_Defence.2.d: "When German ambassador Manfred von Killnger requested an urgent meeting with the Prime Minister, many assumed it was another attempt by Hitler to woo them for Romanian oil. However, what Killnger said stunned the government to its core. The Soviets appeared to be planning an offensive into Romania as a way to attack Germany. This was not as surprising as some might have thought, however, everyone was concerned that they would resort to all-out war.\n\nA hurried meeting with the King, who was still recovering from the night before's party, was essentially an afterthought. Carol, head pounding, heard little and cared little. He shooed his government away, dismissively applauding whatever they were up in arms about. When Romanians went to bed that night, every man and woman in the country cast a fearful eye to the East, terrified of the impending thunder."
+ ROM_Operation_Groza_Defence.2.A: "Doamne, ai milă de noi!"
+ ROM_Operation_Groza_Defence.2.B: "This is German propaganda!"
+
+### King Michael's Coup
+ ROM_King_Michaels_Coup.1.t: "The State of the War"
+ ROM_King_Michaels_Coup.1.d: "The situation in Romania is critical. The Red Army now presses into our territory from the East, and the war has strained our army, our cities, and the patience of the Romanian people. King Mihai has grown increasingly concerned about the course of the war, the policies of Ion Antonescu and the continued alliance with Germany, which has brought us neither victory nor security.\n\nReports from generals and political advisors suggest two paths forward: one of survival and pragmatic cooperation with the advancing Soviets, and one of continued defiance against impossible odds. Choosing to switch sides may preserve Romania from total destruction, but it will likely place the country under effective Soviet subjugation and limit our independence for the foreseeable future."
+ ROM_King_Michaels_Coup.1.A: "Depose Antonescu and cooperate with the Red Army."
+ ROM_King_Michaels_Coup.1.B: "Stand firm and continue the fight, whatever the cost."
+ 
+ ROM_King_Michaels_Coup.2.t: "King Michael's Coup"
+ ROM_King_Michaels_Coup.2.d: "The situation in Romania has dramatically shifted. With our forces advancing into the nation, King Mihai I has successfully executed a coup, overthrowing the pro-German Antonescu regime. Romanian forces have immediately turned against their former Axis allies and are now cooperating with the Red Army.\n\nGeneral Constantin Sanatescu has been appointed to lead a temporary military government until the end of the war. While some voices within our ranks advocated for an immediate full-scale occupation and the installation of a socialist government, the current circumstances, including the need to utilize our newfound breakthrough and coordinate with Romanian forces, make such a move impractical at this stage. The path for socialist transformation remains open and will be pursued once conditions allow.\n\nFor now, Romania is firmly within our sphere of influence. Its forces are contributing to operations against the Axis, opening vital corridors into the Balkans, and weakening German control in Eastern Europe. This development represents both a strategic and political victory for the Union, demonstrating the growing momentum of our revolutionary influence across the continent."
+ ROM_King_Michaels_Coup.2.A: "We'll implement socialism when the time is right."
+
+ ROM_King_Michaels_Coup.3.t: "King Michael's Coup; Romania Switches Sides!"
+ ROM_King_Michaels_Coup.3.d: "[FROM.GetNewsIcon]Today, King Mihai I of Romania orchestrated a bold coup, deposing the pro-German government of Marshal Ion Antonescu. The action abruptly ended Romania's alliance with Nazi Germany and forced the country to switch sides.\n\nThe coup was supported by key military leaders, political figures, and civilians who were weary of the war's devastation and the invading Red Army. German forces in Romania were caught off guard; some units surrendered quickly while others resisted, only to be defeated by Romanian troops acting under the king's orders.\n\nKing Mihai appointed General Constantin Sanatescu to head a temporary military government, which would manage the country's affairs until the end of the war. While Romania formally joined the Allied war effort, the rapid advance of the Red Army into the country leaves Romania effectively under Soviet dominion, strictly limiting Romania's independence in its new \"alliance\". Romanian forces then turned their guns around; now being ordered to fight against their former Axis allies, providing a springboard past the Carpathian passes.\n\nThe coup sent shockwaves across Europe, showing the increasing lack of commitment from smaller Axis nations to continue the war."
+ ROM_King_Michaels_Coup.3.A: "Our children are spared for now."
+ ROM_King_Michaels_Coup.3.B: "The \"Axis\" turns no longer."
+ ROM_King_Michaels_Coup.3.C: "Disloyal fools!"
+ ROM_King_Michaels_Coup.3.D: "Can the King prevent a total communist takeover?"
+
+######################################################################
+#  Decisions
+######################################################################
+
+ # Threat from the East
+ ROM_Threat_from_the_East_category: "Threat from the East"
+ ROM_Threat_from_the_East_category_desc: "Finally, the Soviets have arrived. Hungry for our mineral wealth and eager to settle their accounts with Germany, they appear determined to run over anyone who stands in their way. That, unfortunately, means they intend to strike us. If they succeed, they will pillage our oil fields, steal our women, and permanently destroy our nation.\n\nWe must immediately begin fortifying our defences and preparing for the long war ahead of us. There can be no cutting corners; it's all or nothing. Failure would mean annihilation and slavery for all of us."
+ ROM_Invite_Wehrmacht_Pioniere: "Invite Wehrmacht Pioniere"
+ ROM_Invite_Wehrmacht_Pioniere_desc: "The Germans and Hungarians are digging in, and it is only natural that we follow suit. It would enable our smaller force to fight much more effectively. The average Romanian soldier is already nearly unrivalled, but they will be even better behind a foot of steel reinforced concrete. The Germans have quickly become experts in this field, so it's only natural that we invite some of their men to supervise our own construction project. They will not only make it more efficient, but will also help them become stronger than ever."
+ ROM_Prepare_the_Suceava_Line: "Prepare the Suceava Line"
+ ROM_Prepare_the_Suceava_Line_desc: "Our defences will be centred on the Carpathians for the most part, but there will be a forward defensive line. This section, centred on Suceava, is located on the Prut's southern bank. It is critical for maintaining the Iasi-Tulcea Line. If this line fails, the Soviets risk cutting south and west, down the Prut's banks, and rolling up the entire line. That is why every man on this line is motivated to give his all. Even one man who does not devote his full attention to the fight ahead risks unravelling all of our preparations."
+ ROM_Prepare_the_Iasi_Tulcea_Line: "Prepare the Iasi-Tulcea Line"
+ ROM_Prepare_the_Iasi_Tulcea_Line_desc: "Along the Prut, a massive trench line has sprouted up, flanked by mines and razor-wire and backed up by every artillery gun we can find. The forward defence line is the first line of defence against the Soviet advance. Some object to our isolating Bessarabia, but the more level-headed among us recognise that the region is simply too vulnerable. We will hold the Soviets here, destroy them with the utmost violence, and then liberate our brethren as the Red Army falls back broken and demoralised."
+ ROM_Prepare_the_Brasov_Line: "Prepare the Brasov Line"
+ 
+ # Soviets at Our Doorstep
+ ROM_Soviets_at_Our_Doorstep_category: "Soviets at Our Doorstep"
+ RROM_Soviets_at_Our_Doorstep_category_desc: "Chaos ensues as word reaches Bucharest. Germany has informed us that the Soviet savages have grown tired of defiling their own lands and are now seeking to descend on fair Romania for her wealth and plunder. If even a single barbarian defiles Romanian land, all of our efforts will be for naught. We must strengthen our eastern defences. The fight for our survival has begun. It may have arrived sooner than we had hoped, but sometimes you do not get to choose the day when your fate is sealed; it is simply thrust upon you."
+ ROM_Prepare_the_Suceava_Line_2: "Prepare the Suceava Line"
+ ROM_Prepare_the_Suceava_Line_2_desc: "Our defences will be centred on the Carpathians for the most part, but there will be a forward defensive line. This section, centred on Suceava, is located on the Prut's southern bank. It is critical for maintaining the Iasi-Tulcea Line. If this line fails, the Soviets risk cutting south and west, down the Prut's banks, and rolling up the entire line. That is why every man on this line is motivated to give his all. Even one man who does not devote his full attention to the fight ahead risks unravelling all of our preparations."
+ ROM_Prepare_the_Iasi_Tulcea_Line_2: "Prepare the Iasi-Tulcea Line"
+ ROM_Prepare_the_Iasi_Tulcea_Line_2_desc: "Along the Prut, a massive trench line has sprouted up, flanked by mines and razor-wire and backed up by every artillery gun we can find. The forward defence line is the first line of defence against the Soviet advance. Some object to our isolating Bessarabia, but the more level-headed among us recognise that the region is simply too vulnerable. We will hold the Soviets here, destroy them with the utmost violence, and then liberate our brethren as the Red Army falls back broken and demoralised."
+ ROM_Prepare_the_Mihai_Line: "Prepare the Mihai Line"
+ ROM_Prepare_the_Mihai_Line_desc: "Because we own Northern Transylvania, we have a unique opportunity to build an additional line of defences along the region's mountains and hills, which already provide a lot of natural defences. Should the Soviets breach our first lines of defence, we will have a solid second line of defence that will guarantee to slow, if not completely halt, the Soviet advance."
+ ROM_Rally_Around_Bucharest: "Rally Around Bucharest"
+ ROM_Rally_Around_Bucharest_desc: "Should the worst-case scenario occur and the Red Army advances on Bucharest, we will require one last line of defence, which will be our last hope of survival if everything else fails. Although this is an extremely unlikely scenario, it is critical to consider. If we do not properly prepare for this and our worst nightmare becomes a reality, we will be unprepared and destroyed in no time."
+ turn_back_the_bolsheviks: "Turn Back the Bolsheviks!"
+
+######################################################################
+# Ideas
+######################################################################
+
+ ROM_Agrarian_Society: "Agrarian Society"
+ ROM_Agrarian_Society_desc: "The 1930 census shows us that a stunning 78.9% of our population live in rural villages, one of the highest rates in Europe, meaning that a massive portion of the population still live by working the fields and living in self-contained village economies in the same way their ancestors have for centuries before them... This in turn is harming the growth of our industrial output, our administrative efficiency while also making it hard to set up proper education in all 15,000 of our villages."
+
+ ROM_Unequal_Education: "Regional Education Standards"
+ ROM_Unequal_Education_desc: "Due to the recent reunion of all Romanians under one state and due to previous historical separation the Romanian education system is riddled with administrative and didactic inconsistencies across the territory which has made us lag behind in our literacy growth and intellectual output. Recent statistics show that, on average, only 57% of the population above the age of 7 can read with the lowest average being in Basarabia and the highest in Transilvania."

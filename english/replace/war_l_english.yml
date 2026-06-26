@@ -1,0 +1,74 @@
+﻿l_english:
+ #DH - Unique War Names
+ #(may also include overridden vanilla names, kept as one list for simplicity)
+ WAR_NAME_SPA_SPN: "Spanish Civil War"
+ WAR_NAME_SPN_SPA: "Spanish Civil War"
+
+ WAR_NAME_CHI_PRC: "Chinese Civil War"
+ WAR_NAME_PRC_CHI: "Chinese Civil War"
+
+ WAR_NAME_JAP_CHI: "Second Sino-Japanese War"
+ WAR_NAME_CHI_JAP: "Second Sino-Japanese War"
+
+ WAR_NAME_GER_SOV: "Great Patriotic War"
+ WAR_NAME_SOV_GER: "Great Patriotic War"
+
+ WAR_NAME_GER_FIN: "Lapland War"
+ WAR_NAME_FIN_GER: "Lapland War"
+
+ WAR_NAME_GER_ENG: "Second World War"
+ WAR_NAME_GER_USA: "Second World War"
+ WAR_NAME_GER_FRA: "Second World War"
+
+ WAR_NAME_JAP_USA: "Pacific War"
+ WAR_NAME_USA_JAP: "Pacific War"
+
+ WAR_NAME_PAR_BOL: "Chaco War"
+ WAR_NAME_BOL_PAR: "Chaco War"
+
+ WAR_NAME_TNG_XIJ: "Kumul Rebellion"
+
+ WAR_NAME_ETS_XIJ: "Khotan Uprising"
+
+ WAR_NAME_SOV_FIN: "Winter War"
+ WAR_NAME_FIN_SOV: "Continuation War"
+
+ WAR_NAME_ITA_ETH: "Second Italo-Ethiopian War"
+
+ WAR_NAME_DRV_VIN: "Vietnam War"
+ WAR_NAME_VIN_DRV: "Vietnam War" 
+
+ WAR_NAME_DRV_FRA: "First Indochina War"
+ WAR_NAME_FRA_DRV: "First Indochina War" 
+
+ WAR_NAME_DEI_INS: "Indonesian War of Independence"
+ WAR_NAME_INS_DEI: "Indonesian War of Independence" 
+
+ WAR_NAME_KOR_NRK: "Korean War"
+ WAR_NAME_NRK_KOR: "Korean War"
+
+ WAR_NAME_ITA_RSI: "Italian Civil War"
+ WAR_NAME_RSI_ITA: "Italian Civil War"
+
+ WAR_NAME_CHI_TIB: "Sino-Tibetan War"
+ WAR_NAME_TIB_CHI: "Sino-Tibetan War"
+
+ WAR_NAME_SOV_XIJ: "Soviet Invasion of Xinjiang"
+
+ WAR_NAME_PAL_ENG: "Arab Revolt"
+
+ WAR_NAME_ENG_IRQ: "Anglo-Iraqi War"
+ WAR_NAME_IRQ_ENG: "Anglo-Iraqi War"
+
+ WAR_NAME_HUN_CPU: "Hungarian Invasion of Carpatho-Ukraine"
+
+ WAR_NAME_SCP_XIK: "War to Stabilize Sichuan"
+ WAR_NAME_XIK_SCP: "War to Stabilize Sichuan"
+
+ WAR_NAME_CHI_FUJ: "Fujian Rebellion"
+
+ WAR_NAME_PRU_COL: "Leticia War"
+
+ # World War 3
+ WAR_NAME_USA_SOV: "The Last Crusade"
+ WAR_NAME_SOV_USA: "The Red Dawn"

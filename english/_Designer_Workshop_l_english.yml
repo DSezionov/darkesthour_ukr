@@ -1,0 +1,112 @@
+﻿l_english:
+ # GUIs:
+ ## General:
+ DH_DESIGNER_WORKSHOP_WINDOW_OPEN_BUTTON_TEXT: "DESIGNER'S WORKSHOP"
+ DH_DESIGNER_WORKSHOP_WINDOW_OPEN_BUTTON_TT: "§GClick§! to open the §YDesigner's Workshop§!."
+ DH_OPEN_DESIGNER_WORKSHOP_WINDOW_NAVY_BLUEPRINTS_TEXT: "£designers_workshop_navy_texticon£  Available Blueprints: §Y[This.GetDesignerWorkshopNavyNumAvailableBlueprints]§!"
+ DH_OPEN_DESIGNER_WORKSHOP_WINDOW_AIR_BLUEPRINTS_TEXT: "£designers_workshop_air_texticon£  Available Blueprints: §Y[This.GetDesignerWorkshopAirNumAvailableBlueprints]§!"
+ DH_OPEN_DESIGNER_WORKSHOP_WINDOW_TANK_BLUEPRINTS_TEXT: "£designers_workshop_tank_texticon£  Available Blueprints: §Y[This.GetDesignerWorkshopTankNumAvailableBlueprints]§!"
+
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_TAB_BUTTON_TEXT: "NAVY"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_TAB_BUTTON_TT: "§YNavy§! \n§GClick§! to view the £designers_workshop_navy_texticon£ §MNavy Workshop§!."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_TAB_BUTTON_SELECTED_TT: "§YNavy§! \nThis is the currently selected tab."
+ DH_DESIGNER_WORKSHOP_WINDOW_AIR_TAB_BUTTON_TEXT: "AIR"
+ DH_DESIGNER_WORKSHOP_WINDOW_AIR_TAB_BUTTON_TT: "§YAir§! \n§GClick§! to view the £designers_workshop_air_texticon£ §rAir Workshop§!."
+ DH_DESIGNER_WORKSHOP_WINDOW_AIR_TAB_BUTTON_SELECTED_TT: "§YAir§! \nThis is the currently selected tab."
+ DH_DESIGNER_WORKSHOP_WINDOW_TANK_TAB_BUTTON_TEXT: "TANK"
+ DH_DESIGNER_WORKSHOP_WINDOW_TANK_TAB_BUTTON_TT: "§YTank§! \n§GClick§! to view the £designers_workshop_tank_texticon£ §FTank Workshop§!."
+ DH_DESIGNER_WORKSHOP_WINDOW_TANK_TAB_BUTTON_SELECTED_TT: "§YTank§! \nThis is the currently selected tab."
+
+ DH_DESIGNER_WORKSHOP_WINDOW_HEADER: "Designer's Workshop"
+ DH_DESIGNER_WORKSHOP_WINDOW_INFORMATION_TITLE: "What is Workshop?"
+ DH_DESIGNER_WORKSHOP_WINDOW_INFORMATION_DESC: "Placeholder Text."
+
+ ## Navy:
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_HEADER: "NAVY WORKSHOP"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_SUBHEADER: "Welcome to the £designers_workshop_navy_texticon£ §MNavy§! Workshop"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_STATUS_TITLE: "Status"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_AVAILABLE_BLUEPRINTS_TEXT: "Available £designers_workshop_navy_texticon£ Blueprints"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_AVAILABLE_BLUEPRINTS_VALUE: "[This.GetDesignerWorkshopNavyNumAvailableBlueprints]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_PURCHASED_BLUEPRINTS_TEXT: "Purchased £designers_workshop_navy_texticon£ Blueprints"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_PURCHASED_BLUEPRINTS_VALUE: "[?dh_designer_workshop_navy_designs_purchased_array^num|0]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_DESIGNERS_TITLE: "Designers"
+
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_HEADER_SELECTED: "[This.GetDesignerWorkshopNavySelectedBlueprintName]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_SUBHEADER_SELECTED: "[This.GetDesignerWorkshopNavySelectedBlueprintType]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_SELECTED_PURCHASE_BUTTON_TEXT: "Purchase Design"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_SELECTED_PURCHASE_BUTTON_TT: "§YPurchase Design§! \nCost: §Y[?design_cost|0]§! £navy_experience£ \n\n§YEffects:§! \n[!purchase_button_click] \n§YRequirements:§! \n[!purchase_button_click_enabled]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_SELECTED_PURCHASED_ICON_TEXT: "Purchased"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_MODULES_TITLE_SELECTED: "Modules"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_INFORMATION_TITLE_SELECTED: "History"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_INFORMATION_DESC_SELECTED: "[This.GetDesignerWorkshopNavySelectedBlueprintDesc]"
+
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_HEADER: "[This.GetDesignerWorkshopNavySelectedCategoryName]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_NO_BLUEPRINTS_IN_CATEGORY_TEXT: "Currently there are no blueprints accessible in this category."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_SUBMARINE_BUTTON_TT: "§GClick§! to switch to the §YSubmarine Blueprints§!."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_SUBMARINE_BUTTON_SELECTED_TT: "The §YSubmarine Blueprints§! are currently the selected category."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_SUBMARINE_NUM_OF_BLUEPRINTS_VALUE: "[This.GetDesignerWorkshopNavyCategorySubmarineNumBlueprints]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CORVETTE_BUTTON_TT: "§GClick§! to switch to the §YCorvette Blueprints§!."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CORVETTE_BUTTON_SELECTED_TT: "The §YCorvette Blueprints§! are currently the selected category."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CORVETTE_NUM_OF_BLUEPRINTS_VALUE: "[This.GetDesignerWorkshopNavyCategoryCorvetteNumBlueprints]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_DESTROYER_BUTTON_TT: "§GClick§! to switch to the §YDestroyer Blueprints§!."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_DESTROYER_BUTTON_SELECTED_TT: "The §YDestroyer Blueprints§! are currently the selected category."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_DESTROYER_NUM_OF_BLUEPRINTS_VALUE: "[This.GetDesignerWorkshopNavyCategoryDestroyerNumBlueprints]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CRUISER_BUTTON_TT: "§GClick§! to switch to the §YCruiser Blueprints§!."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CRUISER_BUTTON_SELECTED_TT: "The §YCruiser Blueprints§! are currently the selected category."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CRUISER_NUM_OF_BLUEPRINTS_VALUE: "[This.GetDesignerWorkshopNavyCategoryCruiserNumBlueprints]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_BATTLESHIP_BUTTON_TT: "§GClick§! to switch to the §YBattleship Blueprints§!."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_BATTLESHIP_BUTTON_SELECTED_TT: "The §YBattleship Blueprints§! are currently the selected category."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_BATTLESHIP_NUM_OF_BLUEPRINTS_VALUE: "[This.GetDesignerWorkshopNavyCategoryBattleshipNumBlueprints]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CARRIER_BUTTON_TT: "§GClick§! to switch to the §YAircraft Carrier Blueprints§!."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CARRIER_BUTTON_SELECTED_TT: "The §YAircraft Carrier Blueprints§! are currently the selected category."
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CARRIER_NUM_OF_BLUEPRINTS_VALUE: "[This.GetDesignerWorkshopNavyCategoryCarrierNumBlueprints]"
+
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_LIST_ENTRY_NAME: "[This.GetDesignerWorkshopNavyBlueprintName]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_LIST_ENTRY_TEXT: "[This.GetDesignerWorkshopNavyBlueprintHullType]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_LIST_ENTRY_BUTTON_TT: "Blueprint: §Y[This.GetDesignerWorkshopNavyBlueprintName]§! \nHull: §Y[This.GetDesignerWorkshopNavyBlueprintHullType]§! \nStatus: [This.GetDesignerWorkshopNavyBlueprintStatus][!entry_button_right_click_enabled]"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_LIST_ENTRY_BUTTON_TT_DELAYED: "§GClick§! to show or hide the details for §Y[This.GetDesignerWorkshopNavyBlueprintName]§!."
+
+ DH_DESIGNER_WORKSHOP_NAVY_CONFIRM_POPUP_WINDOW_TITLE: "Purchase Blueprint?"
+ DH_DESIGNER_WORKSHOP_NAVY_CONFIRM_POPUP_WINDOW_DESC: "Are you sure you want to purchase the following blueprint?"
+ DH_DESIGNER_WORKSHOP_NAVY_CONFIRM_POPUP_WINDOW_NAME: "[This.GetDesignerWorkshopNavyConfirmBlueprintName]§!"
+ DH_DESIGNER_WORKSHOP_NAVY_CONFIRM_POPUP_WINDOW_COST: "This will cost §Y[?design_cost|0]§! £navy_experience£."
+
+ # Scripted Localisation:
+ ## Navy:
+ string_designer_workshop_navy_blueprint_status_purchased: "§GPurchased§!"
+ string_designer_workshop_navy_blueprint_status_not_purchased: "§YNot Purchased§! \n--------------\nCost: §Y[?design_cost|0]§! £navy_experience£ \n§YRequirements:§! \n"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_SUBMARINE: "Submarine Blueprints"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CORVETTE: "Corvette Blueprints"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_DESTROYER: "Destroyer Blueprints"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CRUISER: "Cruiser Blueprints"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_BATTLESHIP: "Battleship Blueprints"
+ DH_DESIGNER_WORKSHOP_WINDOW_NAVY_CATEGORY_CARRIER: "Aircraft Carrier Blueprints"
+
+ # Scripted Triggers:
+ ## Navy:
+ DESIGNER_WORKSHOP_HAS_NAVY_DESIGN_TT: "Has access to the §Y[This.GetDesignerWorkshopNavyBlueprintNameOtherContext]§! blueprint in the §YDesigner's Workshop§!"
+ DESIGNER_WORKSHOP_HAS_NOT_NAVY_DESIGN_TT: "Does not have access to the §Y[This.GetDesignerWorkshopNavyBlueprintNameOtherContext]§! blueprint in the §YDesigner's Workshop§!"
+ DESIGNER_WORKSHOP_HAS_PURCHASED_NAVY_DESIGN_TT: "Has purchased the §Y[This.GetDesignerWorkshopNavyBlueprintNameOtherContext]§! blueprint in the §YDesigner's Workshop§!"
+ DESIGNER_WORKSHOP_HAS_NOT_PURCHASED_NAVY_DESIGN_TT: "Does not have purchased the §Y[This.GetDesignerWorkshopNavyBlueprintNameOtherContext]§! blueprint in the §YDesigner's Workshop§!"
+
+ # Scripted Effects:
+ ## Navy:
+ DESIGNER_WORKSHOP_ADD_NAVY_DESIGN_TT: "Gain access to the §Y[This.GetDesignerWorkshopNavyBlueprintNameOtherContext]§! blueprint in the §YDesigner's Workshop§!.\n"
+ DESIGNER_WORKSHOP_PURCHASE_NAVY_DESIGN_TT: "Gain the '§Y§Y[This.GetDesignerWorkshopNavyBlueprintNameOtherContext]§!§!' variant of the '§Y[This.GetDesignerWorkshopNavyBlueprintHullTypeOtherContext]§!' hull with the specified modules.\n"
+
+ # Custom Modifiers:
+ ## General:
+ designer_workshop_blueprint_cost_factor: "Blueprint Cost"
+ ## Navy:
+ designer_workshop_navy_blueprint_cost_factor: "£designers_workshop_navy_texticon£ Blueprint Cost"
+ designer_workshop_navy_blueprint_category_submarine_cost_factor: "£designers_workshop_navy_texticon£ Blueprint Cost (Submarine)"
+ designer_workshop_navy_blueprint_category_corvette_cost_factor: "£designers_workshop_navy_texticon£ Blueprint Cost (Corvette)"
+ designer_workshop_navy_blueprint_category_destroyer_cost_factor: "£designers_workshop_navy_texticon£ Blueprint Cost (Destroyer)"
+ designer_workshop_navy_blueprint_category_cruiser_cost_factor: "£designers_workshop_navy_texticon£ Blueprint Cost (Cruiser)"
+ designer_workshop_navy_blueprint_category_battleship_cost_factor: "£designers_workshop_navy_texticon£ Blueprint Cost (Battleship)"
+ designer_workshop_navy_blueprint_category_carrier_cost_factor: "£designers_workshop_navy_texticon£ Blueprint Cost (Aircraft Carrier)"
+
+ # Blueprints:
+ ## Navy:
+ DESIGNER_WORKSHOP_NAVY_BLUEPRINT_NAME_BISMARCK_CLASS: "Bismarck Class"
+ DESIGNER_WORKSHOP_NAVY_BLUEPRINT_DESC_BISMARCK_CLASS: "Bismarck Class Description"

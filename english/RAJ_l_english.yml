@@ -1,0 +1,19 @@
+﻿l_english:
+######################################################################
+#  Events
+######################################################################
+ RAJ_Viceroy.1.t: "A New Viceroy"
+ RAJ_Viceroy.1.d: "The office of Viceroy of India has a new occupant. Victor Hope, the 2nd Marquess of Linlithgow, has assumed the reins of administration over the Raj. Known for his conservative outlook and firm loyalty to the Crown, Linlithgow faces the enormous task of balancing the political aspirations of Indian leaders with the strategic needs of the Empire.\n\nHis tenure will be remembered for its cautious approach towards Indian self-governance and for navigating the turbulent waters of rising nationalist sentiment. The eyes of both India and London are upon him, and the choices he makes now will shape the future of the subcontinent."
+ RAJ_Viceroy.1.A: "Welcome!"
+
+ RAJ_Viceroy.2.t: "A New Viceroy"
+ RAJ_Viceroy.2.d: "General Archibald Wavell has taken office as Viceroy of India. A seasoned soldier and diplomat, Wavell steps into the role at a time of unprecedented global conflict and internal unrest. The pressures of the Second World War weigh heavily on the Raj, with the threat of Japanese invasion looming in the east and Indian nationalist movements gaining momentum at home."
+ RAJ_Viceroy.2.A: "Welcome!"
+
+######################################################################
+#  Ideas
+######################################################################
+RAJ_The_Indian_Empire: "The Indian Empire"
+RAJ_The_Indian_Empire_desc: "'The Indian Empire' refers to the unique political structure of colonial India under the British, owing to factors such as the vastness of the country, the title of 'Emperor of India' being given to the British monarch, and the existence of the 'Princely States', quasi-independent states within India ruled by local monarchs but subordinate to the colonial state."
+RAJ_Marginalized_Muslim_Community: "Marginalized Muslim Community"
+RAJ_Marginalized_Muslim_Community_desc: "Oppression has been central to British rule in India since the establishment of the British Raj. Many different religions and peoples live in the Raj's various lands, with the majority of them incredibly unhappy to be forced together into this single state. Notably, in the western states and the state of Bengal, there is a massive Muslim population with a forcibly quieted voice; despite their millions of members, the administration has pushed them down and suppressed them. Unable to have much say in local politics or the Raj government, they yearn for greater control over their lives and the states in which they are the majority. For the time being, their voices are restrained, but as time passes, they will become more rebellious. They are unlikely to want to fight for a state that considers them unimportant. This issue will eventually have to be addressed, but the solution must be careful not to cause major conflict with any of our state's other groups..."

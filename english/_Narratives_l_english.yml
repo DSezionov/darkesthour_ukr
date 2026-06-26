@@ -1,0 +1,58 @@
+﻿l_english:
+ # GUIs:
+ DH_OPEN_NARRATIVES_WINDOW_BUTTON_TT: "§YNarratives§! \nRead interesting stories about characters and events in their lives."
+ DH_OPEN_NARRATIVES_WINDOW_BUTTON_TT_DELAYED: "[This.GetNarrativesUnreadTextsTooltip]"
+ DH_HIDE_OPEN_NARRATIVES_WINDOW_BUTTON_TT_DELAYED: "§MComing soon in a future 1.1 Post-Launch Patch.§!"
+
+ DH_NARRATIVE_WINDOW_HEADER: "Narratives"
+ DH_NARRATIVE_ENTRY_NAME_UNKNOWN: "Unknown"
+ DH_NARRATIVE_ENTRY_TEXT_UNKNOWN: "Unlock narratives by playing the game."
+ DH_NARRATIVES_PREV_PAGE_BUTTON_TT: "Go to the previous page."
+ DH_NARRATIVES_PREV_PAGE_BUTTON_TT_DISABLED: "§RYou already reached the first page.§!"
+ DH_NARRATIVES_NEXT_PAGE_BUTTON_TT: "Go to the next page."
+ DH_NARRATIVES_NEXT_PAGE_BUTTON_TT_DISABLED: "§RYou already reached the last page.§!"
+
+ DH_NARRATIVE_ENTRY_TT: "§Y[?narrative_id.GetTokenLocalizedKey]§! \n§L[!entry_portrait_click]§!"
+ DH_NARRATIVE_ENTRY_NAME: "[?narrative_id.GetTokenLocalizedKey]"
+ DH_NARRATIVE_ENTRY_TOTAL_TEXT_COUNT_TT: "In total there are §Y[?entry_total_value]§! stories in this narrative."
+ DH_NARRATIVE_ENTRY_UNREAD_TEXT_COUNT_TT: "There are §Y[?entry_unread_value]§! stories in this narrative, which you have not read yet."
+
+ DH_NARRATIVE_TEXT_ENTRY_BUTTON_TT: "Select '§Y[?narrative_text_id.GetTokenLocalizedKey]§!' for display on the right page."
+ DH_NARRATIVE_TEXT_ENTRY_SELECTED_TT: "'§Y[?narrative_text_id.GetTokenLocalizedKey]§!' is the currently displayed story on the right page."
+ DH_NARRATIVE_TEXT_ENTRY_NAME: "[?narrative_text_id.GetTokenLocalizedKey]"
+ DH_NARRATIVE_TEXT_ENTRY_STATUS_UNREAD_TT: "§tUnread Story§!"
+ DH_NARRATIVE_TEXT_ENTRY_STATUS_READ_TT: "§lRead Story§!"
+ DH_NARRATIVE_TEXT_ENTRY_FAVOURITE_BUTTON_TT: "Not Favourited"
+ DH_NARRATIVE_TEXT_ENTRY_FAVOURITE_BUTTON_TT_DELAYED: "§GClick§! to add this text to your §YFavourites§!."
+ DH_NARRATIVE_TEXT_ENTRY_UNFAVOURITE_BUTTON_TT: "§YFavourited§!"
+ DH_NARRATIVE_TEXT_ENTRY_UNFAVOURITE_BUTTON_TT_DELAYED: "§GClick§! to remove this text from your §YFavourites§!."
+
+ DH_NARRATIVE_CURRENT_TEXT_TITLE: "[?dh_narratives_selected_text.GetTokenLocalizedKey]"
+ DH_NARRATIVE_CURRENT_TEXT_PAGE_TEXT: "[This.GetNarrativesSelectedTextCurrentPageText]"
+ DH_NARRATIVE_TEXT_PAGE_PREV_PAGE_BUTTON_TT: "Go to the previous page."
+ DH_NARRATIVE_TEXT_PAGE_PREV_PAGE_BUTTON_TT_DISABLED: "§RYou already reached the first page.§!"
+ DH_NARRATIVE_TEXT_PAGE_NEXT_PAGE_BUTTON_TT: "Go to the next page."
+ DH_NARRATIVE_TEXT_PAGE_NEXT_PAGE_BUTTON_TT_DISABLED: "§RYou already reached the last page.§!"
+
+ # Scripted Localisation:
+ string_narratives_unread_texts_tt: "§YYou have unread stories.§!"
+
+ # Scripted Effects:
+ ADD_NEW_NARRATIVE_TT: "£narrative_tooltip_texticon£Add the narrative '§Y[?narrative_id.GetTokenLocalizedKey]§!'.\n"
+ ADD_NEW_NARRATIVE_TEXT_TT: "£narrative_entry_tooltip_texticon£Add the story '§Y[?narrative_text_id.GetTokenLocalizedKey]§!' to the narrative '§Y[?narrative_id.GetTokenLocalizedKey]§!'.\n"
+
+ # Narratives:
+ ## Example:
+ narrative_dummy: "Dummy Narrative"
+ narrative_dummy_desc: "This is a Dummy Narrative. If you aren't testing something, you should not see this."
+ narrative_dummy_text_example: "Example Text Title"
+ narrative_dummy_text_example_1: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+ narrative_alois: "Alois Demke"
+ narrative_alois_desc: "§WFictional Character§!\n§g - Born: 1/1/1895\n - Place of birth: Heinrichswalde, Ostpreußen§!\n\nThere are two people in life to whom Alois owes everything. His mother, and the Führer.\n\nA gruesome logging accident robbed the family's only child of his father when Alois was barely old enough to walk, leaving his mother with the strenuous task of raising the boy alone. Naturally, Alois always was a Mama's Boy. From her he inherited a deep passion for the art of fine confections and pastries, spending much of his childhood working in his mother's small family bakery in Heinrichswalde.\n\nThis passion spared him the horrors of the Great War, where Alois served not on the fields of battle, but in a field kitchen in a quiet sector of the Romanian campaign. With his baking talents, he was then able to open a bakery of his own during the Golden Twenties. It was here where Alois was introduced to his second mentor.\n\nHitler and his National Socialist party sold him a vision of restored German glory, free from the Judeo-Bolshevik and Judeo-Capitalist phantoms that sought to tear the Vaterland asunder.\n\nWhile at first a quiet Nazi, his belief in their vision reached a fever pitch when his bakery became yet another victim of the Great Depression, leaving Alois but one place to go: The party bureaucracy. From his desk in Berlin, Alois has worked tirelessly to aid his champion in his quest for power. Now, as HIndenburg's options for Kanzler run few and the inevitable approaches, Alois can't help but daydream of the glories to come."
+ narrative_alois_text_the_faithful: "The Faithful"
+ narrative_alois_text_the_faithful_1: "Alois shivered against the cold. It was the end of January in Berlin, he should have known it was going to be freezing! He cursed his morning self for neglecting to wear something heavier as the light overcoat he now wore proved woefully inadequate. Next to him his childhood friend Francois smirked. His wife would never let him out in this weather without his winter coat. The pair continued their conversation. \n\n"Well Alois, looks like Herr Hitler's finally done it. Supposed to be appointed Chancellor today." \n\n"Ja, of course I heard. I couldn't be more excited!" Alois' mood lightened noticeably. "The Führer finally has the power to save Germany from the Jews who stabbed us in the back! They stole our victory from us, they nearly plunged the fatherland into revolution, they even stole my business from me! But with Hitler, everything will be taken back from their talons." \n\nFrancois shot him the familiar but worried look he always did when Alois talked like that. "Didn't you sell your bakery because of the depression?" \n\n"I only sold it because THEY crashed the economy! The Führer is going to restore our dignity and save the Reich! Don't you want that? Don't you want a strong Germany? Not the pathetic system we suffer under now?" \n\n"Look, I'm not going to argue politics with you Alois. I learned long ago it was a losing battle. I just wanted your perspective is all, being the bigshot Party Man that you are.""
+ narrative_alois_text_the_faithful_2: "Francois was right. Alois always dominated their political "debates". He joined the party in 1926 but had only become so fervent and stubborn after his store became another victim of the Great Depression.\n\nSacrificing his personal relationships, he worked himself almost to the bone in his cramped Berlin office to help his Führer get to the coveted position of Chancellor. Now all that work has seemingly paid off. With Hitler in charge, he would finally see his vision made reality. He would see the many wrongs to him and his fatherland rectified. \n\nAnd if only for a moment, Alois forgot the cold. \n\n\n\n\n\n\n\n\n\n\n£narrative_alois_nsdp_membership_book£"
+ narrative_alois_text_another_day_at_the_office: "Another Day at the Office"
+ narrative_alois_text_another_day_at_the_office_1: "Alois sat at his desk burning the midnight oil once again. Ever since the Führer began consolidating power within the Party, the bureaucratic load seemed to practically multiply. A tidal wave of forms, reports, and memos has flooded the Berlin Party Office over the past week, more than the previous four combined. Alois couldn't help but let out an exasperated sigh.But of course, that was exactly why he was here after all. To help the more important people filter out the nonsense, to send up what mattered, and to staff out what didn't. Thankfully, today's load was rather easy. Most of the gargantuan stack of papers on his desk was just the findings of a study on how effective a new kind of fertilizer had been on some farms in Hannover. As Alois put another page of the report down he heard a knock at his door.\n\nLooking up, he could see his boss Johannes already opening it, his eyes locked on the overflowing folder of papers he carried under his left arm. He had his coat and hat on, it must already be morning. Instinctively Alois rose to his feet, arm raised. \n\n"Heil Hitler!" \n\nJohannes copied the gesture without looking up from the papers he was carrying. "Heil Hitler. I just came to say that the Führer has begun a new program to coordinate the Länder to be more in line with the wills of the Party Gauleiters. As a part of that process, the administration is being streamlined. Long story short, I'm being promoted. You'll get the... uh... honor of taking my place." \n\nAlois nodded enthusiastically, his mind racing with thoughts of the laundry list of new responsibilities he would bear.Johannes was just an opportunist, he'd only been a party man for a year, having left the flagging DNVP once it became apparent Hitler would cinch the"
+ narrative_alois_text_another_day_at_the_office_2: "Chancellery. Had Johannes' grandfather not given so much money to the Party, Alois would be in his position already no doubt. Still, Alois savored his little victory.\n\nWhile parasites like Johannes and his banker friends simply bought influence in the world, men like Alois clawed it from their grasp with Ayran work ethic and determination. As Hitler said, self-made men were better than the degenerate aristocrats with their "von" nobiliary particles and decadent inherited estates. Soon the "Little Guy", men like himself, will have what is owed to him and it will be his turn to taste from the fountain of luxury. And it would taste sweeter than Olympian Ambrosia. \n\n\n\n\n\n\n\n\n\n   £narrative_alois_photo_of_colleagues£"

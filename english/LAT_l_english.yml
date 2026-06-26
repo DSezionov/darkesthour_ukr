@@ -1,0 +1,17 @@
+﻿l_english:
+######################################################################
+#  Events
+######################################################################
+
+### Politics
+ LAT_Politics.1.t: "Adolfs Blodnieks Becomes Prime Minister"
+ LAT_Politics.1.d: "After the resignation of Marģers Skujenieks, Adolfs Blodnieks has been appointed Prime Minister of Latvia. A liberal politician and economist, Blodnieks aims to stabilize the government during a period of economic difficulties and rising political tensions. Despite his moderate approach, his administration faces increasing pressure from radical factions and nationalist movements."
+ LAT_Politics.1.A: "A moderate leader for turbulent times."
+
+ LAT_Politics.2.t: "1934 Latvian Coup d'état"
+ LAT_Politics.2.d: "On May 15, 1934, Prime Minister Kārlis Ulmanis carried out a coup d'état, dissolving the Saeima (parliament) and banning all political parties. Ulmanis establishes an authoritarian regime, claiming it is necessary to protect Latvia from political instability and the threat of extremist movements. The coup marks the end of parliamentary democracy in Latvia and the beginning of a new era of strong centralized rule."
+ LAT_Politics.2.A: "Order above all else."
+
+ LAT_Politics.3.t: "Ulmanis Assumes the Presidency"
+ LAT_Politics.3.d: "Following the 1934 coup, Kārlis Ulmanis has consolidated power and assumed the office of President of Latvia, in addition to holding the office of Prime Minister. His regime emphasizes national unity, economic development, and the suppression of political dissent. Latvia now enters a period of authoritarian stability, though tensions simmer beneath the surface as Europe moves closer to war."
+ LAT_Politics.3.A: "Latvia united under one strong leader."

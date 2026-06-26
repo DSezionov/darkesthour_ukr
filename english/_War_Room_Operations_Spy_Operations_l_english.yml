@@ -1,0 +1,145 @@
+﻿l_english:
+ # Agency Upgrades:
+ upgrade_war_room_operations_form_department: "War Room Department"
+ upgrade_war_room_operations_form_department_desc: "§LExpands our agency by adding a section dedicated to gathering intelligence on hostile War Room operations, providing greater insight into their strategic plans.§!"
+ upgrade_war_room_operations_defensive: "War Room Counter Intelligence"
+ upgrade_war_room_operations_defensive_desc: "§LImproves our defences against foreign War Room espionage, lowering the risk that hostile nations will discover our operational plans.§!"
+ upgrade_war_room_operations_offensive: "War Room Intelligence"
+ upgrade_war_room_operations_offensive_desc: "§LIncreases our ability to collect and decrypt information on foreign War Room activities, providing better insight into enemy strategic planning.§!"
+
+ upgrade_war_room_operations_form_department_tt: "§YEnables spy operations to gather intel about other countries' war room operations.§!"
+
+ # Spy Operations:
+ spy_operation_investigate_active_war_room_operations: "Infiltrate General Staff"
+ spy_operation_investigate_active_war_room_operations_desc: "Deploy agents to infiltrate the enemy's military leadership. By obtaining internal documents, command routines, and strategic procedures, we can gain a better understanding of their strategy and exploit weaknesses in their chain of command."
+ spy_operation_investigate_active_war_room_operations_tt: "We may find out what operation §Y[From.GetNameWithFlag]§! is currently planning in their war room, if they are planning any.\n"
+ spy_operation_investigate_active_war_room_operations_effect_tt_no_intel: "Our spies were not able to gather any valuable intel about whether §Y[From.GetNameWithFlag]§! is currently planning any operation in their war room.\n"
+ spy_operation_investigate_active_war_room_operations_effect_tt_small_intel: "§Y[From.GetNameWithFlag]§! is currently planning at least one operation in their war room. Our spies were not able to get more detailed intel, so we may want to try again.\n"
+ spy_operation_investigate_active_war_room_operations_effect_tt_intel_operation: "§Y[From.GetNameWithFlag]§! is currently planning the following operation in their war room: §Y[This.GetWarRoomOperationNameLongOtherContext]§!. \nThis may not be the only one.\n"
+ spy_operation_investigate_active_war_room_operations_effect_tt_intel_no_operation: "§Y[From.GetNameWithFlag]§! is currently not planning any operation in their war room or we already know about all operations they are planning.\n"
+
+ spy_operation_investigate_specific_active_war_room_operation: "Infiltrate War Room Operation"
+ spy_operation_investigate_specific_active_war_room_operation_desc: "Charge our operatives with gaining access to the enemy's War Room network. Monitoring their operational preparations will allow us to keep track of current plans, predict future actions, and undermine their strategic coordination."
+ spy_operation_investigate_specific_active_war_room_operation_tt: "We may find intel about one of the operations §Y[From.GetNameWithFlag]§! is currently planning in their war room. We will be able to choose the specific war room operation when this operation gets commenced.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_selected: "We may find intel about §Y[This.GetWarRoomOperationNameLongOtherContext]§!, which §Y[From.GetNameWithFlag]§! is currently planning in their war room.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_no_intel: "Our spies were not able to gather any valuable intel about §Y[This.GetWarRoomOperationNameLongOtherContext]§!.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_success: "Our spies were able to gather the following intel about §Y[This.GetWarRoomOperationNameLongOtherContext]§!:\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_progress: "We now know their current planning progress.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_goal: "We now know the objective of the operation.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_launch_effect: "We now know the effects that will happen once the operation gets launched.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_min_progress: "We now know the minimum planning progress required to launch the operation.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_success_end: "\nWe can see a full overview of all gathered intel about §Y[This.GetWarRoomOperationNameLongOtherContext]§! as well as exact numbers in the effect section of this operation before it was finished or in the §YWar Room Intel§! window, which can be opened via the §YIntelligence Agency§! window.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_success_end_no_dlc: "\nWe can see a full overview of all gathered intel about §Y[This.GetWarRoomOperationNameLongOtherContext]§! as well as exact numbers in the effect section of this operation before it was finished or in the §YWar Room Intel§! window, which can be opened via the §YDiplomacy§! window (when no country is selected).\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_has_launched: "§OThe operation has already been launched!§!"
+ spy_operation_investigate_specific_active_war_room_operation_tt_all_intel: "\nAt the moment we have the following intel about §Y[This.GetWarRoomOperationNameLongOtherContext]§!:\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_all_intel_none: "- None"
+ spy_operation_investigate_specific_active_war_room_operation_tt_all_intel_goal: "- We know what the objective of the operation is: \n[This.GetWarRoomOperationGoalOtherContext]"
+ spy_operation_investigate_specific_active_war_room_operation_tt_all_intel_min_progress: "- We know that the minimum required planning progress to launch the operation is §Y[?amount|2%%]§!.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_all_intel_progress: "- We know that the planning progress at the time of our infiltration was at §Y[?operation_progress|2%%]§!.\n"
+ spy_operation_investigate_specific_active_war_room_operation_tt_all_intel_launch_effect: "- We know what will happen once [From.GetNameDef] launches the operation: \n[This.GetWarRoomOperationLaunchEffectOtherContext]"
+
+ # GUIs:
+ ## Diplomatic Actions:
+ SHARE_WAR_ROOM_INTEL_WITH_ALLY_ACTION_SEND_GUI_DESC: "Select the operations that you have intel of that you want to share with §Y[This.GetNameWithFlag]§!. The list is grouped by countries that you know are planning operations. \nAt least one operation has to be selected in order to be able to send the action."
+ SHARE_WAR_ROOM_INTEL_WITH_ALLY_ACTION_SEND_SELECT_BUTTON_TT: "§GClick§! to select §Y[This.GetWarRoomOperationNameLong]§! to share your intel about the operation with §Y[From.From.GetName]§!."
+ SHARE_WAR_ROOM_INTEL_WITH_ALLY_ACTION_SEND_DESELECT_BUTTON_TT: "§GClick§! to deselect §Y[This.GetWarRoomOperationNameLong]§! to not share your intel about the operation with §Y[From.From.GetName]§!."
+
+ ## Agency Sub Window / Diplomatic Actions:
+ OPEN_DH_WAR_ROOM_INTEL_WINDOW_BUTTON_TEXT: "War Room Intel"
+ OPEN_DH_WAR_ROOM_INTEL_WINDOW_BUTTON_TT: "§GClick§! to open or close the §YWar Room Intel§! window."
+ DH_WAR_ROOM_INTEL_HEADER: "War Room Intel"
+ DH_WAR_ROOM_INTEL_DESC: "All acquired intel on enemy war room operations can be viewed here."
+ DH_WAR_ROOM_INTEL_NO_INTEL_TEXT: "We currently do not have any intel about other countries' war room operations."
+ DH_WAR_ROOM_INTEL_OPERATION_ENTRY_NAME: "[This.GetWarRoomOperationNameLong]"
+ DH_WAR_ROOM_INTEL_OPERATION_ENTRY_REQUIRED_PROGRESS_TITLE: "Req. Progress"
+ DH_WAR_ROOM_INTEL_OPERATION_ENTRY_REQUIRED_PROGRESS_VALUE: "[This.GetWarRoomIntelOperationMinProgressValue]"
+ DH_WAR_ROOM_INTEL_OPERATION_ENTRY_CURRENT_PROGRESS_TITLE: "Progress"
+ DH_WAR_ROOM_INTEL_OPERATION_ENTRY_CURRENT_PROGRESS_VALUE: "[This.GetWarRoomIntelOperationCurrentProgressValue]"
+ DH_WAR_ROOM_INTEL_OPERATION_ENTRY_GOAL_TITLE: "Goal of the Operation"
+ DH_WAR_ROOM_INTEL_OPERATION_ENTRY_GOAL_TEXT: "[This.GetWarRoomIntelOperationGoal]"
+ DH_WAR_ROOM_INTEL_OPERATION_ENTRY_LAUNCH_EFFECT_TITLE: "Effect when launched:"
+ DH_WAR_ROOM_INTEL_OPERATION_ENTRY_LAUNCH_EFFECT_TEXT: "[This.GetWarRoomIntelOperationLaunchEffect]"
+
+ # Diplomatic Actions:
+ SHARE_WAR_ROOM_INTEL_WITH_ALLY_ACTION_TITLE: "Share War Room Intel"
+ SHARE_WAR_ROOM_INTEL_WITH_ALLY_ACTION_ACTION_DESC: "Share the intel you have gathered from another country's war room operations with your ally."
+ SPY_ACTION_INVESTIGATE_ACTIVE_WAR_ROOM_OPERATIONS_TITLE: "Infiltrate General Staff"
+ SPY_ACTION_INVESTIGATE_ACTIVE_WAR_ROOM_OPERATIONS_ACTION_DESC: "Deploy agents to infiltrate the enemy's military leadership. By obtaining internal documents, command routines, and strategic procedures, we can gain a better understanding of their strategy and exploit weaknesses in their chain of command."
+ SPY_ACTION_INVESTIGATE_SPECIFIC_ACTIVE_WAR_ROOM_OPERATION_TITLE: "Infiltrate War Room Operation"
+ SPY_ACTION_INVESTIGATE_SPECIFIC_ACTIVE_WAR_ROOM_OPERATION_ACTION_DESC: "Charge our operatives with gaining access to the enemy's War Room network. Monitoring their operational preparations will allow us to keep track of current plans, predict future actions, and undermine their strategic coordination."
+
+ ## Tooltips:
+ NOT_VIEWING_INTEL_FROM_SHARE_WAR_ROOM_INTEL_TT: "§Y[This.GetName]§! is not viewing any intel about war room operations that we recently shared with them"
+ CAN_SHARE_WAR_ROOM_INTEL_TT: "Is able to share intel about at least §Y1§! war room operation with §Y[Prev.GetName]§!"
+ NOT_SPY_ACTION_INVESTIGATE_ACTIVE_WAR_ROOM_OPERATIONS_ACTIVE_ON_TARGET_TT: "§Y[Root.GetName]§! is not infiltrating the General Staff of §Y[This.GetName]§!"
+ NOT_SPY_ACTION_INVESTIGATE_SPECIFIC_ACTIVE_WAR_ROOM_OPERATION_ACTIVE_ON_TARGET_TT: "§Y[Root.GetName]§! is not infiltrating a War Room Operation of §Y[This.GetName]§!"
+
+ # Events:
+ War_Room_Operations_Spy_Operations_events.EVTNAME2: "Infiltration of a [From.GetAdjective] War Room Operation"
+ War_Room_Operations_Spy_Operations_events.EVTDESC2: "We have to decide about which operations of [From.GetNameDef] our spies should try to gather intel of."
+ War_Room_Operations_Spy_Operations_events2.EVTOPT1: "$WAR_ROOM_OPERATION_1_PREFIX$ $WAR_ROOM_OPERATION_1_NAME$"
+ War_Room_Operations_Spy_Operations_events2.EVTOPT2: "$WAR_ROOM_OPERATION_2_PREFIX$ $WAR_ROOM_OPERATION_2_NAME$"
+ War_Room_Operations_Spy_Operations_events2.EVTOPT3: "$WAR_ROOM_OPERATION_3_PREFIX$ $WAR_ROOM_OPERATION_3_NAME$"
+ War_Room_Operations_Spy_Operations_events2.EVTOPT4: "$WAR_ROOM_OPERATION_4_PREFIX$ $WAR_ROOM_OPERATION_4_NAME$"
+ War_Room_Operations_Spy_Operations_events2.EVTOPT5: "$WAR_ROOM_OPERATION_5_PREFIX$ $WAR_ROOM_OPERATION_5_NAME$"
+ War_Room_Operations_Spy_Operations_events2.EVTOPT6: "$WAR_ROOM_OPERATION_6_PREFIX$ $WAR_ROOM_OPERATION_6_NAME$"
+ War_Room_Operations_Spy_Operations_events2.EVTOPT7: "$WAR_ROOM_OPERATION_7_PREFIX$ $WAR_ROOM_OPERATION_7_NAME$"
+
+ ## Diplomatic Actions:
+ War_Room_Operations_Diplomatic_Actions_events.EVTNAME1: "War Room Intel Shared"
+ War_Room_Operations_Diplomatic_Actions_events.EVTDESC1: "Our ally [sender_target.GetName] has shared some intel about other countries' war room operations with us."
+ War_Room_Operations_Diplomatic_Actions_events1.EVTOPT1: "Interesting."
+ War_Room_Operations_Diplomatic_Actions_events.EVTNAME4: "General Staff Infiltration Results"
+ War_Room_Operations_Diplomatic_Actions_events.EVTDESC4: "We have infiltrated the General Staff of [From.GetName] in order to find out what they are planning in their War Room. Our spies have now returned from their mission."
+ War_Room_Operations_Diplomatic_Actions_events4.EVTOPT1: "Let's see..."
+ War_Room_Operations_Diplomatic_Actions_events.EVTNAME6: "War Room Operation Infiltration Results"
+ War_Room_Operations_Diplomatic_Actions_events.EVTDESC6: "We have infiltrated a War Room Operation of [From.GetName] in order to find out more details about a specific operation they are currently planning. Our spies have now returned from their mission."
+ War_Room_Operations_Diplomatic_Actions_events6.EVTOPT1: "Let's see..."
+ War_Room_Operations_Diplomatic_Actions_events.EVTNAME7: "Spies discovered"
+ War_Room_Operations_Diplomatic_Actions_events.EVTDESC7: "Recently we have discovered spies from [From.GetName] trying to infiltrate our War Room. It is uncertain what if any intel they were able to gather before being discovered..."
+ War_Room_Operations_Diplomatic_Actions_events7.EVTOPT1: "That's unsettling news..."
+
+ ## Tooltips:
+ War_Room_Operations_Spy_Operations_events.2_tt: "Our spies will try to gather intel about §Y[This.GetWarRoomOperationNameLongOtherContext]§!.\n"
+ spy_action_spies_discovered_tt: "\n§ROur spies have been discovered by §Y[From.GetName]§!. They know now that we are trying to gather intel on their War Room operations.§W\n"
+
+ ### Diplomatic Actions:
+ War_Room_Operations_Diplomatic_Actions_events.1_tt.empty_line: " \n"
+ War_Room_Operations_Diplomatic_Actions_events.1_tt.progress: "We learned that the planning progress of '§Y[This.GetWarRoomOperationNameLongOtherContext]§!' in the [Prev.GetFlag] §Y[Prev.GetAdjective]§! war room was last at at §Y[?operation_progress|2%%]§!.\n"
+ War_Room_Operations_Diplomatic_Actions_events.1_tt: "§Y[sender_target.GetName]§! has shared intel about more operations with us. \nGo to the intel of the next operation by selecting this option."
+
+ # Decision Categories:
+ war_room_spy_action_decision_category: "War Room Espionage"
+
+ # Decisions:
+ war_room_spy_action_decision_investigate_active_war_room_operations: "Infiltrating the [From.GetAdjective] General Staff"
+ war_room_spy_action_decision_investigate_active_war_room_operations_desc: "We have sent out spies to infiltrate the General Staff of [From.GetNameDef] to find out what they are planning in their War Room."
+ war_room_spy_action_decision_investigate_specific_active_war_room_operation: "Infiltrating a [From.GetAdjective] War Room Operation"
+ war_room_spy_action_decision_investigate_specific_active_war_room_operation_desc: "We have sent out spies to infiltrate a specific War Room Operation of [From.GetNameDef] to find out what exactly they are plotting."
+
+ # Custom Modifiers:
+ spy_operation_for_war_room_operations_offensive: "War Room Intelligence"
+ spy_operation_for_war_room_operations_offensive_factor: "War Room Intelligence Modifier"
+ spy_operation_for_war_room_operations_defensive: "War Room Counter Intelligence"
+ spy_operation_for_war_room_operations_defensive_factor: "War Room Counter Intelligence Modifier"
+
+ # Scripted Triggers:
+ HAS_FOUND_AT_LEAST_AMOUNT_OF_ACTIVE_WAR_ROOM_OPERATIONS_IN_PREV_TT: "Has found out about at least §Y[?amount|0]§! active operations that §Y[Prev.GetName]§! is planning in their war room"
+ ANY_FOUND_WAR_ROOM_OPERATION_OF_PREV_IS_ACTIVE_AND_NOT_LAUNCHED_TT: "Any war room operation of §Y[Prev.GetName]§! that §Y[This.GetName]§! knows about is currently active and has not been launched"
+ ANY_ACTIVE_WAR_ROOM_OPERATION_OF_PREV_CAN_BE_FOUND_TT: "Can find out about at least §Y1§! active war room operation of §Y[Prev.GetName]§!"
+ KNOWS_THAT_PREV_IS_PLANNING_SPECIFIC_WAR_ROOM_OPERATION_TT: "Knows that §Y[Prev.GetName]§! is currently planning '§Y[This.GetWarRoomOperationNameLongOtherContext]§!'"
+ HAS_PROGRESS_INTEL_FOR_SPECIFIC_WAR_ROOM_OPERATION_OF_PREV_TT: "Has intel about the progress of '§Y[This.GetWarRoomOperationNameLongOtherContext]§!'"
+ HAS_GOAL_INTEL_FOR_SPECIFIC_WAR_ROOM_OPERATION_OF_PREV_TT: "Has intel about the objective of '§Y[This.GetWarRoomOperationNameLongOtherContext]§!'"
+ HAS_LAUNCH_EFFECT_INTEL_FOR_SPECIFIC_WAR_ROOM_OPERATION_OF_PREV_TT: "Has intel about the effects that will happen once '§Y[This.GetWarRoomOperationNameLongOtherContext]§!' is launched"
+ HAS_MIN_PROGRESS_INTEL_FOR_SPECIFIC_WAR_ROOM_OPERATION_OF_PREV_TT: "Has intel about the minimum required progress to launch '§Y[This.GetWarRoomOperationNameLongOtherContext]§!'"
+
+ # Scripted Effects:
+ ADD_WAR_ROOM_OPERATION_OF_PREV_INTEL_TYPE_OPERATION_NAME_TT: "We learned that §Y[Prev.GetNameDef]§! is currently planning '§Y[This.GetWarRoomOperationNameLongOtherContext]§!' in their war room.\n"
+ ADD_WAR_ROOM_OPERATION_OF_PREV_INTEL_TYPE_OPERATION_PROGRESS_TT: "We learned that the planning progress of '§Y[This.GetWarRoomOperationNameLongOtherContext]§!' in the [Prev.GetFlag] §Y[Prev.GetAdjective]§! war room is currently at §Y[?operation_progress|2%%]§!.\n"
+ ADD_WAR_ROOM_OPERATION_OF_PREV_INTEL_TYPE_OPERATION_GOAL_TT: "We learned that the objective of '§Y[This.GetWarRoomOperationNameLongOtherContext]§!', which §Y[Prev.GetNameDef]§! is currently planning in their war room, is the following: \n[This.GetWarRoomOperationGoalOtherContext]"
+ ADD_WAR_ROOM_OPERATION_OF_PREV_INTEL_TYPE_OPERATION_LAUNCH_EFFECT_TT: "We learned that once §Y[Prev.GetNameDef]§! launches '§Y[This.GetWarRoomOperationNameLongOtherContext]§!', which they are currently planning in their war room, the following will happen: \n[This.GetWarRoomOperationLaunchEffectOtherContext]"
+ ADD_WAR_ROOM_OPERATION_OF_PREV_INTEL_TYPE_OPERATION_MIN_PROGRESS_TT: "We learned that '§Y[This.GetWarRoomOperationNameLongOtherContext]§!', which §Y[Prev.GetNameDef]§! is currently planning in their war room, can be launched once they reach a planning progress of §Y[?amount|2%%]§!.\n"
+
+ # Scripted Localisation:
+ string_war_room_intel_operation_min_progress_value: "[?amount|0%%]"
+ string_war_room_intel_operation_current_progress_value: "[?operation_progress|0%%]"

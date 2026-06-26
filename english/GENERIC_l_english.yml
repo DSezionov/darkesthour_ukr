@@ -1,0 +1,196 @@
+﻿l_english:
+###########################################
+## Generic Spirits
+###########################################
+# Naval Treaties
+ GENERIC_London_Naval_Treaty: "London Naval Treaty"
+ GENERIC_London_Naval_Treaty_desc: "Following the human disaster that was the Great War the fervent jingoism that encompassed the peoples of Europe dissipated and so did the interest in keeping a massive amount of armed forces at the ready but not for the fleet. The winning nations of the conflict, with their adversaries subdued, continued to sink money into the development of ships in order to preserve their influence and economic dominance overseas but the ever-increasing escalation had to stop as the tensions could lead to another break in relations and perhaps another conflict.\n\nSo it was that in 1930, after several failed attempts during the twenties to reach the same result, the 5 great naval powers convened in London and signed the convention to a naval armaments and ship tonnage limitation treaty that put a stop on the nascent arms race and seemingly put an end the money sink that the fleets had turned out to be."
+
+### Generic Focus Tree
+ generic_idea_exploit_natural_riches: "Exploit Natural Riches"
+ generic_idea_exploit_natural_riches_desc: ""
+
+ generic_idea_rnd_investment: "R&D Investments"
+ generic_idea_rnd_investment_desc: ""
+
+ generic_idea_consumer_oriented_industry: "Consumer Oriented Industry"
+ generic_idea_consumer_oriented_industry_dsec: ""
+
+ generic_idea_military_industrial_complex: "Military Industrial Complex"
+ generic_idea_military_industrial_complex_desc: ""
+
+ generic_idea_modernize_the_production_lines: "Modernize the Production Lines"
+ generic_idea_modernize_the_production_lines_desc: ""
+
+ generic_idea_professional_army: "Professional Army"
+ generic_idea_professional_army_desc: ""
+
+ generic_idea_new_railways: "New Railways"
+ generic_idea_new_railways_desc: ""
+
+ generic_idea_new_railways_private: "New Railways"
+ generic_idea_new_railways_privates_desc: ""
+
+ generic_idea_new_railways_state: "New Railways"
+ generic_idea_new_railways_state_desc: ""
+
+ generic_idea_promote_urbanization: "Promote Urbanization"
+ generic_idea_promote_urbanization_desc: ""
+ 
+ TRIGGER_HAS_NOT_OFFENSIVE_WAR_WITH: "Not at War With $COUNTRY|H$"
+###########################################
+## Generic Events
+###########################################
+
+ GENERIC_Focus_Tree.13.t: "Public Works"
+ GENERIC_Focus_Tree.13.d: ""
+ GENERIC_Focus_Tree.13.A: ""
+ GENERIC_Focus_Tree.13.B: ""
+ GENERIC_Focus_Tree.13.C: ""
+
+###########################################
+## Generic Decisions
+###########################################
+# Debug Mode
+ Debug_Decisions: "Debug Mode"
+
+# Political Action
+ open_new_industrial_jobs: "Open New Industrial Jobs"
+ open_new_industrial_jobs_desc: "To combat rising unrest and economic stagnation, the government has authorised a temporary surge in industrial hiring. Expanding our industrial workforce by opening new factories and creating job opportunities will help to improve our factories' productivity. While this will strain political cohesion and fuel logistics, it may help to stabilise the country and increase our production capabilities in the short term."
+ anti_fascist_raids: "Anti-Fascist Raids"
+ anti_fascist_raids_desc: "The spread of extreme ideologies that threaten equality and liberty must be closely monitored. Fascist groups attempt to undermine our country's stability through violence, intimidation, and propaganda. We can weaken their networks before they gain traction by allowing security forces to raid their meeting places, seize illegal materials, and apprehend key agitators. We will ensure that the poisonous foundations of fascism are eradicated before they cause irreversible damage to our political institutions and society."
+ anti_autocrat_raids: "Anti-Autocrat Raids"
+ anti_autocrat_raids_desc: "Ambitious generals, monarchists, and self-proclaimed saviours conspire in secret to undermine our liberties in favour of authoritarian rule. To protect the people's voices, we must take immediate action against these potential tyrants. The state will send detectives to investigate covert relationships, shut down loyalist presses, and imprison known loyalists. Our country's independence must be safeguarded against those who seek crowns and dictatorships."
+ anti_democratic_raids: "Anti-Democratic Raids"
+ anti_democratic_raids_desc: "The increasing influence of democratic reformers jeopardises the state's stability and cohesiveness. Their constant calls for elections, free expression, and civilian oversight undercut power and fuel discontent. To prevent chaos and maintain strict control, security agents will target democratic agitators. Meeting places will be closed, leaflets seized, and leaders detained. The security of the state is far more important than some meaningless elections."
+ anti_socialist_raids: "Anti-Socialist Raids"
+ anti_socialist_raids_desc: "Radical agitators promise revolution and upheaval, convincing people to sacrifice stability for anarchy. Their calls for class warfare threaten to destabilise our economy and society. We will eliminate subversive cells and their underground networks before they can cause disruption. Though some may see these measures as overly harsh, they are necessary to maintain order and ensure that the country remains united, prosperous, and free of extremist manipulation."
+ anti_communist_raids: "Anti-Communist Raids"
+ anti_communist_raids_desc: "Communist organisers instilled their poison in factories and unions, encouraging insurrection and the abolition of our country's rule of law. Their philosophy threatens to pit employee against employer, and citizen against nation. To maintain order and prevent an uprising, we will conduct coordinated raids on communist organisations, seize illegal publications, and imprison ringleaders. This decisive action will protect our citizens from the instability of class conflict and ensure that the red tide never spreads within our borders."
+
+# Economic Recovery
+ Wartime_Economic_Recovery: "Wartime Economic Recovery"
+ Wartime_Economic_Recovery_desc: "The war in which we are currently engaged is actively eradicating the last of the depression's negative economic effects. With an increase in investments in the military industry and war bonds, as well as many young men who were previously unemployed enlisting to serve their country, we are now nearing the end of our recovery from the early 1930s economic downturn. Our industry and economy will soon be stronger than ever, propelled by the destruction, conquest, and unity of war."
+
+# Categories
+ fortification_projects: "Fortification Projects"
+ Occupation_Policy: "Occupation Policy"
+
+###########################################
+## Custom trigger tooltips
+###########################################
+ GENERIC_Check_if_Coastal: "Is not a Landlocked Nation"
+
+###########################################
+## Generic Focuses
+###########################################
+ GEN_Improving_the_Rural_Industry: "Improving the Rural Industry"
+ GEN_Improving_the_Rural_Industry_desc: ""
+
+ GEN_Improve_Agricutlural_Methods: "Improve Agricultural Methods"
+ GEN_Improve_Agricutlural_Methods_desc: ""
+
+ GEN_Land_Reform_economic: "Land Reform economic"
+ GEN_Land_Reform_economic_desc: ""
+
+ GEN_Start_Building_a_New_Railway: "Start Building a New Railway"
+ GEN_Start_Building_a_New_Railway_desc: ""
+
+ GEN_Promote_Urbanization: "Promote Urbanization"
+ GEN_Promote_Urbanization_desc: ""
+
+ GEN_Improve_Provincial_Infrastructure: "Improve Provincial Infrastructure"
+ GEN_Improve_Provincial_Infrastructure_desc: ""
+
+ GEN_State_Controlled_Monopoly: "State Controlled Monopoly"
+ GEN_State_Controlled_Monopoly_desc: ""
+
+ GEN_Allow_Private_Railways: "Allow Private Railways"
+ GEN_Allow_Private_Railways_desc: ""
+
+ GEN_Build_up_the_Capital_City: "Build up the Capital City"
+ GEN_Build_up_the_Capital_City_desc: ""
+
+ GEN_Start_Rural_Electrification: "Start Rural Electrification"
+ GEN_Start_Rural_Electrification_desc: ""
+
+ GEN_Open_University_in_the_Capital: "Open a University in the Capital"
+ GEN_Open_University_in_the_Capital_desc: ""
+
+ GEN_Invest_in_Airports: "Invest in Airports"
+ GEN_Invest_in_Airports_desc: ""
+
+ GEN_Import_Industrial_Machinery: "Import Industrial Machinery"
+ GEN_Import_Industrial_Machinery_desc: ""
+
+ GEN_Expand_Local_Armory: "Expand Local Armory"
+ GEN_Expand_Local_Armory_desc: ""
+
+ GEN_Begin_the_Industrialization_Process: "Begin the Industrialization Process"
+ GEN_Begin_the_Industrialization_Process_desc: ""
+
+ GEN_Contract_Skilled_Workers: "Contract Skilled Workers"
+ GEN_Contract_Skilled_Workers_desc: ""
+
+ GEN_Promote_Trade: "Promote Trade"
+ GEN_Promote_Trade_desc: ""
+
+ GEN_Development_on_our_own: "Development on our Own"
+ GEN_Development_on_our_own_desc: ""
+
+ GEN_Reactive_Old_Armories: "Reactive Old Armories"
+ GEN_Reactive_Old_Armories_desc: ""
+
+ GEN_Increase_Fuel_Reserves: "Increase Fuel Reserves"
+ GEN_Increase_Fuel_Reserves_desc: ""
+
+ GEN_Improve_the_Shipping_Industry: "Improve the Shipping Industry"
+ GEN_Improve_the_Shipping_Industry_desc: ""
+
+ GEN_Exploit_Natural_Riches_Economic: "Exploit Natural Riches Economic"
+ GEN_Exploit_Natural_Riches_Economic_desc: ""
+
+ GEN_Build_Roads_to_Increase_Commerce: "Build Roads to Increase Commerce"
+ GEN_Build_Roads_to_Increase_Commerce_desc: ""
+
+ GEN_Upgrade_Industrial_Machines: "Upgrade Industrial Machines"
+ GEN_Upgrade_Industrial_Machines_desc: ""
+
+ GEN_Expand_the_Domestic_Arms_Industry: "Expand the Domestic Arms Industry"
+ GEN_Expand_the_Domestic_Arms_Industry_desc: ""
+
+ GEN_Increase_the_Wealth_of_the_People: "Increase the Wealth of the People"
+ GEN_Increase_the_Wealth_of_the_People_desc: ""
+
+ GEN_Clear_the_Slums: "Clear the Slums"
+ GEN_Clear_the_Slums_desc: ""
+
+ GEN_Increase_the_Iron_Production: "Increase the Iron Production"
+ GEN_Increase_the_Iron_Production_desc: ""
+
+ GEN_Organize_Public_works_Economic: "Organize Public Works Economic"
+ GEN_Organize_Public_works_Economic_desc: ""
+
+ GEN_Capital_Renovation_Plan: "Capital Renovation Plan"
+ GEN_Capital_Renovation_Plan_desc: ""
+
+ GEN_Invest_in_Synthetic_Industry: "Invest in Synthetic Industry"
+ GEN_Invest_in_Synthetic_Industry_desc: ""
+
+ GEN_Invest_in_Consumer_Industry: "Invest in Consumer Industry"
+ GEN_Invest_in_Consumer_Industry_desc: ""
+
+ GEN_Into_the_Modern_Age: "Into the Modern Age"
+ GEN_Into_the_Modern_Age_desc: ""
+
+ GEN_Secure_the_National_Rebirth: "Secure the National Rebirth"
+ GEN_Secure_the_National_Rebirth_desc: ""
+
+ GEN_Increase_Social_Welfare_Fascism: "Increase Social Welfare"
+ GEN_Increase_Social_Welfare_Fascism_desc: ""
+
+ GEN_Public_Works_fascist: "Public Works"
+ GEN_Public_Works_fascist_desc: ""
+
+ GEN_National_Youth_Organisation_fascist: "National Youth Organisation"
+ GEN_National_Youth_Organisation_fascist_desc: ""

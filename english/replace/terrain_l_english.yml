@@ -1,0 +1,21 @@
+﻿l_english:
+
+### Changed Vanilla Entries
+  desert_desc: "\n§LA harsh and arid landscape, where the heat is as much an obstacle as the lack of water. Though relatively easy to traverse, sandstorms and extreme temperatures strain both troops and equipment. Combat is marked by long sightlines and quick-moving engagements, with supply lines needing careful management due to the environment's demands.§!"
+  forest_desc: "\n§LThickly wooded areas that provide excellent cover for troops, making it ideal for defensive operations. The dense trees slow down movement and hamper visibility, making large-scale offensives difficult. Supply routes become more strained, but the natural cover offers protection against enemy air superiority.§!"
+  hills_desc: "\n§LRising, undulating terrain that provides a natural advantage to defenders. While not as imposing as mountains, hills offer both visibility and cover, making them strategic points for holding ground. Troop movement is slightly hindered, but the elevated terrain provides an edge in combat.§!"
+  jungle_desc: "\n§LDense, tropical environments with thick underbrush, heavy rainfall, and humid conditions. Movement through jungles is slow and exhausting, with troops at risk of disease and attrition. The thick canopy provides excellent cover, but supply lines are often strained, and visibility is low.§!"
+  marsh_desc: "\n§LWetlands filled with swamps and bogs, where the ground is unstable and difficult to traverse. Movement through marshes is slow and dangerous, and the risk of sickness is high. However, the thick mud and water provide some natural defense, making them difficult to assault.§!"
+  mountain_desc: "\n§LRugged and steep terrain where only the hardiest troops can operate effectively. Movement is slow, and supply lines are difficult to maintain. However, forces holding mountain positions benefit greatly from the natural defenses, making these regions pivotal in prolonged campaigns.§!"
+  MOVEMENT_COST: "£movement_texticon  Movement cost within this terrain type x$VALUE|H$"
+  plains_desc: "\n§LOpen, rolling landscapes that provide relatively easy movement for armies and supplies. These regions are often used for agriculture or grazing, with few natural obstacles. While ideal for fast maneuvers, the flat terrain offers little protection, making forces vulnerable to aerial or artillery strikes.§!"
+  TERRAIN_ADDITIONAL_WIDTH: "£combat_width_texticon  Combat width per additional direction: $VALUE|=0Y$"
+  TERRAIN_COMBAT_WIDTH: "£combat_width_texticon  Combat width: $VALUE|0Y$"
+  TERRAIN_COMBAT_WIDTH_COMB: "£combat_width_texticon  Combat width: $VALUE|0Y$ (Additional attacks: $ADD|0Y$)"
+  urban_desc: "\n§LDeveloped areas ranging from large towns to sprawling cities. Buildings and infrastructure provide cover and create choke points, making urban combat complex and slow. Though movement is more constrained, defenders can take advantage of the dense structures to hold ground effectively.§!"
+
+### DH - New Terrain
+  farmland: "Farmland"
+  farmland_desc: "\n§LCultivated land dotted with fields, farms, and small villages. While slightly more obstructed than open plains, farmland offers a balance between maneuverability and cover. Supply lines are easier to maintain due to the infrastructure already in place, though the terrain is still vulnerable to fast-moving operations.§!"
+  atoll: "Atoll"
+  atoll_desc: "\n§LSmall, ring-shaped islands surrounded by shallow waters, offering little in terms of resources or infrastructure. Movement across the land is straightforward, but maintaining a supply chain from the mainland is challenging. Atolls are strategically valuable for controlling surrounding seas but offer little protection on their own.§!"

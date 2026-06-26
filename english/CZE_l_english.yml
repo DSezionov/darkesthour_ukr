@@ -1,0 +1,68 @@
+﻿l_english:
+######################################################################
+#  National Spirits
+######################################################################
+ CZE_French_Bunker_Expertise: "French Bunker Expertise"
+ CZE_French_Bunker_Expertise_desc: "France was the first to recognise Czechoslovakia's independence in 1918, and we have maintained good relations ever since. As a gesture of goodwill, the French have shared their technical expertise in the construction of forts and bunkers, allowing us to better defend ourselves against the rising expansionist threats around us. The 'Beneš Line', named after our statesman Edvard Beneš, is being built based on the Maginot Line model. The line is smaller and simpler than France's, but it is just as effective. With our collective engineering experience and widespread support for arming the forts among the Czechoslovakian population, the Sudety will not be taken lightly by any attacker; not to mention, we may be able to use this knowledge again in the future if necessary."
+
+ CZE_Sudeten_Crisis: "Sudeten Crisis"
+ CZE_Sudeten_Crisis_desc: "Since Czechoslovakia's independence from Austria-Hungary, we have been plagued by unfortunate issues. The majority of these have been in response to various minority groups across our country lobbying for increased representation or support under our regime. Some of these movements are unstable at best and downright dangerous at worst. In the Sudety, groups of Sudeten Germans are actively advocating for the region to leave Czechoslovakia and join Germany. Coupled with rising German nationalism and hardships caused by the Great Depression, the youth have become highly radicalised and anti-government. Despite our best efforts to persuade them to join us, it appears that their separatism is unlikely to subside any time soon."
+
+ CZE_Slovak_Problem: "Slovak Problem"
+ CZE_Slovak_Problem_desc: "Before our independence, the Czechs and Slovaks were united in one goal: to break free from our chains and form a free state together. We shared a history of oppression, so it only made sense that we would band together to form a single nation. We now have the independence, but what truly united us has vanished. What remains are our differences: our levels of industrialisation are vastly different, our cultures are far from similar, and our leaders frequently disagree on everything. With such disputes occurring so frequently, we must do everything we can to bridge the gap between Czechia and Slovakia, lest rising nationalist sentiments tear us apart and forever destroy the bastion of democracy that we fought together to establish."
+
+ CZE_Extremism_on_Rise: "Extremism on Rise"
+ CZE_Extremism_on_Rise_desc: "Czechoslovakia was founded by freedom fighters seeking independence from the Austria-Hungarian Empire, but monarchist sympathisers continue to spread their ideology wherever possible. Things are far worse in the Sudetenland, where radicalised Nazi youth are advocating for the region's secession and integration into Germany. In the 1929 parliamentary election, the Communist Party received more than 10% of the vote. These ideologies, whether they agree or disagree, all work towards the same goal: the destruction of democracy and freedom in our great country. We must stop the rising forces of terror from taking root here, or we will pay a high price."
+
+######################################################################
+#  Events
+######################################################################
+
+### Category - Politics
+ CZE_Politics.1.t: "Masaryk Retires"
+ CZE_Politics.1.d: ""
+ CZE_Politics.1.A: ""
+ 
+ CZE_Politics.2.t: "Hodža Becomes Prime Minister"
+ CZE_Politics.2.d: ""
+ CZE_Politics.2.A: ""
+
+ CZE_Politics.3.t: "Syrový Becomes Prime Minister"
+ CZE_Politics.3.d: ""
+ CZE_Politics.3.A: ""
+
+ CZE_Politics.4.t: "Beran Becomes Prime Minister"
+ CZE_Politics.4.d: ""
+ CZE_Politics.4.A: ""
+
+### Category - Government-in-Exile
+# This category contains events for the mid-war establishment of the Czechoslovak government in exile (places them back on the map without control) and the late-war resistance uprisings in Czechoslovakia
+ CZE_Government_in_Exile.1.t: "The Czechoslovak Government-in-Exile"
+ CZE_Government_in_Exile.1.d: "The Germans have taken another step toward extinguishing European liberty. With their conquest of Paris, they have placed the lives of many important officials from various European nations in danger. Paris had been hosting many governments in exile, each of whom represented their people's continuing fighting spirit and desire to oppose Fascism. The Czechoslovak Government-in-Exile was one such government.\n\nAs the Germans marched into Paris, plans were being made to relocate them to the United Kingdom, where they could continue fighting for their country's freedom and security. Those preparations have now paid off, with the establishment of a formal Czechoslovak Government-in-Exile in London, led by [CZE.GetLeader].\n\nThis relocation, however, is not without complications. For one thing, the Czechoslovaks have made it clear that they intend to reverse the Munich Agreement at the end of the war. Many of our officials have reported that they continue to hold us in contempt and anger for signing the agreement in the first place.\n\nAnother issue is the Germans' creation of [SLO.GetNameDef]. While it claims to be a sovereign Slovak nation, there is no doubt that it is a German puppet. In any case, there is some debate over whether the Czechoslovak Government-in-Exile is truly a Czechoslovak Government-in-Exile or simply a Czech Government-in-Exile.\n\nIn any case, with all formalities completed, [CZE.GetLeader] will be settling into the London weather and organising the Czechoslovak resistance from his English Oak table."
+ CZE_Government_in_Exile.1.A: "We shall wish them the best."
+
+ CZE_Government_in_Exile.2.t: "Beneš Announces Czechoslovak Government-in-Exile"
+ CZE_Government_in_Exile.2.d: "[FROM.GetNewsIcon]Today in [FROM.Capital.GetName], former President Edvard Beneš formally announced the establishment of a Czechoslovak government-in-exile, opposing the German occupation of the country following the Munich Agreement. Beneš, who resigned from the presidency after the forced cession of the Sudetenland, has now assumed leadership from abroad, declaring that the Czechoslovak state continues to exist despite the loss of control over its territory. The British government has recognized Beneš's administration, granting it legitimacy on the international stage and enabling it to act as the voice of the Czechoslovak people.\n\nFrom [FROM.Capital.GetName], the government-in-exile is overseeing the formation of new Czechoslovak military units abroad, while diplomatic efforts extend to securing support from the Allied powers. Beneš has called upon all Czechoslovak citizens abroad to rally behind the cause, maintain communication with underground resistance groups inside the occupied homeland, and safeguard national institutions wherever possible. The exiled leadership promises to coordinate both political and military resistance, ensuring that Czechoslovakia's government and armed forces continue to represent the nation, plan for liberation, and uphold the principles of independence and democracy until the homeland is finally restored."
+ CZE_Government_in_Exile.2.A: "He has our full support!"
+ CZE_Government_in_Exile.2.B: "A foolish endeavour."
+ CZE_Government_in_Exile.2.C: "As expected."
+
+ CZE_Government_in_Exile.3.t: "The Slovak National Uprising"
+ CZE_Government_in_Exile.3.d: "The Red Army has broken through the Dukla Pass, opening the path into Slovakia. In response, Slovak units loyal to the cause, under the leadership of Lieutenant Colonel Ján Golian, have risen in revolt against German occupation and the collaborationist Slovak government.\n\nAround Banská Bystrica, the First Czechoslovak Army in Slovakia is forming, combining defecting regular troops and partisan fighters. Though poorly armed and lightly equipped, their courage is unwavering. The uprising marks the start of our struggle for liberation, signaling that the united and sovereign nation of Czechoslovakia will not remain passive under German occupation."
+ CZE_Government_in_Exile.3.A: "Rise up!"
+
+ CZE_Government_in_Exile.4.t: "The Slovak National Uprising"
+ CZE_Government_in_Exile.4.d: "[FROM.GetNewsIcon]Reports from Central Europe indicate a dramatic turn in the war: as Soviet forces break through the vital Dukla Pass, Slovak units have revolted against German occupation and the collaborationist Bratislava government. Under Lieutenant Colonel Ján Golian, approximately 17,000 defecting regular soldiers have joined local partisans to form the \"First Czechoslovak Army in Slovakia\" around Banská Bystrica.\n\nThe uprising openly aligns itself with the Czechoslovak government-in-exile in London, boosting the cause of the interwar democratic government and its goal to restore national sovereignty across all of pre-war Czechoslovakia. The emergent army is a patchwork of infantry, limited artillery, and a small number of light tanks, hampered by scarce equipment and logistical constraints. Despite these challenges, the uprising opens a new front in the German rear, threatening Axis operations in Slovakia and facilitating Soviet advances into Central Europe."
+ CZE_Government_in_Exile.4.A: "Rise up, Slovaks!"
+ CZE_Government_in_Exile.4.B: "Crush these traitors at once!"
+ CZE_Government_in_Exile.4.C: "Admirable."
+
+ CZE_Government_in_Exile.5.t: "The Prague Uprising"
+ CZE_Government_in_Exile.5.d: "Prague is ablaze! As Allied forces enter Bohemia and Moravia, Czech patriots - civilians, defecting soldiers, and resistance fighters - have taken to the streets to reclaim their city from German occupation. The air is thick with smoke and the echo of gunfire as barricades rise across major streets, using trams, cobblestones, and debris.\n\nInsurgents have seized control of key points: the city's radio station, railway junctions, and bridges are in their hands. Lightly armed and improvising with captured weapons, they fight with extraordinary courage against tanks and SS units pressing into the city.\n\nEvery alley and square is contested. The population pours into the streets in a wave of defiance, showing the world that a free and sovereign Czechoslovakia will not wait to be liberated - it is taking its freedom now."
+ CZE_Government_in_Exile.5.A: "Rise up!"
+
+ CZE_Government_in_Exile.6.t: "The Prague Uprising"
+ CZE_Government_in_Exile.6.d: "[FROM.GetNewsIcon]Breaking: Prague has erupted in revolt! Reports indicate that the Allied advance into Bohemia and Moravia has triggered a large-scale uprising across Prague. Czech insurgents aligned with the Czechoslovak government-in-exile have seized the city's radio station, key bridges over the Vltava, Wenceslas Square, and railway junctions. Barricades of trams, rubble, and furniture block German tanks on major avenues.\n\nReports confirm that Waffen-SS units are pouring into the city, responding with extreme brutality. Eyewitnesses describe indiscriminate shootings, arson, and summary executions as they attempt to crush the revolt. Despite these horrors, the insurgents continue to fight fiercely.\n\nAdding to their strength, the Russian Liberation Army's 1st Infantry Division has defected from the Germans, bringing tanks, artillery, and combat experience to the rebels. Street fighting rages: insurgents ambush armored columns in narrow alleys, strike from rooftops, and reclaim government buildings.\n\nThe resistance races to liberate Prague before foreign forces arrive, determined that the city's freedom is claimed by Czech hands. Smoke rises over Old Town and New Town as gunfire echoes through the streets, showing the world that Czechoslovakia is seizing its freedom now!"
+ CZE_Government_in_Exile.6.A: "Rise up, Czechs!"
+ CZE_Government_in_Exile.6.B: "Take it back at once!"
+ CZE_Government_in_Exile.6.C: "Admirable."

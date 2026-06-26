@@ -1,0 +1,53 @@
+﻿l_english:
+ 
+######################################################################
+# Spirits
+######################################################################
+
+ SWE_En_Svensk_Tiger: "En Svensk Tiger"
+ SWE_En_Svensk_Tiger_desc: "Nestled in the heart of Scandinavia lies our beautiful country, home to a responsible and proud people. While we Swedes stand ready to defend the borders of our great nation, we must also remain vigilant against external forces that seek to undermine us from within. Even something as simple as refraining from discussing the latest industrial developments in front of a stranger can strengthen our national security. Fortunately, every Swede, a tiger in their own right, understands the importance of knowing when to \"tiga\" — to stay silent."
+
+ SWE_Folkhemmet: "Folkhemmet"
+ SWE_Folkhemmet_desc: "Sweden's vision of a welfare state, Folkhemmet (\"The People's Home\") embodies the ideals of equality, social unity, and a society where everyone is provided for. Under this doctrine, the state plays a central role in ensuring public welfare, from healthcare to housing, creating a sense of collective responsibility and national solidarity. While it fosters strong domestic stability and social cohesion, its focus on internal welfare can sometimes limit military spending and external ambitions."
+ 
+######################################################################
+#  Decisions
+######################################################################
+
+ SWE_Destroy_the_Lappland_Mines: "Destroy the Lappland Mines"
+ SWE_Destroy_the_Lappland_Mines_desc: "As the war intensifies, the threat of an enemy invasion into the far north grows. Our rich iron ore mines in Kiruna and Gällivare, key to our nation's industrial power, may fall into hostile hands. To prevent this, a contingency plan has been devised: the complete destruction of the Lappland mining districts. Should the situation become critical, the mines can be detonated, denying the enemy these vital resources at the cost of crippling our own industry. This drastic measure is a last resort, one that will deal a heavy blow to both our economy and future recovery, but may be necessary to ensure Sweden's strategic survival."
+ SWE_Destroy_the_Lappland_Mines_Mission: "Race for the Mines"
+
+ SWE_Repair_the_Lappland_Mines: "Repair the Lappland Mines"
+ SWE_Repair_the_Lappland_Mines_desc: "With the threat of invasion lifted and our forces regaining control over Lappland, the time has come to assess the damage and consider the restoration of our vital mining operations in Kiruna and Gällivare. The mines, once destroyed to prevent enemy capture, can be painstakingly rebuilt to restore iron ore production to pre-war levels. This will require substantial investment and time, but the reopening of the Lappland mines will reignite our industrial output and strengthen Sweden's economy once again. However, the scars of destruction are deep, and the process will not be swift or easy."
+ 
+######################################################################
+#  Events
+######################################################################
+
+ SWE_Mines.1.t: "Our Mines are Blown Up!"
+ SWE_Mines.1.d: "We failed to contain the German offensive on the border, and Wehrmacht units were able to gain access to critical resource deposits. Without them, Sweden will be unable to adequately supply its army with resources and replenish reserves. But we did what we had to do: we detonated the mines to slow the enemy's advance and prevent Germany from gaining an advantage. From the start, it was clear that Germany's target in this attack was our country's resource bases. We must resist until the bitter end!"
+ SWE_Mines.1.A: "Eat the ashes, Germans!"
+
+ SWE_Mines.2.t: "Repairing Our Mines"
+ SWE_Mines.2.d: "After long battles for metallurgical enterprises and mines in the country's north, we were finally able to drive the German invaders out of our territory. Now, these rich territories and resources will once again benefit our army. The mines have already been restored, and workers are returning to them as proud Swedish patriots, ready to fight for our country behind the machines of their factories. We still have a lot of work to do to restore personnel and improve metal mining efficiency, but we've made a start."
+ SWE_Mines.2.A: "Exports can start soon."
+
+ SWE_Mines.3.t: "Swedish Mines Captured"
+ SWE_Mines.3.d: "The General Staff of the Wehrmacht and the officers in charge of the Scandinavian Front report good news: our valiant soldiers have achieved the main strategic goal in Sweden. It was a difficult operation, but it was completed successfully, and these mines will now serve the Reich. The purpose of the operation that launched this invasion has been met. The Swedish forces have lost their source of supply and are disorganised. Soon, we will defeat the Northern Lion, and the Aryan people will unite."
+ SWE_Mines.3.A: "Absolute success."
+ SWE_Mines.3.B: "A catastrophy.."
+
+ SWE_Mines.4.t: "The Swedish Blew Up Their Mines"
+ SWE_Mines.4.d: "The General Staff of the Wehrmacht and the officers in charge of the Scandinavian Front reported terrible news: our soldiers had captured the main strategic target in Sweden, but all of the deposits had already been blown up. The purpose of the operation that launched this invasion was not met, but we did gain an advantage. The Swedish forces have lost their source of supply and are disorganised. Even if Sweden holds out for another week, it will exhaust its army's resources. Soon, we will defeat the Northern Lion, and the Aryan people will unite."
+ SWE_Mines.4.A: "Damn Swedes!"
+ 
+######################################################################
+#  Tooltips
+######################################################################
+
+ SWE_BLOW_UP_MINES_TT: "We will §Rblow up our mines§! in order to reduce the amount of resources Germany §7can use against our allies§!."
+ SWE_MINES_FAIL_TO_BLOW_UP_TT: "§tThe enemy seizes the mines intact.§!"
+ SWE_MINES_BLOWING_UP_TT: "The special operation of §7blowing up our mines§! will §Gsucceed§!."
+ SWE_REPAIR_OUR_MINES_TT: "If we survive the German occupation, we may repair our mines after §Gvictory in the war§!."
+ SWE_REPAIRING_OUR_MINES_TT: "§GWe will repair our mines.§!"

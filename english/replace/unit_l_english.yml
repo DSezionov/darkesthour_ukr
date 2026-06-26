@@ -1,0 +1,6 @@
+﻿l_english:
+
+### Changed Vanilla Entries
+  ATTRITION: "£attrition_texticon  Attrition:"
+  CURRENT_ORGANIZATION: "£organization_texticon  Organization: $CUR|0Y$/$MAX|0Y$"
+  MODIFIER_NAVAL_INVASION_CAPACITY: "£naval_invasion_texticon  Naval Invasion Capacity"

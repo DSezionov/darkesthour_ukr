@@ -1,0 +1,158 @@
+﻿l_english:
+############################################################
+### Achievements
+############################################################
+ DHachievements_28244: "Darkest Hour Achievements"
+
+ Complete_DH_Tutorial_NAME: "Quick Learner"
+ Complete_DH_Tutorial_DESC: "Complete the tutorial of the §RDarkest Hour§! mod (reading the '§YHow To Play§!' window does not count)."
+
+ You_Maniacs_You_blew_it_up_NAME: "You Maniacs! You blew it up!"
+ You_Maniacs_You_blew_it_up_DESC: "Nuke New York"
+ Nuked_New_York: "New York has been nuked"
+
+ How_Did_We_Get_Here_NAME: "How Did We Get Here?"
+ How_Did_We_Get_Here_DESC: "As a minor nation, be at war with five of the seven major powers."
+ How_Did_We_Get_Here_tt: "As a minor nation, be at war with five of the seven major powers."
+
+ Socialism_has_been_Achieved_NAME: "Socialism has been achieved!"
+ Socialism_has_been_Achieved_DESC: "Have at least 95% popularity for either the communist or socialist party."
+ Socialism_has_been_Achieved_tt: "Have at least 95% popularity for either the communist or socialist party."
+
+ Literally_1984_NAME: "Literally 1984"
+ Literally_1984_DESC: "Reach 1st of January, 1984."
+
+ Literally_1948_NAME: "Literally 1948"
+ Literally_1948_DESC: "Reach 1st of January, 1948."
+
+ Animal_Farm_NAME: "Animal Farm"
+ Animal_Farm_DESC: "As the Soviet Union, research all Agriculture techs."
+ Animal_Farm_tt: "As the Soviet Union, research all Agriculture techs"
+
+ Poland_is_not_Yet_Lost_NAME: "Poland is not Yet Lost!"
+ Poland_is_not_Yet_Lost_DESC: "Survive as Poland until 1st of January, 1945."
+
+ Im_Something_of_a_Scientist_Myself_NAME: "I'm something of a scientist myself"
+ Im_Something_of_a_Scientist_Myself_DESC: "Research all the techs from the electronics and rocketry tree till 1945."
+ Im_Something_of_a_Scientist_Myself_tt: "Research all the techs from the electronics and rocketry tree till 1945."
+
+ Pimp_My_Reich_NAME: "Pimp My Reich"
+ Pimp_My_Reich_DESC: "As German Reich, proclaim the Großdeutsches Reich."
+ Pimp_My_Reich_tt: "As German Reich, proclaim the Großdeutsches Reich."
+
+ Royal_Flush_NAME: "Royal Flush"
+ Royal_Flush_DESC: "As the United Kingdom, have production rights from 5 major powers in which you are allied with."
+ Royal_Flush_tt: "As the United Kingdom, have production rights from 5 major powers in which you are allied with."
+
+ We_Solved_World_Hunger_NAME: "We Solved World Hunger"
+ We_Solved_World_Hunger_DESC: "As Hungary, control all core states of Turkey."
+ We_Solved_World_Hunger_tt: "As Hungary, control all core states of Turkey."
+
+ Graveyard_of_the_Superpowers_NAME: "Graveyard of the Superpowers"
+ Graveyard_of_the_Superpowers_DESC: "As Afghanistan, control all core states of Vietnam."
+ Graveyard_of_the_Superpowers_tt: "As Afghanistan, control all core states of Vietnam."
+
+ The_New_Order_NAME: "The New Order"
+ The_New_Order_DESC: "As Japan, nuke Hawaii."
+ Nuked_Hawaii: "Nuked Hawaii"
+
+ No_Country_For_Anyone_NAME: "No Country for Anyone"
+ No_Country_For_Anyone_DESC: "As any Major Nation, have 0 manpower on the highest conscription level."
+
+ No_I_Dont_Want_To_Go_NAME: "No I don't want to go"
+ No_I_Dont_Want_To_Go_DESC: "As any nation, be at war with Brazil, and lose at least one core state to Brazil."
+
+ Thousand_Week_Reich_NAME: "Thousand Week Reich"
+ Thousand_Week_Reich_DESC: "As Hitler's Germany, survive until 31 March, 1952."
+
+ Blast_To_The_Past_NAME: "Blast to the Past"
+ Blast_To_The_Past_DESC: "As the United States, nuke Essen."
+ Nuked_Essen: "Nuked Essen"
+
+ Et_Tu_Brutus_NAME: "Et Tu, Brutus?"
+ Et_Tu_Brutus_DESC: "As Italy, capitulate Germany."
+ ITA_et_tu_brutus: "§Y@ITA[ITA.GetNameDefCap]§! has capitulated §Y@GER[GER.GetNameDefCap]§!"
+
+ Haus_Im_Neu_Berlin_NAME: "Haus in Neu Berlin"
+ Haus_Im_Neu_Berlin_DESC: "As Fascist Germany, control New Orleans."
+
+ Get_A_Life_Please_NAME: "Get a Life, Please!"
+ Get_A_Life_Please_DESC: "Get all achievements."
+ get_a_life_completed_all_achievements: "Has completed §Yall achievements§!"
+
+ Ich_Bin_Ein_Berliner_NAME: "Ich Bin Ein Berliner"
+ Ich_Bin_Ein_Berliner_DESC: "As the United States, occupy Berlin"
+
+ Tour_DEurope_NAME: "Tour D'Europe"
+ Tour_DEurope_DESC: "As France, take Berlin and Rome using Bicycle divisions."
+ FRA_tour_deurope_berlin: "Took Berlin"
+ FRA_tour_deurope_rome: "Took Rome"
+
+ The_Sun_and_the_Stars_NAME: "The Sun and the Stars"
+ The_Sun_and_the_Stars_DESC: "As the United States, assist the Nationalist Chinese in defeating the Japanese, before 1944."
+ usa_the_sun_and_the_stars: "§Y@USA[USA.GetNameDefCap]§! helped the §Y@CHI[CHI.GetNameDefCap]§! capitulate §Y@JAP[JAP.GetNameDefCap]§!"
+
+ Polish_Sausage_NAME: "Polish Sausage"
+ Polish_Sausage_DESC: "As Poland, control Frankfurt."
+
+ Das_Wolfsrudel_NAME: "Das Wolfsrudel"
+ Das_Wolfsrudel_DESC: "As Germany, have 500 U-boats in service."
+
+ You_Are_Being_Liberated_Do_Not_Resist_NAME: "You Are Being Liberated, Do Not Resist"
+ You_Are_Being_Liberated_Do_Not_Resist_DESC: "As the United States, ensure that Axis Powers are liberated."
+
+ Europe_Under_the_Jackboot_NAME: "Europe Under the Jackboot"
+ Europe_Under_the_Jackboot_DESC: "As Germany, become the master of Europe."
+ europe_under_germany: "All states in §YEurope§!:\n     One of the following must be true:\n       Owned and Controlled by §Y@GER[GER.GetNameDefCap]§!\n       Subject under §Y@GER[GER.GetNameDefCap]§!\n       In faction with §Y@GER[GER.GetNameDefCap]§!"
+
+ Roma_Vincit_Omnia_NAME: "Roma Vincit Omnia"
+ Roma_Vincit_Omnia_DESC: "As Duce's Italy, establish the Italian Empire."
+ roma_vincit_omnia_trigger: "Requires all of the following:\n\nRequires one of the following:\nAre owned\nAre subjects\n\nRequires all of the following:\n§Y@ALBAlbania§!, §Y@GRE@ITA Italian Claims in Greece§!, §Y@YUG@ITAItalian Claims in Yugoslavia§!, §Y@MLTMalta§!, §Y@TUNTunisia§!, §Y@LBALibya§!, §Y@EGYEgypt§!, §Y@CYPCyprus§!, §Y@SYR@FRAFrench Syria§!, §Y@LEBLebanon§!, §Y@IRQIraq§!, §Y@JORTransjordan§!, §Y@PALPalestine§!, and §Y@ETHEthiopia§!"
+
+ Prosperity_Is_Mandatory_NAME: "Prosperity is Mandatory!"
+ Prosperity_Is_Mandatory_DESC: "As Japan, realize your Pacific ambitions and have these states in the Co-Prosperity Sphere or under your control."
+ asia_under_japan: "All states in §YAsia§!:\n     One of the following must be true:\n       Owned and Controlled by §Y@JAP[JAP.GetNameDefCap]§!\n       Subject under §Y@JAP[JAP.GetNameDefCap]§!\n       In faction with §Y@JAP[JAP.GetNameDefCap]§!"
+
+ The_End_of_Tyranny_NAME: "The End of Tyranny"
+ The_End_of_Tyranny_DESC: "Liberate any fascist nation as a democracy."
+ end_of_tyranny: "Has capitulated a Fascist nation"
+
+ Den_Pobedy_NAME: "Den' Pobedy"
+ Den_Pobedy_DESC: "As Soviets, take Berlin:"
+
+ Weimar_Economics_NAME: "Weimar Economics"
+ Weimar_Economics_DESC: "As any nation, print more money."
+
+ He_Said_The_Thing_NAME: "He Said The Thing"
+ He_Said_The_Thing_DESC: "Achieved after getting an event 'Our Darkest Hour'."
+ he_said_the_thing_darkest_hour: "Got the event §YOur Darkest Hour§!"
+
+ When_Update_NAME: "Update When?"
+ When_Update_DESC: "Play the 1.1 Update"
+
+ Just_as_Planned_NAME: "Just as Planned"
+ Just_as_Planned_DESC: "Complete a War Room Operation."
+ ACHIEVEMENT_Just_as_Planned_TT: "§GSuccessfully completed§! any §OWar Room Operations§!"
+
+ Surely_They_Will_Hold_NAME: "Surely They Will Hold"
+ Surely_They_Will_Hold_DESC: "Deploy any additional units using the Additional Units mechanic."
+ ACHIEVEMENT_Surely_They_Will_Hold_TT: "Deployed any £helmet_icon_1_20x20 §YAdditional Units§!"
+
+ The_Man_of_Steel_Rusted_NAME: "The Man of Steel, Rusted.."
+ The_Man_of_Steel_Rusted_DESC: "Replace Stalin."
+ ACHIEVEMENT_The_Man_of_Steel_Rusted_TT: "Replaced Stalin"
+
+ This_Time_It_Will_Work_NAME: "This Time It'll Work..."
+ This_Time_It_Will_Work_DESC: "Right?\n\nForm the United Nations."
+
+ Atom_Divisible_Union_Invincible_NAME: "Atom Divisible, Union Invincible"
+ Atom_Divisible_Union_Invincible_DESC: "Test a nuke as Soviet Union."
+ ACHIEVEMENT_Atom_Divisible_Union_Invincible_TT: "Tested a nuke via the event §YThe Red Atom§!"
+
+ Sixth_Times_the_Charm_NAME: "Sixth Time's the Charm"
+ Sixth_Times_the_Charm_DESC: "Assassinate Tito as Stalin."
+ ACHIEVEMENT_Sixth_Times_the_Charm_TT: "Tito has been assassinated"
+
+ AIPAC_NAME: "AIPAC"
+ AIPAC_DESC: "As the United States, send money to Israel."
+ ACHIEVEMENT_AIPAC_TT: "Sent money to §B[ISR.GetNameWithFlag]§!"

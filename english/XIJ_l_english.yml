@@ -1,0 +1,33 @@
+﻿l_english:
+
+######################################################################
+#  Events
+######################################################################
+
+ XIJ_Politics.1.t: "Sheng Shicai's Coup"
+ XIJ_Politics.1.d: "Amidst the faltering war, the incompetence of Governor Jin Shuren has become unbearable. Our military commanders, frustrated by his poor leadership, have rallied behind Sheng Shicai, known for his pro-Stalin and pro-Soviet allegiances. In a swift and decisive coup d'état, Jin Shuren has been removed from power. Sheng Shicai now takes the helm, promising to turn the tide of the war and bring stability to Xinjiang with the backing of Soviet support. With new leadership, we stand united in our resolve to overcome current challenges and secure a brighter future for our people."
+ XIJ_Politics.1.A: "We accept the new leadership."
+ 
+ XIJ_Sino_Japanese_War_Chinese_Defeat.1.t: "Soviet Troops Cross the Border!"
+ XIJ_Sino_Japanese_War_Chinese_Defeat.1.d: ""
+ XIJ_Sino_Japanese_War_Chinese_Defeat.1.A: "All units, hold fire and stand down."
+ XIJ_Sino_Japanese_War_Chinese_Defeat.1.B: "All units, open fire!"
+ 
+######################################################################
+# Ideas
+######################################################################
+ XIJ_Opium_Stimulated_Army: "Opium Stimulated Army"
+ XIJ_Opium_Stimulated_Army_desc: ""
+ 
+ XIJ_Collapsing_Economic_Monopoly: "Collapsing Economic Monopoly"
+ XIJ_Collapsing_Economic_Monopoly_desc: ""
+ 
+ XIJ_Restless_Turkic_Population: "Restless Turkic Population"
+ XIJ_Restless_Turkic_Population_desc: ""
+ 
+ XIJ_Overwhelming_Illiterracy: "Overwhelming Illiteracy"
+ XIJ_Overwhelming_Illiterracy_desc: ""
+ 
+ XIJ_Warlord_State: "Warlord State"
+ XIJ_Warlord_State_desc: ""
+ 

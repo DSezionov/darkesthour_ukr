@@ -1,0 +1,14 @@
+﻿l_english:
+
+ ###########################
+ # National Spirits
+ ###########################
+
+ ###########################
+ # Events
+ ###########################
+
+ # The Passing of the Torch
+ LIE_Monarchy.1.t: "The Passing of the Torch"
+ LIE_Monarchy.1.d: "The Principality of Liechtenstein marks a solemn and historic day as His Serene Highness Prince Franz I passed away peacefully at the age of 84. His reign, beginning in 1929, was marked by dignity and quiet dedication during a time of growing international uncertainty.\n\nFollowing the passing of the Prince, his grandnephew and regent, Franz Josef II, has acceded to the throne. The new sovereign, already active in public duties since March, becomes the first Prince of Liechtenstein to take permanent residence in the country. His accession symbolizes both continuity and a new era for the principality\n\nShortly after this change in leadership, Liechtenstein also adopted a modified national flag, adding a princely crown to the blue and red banner. The change, prompted by the discovery that the nation's flag was identical to that of Haiti at the 1936 Olympic Games, serves as a subtle but meaningful symbol of our sovereignty and national identity."
+ LIE_Monarchy.1.A: "\"Long Live the Prince!\""

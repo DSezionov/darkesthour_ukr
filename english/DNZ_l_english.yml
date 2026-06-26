@@ -1,0 +1,27 @@
+﻿l_english:
+######################################################################
+#  National Spirits
+######################################################################
+ DNZ_Free_City_of_Danzig: "Free City of Danzig"
+ DNZ_Free_City_of_Danzig_desc: "Ever since the Treaty of Versailles came into effect in 1920, the Free City of Danzig has enjoyed semi-independence on the Baltic Coast, with its government nominally overseen by a §YHigh Commissioner§! appointed by the League of Nations.\n\nThe city-state is, however, heavily restricted by the Treaty, preventing it from taking any decisive action internationally, as well as from making any attempts at reunification with §Y[GER.GetNameWithFlag]§!."
+
+######################################################################
+#  Events
+######################################################################
+ DNZ_Politics.1.t: "Hermann Rauschning Resigns"
+ DNZ_Politics.1.d: "In a dramatic turn of events, Danzig has bid farewell to its Senate President, Hermann Rauschning, as he was forced to resign from his position and subsequently exiled from the city. Rauschning, a notable figure in the Free City's political landscape, is widely recognized for his alignment with Ernst Röhm and Gregor Straßer, whose fates were sealed during the infamous Night of the Long Knives.\n\nThe decision to remove Rauschning from his post underscores the Reich's growing intolerance for those who don't share its vision, and it appears that his close ties to Röhm and Straßer were viewed as a liability.\n\nStepping into Rauschning's shoes as the new Senate President is Arthur Greiser, an outspoken ally of Adolf Hitler and a prominent figure within the SS. Greiser's appointment signals a change in direction for the Free City, as he is expected to be more aligned with the ideology of the Party."
+ DNZ_Politics.1.A: "Another casualty of the purge."
+
+ DNZ_Politics.2.t: "Danzig NSDAP Swept into Power"
+ DNZ_Politics.2.d: "[FROM.GetNewsIcon]In a startling political shift, the local affiliate of the German NSDAP has achieved a decisive victory in the Free City of Danzig's recent elections. The party narrowly captured 50.03% of the vote, securing 38 out of the 72 seats in the Volkstag, just above the 36-seat threshold necessary for a majority.\n\nThis marks a significant rise for the party, which previously finished second in 1930 and secured only 0.8% of the vote in 1927. Now, with a majority of seats, the NSDAP has formed a near one-party government, with only two members of the new Senate not affiliated with the party. The new legislature is expected to pass an Enabling Act similar to the one recently adopted in Germany, paving the way for an authoritarian regime in Danzig.\n\nThis election marks a notable triumph for Adolf Hitler and his party's pan-Germanist agenda, posing a threat to peace in Eastern Europe and heightening global tensions. The movement advocating for reunification with Germany, despite the constraints of the Treaty of Versailles, has gained renewed momentum.\n\nHermann Rauschning, a conservative nationalist, is slated to assume the role of President of the Senate, with the SS-aligned Arthur Greiser appointed as Deputy President."
+ DNZ_Politics.2.A: "Another victory for the cause!"
+ DNZ_Politics.2.B: "As long as they respect the Treaty of Versailles..."
+ DNZ_Politics.2.C: "Danzig ist Deutsch!"
+
+ DNZ_LoN.1.t: "New High Commissioner Appointed"
+ DNZ_LoN.1.d: "Today the new League of Nations High Commissioner, named Sean Lester, has been appointed to oversee our government. With the previous High Commissioner Helmer Rosting only being acting High Commissioner because of his predecessors sudden death in 1932, it seems that now things will return to normalcy again.\n\nSean Lester is an Irish diplomat, who is most known for being Ireland's Permanent Delegate to the League of Nations in Geneva. He is very involved in the work of the League, shown by him attempting to bring a resolution to two wars in South America, which earned him the attention of the League Secretariat at which point he began his transformation from national to international civil servant.\n\nIn 1933, Lester was seconded to the League's Secretariat and later sent to us to act as the new High Commissioner."
+ DNZ_LoN.1.A: "Welcome to Danzig, Mr. Lester!"
+
+ DNZ_LoN.2.t: "New High Commissioner Appointed"
+ DNZ_LoN.2.d: "Today a new League of Nations High Commissioner has been appointed to oversee our government. His name is Carl Jacob Burckhardt and he will replace the previous High Commissioner Sean Lester.\n\nBurckhardt is a Swiss diplomat, historian and until recently a university professor at the recently created Graduate Institute of International Studies in Geneva.\n\nHis aim is to maintain the international status of Danzig guaranteed by the League of Nations, but with growing world tension and a conflict on the horizon, it will be very hard for him to successfully complete this mission."
+ DNZ_LoN.2.A: "Welcome to Danzig, Mr. Burckhardt!"

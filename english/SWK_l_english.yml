@@ -1,0 +1,11 @@
+﻿l_english:
+
+######################################################################
+#  Events
+######################################################################
+
+# Dissolution of Sarawak
+ SWK_Dissolution.1.t: "The End of Sarawak"
+ SWK_Dissolution.1.d: "After nearly a century of rule by the Brooke family, the Raj of Sarawak, a British protectorate in northern Borneo, has formally ceased to exist. The \"White Rajah\", Charles Vyner Brooke, weakened by the carnage of the Second World War and the immense cost of rebuilding, has agreed to cede his authority to the British Crown. British officials are now taking control, establishing Sarawak as a Crown Colony.\n\nThis move marks the end of a unique era in Borneo, during which the Brookes maintained personal rule over the diverse peoples of the region. While we regard the cession as essential to ensure orderly governance and the restoration of stability in Sarawak, it is clear that not all locals welcome this change. Some segments of the population, particularly among the Malay elite, have expressed disappointment at the end of the Rajah's rule. The administration will need to remain vigilant as early signs of dissent and anti-cession sentiment begin to emerge."
+ SWK_Dissolution.1.A: "A necessary move to secure the region."
+  

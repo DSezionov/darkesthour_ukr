@@ -1,0 +1,19 @@
+﻿l_english: 
+######################################################################
+#  Events
+######################################################################
+ TNG.1.t: "Defeat Inevitable"
+ TNG.1.d: "After a successive string of defeats, military high command has deemed it necessary for us to pick up the remainders of our forces and advance down south towards Khotan, where they will be forced to leave us for the time being."
+ TNG.1.A:  "Time to go South."
+ 
+######################################################################
+#  Ideas
+######################################################################
+ TNG_Army_is_the_State: "Army is the State"
+ TNG_Army_is_the_State_desc: ""
+
+ TNG_Tungan_Armies: "Tungan Armies"
+ TNG_Tungan_Armies_desc: ""
+
+ TNG_Overwhelming_Illiterracy: "Overwhelming Illiteracy"
+ TNG_Overwhelming_Illiterracy_desc: ""

@@ -1,0 +1,23 @@
+﻿l_english:
+
+ ###########################
+ # National Spirits
+ ###########################
+
+ AFG_Graveyard_of_Empires: "Graveyard of Empires"
+ AFG_Graveyard_of_Empires_desc: "Many know the tales of great empires from Macedon to the British struggling and even collapsing due to the Afghan resistance. Even since before states existed within this region, the indigenous Afghans have been a formidable foe against any aggressor. This notion still holds today, any foreign adversary will want to fear the mountains on which they tread."
+
+ ###########################
+ # Events
+ ###########################
+
+ # Assassination of the Shah
+ AFG_Assassination_of_the_Shah.1.t: "Assassination of the Shah!"
+ AFG_Assassination_of_the_Shah.1.d: "Today, the Shah, Mohammad Nadir, hosted a prestigious award ceremony at his palace for student athletes from the high school he attended as a youth. Suddenly, as the Shah approached the group of lucky athletes, Abdul Harza, a young man in the crowd, took out a Mosin Nagant M1895 and shot the Shah three times in the chest. His Majesty collapsed immediately, clutching his chest, as Harza fled the scene, opening fire on one of the Shah's guards.\n\nFortunately, Harza did not escape, and the Shah's guards and police apprehended him quickly. Meanwhile, the Shah was rushed to the hospital and underwent emergency surgery. His Majesty, who was already in a critical condition, clung to life for as long as he could while doctors attempted to extract bullet fragments from his body and reduce bleeding. Hours later, an announcement aired on national radio and television."
+ AFG_Assassination_of_the_Shah.1.A: "\"The Shah is dead! Long Live the Shah!\""
+
+ # The Shah of Afghanistan Shot Dead
+ AFG_Assassination_of_the_Shah.2.t: "The Shah of Afghanistan Shot Dead"
+ AFG_Assassination_of_the_Shah.2.d: "[FROM.GetNewsIcon]Mohammad Nadir, the Shah of Afghanistan, was attending an awards ceremony at his alma mater to present medals to top athletes and commend the institution. The event, intended to celebrate academic and athletic excellence, took a tragic turn when a young Hazara radical, Abdul Khaliq, fired three shots at the Shah with a Nagant M1895 revolver. One of the Shah's guards was also struck before Abdul Khaliq was apprehended.\n\nDespite being rushed to emergency surgery, the Shah succumbed to his injuries and was pronounced dead by the attending doctors. In the aftermath of the assassination, Afghan authorities detained members of Abdul Khaliq's family.\n\nThis shocking event leaves Afghanistan at a crossroads. Mohammad Nadir's son, Mohammad Zahir, is set to succeed him. Uncertainty looms over the nation as it awaits the new leadership of Mohammad Zahir Shah."
+ AFG_Assassination_of_the_Shah.2.A: "Another ruler perishes..."
+

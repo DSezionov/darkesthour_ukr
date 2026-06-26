@@ -1,0 +1,82 @@
+﻿l_english:
+
+### Changed Vanilla Entries
+
+### DH - Rule Groups
+
+ RULE_GROUP_CUSTOM_DIFFICULTY: "Custom Difficulty"
+ RULE_GROUP_OPTIMIZATION: "Optimization"
+ RULE_GROUP_DIPLOMACY_RULES: "Diplomacy Rules" # Combines two vanilla categories: Foreign Policy and Covert Actions
+ RULE_GROUP_COUNTRY_PATHS: "Country Paths"
+
+### DH - Rule Options
+
+ RULE_OPTION_DISABLED: "Disabled"
+ RULE_OPTION_ENABLED: "Enabled"
+ RULE_OPTION_ENABLED_ZOOM_DISABLED: "Enabled + Zoom Disabled"
+
+### DH - Game Rules
+
+ RULE_ALLOW_AI_JUSTIFY: "Wargoal Justification for AI Countries"
+ RULE_ALLOW_AI_JUSTIFY_DESC: "AI will be able to justify wargoals manually."
+ RULE_DISALLOW_AI_JUSTIFY_DESC: "AI will be blocked from justifying wargoals manually."
+
+ RULE_PLAYER_LED_PEACE_CONFERENCES: "Player-Led Peace Conferences"
+ RULE_PLAYER_LED_PEACE_CONFERENCES_DISABLED_DESC: "Peace conferences will proceed as usual."
+ RULE_PLAYER_LED_PEACE_CONFERENCES_ENABLED_DESC: "Peace conferences will have AI countries remaining dormant, allowing players to decide the outcome."
+
+ RULE_MAX_AMOUNT_OF_DIVISIONS_PER_GENERAL: "Max. Amount of Divisions per General"
+ RULE_MAX_AMOUNT_OF_DIVISIONS_PER_GENERAL_NORMAL: "§Y16§! Divisions"
+ RULE_MAX_AMOUNT_OF_DIVISIONS_PER_GENERAL_NORMAL_DESC: "Your generals can command up to §Y16§! Divisions each. AI generals will be able to command up to §Y24§!."
+ RULE_MAX_AMOUNT_OF_DIVISIONS_PER_GENERAL_PLUS_8: "§Y24§! Divisions"
+ RULE_MAX_AMOUNT_OF_DIVISIONS_PER_GENERAL_PLUS_8_DESC: "Your generals can now also command up to §Y24§! Divisions each, matching the AI."
+ 
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME: "Choose a custom \"War Time\" boost"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_DEFAULT: "Default"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_DEFAULT_DESC: ""
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_DONT_HURT_ME: "Don't Hurt Me"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_DONT_HURT_ME_DESC: "" 
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_RECRUIT: "Recruit"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_RECRUIT_DESC: ""
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_SOLDIER: "Soldier"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_SOLDIER_DESC: ""
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_DARKEST_HOUR: "Darkest Hour"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_DARKEST_HOUR_DESC: ""
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_MEIN_LEBEN: "Mein Leben"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_WAR_TIME_MEIN_LEBEN_DESC: ""
+ 
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE: "Choose a custom \"Desperate Defence\" boost"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_DEFAULT: "Default"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_DEFAULT_DESC: ""
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_DONT_HURT_ME: "Don't Hurt Me"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_DONT_HURT_ME_DESC: ""
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_RECRUIT: "Recruit"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_RECRUIT_DESC: ""
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_SOLDIER: "Soldier"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_SOLDIER_DESC: ""
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_DARKEST_HOUR: "Darkest Hour"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_DARKEST_HOUR_DESC: ""
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_MEIN_LEBEN: "Mein Leben"
+ RULE_CUSTOM_DIFFICULTY_BOOSTS_DESPERATE_DEFENCE_MEIN_LEBEN_DESC: ""
+
+ RULE_ON_MAP_3D_LANDMARKS: "On-Map 3D Landmarks"
+ RULE_ON_MAP_3D_LANDMARKS_ENABLED_DESC: "Darkest Hour features a plethora of unique 3D landmarks scattered across the globe, with several of these being interacted with in events and focuses. In some instances, the camera will pan to these landmarks when major events or changes affect them. These are currently enabled."
+ RULE_ON_MAP_3D_LANDMARKS_ENABLED_ZOOM_DISABLED_DESC: "3D Landmarks will remain enabled, but the camera will never pan to the landmarks as part of events."
+ RULE_ON_MAP_3D_LANDMARKS_DISABLED_DESC: "3D Landmarks will be disabled, potentially improving performance and freeing up some space on the map."
+
+### DH - AI Paths
+ COUNTRY_PATH_JAP_CONFLICT_IN_CHINA: "@JAP Sino-Japanese Conflict"
+ COUNTRY_PATH_JAP_CONFLICT_IN_CHINA_DEFAULT: "Default"
+ COUNTRY_PATH_JAP_CONFLICT_IN_CHINA_DEFAULT_DESC: "The Sino-Japanese War will be as historical as the AI's actions allow."
+ COUNTRY_PATH_JAP_CONFLICT_IN_CHINA_ALWAYS_WIN: "Always Win"
+ COUNTRY_PATH_JAP_CONFLICT_IN_CHINA_ALWAYS_WIN_DESC: "Japan will have an easier time defeating China."
+ COUNTRY_PATH_ALLIES_PATH: "@USA Allies Post WW2 Path"
+ COUNTRY_PATH_ALLIES_HISTORICAL_PATH: "Historical Allied Path"
+ COUNTRY_PATH_ALLIES_HISTORICAL_PATH_DESC: "After the defeat of the Axis, the Western Allies focus on reconstruction and diplomacy. The United Nations is established to maintain peace, and Europe is rebuilt under American and British guidance. The Cold War simmers in the background as democracy and capitalism seek to contain Soviet influence through aid and alliances rather than open war."
+ COUNTRY_PATH_ALLIES_AHISTORICAL_PATH: "Operation Unthinkable"
+ COUNTRY_PATH_ALLIES_AHISTORICAL_PATH_DESC: "Fearing the rise of Soviet dominance in Europe, Churchill and the Western Allies decide not to disarm, but to strike first. Under the codename Operation Unthinkable, the Allies prepare a massive offensive against the USSR, hoping to push communism back beyond the Urals. A Third World War will begin."
+ COUNTRY_PATH_SOVIET_PATH: "@SOV Soviets Post WW2 Path"
+ COUNTRY_PATH_SOVIET_HISTORICAL_PATH: "The Iron Curtain"
+ COUNTRY_PATH_SOVIET_HISTORICAL_PATH_DESC: "With the Red Army victorious in Eastern Europe, Stalin consolidates his sphere of influence. Communist regimes are installed across the continent, and a tense standoff begins with the capitalist West. Instead of open war, the struggle for global supremacy turns ideological, economic, and covert - the dawn of the Cold War."
+ COUNTRY_PATH_SOVIET_AHISTORICAL_PATH: "Operation Red Dawn"
+ COUNTRY_PATH_SOVIET_AHISTORICAL_PATH_DESC: "Emboldened by their victory and immense military power, the Soviet Union will refuse to stop at Berlin. Operation Red Dawn begins as a full-scale offensive into Western Europe aimed at spreading communism by force. The Red Army marches westward once more, determined to bring the revolution to every corner of the world."

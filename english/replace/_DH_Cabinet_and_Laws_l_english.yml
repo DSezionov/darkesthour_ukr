@@ -1,0 +1,179 @@
+﻿l_english:
+ Allows_Fascists_Ministers: "£ai_acceptance_texticon Fascist Ministers Allowed"
+ Allows_Authoritarian_Ministers: "£ai_acceptance_texticon Authoritarian Ministers Allowed"
+ Allows_Democratic_Ministers: "£ai_acceptance_texticon Democratic Ministers Allowed"
+ Allows_Socialists_Ministers: "£ai_acceptance_texticon Socialist Ministers Allowed"
+ Allows_Communists_Ministers: "£ai_acceptance_texticon Communist Ministers Allowed"
+###########################################
+## Cabinet 
+###########################################
+ cabinet: "Cabinet"
+ Deputy_Leader: "Deputy Leader"
+ Foreign_Minister: "Foreign Minister"
+ Minister_of_Security: "Minister of Security"
+ Armaments_Minister: "Economics Minister"
+ Minister: "Minister"
+ Chief_of_Staff: "Chief of Staff"
+ Chief_of_Army: "Chief of Army"
+ Chief_of_Navy: "Chief of Navy"
+ Chief_of_Airforce: "Chief of Air Force"
+ Head_of_Intelligence: "Head of Intelligence"
+ 
+ available_chief_of_staff: "§GAvailable§! as §LChief of Staff:§!\n"
+######################################################################
+###  GUI
+######################################################################
+ leader_name_two_none: "Vacant Position"
+ leader_title_one_none: "Leader"
+ leader_title_one_generic: "Leader"
+ leader_title_two_generic: "Deputy Leader"
+
+ LEADER_NAME_DIPLO_VIEW: "[This.GetFlag] [THIS.leader_title_one] §H[THIS.GetLeader]§!"
+ SECOND_LEADER_NAME: "§H[This.leader_name_two]§!"
+ SECOND_LEADER_NAME_DIPLO_VIEW: "[This.GetFlag] [THIS.leader_title_two] §H[This.leader_name_two]§!"
+ SECOND_LEADER_DESC: "§L[This.leader_desc_two]§!"
+
+#Special Idea thing for advisors
+ country_missing_advisors: "Missing Advisors"
+
+###############################################
+## Laws and Policies
+##############################################
+ # Foreign Policy
+ idea_group_foreign_policy: "Foreign Policy"
+ foreign_policy: "Foreign Policy"
+ isolationism: "Isolationism"
+ neutrality: "Neutrality"
+ cooperation: "Cooperation"
+ interventionism: "Interventionism"
+ warmonger: "Warmonger"
+
+## Recruitment Laws
+ idea_group_recruitment_laws: "Recruitment Laws"
+ recruitment_laws: "Recruitment Laws"
+ law_volunteer_only: "Volunteer Only"
+ one_year_service: "One Year Mandatory Service"
+ two_year_service: "Two Year Mandatory Service"
+ three_year_service: "Three Year Mandatory Service"
+ law_service_by_requirement: "Service by Requirement"
+ law_all_adults_serve: "All Adults Serve"
+ law_scraping_the_barrel: "Scraping the Barrel"
+
+## Mobilization Laws
+ idea_group_mobilization_laws: "Mobilization Laws"
+ mobilization_laws: "Mobilization Laws"
+ law_civilian_economy: "Civilian Economy"
+ law_early_mobilisation: "Early Mobilisation"
+ law_partial_mobilisation: "Partial Mobilisation"
+ law_war_economy: "War Economy"
+ law_total_mobilisation: "Total Mobilisation"
+
+## Society Policy
+ idea_group_domestic_policies: "Domestic Policy"
+ domestic_policies: "Domestic Policy"
+ full_civil_liberties: "Full Civil Liberties"
+ limited_civil_liberties: "Limited Civil Liberties"
+ legalistic_restrictions: "Legalistic Restrictions"
+ repressive_system: "Repressive System"
+ totalitarian_system: "Totalitarian System"
+ reign_of_jim_crow: "Reign of Jim Crow"
+
+### Tooltips
+ Deputy_Leader_cost_factor: "£political_advisor_cost_texticon Head of Government Cost"
+ Foreign_Minister_cost_factor: "£political_advisor_cost_texticon Foreign Minister Cost"
+ Minister_of_Security_cost_factor: "£political_advisor_cost_texticonInterior Minister Cost"
+ Minister_cost_factor: "£political_advisor_cost_texticon Minister Cost"
+ Armaments_Minister_cost_factor: "£economy_laws_cost_texticon Economics Minister Cost"
+ Chief_of_Staff_cost_factor: "£military_theorist_cost_texticon Chief of Staff Cost"
+ Chief_of_Airforce_cost_factor: "£air_chief_cost_texticon Chief of Airforce Cost"
+ Chief_of_Army_cost_factor: "£army_chief_cost_texticon Chief of Army Cost"
+ Chief_of_Navy_cost_factor: "£navy_chief_cost_texticon Chief of Navy Cost"
+ Head_of_Intelligence_cost_factor: "£counter_intelligence_texticon Head of Intelligence Cost"
+ High_Command_cost_factor: "£High_Command_cost_texticon High Command Cost"
+ economic_system_cost_factor: "£economy_laws_cost_texticon Economic System Cost"
+ foreign_policy_cost_factor: "£political_advisor_cost_texticon Foreign Policy Cost"
+ domestic_policies_cost_factor: "£political_advisor_cost_texticon Domestic Policy Cost"
+ mobilization_laws_cost_factor: "£conscription_laws_cost_texticonMobilization Laws Cost"
+ recruitment_laws_cost_factor: "£conscription_laws_cost_texticon Recruitment Laws Cost"
+ trade_laws_cost_factor: "£trade_laws_cost_texticon Trade Laws Cost"
+ taxation_slider_law_cost_factor: "£political_advisor_cost_texticon Taxation Slider Slider Cost"
+ social_spending_slider_law_cost_factor: "£political_advisor_cost_texticon Social Spending Slider Cost"
+ research_spending_slider_law_cost_factor: "£political_advisor_cost_texticon Research Spending Slider Cost"
+ army_spending_slider_law_cost_factor: "£political_advisor_cost_texticon Army Spending Slider Cost"
+
+###############################################
+## Economy Policy
+##############################################
+ economic_policy: "Economic Policy"
+## Economic System
+ idea_group_economic_system: "Economic System"
+ economic_system: "Economic System"
+ EFFECT_CHANGE_LAW_economic_system: "Change Economic System Law to '$NAME|Y$' which grants ($DESC$)."
+ agrarian_economy: "Agrarian Economy"
+ EFFECT_CHANGE_LAW_agrarian_economy: "Change Agrarian Economy Law to '$NAME|Y$' which grants ($DESC$)."
+ industrializing_economy: "Industrializing Economy"
+ EFFECT_CHANGE_LAW_industrializing_economy: "Change Industrializing Economy Law to '$NAME|Y$' which grants ($DESC$)."
+ free_market_economy: "Free Market Economy"
+ EFFECT_CHANGE_LAW_free_market_economy: "Change Free Market Economy Law to '$NAME|Y$' which grants ($DESC$)."
+ social_market_economy: "Social Market Economy"
+ EFFECT_CHANGE_LAW_social_market_economy: "Change Social Market Economy Law to '$NAME|Y$' which grants ($DESC$)."
+ corporatism: "Corporatism"
+ mixed_economy: "Mixed Economy"
+ planned_economy: "Planned Economy"
+
+## Trade
+ law_free_trade: "Free Trade"
+ law_export_focus: "Export Focus"
+ law_limited_exports: "Limited Exports"
+ law_closed_economy: "Closed Economy"
+
+## Taxation Policy
+ EFFECT_CHANGE_LAW_taxation_slider_law: "Change Taxation Policy to '$NAME|Y$' which grants ($DESC$)."
+ taxation_slider_law: "Taxation Policy"
+ taxation_level_1: "Minimal Taxation"
+ taxation_level_2: "Low Taxation"
+ taxation_level_3: "Acceptable Taxation"
+ taxation_level_4: "Overtaxation"
+ taxation_level_5: "Death and Taxes"
+
+## Social Spending Policy
+ EFFECT_CHANGE_LAW_social_spending_slider_law: "Change Social Spending Policy to '$NAME|Y$' which grants ($DESC$)."
+ social_spending_slider_law: "Social Spending Policy"
+ social_spending_level_1: "No Social Spending"
+ social_spending_level_2: "Minimal Social Spending"
+ social_spending_level_3: "Low Social Spending"
+ social_spending_level_4: "Large Social Spending"
+ social_spending_level_5: "Generous Social Spending"
+
+## Military Spending Policy
+ EFFECT_CHANGE_LAW_army_spending_slider_law: "Change Military Spending Policy to '$NAME|Y$' which grants ($DESC$)."
+ army_spending_slider_law: "Military Spending Policy"
+ army_spending_level_1: "Disarmed Nation"
+ army_spending_level_2: "Militia Based Army"
+ army_spending_level_3: "Standing Army"
+ army_spending_level_4: "Increased Army Spending"
+ army_spending_level_5: "Large Army Spending"
+
+## Research and Education Spending Policy
+ EFFECT_CHANGE_LAW_research_spending_slider_law: "Change Research and Education Spending Policy to '$NAME|Y$' which grants ($DESC$)."
+ research_spending_slider_law: "Research and Education Spending"
+ research_spending_level_1: "Limited Funding"
+ research_spending_level_2: "Subsidies"
+ research_spending_level_3: "Medium Funding"
+ research_spending_level_4: "Extensive Funding"
+ research_spending_level_5: "Massive Spending"
+
+###############################################
+## Research Teams
+##############################################
+## Research Teams
+ research_teams: "Research Teams"
+ Research_Team: "Research Team"
+
+###############################################
+## Tooltips
+##############################################
+ idea_header_political: "£pol_idea_texticon \n"
+ idea_header_military: "£army_experience_20x20 \n"
+ idea_header_economy: "£industry \n"
+ CANNOT_CHANGE_SLIDER_LAW_MUST_USE_SLIDER: "You cannot change §OSpending Laws§! laws here, use the sliders in the §YEconomy§! view instead."

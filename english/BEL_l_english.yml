@@ -1,0 +1,28 @@
+﻿l_english:
+######################################################################
+#  National Spirits
+######################################################################
+ BEL_Belgitude: "Belgitude"
+ BEL_Belgitude_desc: "The Belgian identity is a patchwork of languages, loyalties, and regional cultures, stitched together by circumstance more than shared spirit. In times of peace, this fragile unity sustains compromise and coexistence. But under the strain of war, the divisions run deep - undermining morale, weakening resolve, and leaving the army uncertain of what exactly it fights to defend."
+ 
+######################################################################
+#  Events
+######################################################################
+ BEL_Election_1936.1.t: "Belgian General Elections, 1936"
+ BEL_Election_1936.1.d: ""
+ BEL_Election_1936.1.A: "Paul van Zeeland - Catholic Party"
+ BEL_Election_1936.1.B: "Emile Vandervelde - Labour Party"
+
+ BEL_Politics.1.t: "Change of Prime Minister"
+ BEL_Politics.1.d: ""
+ BEL_Politics.1.A: "Paul-Henri Spaak - Labour Party"
+
+ BEL_Election_1939.1.t: "Belgian General Elections, 1939"
+ BEL_Election_1939.1.d: ""
+ BEL_Election_1939.1.A: "Hubert Pierlot - Catholic Party"
+ BEL_Election_1939.1.B: "Paul-Henri Spaak - Labour Party"
+
+ BEL_Reserves.1.t: "New Reserve Training"
+ BEL_Reserves.1.d: "Any intelligent Belgian understands that the world is no longer at peace. We are a long way from what the Treaty of Versailles brought to us, France, and the rest of war-torn Europe, and it appears that we may face the same problems again. Wars are raging all around us, and the pressure is on to be able to resist any enemies who may decide to attack us.\n\nTo accomplish this, some of our advisors have suggested that we form a Second Reserve to assist our main divisions in the defence of Belgium if our great nation is attacked - after all, more men in the field is undoubtedly a good way to defend ourselves, especially given our relatively small population, which requires that every able-bodied man fight.\n\nHowever, there is a problem with this: our small nation lacks both manpower and industry. While conscription is already unpopular, some argue that another reserve could be undersupplied and use obsolete weaponry, diverting important backup guns from our main army only to place old weapons in the hands of untrained young men who would be ineffective against rising threats anyway."
+ BEL_Reserves.1.A: "We must have more men out there! Conscript a second reserve!"
+ BEL_Reserves.1.B: "Let us not overextend ourselves - we cannot take the cost."

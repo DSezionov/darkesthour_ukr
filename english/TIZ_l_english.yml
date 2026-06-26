@@ -1,0 +1,15 @@
+﻿l_english:
+
+######################################################################
+#  Events
+######################################################################
+
+# Spanish occupation of Tangier
+ TIZ_Spanish_Occupation.1.t: "Spanish Troops Enter Tangier!"
+ TIZ_Spanish_Occupation.1.d: "The crack of boots on cobblestones echoed through Tangier this morning as Spanish troops poured into the city. Taking advantage of France's defeat and the withdrawal of foreign garrisons, Spain has declared the international administration \"incapable of ensuring security,\" claiming its forces are merely “protecting” Spanish Morocco from foreign intrigue.\n\nColumns of Regulares and Falangist militias now patrol the streets, the red-and-gold banner of Spain flying over the Kasbah. International officials offered no resistance, quietly surrendering their posts as Spanish officers took control. The administration insists this is a temporary occupation, but Franco's men march as conquerors, not guests. Whispers in the souks speak of new taxes, military rule, and an end to Tangier's free port—once the beating heart of its prosperity."
+ TIZ_Spanish_Occupation.1.A: "We can do nothing but watch…"
+ TIZ_Spanish_Occupation.2.t: "Spain Seizes Tangier Amid French Collapse"
+ TIZ_Spanish_Occupation.2.d: "[FROM.GetNewsIcon]In a swift maneuver following the collapse of France, Spanish forces crossed into Tangier yesterday, ending the city's sixteen-year tenure as an internationally governed free zone. Since its establishment in 1923, Tangier had remained a neutral enclave, its streets largely free of armies and fortifications, governed instead by a fragile coalition of foreign powers aiming to preserve open trade and peace in this vital Mediterranean crossroads.\n\nHowever, with the fall of France and the subsequent withdrawal of French and international security personnel, the fragile neutrality of Tangier came under threat. Seizing the moment, Madrid justified its intervention as a necessary measure to maintain order and protect the neighboring Spanish Morocco from the instability spilling from Europe's embattled powers.\n\nSpanish troops entered unopposed, raising their national flag over the Kasbah as the international administration quietly dissolved. While Spain has pledged to uphold Tangier's status as a free port, the arrival of Regulares and regular army units signals a marked end to the city's demilitarized era."
+ TIZ_Spanish_Occupation.2.A: "A necessary move."
+ TIZ_Spanish_Occupation.2.B: "What an outrage! Withdraw at once!"
+ TIZ_Spanish_Occupation.2.C: "A bold move."

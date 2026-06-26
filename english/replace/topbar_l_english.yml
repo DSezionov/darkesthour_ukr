@@ -1,0 +1,20 @@
+﻿l_english:
+
+### Changed Vanilla Entries
+
+ TOPBAR_DEPLOYMENT: "Recruiting & Deployment"
+ TOPBAR_TRADE: "Trading Overview"
+ TOPBAR_TRADE_DESC: "Trade for vital resources from all over the globe."
+ TOPBAR_PRODUCTION: "Production Management"
+ TOPBAR_PRODUCTION_DESC: "Manage production of equipment for your land, naval and air forces."
+ TOPBAR_TECHNOLOGY: "Research & Development"
+ TOPBAR_TECHNOLOGY_DESC: "Research £tech_mod technologies to advance your nation's technological edge"
+ TOPBAR_DIPLOMACY: "Diplomatic Overview"
+ TOPBAR_DIPLOMACY_DESC: "List & conduct negotiations with other nations."
+ TOPBAR_LOGISTICS: "Logistical Overview"
+ TOPBAR_LOGISTICS_DESC: "See details on how equipment is being used by, and produced for, your armed forces."
+ TOPBAR_CONSTRUCTION: "Construction Management"
+ TOPBAR_CONSTRUCTION_DESC: "Construct new industries and military emplacements."
+ TOPBAR_DECISIONVIEW: "Events & Decisions"
+ TOPBAR_DECISIONVIEW_DESC: "Take important decisions and observe events that happen to your nation.\n"
+

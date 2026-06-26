@@ -1,0 +1,88 @@
+﻿l_english:
+##############################################
+## Colored Puppets
+##############################################  
+ Colored_Puppet.1.t: "Colored Puppets"
+ Colored_Puppet.1.d: "Do you want colored puppets on or off?"
+ Colored_Puppet.1.A: "Turn colored puppets on."
+ Colored_Puppet.1.B: "Turn colored puppets off."
+ Colored_Puppet.2.t: "A Puppet of a foreign power"
+ Colored_Puppet.2.d: "We have sadly became a puppet of a foreign power, and they are enforcing their color upon us."
+ Colored_Puppet.2.A: "Damn!"
+ Colored_Puppet.3.t: "Free from our oppresors!"
+ Colored_Puppet.3.d: "We have gain our freedom our oppresors, and therfore we may adopt our own color again."
+ Colored_Puppet.3.A: "FREEDOM!"
+
+###########################################
+## Faction Joining Decision Events
+###########################################
+ Factions_Join.1.t: "[From.GetName] wishes to join our Faction!"
+ Factions_Join.1.d: "We have recieved a message from [From.GetName] that they wish to join our faction. Should we allow them into the faction?"
+ Factions_Join.1.A: "Yes we should accept."
+ Factions_Join.1.B: "No they are on their own."
+
+######################################################################
+#  The Winter of 1939-1940 and 1940-1941
+######################################################################
+ GLOBAL_Winter.1.t: "The Severe Winter of 1939"
+ GLOBAL_Winter.1.d: "[ENG.GetNewsIcon]As winter sets in across Europe and North America, temperatures have begun to plummet. While the cold month of November was relatively mild at first, the winter that follows is expected to be one of the harshest on record, with December or January predicted to have the first subzero temperature of the twentieth century.\n\nThe streets of European cities and towns are already covered in snow, and both Germany's and the Allies' armies are reluctant to fight. With their supply lines buried in the flurries and men shivering in their barracks or foxholes, major fighting is unlikely - though soldiers are still dying of hypothermia. The United Kingdom, Wales and Northern England have experienced extremely cold weather,  resulting in vehicle accidents, which is expected to continue into January. \n\nMeanwhile, in the United States, temperatures have reached record lows in southern states such as Florida and Texas, with the rest of the country experiencing harsh cold weather as well. Even in the western states, where Arizona recently had its wettest month on record, the chill has spread far and wide, all coming after North America experienced a heat and cold wave in 1936. Snowstorms are expected to continue for months, with anticyclones forming from Scandinavia to Greenland, causing normally travelling weather to become stuck in specific areas on a regular basis."
+ GLOBAL_Winter.1.A: "Mother Nature begins her own offensive on the world."
+ GLOBAL_Winter_1939: "§BThe Severe Winter of 1939-'40§!"
+ GLOBAL_Winter_1939_tt: "\nState Modifier will be removed on§!§Y 1 May, 1940§!§W.§!"
+
+ GLOBAL_Winter.2.t: "End of the Severe Winter of 1939-1940"
+ GLOBAL_Winter.2.d: "[ENG.GetNewsIcon]The winter in Europe and North America has finally begun to ease, allowing both soldiers and citizens to recover from the cold aftermath. Temperatures dropped to chilling - in both mental and physical senses - lows, with the United Kingdom quickly falling to its lowest point in decades and the Thames freezing over for eight miles. A similar event occurred in Central Europe, when ice on the Danube halted all transportation. In the east, Romania was minus 40, the Soviet Union reported record frost with Moscow at minus 44, Poland reached its all-time low of -41, and in Riga, the temperature dropped 79.2 degrees in just 36 hours in early January - the harshest cold wave in years.\n\nAccording to unverified sources, trains in the United Kingdom may have crashed due to frost, which reached record lows, particularly in Wales. On January 27 and 28, a phenomenon known as 'glazed frost' occurred in South and West England, where raindrops fell and were supercooled to the point where they fell as water but turned immediately into clear ice when they hit the ground, causing branches, telephone wires, and railways to be frozen over in several inches of ice.\n\nA number of soldiers and civilians have been reported killed, but the most documented deaths occurred when unprepared troops were forced to spend the winter hiding in foxholes with no actual winter training. As the cold temperatures subside, it becomes clear that the world only has a second to recover before man kills man again rather than nature doing it for them."
+ GLOBAL_Winter.2.A: "Is this punishment for what we are doing?"
+
+ GLOBAL_Winter.3.t: "Winter of 1941 has Started"
+ GLOBAL_Winter.3.d: "[ENG.GetNewsIcon]Another harsh winter has hit the European continent, resulting in multiple blockings and cut-off lows. Degrees drop well below 0 Celsius, outperforming even the severe winter of 1939-1940 in terms of temperature. In some parts of the Soviet Union, temperatures have been reported to be as low as -50.\n\nThis winter is having a significant impact in the region. People and resources are already feeling the brunt of the cold, with reports of people freezing to death. Logistics are in such a bad state that it would not be an exaggeration to say they are nonexistent as oil even begins to freeze in several tanks. These conditions are likely to cause widespread problems as everyone struggles to survive in such harsh conditions.\n\nThis is the second harsh winter in such a short time, being even worse than the previous one. We can only hope that similar surprises do not await us in the coming years. Hopefully, spring arrives quickly, saving us from such Siberian conditions."
+ GLOBAL_Winter.3.A: "How much colder can it get?"
+ GLOBAL_Winter_1941: "§BThe Severe Winter of 1941-'42§!"
+ GLOBAL_Winter_1941_tt: "\nState Modifier will be removed on§!§Y 1 May, 1942§!§W.§!"
+
+ GLOBAL_Winter.4.t: "The Harsh Winter Calms Down"
+ GLOBAL_Winter.4.d: "[ENG.GetNewsIcon]The harshest European winter of the century, which has seen record freezing temperatures across Eastern, Western, and Northern Europe, with temperatures as low as -37 degrees Celsius as far as East Prussia and Gdansk and unheard-of -50 degrees Celsius in the Western USSR, appears to be slowing down.\n\nTemperatures are rapidly rising as the winter season gives way to spring. Fuel no longer freezes in vehicles, and people living in Eastern Europe are no longer at risk of severe frostbite. Flowers are sprouting, ready to bloom in April and May, as a more free and happy life returns to city streets. We must hope that such freezing temperatures do not occur again, and that we can enjoy winter rather than fear it."
+ GLOBAL_Winter.4.A: "Finally, the cars can run!"
+######################################################################
+#  Other
+######################################################################
+
+decisions.3.t: "Suez Canal Blown"
+decisions.3.desc_eng: "[FROM.GetNewsIcon]In response to hostile forces closing in on the Suez Canal, and risking losing the vital commerce artery to the enemy, [From.GetNameDef] has instead chosen to blown the canal to ensure its use is denied to them. Through a combination of blockships, demolitions, and mining, the destruction is quite complete, and will likely take months of extensive industrial effort to repair."
+decisions.3.desc_not_eng: "[FROM.GetNewsIcon]In what can only be described as a daring and brilliant military operation, [From.GetNameDef] has succeeded in severing the vital commerce artery that is the Suez Canal. Through a combination of blockships, demolitions, and mining, the destruction is quite complete, and will likely take months of extensive industrial effort to repair."
+decisions.3.a: "A calamity!"
+decisions.3.b: "We could not let the enemy use it."
+decisions.3.c: "We shall not underestimate their resolve again."
+decisions.3.d: "We have cut the cord with their Empire!"
+decisions.3.e: "A magnificent blow against the British!"
+decisions.3.f: "They made the right call."
+decisions.3.g: "A great blow against our ally..."
+decisions.3.h: "This will impact the entire world..."
+
+decisions.4.t: "Panama Canal Blown"
+decisions.4.desc_usa: "[FROM.GetNewsIcon]In response to their inability to defend the Panama Canal, and risking losing the vital military communications artery to the enemy, [From.GetNameDef] has instead chosen to blown the canal to ensure its use is denied to them. Through a combination of blockships, demolitions, and mining, the destruction is quite complete, and will likely take months of extensive industrial effort to repair."
+decisions.4.desc_not_usa: "[FROM.GetNewsIcon]In what can only be described as a daring and brilliant military operation, [From.GetNameDef] has succeeded in severing the vital military communications artery that is the Panama Canal. Through a combination of blockships, demolitions, and mining, the destruction is quite complete, and will likely take months of extensive industrial effort to repair."
+decisions.4.a: "A calamity!"
+decisions.4.b: "We could not let the enemy use it."
+decisions.4.c: "We shall not underestimate their resolve again."
+decisions.4.d: "Their navy is cut off on the far side!"
+decisions.4.e: "A magnificent blow against the Americans!"
+decisions.4.f: "They made the right call."
+decisions.4.g: "A great blow against our ally..."
+decisions.4.h: "Pacific and Atlantic are divided once again."
+
+decisions.5.t: "Suez Canal Repaired"
+decisions.5.desc: "[FROM.GetNewsIcon]With a tremendous industrial effort [From.GetNameDef] has managed to repair the Suez Canal. This morning saw the re-opening of the vital commerce artery into the Mediterranean, after over half a year of intensive repair work."
+decisions.5.a: "We have restored the link to our Empire."
+decisions.5.b: "A necessary investment for our nation."
+decisions.5.c: "This will aid our efforts greatly."
+decisions.5.d: "They have undone the setback..."
+decisions.5.e: "The effects will be felt by all."
+
+decisions.6.t: "Panama Canal Repaired"
+decisions.6.desc: "[FROM.GetNewsIcon]With a tremendous industrial effort [From.GetNameDef] has managed to repair the Panama Canal. This morning saw the re-opening of the vital military link between the Atlantic and the Pacific, after over a year of intensive repair work."
+decisions.6.a: "We have restored the vital link between our oceans."
+decisions.6.b: "We may once again move from Pacific to Atlantic."
+decisions.6.c: "This will aid our efforts greatly."
+decisions.6.d: "They have undone the setback..."
+decisions.6.e: "The effects will be felt by all."

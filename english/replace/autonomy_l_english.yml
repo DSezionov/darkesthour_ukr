@@ -1,0 +1,27 @@
+﻿l_english:
+
+### Changed Vanilla Entries
+
+### DH - New Autonomy Levels 
+# (and vanilla categories with different syntax)
+ AUTONOMY_Integrated_Puppet: "Integrated Puppet"
+ AUTONOMY_Puppet: "Puppet"
+ AUTONOMY_Satellite: "Satellite"
+ AUTONOMY_Colony: "Colony"
+ AUTONOMY_Protectorate: "Protectorate"
+ AUTONOMY_Dominion: "Dominion"
+ AUTONOMY_Personal_Union: "Personal Union"
+ AUTONOMY_Autonomous_Army: "Autonomous Army"
+ AUTONOMY_Clique: "Clique"
+ AUTONOMY_Province: "Province"
+ AUTONOMY_Warlord: "Warlord"
+ AUTONOMY_Reichskommissariat: "Reichskommissariat"
+ AUTONOMY_Reichsprotectorate: "Reichsprotektorat"
+ AUTONOMY_Militarverwaltung: "Militärverwaltung"
+ AUTONOMY_Marionettenstaat: "Marionettenstaat"
+ AUTONOMY_Mitstreiter: "Mitstreiter"
+ AUTONOMY_SSR: "Soviet Socialist Republic"
+ AUTONOMY_Imperial_Subject: "Imperial Subject"
+ AUTONOMY_Imperial_Protectorate: "Imperial Protectorate"
+ AUTONOMY_Imperial_Associate: "Imperial Associate"
+ AUTONOMY_Insular_Government: "Insular Government"

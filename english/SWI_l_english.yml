@@ -1,0 +1,7 @@
+﻿l_english:
+######################################################################
+#  Events
+######################################################################
+ SWI_Election.0.t: "Annual Presidential Rotation"
+ SWI_Election.0.d: "The Federal Council has completed its yearly session to select the next President of the Swiss Confederation. In keeping with Swiss tradition, the presidency rotates among the council members, ensuring equal representation and balanced leadership. [ROOT.GetLeader] has officially concluded their term, stepping down as the new president assumes office without ceremony or dispute."
+ SWI_Election.0.A: "Farewell, [ROOT.GetLeader]!"

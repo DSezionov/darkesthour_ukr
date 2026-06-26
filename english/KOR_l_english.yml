@@ -1,0 +1,18 @@
+﻿l_english:
+######################################################################
+#  Decisions
+######################################################################
+
+### OCCUPATION OF KOREA
+ Occupation_of_Korea_category: "Occupation of Korea"
+ Occupation_of_Korea_category_desc: "Following the Surrender of Japan, our nation was allotted an occupation zone on the Korean Peninsula.\n\nIt is imperative that we take the necessary steps in our zone to ensure the smooth transition from military occupation to a friendly, ideologically compliant regime to represent our interests on the peninsula in the decades to come."
+
+# USSR
+ SOV_Establish_the_PPC: "Establish the Provisional People's Committee"
+ SOV_Establish_the_PPC_desc: "Under the guidance of the Soviet Union, we will form the Provisional People's Committee of Korea. Led by Kim Il-sung, this committee will serve as our ideological foothold on the peninsula, consolidating local communist influence and preparing the ground for a future socialist state."
+ SOV_Grant_Korean_Independence: "Grant Korean Independence"
+ SOV_Grant_Korean_Independence_desc: "We recognize the strategic importance of appearing to respect Korean sovereignty. By declaring the independence of the Democratic People's Republic of Korea, we aim to legitimize our influence. Kim Il-sung will be installed as the head of state, ensuring that the DPRK remains firmly aligned with Soviet interests."
+
+# USA
+ USA_Grant_Korean_Independence: "Grant Korean Independence"
+ USA_Grant_Korean_Independence_desc: "Following Japan's surrender, we must help establish a government in Korea that is independent yet aligned with American ideals. Supporting Syngman Rhee as the leader of South Korea ensures a government friendly to the United States, acting as a bulwark against communist expansion on the peninsula."

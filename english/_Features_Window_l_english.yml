@@ -1,0 +1,43 @@
+﻿l_english:
+ # GUI:
+ DH_FEATURES_WINDOW_HEADER: "[This.GetFeaturesWindowHeader]"
+ DH_FEATURES_WINDOW_TITLE: "[This.GetFeaturesWindowTitle]"
+ DH_FEATURES_WINDOW_TEXT: "[This.GetFeaturesWindowText]"
+ DH_FEATURES_WINDOW_PREV_TAB_BUTTON_TT: "Previous Page"
+ DH_FEATURES_WINDOW_NEXT_TAB_BUTTON_TT: "Next Page"
+ DH_FEATURES_WINDOW_CLOSE_BUTTON_TEXT: "Let's Play!"
+
+ # Scripted Localisation:
+ DH_FEATURES_WINDOW_HEADER_FEATURE: "View the"
+ #DH_FEATURES_WINDOW_HEADER_FEATURE: "§GFeature§!"
+ DH_FEATURES_WINDOW_HEADER_NEW_FEATURE: "§ONew Feature§!"
+ DH_FEATURES_WINDOW_HEADER_WELCOME: "Welcome to"
+
+ DH_FEATURES_WINDOW_TEXT_WELCOME: "§RDarkest Hour§! is a total overhaul mod for Hearts of Iron IV. \n\n\nStart in the year 1933, see the rise of Hitler, fight the Great Depression, and prepare your nation for the upcoming storm that will shatter Europe and the World."
+
+ DH_FEATURES_WINDOW_TITLE_WAR_ROOM: "War Room"
+ DH_FEATURES_WINDOW_TEXT_WAR_ROOM: "A new system that allows players to plan and coordinate large-scale military operations.\n\nEach operation includes multiple preparation steps, choices, and outcomes.\n\nPlayers can prepare supporting measures, and manage progress until the operation is ready to launch."
+
+ DH_FEATURES_WINDOW_TITLE_SUBJECT_MANAGER: "Subject Manager"
+ DH_FEATURES_WINDOW_TEXT_SUBJECT_MANAGER: "Overlords now have more detailed control over their subjects, expanding both management features and available actions.\n\nThese actions include diplomatic tasks, construction priorities, production settings, and strategic orders.\n\nThese actions give the overlord meaningful choices in how to manage their sphere."
+
+ DH_FEATURES_WINDOW_TITLE_RESERVES: "Reserves & Militias"
+ DH_FEATURES_WINDOW_TEXT_RESERVES: "This system gives nations access to historical reserve formations and militia units.\n\nThese units represent emergency forces, offering nations additional manpower and equipment options.\n\nSome units are available at the start while others are unlocked or upgraded throughout the game."
+
+ DH_FEATURES_WINDOW_TITLE_NOTIFICATIONS: "Combat Log"
+ DH_FEATURES_WINDOW_TEXT_NOTIFICATIONS: "This feature tracks events such as losing or gaining states, allied territorial losses, naval invasions, and airborne assaults, allowing players to react quickly without constantly switching their view across the map.\n\nAll notifications can be individually toggled on or off through a dedicated interface."
+
+ DH_FEATURES_WINDOW_TITLE_ALLIES_POST: "Allied Post-War\nContent"
+ DH_FEATURES_WINDOW_TEXT_ALLIES_POST: "A new post-war focus tree for the Allies, that expands the late-game experience once the war in Europe concludes.\n\nThis includes new content such as the formation of the United Nations and Operation Unthinkable.\n\nThe UN Security Council mechanic allows players to influence global diplomacy through resolutions."
+
+ DH_FEATURES_WINDOW_TITLE_SOVIET_POST: "Soviet Post-War\nContent"
+ DH_FEATURES_WINDOW_TEXT_SOVIET_POST: "A new post-war focus tree that expands Soviet gameplay beyond the defeat of Germany, offering multiple paths for shaping the future of the Union.\n\nThis also includes Operation Red Dawn, a fully-fledged War Room operation representing a potential Soviet offensive against the Western Allies."
+
+ DH_FEATURES_WINDOW_TITLE_TUTORIAL: "In-Game Tutorial"
+ DH_FEATURES_WINDOW_TEXT_TUTORIAL: "A new in-game tutorial to help players navigate the new mechanics introduced in Darkest Hour.\n\nThis guided system walks through each major addition step by step, explaining interface changes, new tabs, updated mechanics, and key features directly inside the game."
+
+ DH_FEATURES_WINDOW_TITLE_GUIDE: "How to Play Guide"
+ DH_FEATURES_WINDOW_TEXT_GUIDE: "A new guide that offers an accessible in-game handbook for all major Darkest Hour mechanics.\n\nThis feature provides a structured overview of systems not covered by the standard tutorial.\n\nEach page breaks down a specific mechanic, allowing players to explore and revisit explanations."
+
+ DH_FEATURES_WINDOW_TITLE_CHANGELOG: "Full Changelog"
+ DH_FEATURES_WINDOW_TEXT_CHANGELOG: "This update introduces a wide range of adjustments, improvements, and fixes across all nations, mechanics, and systems.\n\nThere are too many changes to list them all here, but the full changelog can be viewed on our Discord server for an in-depth look at every change made in this update."

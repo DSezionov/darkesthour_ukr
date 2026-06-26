@@ -1,0 +1,98 @@
+﻿l_english:
+
+### Changed Vanilla Entries
+ CAN_SEND_VOLUNTEERS: "Can send volunteers"
+
+### DH - New Diplomacy Tooltips
+ RELEASE_ALL_OWNED_STATES: "§RAfter releasing, we'd be left with no territory.§!"
+ RELEASE_ALL_OWNED_CORES: "§RAfter releasing, we must own at least one of our own cores.§!"
+ RELEASE_NOT_ALLOWED: "§R[ROOT.GetNameDef] can't release [FROM.GetNameDef].§!"
+ RELEASE_SPLINTER: "§RWe can't release enemies of our cause.§!" # Unused
+
+### DH - New Diplomatic Actions
+# Recall Volunteers
+ RECALL_VOLUNTEERS_TITLE: "Recall Volunteers"
+ RECALL_VOLUNTEERS_ACTION_DESC: "We can decide to recall the volunteers we have sent to other countries."
+ RECALL_VOLUNTEERS_TOOLTIP: "§Y[This.GetNameWithFlag]§! §Rmust have any volunteers from us we can recall.§!"
+ RECALL_VOLUNTEERS_TOOLTIP_G: "§Y[This.GetNameWithFlag]§! must have any volunteers from us we can recall."
+
+############################################################
+### Opinion Modifiers
+############################################################
+
+### Generic
+
+### Content
+# Atrocities
+ OM_C_Holocaust: "The Holocaust"
+ OM_C_Katyn_Massacre: "Katyn Massacre"
+# Germany
+ OM_C_Anti_Comintern_Pact: "Anti-Comintern Pact"
+ OM_C_Refused_Anti_Comintern_Pact: "Refused Anti-Comintern Pact"
+ OM_C_Left_the_LoN: "Left the League of Nations"
+ GER_POL_Customs_War: "German-Polish Customs War"
+ GER_SOV_Trade_Agreement: "German-Soviet Trade Agreement"
+ GER_CHI_Trade_Agreement: "German-Chinese Trade Agreement"
+ GER_CHI_Trade_Agreement_reduced: "German-Chinese Trade Agreement"
+ GER_Recognized_Manchukuo: "Recognized Manchukuo"
+ GER_Recognized_Manchukuo_CHI: "Recognized Manchukuo"
+ GER_Condemned_Japanese_Agression: "Condemned Japanese Aggression"
+ GER_Condemned_Japanese_Agression_JAP: "Condemned Japanese Aggression"
+# Spain + CW
+ SPA_amigos: "Nossos amigos Iberianos!"
+ SPA_condor: "Sent Condor Legion"
+ SPA_regia_marina: "Regia Marina Support"
+ SPA_italy_help_1: "Italian Support in Civil War"
+ SPA_italy_help_2: "Italian sends Further Support"
+ SPA_italy_volunteer_1: "Sent Corpo Truppe Voluntarie"
+ SPA_italy_volunteer_2: "Corpo Truppe Voluntarie Reinforced"
+ SPA_ethiopian_advisors: "Sent Ethiopian Veterans"
+ SPA_german_advisors: "Sent Advisors from Germany"
+ SPA_viriatos: "Attract Viriatos"
+ SPA_ENG_sent_volunteers: "Sent Volunteers"
+ SPA_USA_sent_volunteers: "Sent Volunteers"
+ SPA_MEX_sent_volunteers: "Sent Volunteers"
+ SPA_SOV_sent_rifles: "Sent rifles for Civil War"
+ SPA_SOV_sent_artillery: "Sent heavy equipment for Civil War"
+# United Nations
+ rescue_anglo_french_finances_trade: "Rescue Anglo-French Finances"
+ recognized_the_london_government: "Recognised the London Government"
+ cut_soviet_trade: "Soviet Trade Cut"
+ turned_over_the_roa: "Turned Over the ROA"
+ oppressed_germany: "Continued Oppression of Germany"
+ offered_redemption: "Offered Redemption"
+ help_of_the_hoover_commission: "Gratitude for the Hoover Commission"
+
+############################################################
+###   Vanilla Diplomatic Actions
+############################################################
+ GER_Invite_Into_The_AK_Pact: "Invite into the §YAntikominternpakt§!"
+ 
+ RULE_MUST_COMPLTE_LEND_LEASE_ACT_TT: "§RWe must complete the focus \"The Lend-Lease Act\" first!§!"
+
+ CAN_ONLY_JOIN_JAP_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§Y[Root.GetName]§! §Ris not neighboring any member of the §!§Y[From.GetFactionName]§!§R and our capital is neither in Asia nor Australia.§!"
+ CAN_ONLY_JOIN_JAP_OTHER_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§Y[Root.GetName]§! §Ris not neighboring any member of the §!§Y[From.GetFactionName]§!§R and their capital is neither in Asia nor Australia.§!"
+ CAN_ONLY_INVITE_JAP_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§Y[From.GetName]§! §Ris not neighboring any member of the §!§Y[Root.GetFactionName]§!§R and their capital is neither in Asia nor Australia.§!"
+ CAN_ONLY_INVITE_JAP_INTO_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§Y[From.GetName]§! §Ris not neighboring any member of the §!§Y[Root.GetFactionName]§!§R and our capital is neither in Asia nor Australia.§!"
+ CAN_ONLY_CREATE_JAP_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§RWe are neither a neighbor of§! §Y[From.GetName]§! §Rnor are the capitals of both countries in Asia or Australia.§!"
+
+ CAN_ONLY_JOIN_FACTION_WITH_AT_LEAST_50_WS: "§RWe need at least §Y50.00%§! War Support to join a faction.§W"
+ CAN_ONLY_JOIN_FACTION_WITH_100_WT_OR_AT_WAR_WITH_MAJOR: "§R- The World Tension needs to be at §Y100.00%§! or we have to be at war with a major to be able to join a faction.§W"
+ CAN_ONLY_BE_INVITED_INTO_FACTION_WITH_AT_LEAST_50_WS: "§R[From.GetNameDefCap] need at least §Y50.00%§! War Support to join a faction.§W"
+ CAN_ONLY_BE_INVITED_INTO_FACTION_WITH_100_WT_OR_AT_WAR_WITH_MAJOR: "§R- The World Tension needs to be at §Y100.00%§! or [From.GetNameDef] have to be at war with a major for them to be able to join a faction.§W"
+
+ RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP_OVERLORD_SUBJECT: "§RAn overlord cannot guarantee its own subject.§!"
+ RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP_SUBJECT_OVERLORD: "§RA subject cannot guarantee its overlord.§!"
+ RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP_FACTION: "§RMembers of the same faction cannot guarantee each other.§!"
+
+ RULE_ALLOW_NONAGGRESSIONPACTS_BLOCKED_TOOLTIP_OVERLORD_SUBJECT: "§RAn overlord cannot sign a non-aggression pact with its own subject.§!"
+ RULE_ALLOW_NONAGGRESSIONPACTS_BLOCKED_TOOLTIP_SUBJECT_OVERLORD: "§RA subject cannot sign a non-aggression pact with its overlord.§!"
+ RULE_ALLOW_NONAGGRESSIONPACTS_BLOCKED_TOOLTIP_FACTION: "§RMembers of the same faction cannot sign a non-aggression pact with each other.§!"
+ 
+ PREVENT_ALLIES_CALL_WAR_ON_SOV: "§RBritain and the Allies are unfortunately not willing to fight both the Germans and the Soviet Union. As such, it is not possible to call them into the fight against the Communists. In the east, Poland stands alone.§!"
+ PREVENT_ALLIES_JOIN_WAR_ON_SOV: "§RDespite the Germans starting this fight, public opinion is still heavily effected by the Great War. As such, intervening against the Soviets would be politically, and potentially militarily, suicide. We will fight the Huns, but Poland will have to fight alone against the Communists.§!"
+ PREVENT_ITALY_JOIN_WAR_ON_FRANCE: "§ROur eagerness to join the war in World War II is overshadowed by the harsh reality of our inadequate military preparedness.\n\nDespite our strong desire for involvement, our limited military capabilities and resources fall significantly short of what is required for active participation in the conflict. §!"
+ PREVENT_GERMANY_CALL_WAR_ON_ITA: "§ROur desire to enlist Italy in the war against France and Britain is met with disappointment, as Italy is not adequately prepared to join the conflict.\n\nDespite our urging, Italy's readiness for war falls short, rendering it impossible to involve them in the fight against these Allied nations.§!"
+ PREVENT_DEN_JOIN_WAR_ON_GER: "§RThough under German control, we have not been called into the war. Our government has chosen a path of cooperation to avoid unnecessary destruction and preserve what little sovereignty remains.\n\nBecoming an active participant in the conflict would only bring ruin to our country, and so we remain on the sidelines.§!"
+ PREVENT_GERMANY_CALL_WAR_ON_DEN: "§RDenmark remains under our control, but calling them into the war is not an option. The Danish government has chosen to cooperate rather than resist, allowing us to maintain order without unnecessary conflict.\nForcing them into the war would only disrupt this stability, making it an impractical course of action.§!"
+ DISABLED_GENERATING_WARGOALS_MANUALLY: "§RNotice: Direct war justification option has been suspended. Seek alternate diplomatic routes.§!"

@@ -1,0 +1,5 @@
+﻿l_english:
+
+### Changed Vanilla Entries
+ TRIGGER_ALWAYS_TRUE: "Always"
+ TRIGGER_ALWAYS_FALSE: "Never"

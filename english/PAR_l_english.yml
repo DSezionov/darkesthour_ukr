@@ -1,0 +1,19 @@
+﻿l_english:
+######################################################################
+#  Leadership Change Events - Paraguay
+######################################################################
+ PAR_Leader_Change.1.t: "The February Revolution"
+ PAR_Leader_Change.1.d: "placeholder"
+ PAR_Leader_Change.1.a: "Viva Franco!"
+ 
+ PAR_Leader_Change.2.t: "Rafael Franco Deposed"
+ PAR_Leader_Change.2.d: "placeholder"
+ PAR_Leader_Change.2.a: "Down with Franco!"
+ 
+ PAR_Leader_Change.3.t: "Election of Jose Felix Estigarribia"
+ PAR_Leader_Change.3.d: "placeholder"
+ PAR_Leader_Change.3.a: "OK"
+ 
+ PAR_Leader_Change.4.t: "Estigarribia Dies in a Plane Crash"
+ PAR_Leader_Change.4.d: "placeholder"
+ PAR_Leader_Change.4.a: "Hail Morinigo!"

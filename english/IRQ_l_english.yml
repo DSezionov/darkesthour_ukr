@@ -1,0 +1,29 @@
+﻿l_english:
+######################################################################
+#  Iraq Events
+######################################################################
+ IRQ_Monarchy.1.t: "Death of Faysal I"
+ IRQ_Monarchy.1.d: "Faysal I, the esteemed King of Iraq, has passed away while on a medical visit to Switzerland. His reign was pivotal in establishing the foundations of modern Iraq following the dissolution of the Ottoman Empire. King Faysal was a key figure in the Arab Revolt and a respected leader whose vision shaped the nation. With his death, his son Ghazi I ascends to the throne, marking a significant transition for the monarchy and the country."
+ IRQ_Monarchy.1.A: "We mourn our King."
+
+ IRQ_Monarchy.2.t: "Death of Ghazi I"
+ IRQ_Monarchy.2.d: "Ghazi I, King of Iraq, has died in a tragic car accident under mysterious circumstances. His reign was characterized by efforts to strengthen Iraqi nationalism and reduce British influence. King Ghazi's sudden death has shocked the nation and led to widespread speculation. In accordance with the line of succession, his young son Faisal II is named the new king, however with a regency under Abd al-Ilah to be established due to his minority."
+ IRQ_Monarchy.2.A: "A tragic loss for the nation."
+
+ IRQ_Politics.1.t: "Nuri as-Said Appointed Prime Minister"
+ IRQ_Politics.1.d: "In a decisive political move, Nuri as-Said has been appointed as the Prime Minister of Iraq. Known for his pro-British stance and political acumen, as-Said's leadership is expected to bring stability and strengthen ties with the British Empire. His appointment comes at a crucial time as Iraq navigates through regional and international challenges."
+ IRQ_Politics.1.A: "We welcome Nuri as-Said."
+
+ IRQ_Golden_Square.1.t: "The Golden Square Coup" # IRQ POV
+ IRQ_Golden_Square.1.d: ""
+ IRQ_Golden_Square.1.A: "To a new era!"
+
+ IRQ_Golden_Square.2.t: "The Golden Square Coup" # ENG POV
+ IRQ_Golden_Square.2.d: "We have received reports from British diplomats in Iraq describing what appears to be a successful nationalist coup d'état to depose Regent Abd al-Ilah and his Prime Minister Nuri al-Said - instead installing Rashid Ali al-Gaylani as Prime Minister, with Sharif bin Rajeh as a puppet Regent.\n\nThe coup is led by four Iraqi nationalist army generals known as \"the Golden Square,\" who intend to use the war to press for full Iraqi independence after the country was granted limited independence in 1932. To that end, they are suspected of collaborating with German intelligence, as well as accepting military assistance from Germany and Italy.\n\nWe must now act quickly, lest the situation in Iraq spiral out of control and our enemies take advantage of the chaos. We must immediately send our forces to quell this revolt and return the country to our sphere of influence."
+ IRQ_Golden_Square.2.A: "Prepare the Invasion!"
+ IRQ_Golden_Square.2.A: "We can't do anything about it now."
+
+ IRQ_Golden_Square.3.t: "Capitulation of Iraq"
+ IRQ_Golden_Square.3.d: "Rashid Ali's \"National Defence Government\" is no longer in power. Our air and ground forces fought valiantly and quickly brought Iraq under our control. Lieutenant-General Quinan will command all British and Commonwealth forces in Iraq. British forces will remain in Iraq, effectively keeping the country under our control indefinitely. This occupation is deemed necessary in order to maintain our access to Iraq's strategic oil resources. Aside from the country's resources, we can use its advantageous location in the near future for both defensive and offensive operations. Finally, we can use it to ensure supply transport to Russia.\n\nWe cannot afford to lose this valuable asset to the Empire, and we must protect its oil fields from both land and air attacks at all costs. This war has demonstrated that British forces will defend democracy around the world against the threat of nationalism. Rashid Ali and the Mufti of Jerusalem are believed to have fled to Berlin, where Ali was most likely welcomed by Hitler as the head of the Iraqi government-in-exile."
+ IRQ_Golden_Square.3.A: "They will face justice soon enough."
+ IRQ_Golden_Square.3.effect_tt: "§YAbd al-Ilah§! will be restored as §YRegent§! of Iraq and agree to British protectorate status for the duration of the war."

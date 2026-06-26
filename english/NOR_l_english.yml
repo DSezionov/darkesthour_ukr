@@ -1,0 +1,22 @@
+﻿l_english:
+######################################################################
+# Events
+######################################################################
+### Eastern Greenland Case
+ NOR_Eastern_Greenland_Case.2.t: "Eastern Greenland Case: Ruling for Norway"
+ NOR_Eastern_Greenland_Case.2.d: "[FROM.GetNewsIcon]Closing arguments between the kingdoms of Denmark and Norway were heard by the Permanent Court of International Justice regarding the Eastern Greenland Case.\n\nThe case centered on Norway's claims to territories on the eastern coast of Greenland, namely Eirik Raudes Land and Fridtjof Nansens Land. These areas were declared Norwegian territory by the Norwegian royalty in 1931.\n\nDenmark argued that the entirety of the island falls under Danish sovereignty, citing the Ihlen Declaration as the basis for its claim. The Ihlen Declaration, named after former Norwegian Foreign Minister Nils Claus Ihlen, was a statement made by Ihlen to the Danish minister asserting that Norway would not oppose Denmark's claims of sovereignty over Greenland.\n\nHowever, Norway contended that Ihlen had violated the Norwegian Constitution by entering into an agreement with a foreign government without the consent of Parliament. Thus, Norway argued, the agreement was null and void. Conversely, Denmark maintained that Ihlen's declaration represented a binding agreement between the governments.\n\nAfter much deliberation, the PCIJ reached its verdict: Ihlen's agreement is non-binding on Norway, as he was not unilaterally authorized to enter into treaties. Both nations have accepted the ruling."
+ NOR_Eastern_Greenland_Case.2.A: "Hey, where's our slice?"
+ NOR_Eastern_Greenland_Case.2.B: "As it should be."
+ NOR_Eastern_Greenland_Case.2.C: "Scandalous!"
+
+ NOR_Eastern_Greenland_Case.3.t: "Eastern Greenland Case: Ruling for Denmark"
+ NOR_Eastern_Greenland_Case.3.d: "[FROM.GetNewsIcon]Closing arguments between the kingdoms of Denmark and Norway were heard by the Permanent Court of International Justice regarding the Eastern Greenland Case.\n\nThe case centered on Norway's claims to territories on the eastern coast of Greenland, namely Eirik Raudes Land and Fridtjof Nansens Land. These areas were declared Norwegian territory by the Norwegian royalty in 1931.\n\nDenmark argued that the entirety of the island falls under Danish sovereignty, citing the Ihlen Declaration as the basis for its claim. The Ihlen Declaration, named after former Norwegian Foreign Minister Nils Claus Ihlen, was a statement made by Ihlen to the Danish minister asserting that Norway would not oppose Denmark's claims of sovereignty over Greenland.\n\nHowever, Norway contended that Ihlen had violated the Norwegian Constitution by entering into an agreement with a foreign government without the consent of Parliament. Thus, Norway argued, the agreement was null and void. Conversely, Denmark maintained that Ihlen's declaration represented a binding agreement between the governments.\n\nAfter much deliberation, the PCIJ has reached its verdict: Norway must honor the agreement between the two nations, as the Ihlen Agreement is an unbreakable promise to Denmark. Both nations have accepted the ruling."
+ NOR_Eastern_Greenland_Case.3.A: "Hey, where's our slice?"
+ NOR_Eastern_Greenland_Case.3.B: "As it should be."
+ NOR_Eastern_Greenland_Case.3.C: "Scandalous!"
+
+######################################################################
+# Decisions
+######################################################################
+ NOR_De_mine_our_Seas_from_British_Mines: "De-mine our Seas from British Mines"
+ NOR_De_mine_our_Seas_from_British_Mines_desc: ""

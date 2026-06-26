@@ -1,0 +1,17 @@
+﻿l_english:
+ # GUIs:
+ DH_CUSTOM_ALERTS_DISMISSED_BUTTON_TT: "§YDismissed mod alerts§!"
+ DH_CUSTOM_ALERTS_DISMISSED_BUTTON_TT_DELAYED: "Some alerts added by the §fDarkest Hour§! mod were dismissed. \n§GClick§! to make them show up again, if they are valid. \n--------------\nThe following mod alerts are currently dismissed: §Y[This.GetCustomAlertsDismissedList]§!"
+
+ DH_CUSTOM_ALERTS_ENTRY_BUTTON_TT: "§Y[This.GetCustomAlertName]§!"
+ DH_CUSTOM_ALERTS_ENTRY_BUTTON_TT_DELAYED: "[This.GetCustomAlertDesc] \n§GRight-click§! to dismiss."
+
+ # Scripted Localisation:
+ DH_CUSTOM_ALERT_DISMISS_TT_LIST_NAME_OTHERS: "\n[This.GetCustomAlertNameOtherContext][This.GetCustomAlertsDismissedListEntry]"
+ DH_CUSTOM_ALERT_DISMISS_TT_TOO_MANY: "... and [?num_temp] others"
+
+ # Custom Alerts:
+ CUSTOM_ALERT_1_NAME: "Minimum operation progress reached"
+ CUSTOM_ALERT_1_DESC: "At least §Y1§! active operation has reached the minimum required progress to be able to launch it. \nThis does not necessarily mean that you fulfill all requirements to launch it. \n§GClick§! to open the §Y$DH_WAR_ROOM_HEADER$§! window."
+ CUSTOM_ALERT_2_NAME: "Maximum operation progress reached"
+ CUSTOM_ALERT_2_DESC: "At least §Y1§! active operation has reached §Y100%§! progress. Launching it now will give the maximum possible bonus. If possible, you can however still complete more decisions to gain additional bonuses from those, regardless of preparation progress. \nThis does not necessarily mean that you fulfill all requirements to launch it. \n§GClick§! to open the §Y$DH_WAR_ROOM_HEADER$§! window."

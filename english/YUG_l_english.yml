@@ -1,0 +1,58 @@
+﻿l_english:
+######################################################################
+#  Events
+######################################################################
+ YUG_Election_1935.1.t: "Yugoslavian General Election, 1935"
+ YUG_Election_1935.1.d: ""
+ YUG_Election_1935.1.A: "Milan Stojadinović - National Party"
+
+ YUG_Election_1938.1.t: "Yugoslavian General Election, 1938"
+ YUG_Election_1938.1.d: ""
+ YUG_Election_1938.1.A: "Milan Stojadinović - National Party"
+
+ YUG_Politics.1.t: "Change of PM"
+ YUG_Politics.1.d: ""
+ YUG_Politics.1.A: "Nikola Uzunović - National Party"
+
+ YUG_Politics.2.t: "Change of PM"
+ YUG_Politics.2.d: ""
+ YUG_Politics.2.A: "Bogoljub Jevtić - National Party"
+
+ YUG_Politics.3.t: "Change of PM"
+ YUG_Politics.3.d: ""
+ YUG_Politics.3.A: "Dragiša Cvetković - National Party"
+
+ ### CAPITULATION
+
+ YUG_Capitulation.1.t: "Capitulation of Yugoslavia" # Axis
+ YUG_Capitulation.1.d: "The Chancellery map room was heavy with silence. Upon the wall, thick black arrows cut across the outline of Yugoslavia, converging upon Belgrade. Fresh reports confirmed what the markings already implied: the royal capital was in our hands, the government scattered, and what had once been called the \"Yugoslav Army\" no longer existed as a fighting force.\n\nHitler studied the map with arms folded, his gaze lingering on the crooked borders of a kingdom that had always been more patchwork than nation. Keitel's voice broke the silence: \"The collapse is total, mein Führer. Ministers and generals alike have fled; resistance has ceased everywhere of consequence.\"\n\nHitler turned sharply, gesturing toward the partition lines already penciled in advance. \"It was inevitable. A house divided cannot stand. The Croats will have their so-called independence under our protection. The Italians, Hungarians, and Bulgarians will take their share. And the Serbs... they will learn obedience.\"\n\nNo one spoke further. The rain against the tall windows was the only sound as aides gathered the folders and maps. Another kingdom had vanished from the ledger of Europe."
+ YUG_Capitulation.1.A: "Now we carve the Balkans to our design."
+
+ YUG_Capitulation.2.t: "Capitulation of Yugoslavia" # Italy alone
+ YUG_Capitulation.2.d: "The Palazzo Venezia was unusually quiet for a morning that should have been triumphal. Beyond the tall windows, Rome stirred with the first rumors of victory, but inside the council chamber, the atmosphere remained tense and controlled. Across a polished table lay a detailed map of the Balkans, its borders marked and re-marked over the past weeks as the campaign unfolded.\n\nGeneral Roatta stood rigidly at attention as the final dispatch arrived from the front: Belgrade occupied, the Yugoslav government dispersed, and what remained of its army in full retreat or surrender. \"The resistance has collapsed, Duce,\" he said, placing the telegram beside the map. \"Our forces meet no organized opposition anywhere.\"\n\nMussolini leaned forward, studying the jagged frontiers that had so often frustrated Italian ambition. His fingers tapped lightly on Dalmatia. \"So the experiment of Yugoslavia ends,\" he murmured. \"Yugoslavia was a troubled mosaic from the beginning. Its collapse only confirms what the years had already shown.\"\n\nHe gestured for the staff officers to bring forward the prepared plans - zones of occupation, new administrations, and the long-imagined expansion along the Adriatic. Each line drawn on the map carried not only opportunity but responsibility, and even the Duce seemed aware of the burdens ahead.\n\nOutside, church bells rang faintly over the city, but within the chamber no one moved until the final signatures were placed. Another chapter in the Balkans had come to an end, written this time by Italian arms alone."
+ YUG_Capitulation.2.A: "To the victor go the spoils."
+
+ YUG_Capitulation.3.t: "The Capitulation of Yugoslavia"
+ YUG_Capitulation.3.d: "[GER.GetNewsIcon]Yugoslavia has signed an armistice of unconditional surrender, ending organized resistance to the Axis advance. While the Kingdom's army has collapsed, its royal government has escaped into exile and pledged to continue the struggle abroad.\n\nGermany has established military occupation in Serbia, where a collaborationist administration governs under close German oversight. In Montenegro, Italy has declared a protectorate, relying on local collaborators to administer the territory. At the same time Albania has been expanded to include Kosovo and western Macedonia. The most dramatic change has come with the proclamation of the Independent State of Croatia under the ultranationalist Ustaše, which has seized control of Bosnia. Slovenia has been divided between Germany and Italy, while Hungary and Bulgaria have claimed their allotted territories, fulfilling their irredentist ambitions.\n\nOutside of the cities resistance has already begun. Monarchist \"Chetniks\", aligned with the government-in-exile, and Communist partisans under Josip Broz Tito clash regularly, each seizing control of villages, forests, and mountain passes."
+ YUG_Capitulation.3.A: "The inevitable has arrived."
+ YUG_Capitulation.3.B: "The Balkans descends into darkness once more."
+
+ YUG_Capitulation.4.t: "The Capitulation of Yugoslavia"
+ YUG_Capitulation.4.d: "[ITA.GetNewsIcon]Italy has broken through the disorganized and dishevelled Yugoslavian divisions, marching into Belgrade and forcing an unconditional surrender on the now demoralized political and military commanders of Yugoslavia, and her people. Italy now has all of her claims of Dalmatia, and more, realized. It is time to see how they partition Yugoslavia, while rebellious and courageous Yugoslav army officers and more take to the countryside to organize a resistance.”\n\nNow there is a uneasy tension of what will happen to the new puppet regimes in former Yugoslavia headed by the Italian masters at the helm. Depending on how it is approached, the borders will bring disaster to all the ethnic groups in the Balkans for years to come. The fight continues, and the mess that is the Balkans continues to get ever more complicated"
+ YUG_Capitulation.4.A: "Lets hope our Italian friends can keep this under control."
+ YUG_Capitulation.4.B: "Where one problem in the Balkans ends, another problem begins."
+
+######################################################################
+#  National Spirits
+######################################################################
+ YUG_Divided_Nation: "Divided Nation"
+ YUG_Divided_Nation_desc: "Yugoslavia, at this very moment, is not a very federalized state and is heavily Serb controlled. The Croats and the other peoples demand more autonomy, an idea to which the Serbs respond negatively."
+
+ YUG_Separatist_Terrorists: "Separatist Terrorists"
+ YUG_Separatist_Terrorists_desc: "The IMRO and the Ustaše present a great threat to Yugoslavia. The terrorists sabotage factories, bomb railways and kill innocent civilians in order to further their agendas.\n§RThose terrorist organizations must be dealt with as soon as possible.§!"
+
+ YUG_Inexperienced_Military: "Inexperienced Military"
+ YUG_Inexperienced_Military_desc: "Yugoslavia’s military is not equipped properly, not trained and commanded properly, and not structured properly. The military lacks arms, men, and staff - the military industry needs a boost, the Serb-Croat problem needs to be solved, and the staff need to be replenished."
+
+ YUG_Anti_German_Sentiments: "Anti-German Sentiments"
+ YUG_Anti_German_Sentiment_desc: "Factions within the Yugoslavian Air Force are opposed to cooperating with Germany. They may attempt to overthrow the regime if the country opens their borders to or enters an alliance with the Third Reich"

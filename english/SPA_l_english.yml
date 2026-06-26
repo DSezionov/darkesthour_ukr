@@ -1,0 +1,324 @@
+﻿l_english:
+
+######################################################################
+#  Events
+######################################################################
+ 
+### Category - PreWar
+# These are placeholders to keep things moving pre-civil war until full Spain content implementation
+ SPA_PreWar.1.t: "Azaña's Government Collapses"
+ SPA_PreWar.1.d: "Spain stands at a breaking point. Both left- and right-wing factions openly denounce the government of Prime Minister Manuel Azaña, accusing him of incompetence and political paralysis. His policies have alienated former allies and emboldened his enemies, who now use public anger as a weapon—turning crowds into mobs, with violent clashes erupting in major cities.\n\nDemonstrations have become a daily spectacle, and even the Cortes is in turmoil, with opposition deputies loudly demanding his removal. Confidence in Azaña's leadership is collapsing, and talk of a formal vote of no confidence grows louder with each passing day.\n\nPerhaps it is time to pressure Azaña into resigning. His departure will not solve Spain's deeper problems, but it might calm the storm—at least for now."
+ SPA_PreWar.1.A: "He anticipates the results."
+
+ SPA_PreWar.2.t: "1933 General Election"
+ SPA_PreWar.2.d: "Following the sudden resignation of our Prime Minister, we have dissolved parliament and called for new elections—an event that will prove pivotal in determining the future of our young republic. Both the Left and the Right have already mobilized every possible means to sway public opinion in favor of their respective blocs.\n\nUltimately, the coalition of the Confederación Española de Derechas Autónomas (CEDA) and the Radical Republican Party emerged as the clear victor in the general elections. Widely regarded as a right-wing alliance, the coalition champions conservative policies and advocates for a society rooted in Catholic values.\n\nThe Left has denounced this outcome, arguing that it will entrench the power of the established elite while further marginalizing workers and minority groups. Though hailed as a triumph by its supporters, this victory may carry serious and lasting consequences for the republic's future."
+ SPA_PreWar.2.A: "Victoria para la derecha."
+
+ SPA_PreWar.3.t: "Straperlo Affair"
+ SPA_PreWar.3.d: "One of the greatest flaws of our young republic is once again on full display: corruption at the highest levels of government. The Straperlo Affair has erupted into a full-blown scandal, with Prime Minister Alejandro Lerroux and several other officials accused of taking bribes and using political influence through Lerroux's nephew to legalize a rigged version of roulette.\n\nFor ordinary citizens, this is a rare moment of vindication—proof that even the most powerful can be held accountable, that no one is above the law. But politically, the consequences are devastating. Lerroux leads the Radical Republican Party, a key member of the ruling coalition, and the scandal has shattered public confidence. The coalition is already collapsing, leaving the government in disarray and increasingly powerless to hold back the growing strength of the socialists."
+ SPA_PreWar.3.A: "The corrupt must leave!"
+
+ SPA_PreWar.4.t: "Divisions within the Right"
+ SPA_PreWar.4.d: "Ever since the Straperlo Affair, division and polarization amongst the right wing factions of our government are frequent, with various factions supporting one side over the other. Such political bickering allows for gridlock in politics, something that we need to avoid given the fact that our nation is on the brink of a civil war. As such, the various right wing factions of government have came to a compromise, they shall install Manuel Portela Valladares as their PM of Spain, given his good reputation in the political scene. This should hopefully give some stability in politics and allow our government to move forward in dealing with contentious issues such as the potential civil war on the horizon."
+ SPA_PreWar.4.A: "The old Chapaprieta has had enough."
+
+ SPA_PreWar.5.t: "The Popular Front Forms"
+ SPA_PreWar.5.d: "With the elections on the horizon and the socialists gaining momentum in our nation, they intend on using it as a means to gain a foothold in the nation's parliament once more. As such, they've created a coalition of various left wing political parties and organizations called the Popular Front. This so-called Popular Front aims to revert all changes made by the CEDA-RRP and establish their own mindset of the Republic into a reality. This coalition aims to destroy the very fabric of our nation, and they intend to pervert the Spanish identity to something that suits a socialist revolution. We shall not yield to these socialist terrorists, and we must exert all political efforts into countering their victory in the elections."
+ SPA_PreWar.5.A: "The left finds strength in numbers."
+ 
+ SPA_PreWar.6.t: "1936 General Election"
+ SPA_PreWar.6.d: "The general elections have arrived—and at the worst possible time. Violence and civil unrest have become a daily reality for the Spanish people, with clashes between the Left and the Right growing larger and bloodier by the day. Nowhere has this been more evident than in Catalonia, where the largest riot in our young republic's history erupted just today.\n\nBut this election is no ordinary vote. It is a turning point—a struggle for the very survival of our republic and its uncertain future.\n\nAs many expected, the rising popularity of the Popular Front has carried them to victory, securing a majority in parliament. For Spain's right-wing parties and factions, this is a devastating blow. Yet for them, this defeat is far from the end. They are already preparing measures to reclaim power—and to impose their vision on Spain, by any means necessary."
+ SPA_PreWar.6.A: "The Popular Front wins!"
+
+ SPA_PreWar.7.t: "The Army and Fascists Consolidate"
+ SPA_PreWar.7.d: "With our victory against those decadent reactionaries and their co-conspirators, we have used our victory to consolidate our power and influence throughout the republic, ensuring that their rhetoric doesn't get amplified on the streets of Madrid or any of our major cities. However, not all is fine for our revolution, for the reactionaries have a plan to counter it. While we were celebrating, numerous reports circulate that the Falangists and the military have met in secret, organizing plans and operations that will endanger our foothold over Spain. While we don't have any minutes of the meeting or the list of members who were present there, it is clear that the military are condemning our revolution, and are taking steps to subvert and dismantle our current regime."
+ SPA_PreWar.7.A: "The Radical Right is organizing."
+
+ SPA_PreWar.8.t: "The Arrest of Primo de Rivera"
+ SPA_PreWar.8.d: "With the Falangists and the military cooperating and planning to overthrow the government, they have used various means to supply themselves of the necessary ammunition and weaponry needed to overthrow us. One of which is through Jose Antonio Primo de Rivera, one of the main leaders of the Falangists, wherein he smuggled firearms to his fellow party members and distribute them, arming themselves to counter resistance that may otherwise destroy their revolution. Thankfully, our fellow comrades got wind of this information, and have informed the proper authorities to seize these smuggled weaponry and destroy them, with some of our fellow comrades getting weapons of course. However, the fact that they have smuggled weaponry and are experienced, we must assume that this isn't the only smuggling ring, and that the Falangists may already be well armed as we speak."
+ SPA_PreWar.8.A: "He is too dangerous."
+
+ SPA_PreWar.9.t: "Niceto Alcalá-Zamora removed from power"
+ SPA_PreWar.9.d: "Following the February 1936 elections, President Niceto Alcalá-Zamora now finds himself cornered. The Left has not forgiven his actions during the previous government, and a heated debate has erupted in parliament over his dissolution of the Cortes in 1933, an act the new government now brands as unconstitutional.\n\nToday, parliament voted on his fate: 238 in favor of his removal, 5 against, and 174 blank votes—the latter cast by right-wing deputies who walked out in protest. Despite his objections, Alcalá-Zamora has been forced to resign.\n\nIn the meantime, Diego Martínez Barrio, president of Parliament, will assume the role of interim president of the Republic until a permanent successor is chosen. The political balance of Spain has shifted once again—and tensions continue to rise."
+ SPA_PreWar.9.A: "He was never one of us."
+
+ SPA_PreWar.10.t: "May 1st Demonstrations"
+ SPA_PreWar.10.d: "May 1st is considered by many as International Workers' Day, the day wherein our struggle for workers representation and rights are fully realized, the day wherein the workers voice can finally be heard loud and clearly amongst the people who oppress them. However this Labor Day event was no ordinary, for our fellow comrades have taken their struggles not only to the streets, but with rocks and broken pipes. The protestors were clashing with fellow protestors, specifically the Falange, who were there to protest our government's policies and more radical nonsense. However, the Falangists came prepared, and they put up stiff resistance against both the protestors and our government forces, which lasted the entire day until they themselves got tired and left. This clash serves as a reminder of the disgruntled Falangists in our midst, and how a peaceful protest can turn into a bloody riot in an instant."
+ SPA_PreWar.10.A: "Spain is in danger!"
+
+ SPA_PreWar.11.t: "Manuel Azaña steps into power"
+ SPA_PreWar.11.d: "On April 30th, Manuel Azaña—one of the most prominent figures of the Popular Front—was officially elected as the sole candidate for the Presidency of the Republic. Azaña, already well-known for his tenure as Prime Minister and his strong advocacy for secular and progressive reforms, was widely regarded as the natural choice of the Left to succeed Niceto Alcalá-Zamora, whose controversial removal had shaken the political landscape.\n\nToday, following Alcalá-Zamora's destitution, parliament has confirmed Azaña's rise to the highest office in the Republic. In a decisive vote, 754 of the 874 deputies present cast their ballots in his favor, signaling overwhelming support from the Popular Front and its allies. The Right, in stark contrast, either abstained or refused to participate, with many of their deputies walking out of the chamber in protest before the vote was finalized."
+ SPA_PreWar.11.A: "He's back."
+ 
+ SPA_PreWar.12.t: "Mola Organizes Generals"
+ SPA_PreWar.12.d: "Unconfirmed reports circulate throughout our leadership stating that Emilio Mola, one of the prominent military figures involved in the plot, has recently organized our military leadership in a meeting in an unknown location. According to our sources, this meeting is extensive, and is allegedly a ploy used by the Falangists to recruit members of our military into their cause. This act done by the Nationalists is not only an attack against our rule, it is outright treason for they are overthrowing our government. As such, we will use whatever resources we have to contain or even cease all acts of rebellion and insurgency in our republic."
+ SPA_PreWar.12.A: "The officers are acting strange" 
+ 
+ SPA_PreWar.13.t: "The Death of Jose Castillo!"
+ SPA_PreWar.13.d: "Jose Castillo, a lieutenant in the Guardia de Asalto, the urban paramilitary arm of the Guardia Civil, was assassinated today by unknown individuals. While this would be a normal day in Spain, there is one small caveat left out, his political leanings. Even though Castillo was a member of the Guardia Civil which is conservative in nature, he was also a member of UMRA, an anti-fascist organization upon which he himself was a trainer. This organization is responsible for radicalizing our youth to becoming socialists and are training them into citizen militias. As such, we can speculate that the murderers were the Falangists. This assassination however will not sit well with the socialists, and we must expect that they will retaliate against this act."
+ SPA_PreWar.13.A: "¡Carajo! The left is furious!"
+ 
+ SPA_PreWar.14.t: "The Death of José Sotelo!"
+ SPA_PreWar.14.d: "In retaliation of the death of Jose Castillo, the socialists assassinated one of the prominent Falangists, Jose Sotelo. Sotelo, one of the radical right's most prominent personalities, his rhetoric was more radical and more coercive than the rest of his colleagues that the socialists have deemed him a threat to their revolutionary struggle, and have assassinated him in retaliation of the death of their own. Sotelo's death however may have not done anything but guarantee the conflict in the Iberian Peninsula, for the Falangists aren't taking kindly to his death, and the military coup organized by Emilio Mola may have been fast-tracked in the wake of his death. Now, it is only a matter of time before the fires of war rage on in Madrid..."
+ SPA_PreWar.14.A: "¡Carajo! The right is furious!"
+ 
+### Category - Outbreak of the Spanish Civil War
+# Events surrounding the start of the war
+ SPA_Civil_War_Outbreak.0.t: "Spanish Military Revolts - Spain Plunged into Civil War"
+ SPA_Civil_War_Outbreak.0.d: "[FROM.GetNewsIcon]Dark news have come from the Iberian Peninsula.\n\nGeneral Emilio Mola, the chief organizer and commander of the Spanish Republican Armed Forces, and General José Sanjurjo, who served as a symbolic leader, today announced an open uprising against the wildly unpopular Republican government. Numerous conservative organizations, like as CEDA, monarchists, including the rival Alfonsists and the religiously conservative Carlists, as well as the fascist Falange Española de las JONS, supported the Nationalist movement.\n\nThe army's reduced funding, which made it more and more dissatisfied with the government, was the root of this uprising. Pamplona, Burgos, Zaragoza, Valladolid, Cádiz, Cordoba, Sevilla, and Spanish Morocco all saw the rise of military formations in support of the coup.\n\nAlthough this result is not unexpected given how visible the political unrest has gotten."
+ SPA_Civil_War_Outbreak.0.A: "¡No Pasarán!"
+ SPA_Civil_War_Outbreak.0.B: "¡Arriba España!"
+ SPA_Civil_War_Outbreak.0.C: "Predictable..."
+
+ SPA_Civil_War_Outbreak.1.t: "Spanish Civil War"
+ SPA_Civil_War_Outbreak.1.d: "Ever since the victory of the Popular Front in the elections, a military conspiracy has been brewing to overthrow the government. Aiming to \"reestablish order in the nation and recover the international prestige of Spain', a group of generals is attempting to execute a \"strike of force\" to put General Sanjurjo, currently exiled, in power. Since April, General Mola has been directing the conspirators under the codename \"the director\". He has designed a coup which will, through extreme speed and violence, overthrow the government immediately. The execution of José Calvo Sotelo, leader of the opposition early the 13th of July has caused the Carlists and the CEDA to align themselves with the conspiracy, as well as several skeptic generals, including the ex-leader of high command, General Franco. This prompted Mola to choose the 18th of July as the date of the uprising. The morning of the 17th in Melilla, the local rebellious officers carry out a reunion with falangist leaders to plan for the following day. One of the Falangists informed the local leader of Unión Republicana, who reports to General Romerales, who in turn informed Casares Quiroga, member of the Popular Front. Romerales then sent a detachment to arrest the rebellious officers, but the leader of the detachment informed the Legion, who sent a patrol to stop the detachment and arrest general Romerales, who was then executed along with other local authorities. The State of War was declared, and the uprising began, after informing the rest of the Moroccan army that they had been discovered. In the last three days, the uprising has extended all around the country, and most of our army is now up in arms against us, occupying a large part of our territory. Although they have failed to take control of the capital and the larger cities, they are as we speak commencing the march in what they call the new \"Reconquista\" towards our remaining cities and attempting to liberate their companions who are resisting heavy sieges all around the country, such as Oviedo or Toledo."
+ SPA_Civil_War_Outbreak.1.A: "Patria, Pan y Justicia! (Play as Nationalists)" 
+ SPA_Civil_War_Outbreak.1.B: "No Pasarán! (Play as Republicans)"
+ nationalists_chosen: "Support the Republicans" 
+ republicans_chosen: "Support the Nationalists" 
+ 
+ SPA_Civil_War_Outbreak.2.t: "The Coup Fails"
+ SPA_Civil_War_Outbreak.2.d: "Our bold plan to swiftly seize the Republic has failed. Loyalist forces still hold Madrid, Barcelona, and vast stretches of the country. What was meant to be a lightning strike has turned into a full-scale war.\n\nYet all is not lost. In the north, in Navarre, in Galicia, and in our strongholds in Morocco, brave patriots rally to the banner of Spain. The Church blesses our cause, and thousands of Carlists, Falangists, and loyal soldiers are ready to sacrifice everything to save the fatherland from the Red plague.\n\nThe Republic may cling to power for now, but we shall not rest until Spain is purified, united, and reborn under our banners. This is no longer a coup… it is a crusade."
+ SPA_Civil_War_Outbreak.2.A: "Bueno, ahora a la guerra"
+
+ SPA_Civil_War_Outbreak.3.t: "The Republic Survives"
+ SPA_Civil_War_Outbreak.3.d: "The treacherous military uprising has been stopped—at least for now. Madrid, Barcelona, and many other cities remain loyal to the Republic, their citizens standing firm against the traitors' guns.\n\nThough the threat of fascist rebellion looms, the spirit of liberty and justice burns brighter than ever. Workers, peasants, and soldiers rally together to defend the democratic government that represents the hopes of millions.\n\nThis is a fight for the soul of Spain—a fight we will not abandon. The Republic lives, and we will resist until every last fascist is driven from our streets."
+ SPA_Civil_War_Outbreak.3.A: "Ahora a defender a Madrid!"
+
+### Category - Civil War Politics
+# Events dealing with political changes during the civil war itself
+ SPN_Civil_War_Politics.1.t: "Emilio Mola's Final Flight"
+ SPN_Civil_War_Politics.1.d: "On June 3, 1937, tragedy struck the Nationalist cause with the sudden and untimely death of General Emilio Mola, the brilliant strategist and architect of the July uprising. Mola was killed in a plane crash near Alcocero, under circumstances still debated, cutting short the life of one of Spain's most determined and visionary military leaders.\n\nKnown as \"The Director,\" Mola was instrumental in planning the coup that ignited the Nationalist rebellion and brought together diverse factions under a common cause. His leadership in the crucial early months of the war laid the foundation for the Nationalist advance, and his unwavering commitment inspired countless soldiers and supporters alike.\n\nThough his loss leaves a void in the command structure, the Nationalist forces remain united under General Francisco Franco, whose leadership grows ever stronger. The sacrifice of Mola will never be forgotten; his vision continues to guide the march towards the rebirth of a united, strong Spain."
+ SPN_Civil_War_Politics.1.A: "A saddening loss for our cause."
+
+ SPN_Civil_War_Politics.2.t: "Francisco Franco Named Supreme Leader of the Nationalist Cause"
+ SPN_Civil_War_Politics.2.d: "In a historic meeting in [SPN.Capital.GetName], the various Nationalist factions have united to appoint General Francisco Franco as Jefe del Estado and Commander-in-Chief of all Nationalist forces.\n\nThis decision follows months of deliberation and represents a crucial compromise among monarchists, Falangists, Carlists, and the military. Franco's outstanding leadership of the Army of Africa and his skill in uniting disparate forces have earned him the respect and trust necessary to lead the Nationalist cause.\n\nThough General Emilio Mola continues to play a vital role in the campaig's planning and operations, Franco's appointment as head of state consolidates the Nationalists' political and military command under a single authority."
+ SPN_Civil_War_Politics.2.A: "¡Por España y por la victoria! Franco será nuestro caudillo."
+
+ SPN_Civil_War_Politics.3.t: "José Sanjurjo Killed in Plane Crash"
+ SPN_Civil_War_Politics.3.d: "Disaster has struck the Nationalist cause. General José Sanjurjo, once the hero of Morocco and the man expected to lead this uprising, has been killed in a plane crash while attempting to return from exile in Portugal.\n\nSanjurjo had been living in exile since 1932, after leading a failed military coup—the \"Sanjurjada\"—against the Republican government. Despite that failure, he remained a revered figure among monarchists and conservatives, seen as a symbol of order and tradition who could unite the diverse factions of the Nationalist movement.\n\nHis sudden death robs the uprising of its intended leader at a critical moment. In the absence of Sanjurjo, General Emilio Mola—architect of the revolt—has assumed the primary role in directing the war effort, with Francisco Franco already emerging as one of his most important commanders."
+ SPN_Civil_War_Politics.3.A: "Sanjurjo dies a martyr for Spain."
+
+ SPN_Civil_War_Politics.4.t: "The Unification Decree"
+ SPN_Civil_War_Politics.4.d: "Today, Generalísimo Francisco Franco has united the Falange, the Carlists, and all right-wing factions under a single banner: the Falange Española Tradicionalista y de las JONS. This historic decree ends internal rivalries and consolidates the Nationalist movement into one disciplined, ideologically cohesive force.\n\nThe new party will serve as the backbone of the Spanish state, promoting order, discipline, and the values of Nationalist Spain. Blue shirts and red berets now march together under a single command, bound by loyalty to Franco as Jefe Nacional. Corporatist structures, party organizations, and paramilitary units are being expanded to strengthen our unity and advance our vision for a revitalized Spain.\n\nWith this unification, our movement is no longer merely a coalition of military leaders and regional factions—it is a single, ideologically guided force, ready to lead Spain into a new era of stability, order, and national glory."
+ SPN_Civil_War_Politics.4.A: "All hail FET y de las JONS!."
+
+ SPA_Civil_War_Politics.1.t: "José Giral becomes the new Prime Minister"
+ SPA_Civil_War_Politics.1.d: "In the midst of growing chaos, the Republic has appointed José Giral as its new Prime Minister. Tasked with steering the government through the storm of rebellion, Giral vows to strengthen the defense of the Republic and rally all loyal citizens to resist the fascist uprising.\n\nHis leadership marks a crucial turning point as the Republic prepares to face the brutal conflict ahead, seeking unity and determination in these dark times."
+ SPA_Civil_War_Politics.1.A: "New leadership for the war."
+
+ SPA_Civil_War_Politics.2.t: "Largo Caballero forms a government"
+ SPA_Civil_War_Politics.2.d: "Francisco Largo Caballero has been appointed Prime Minister and Minister of War by President Azaña. The Republic now stands under a true Popular Front government, uniting socialists, communists, and republicans in a single administration. The workers' movement, long the backbone of the struggle, now has direct representation at the highest level of government.\n\nLargo Caballero, leader of the Unión General de Trabajadores and a lifelong defender of the working class, has assumed responsibility for directing both the government and the war effort. His first acts are to coordinate the militias, centralize command, and ensure that the Republic fights as one. The streets of Madrid, Valencia, and Barcelona echo with chants of support for the new government, as banners of the unions and Popular Front parties fly openly beside the tricolor flag."
+ SPA_Civil_War_Politics.2.A: "The Republic belongs to the people!"
+
+ SPA_Civil_War_Politics.3.t: "Juan Negrín takes the reigns"
+ SPA_Civil_War_Politics.3.d: "Amid the turmoil of civil war, the Republican government faces an uncertain future. Today, Dr. Juan Negrín, a physician and economist long trusted by the government, has been appointed Prime Minister\n\nNegrín steps into power following the resignation of Francisco Largo Caballero, tasked with steering the Republic through the growing threat of fascist forces led by Franco.\n\nHis willingness to cooperate with the PCE—and, by extension, the Soviet Union—has already caused tension among anarchists and anti-Stalinist factions. Negrín is openly sympathetic to Moscow, regarding Soviet aid as the Republic's only hope for survival."
+ SPA_Civil_War_Politics.3.A: "But can he handle the job?"
+
+### Category - Post-Spanish Civil War
+# Events surrounding the end of the Spanish Civil War and immediate aftermath
+ SPN_PostWar.1.t: "End of the Spanish Civil War" # Nationalists
+ SPN_PostWar.1.d: "Spain is saved! After years of chaos, godlessness, and Marxist terror, the righteous forces of the National Crusade have triumphed. The red hordes are shattered, their leaders executed or fleeing like the cowards they are. Across the country, church bells ring in celebration, and patriotic Spaniards raise their banners to honor the saviors of the fatherland.\n\nUnder the unwavering leadership of Generalísimo Francisco Franco, Spain is reborn as a united, Catholic, and eternal nation. The traitors who sought to destroy our traditions have been crushed beneath the boots of loyal soldiers, Carlist requetés, and Falangist heroes.\n\nFrom Burgos to Madrid, from Seville to Barcelona, the people cheer the birth of a New Spain—strong, pure, and destined for greatness. The sacrifices of our martyrs will not be in vain; their blood has consecrated the soil of the homeland.\n\nThe time of weakness is over. Order, Faith, and Fatherland shall guide Spain forever! ¡Arriba España! ¡Viva Franco!"
+ SPN_PostWar.1.A: "Viva España!"
+
+ SPN_PostWar.2.t: "End of the Spanish Civil War" # Nationalists
+ SPN_PostWar.2.d: "[FROM.GetNewsIcon]The Spanish Civil War has ended with the complete triumph of the Nationalist armies. Nationalist troops entered Madrid after weeks of tightening their encirclement, taking the capital with little organized resistance once Republican officers abandoned negotiations and several units laid down their arms. The fall of Valencia and the subsequent surrender of the Republican fleet eliminated the last remaining positions capable of prolonging the conflict.\n\nGeneral [SPN.GetLeader] has established a new government in Madrid, and has issued decrees dissolving the Republican Cortes, outlawing the major left-wing parties, and placing the trade unions under state administration. Carlist, Falangist, and army authorities have begun coordinating the restoration of civil order, while military tribunals have been set up to process captured Republican personnel.\n\nForeign assistance during the war has shaped the new landscape. Italian aircraft and divisions played a decisive role in the Nationalist advance along the Mediterranean coast, while German units and equipment supported the northern offensives. With the Nationalist command now firmly established, officials in Madrid have signaled their intention to cooperate with the Italian and German governments, whose strategic aims Spain is expected to support in the months and years ahead."
+ SPN_PostWar.2.A: "Viva España!"
+ SPN_PostWar.2.B: "A highly worrying outcome."
+
+ SPA_PostWar.1.t: "End of the Spanish Civil War" # Republicans
+ SPA_PostWar.1.d: "The Republic stands triumphant! After years of bloodshed and sacrifice, the forces of reaction and fascism lie broken. The traitorous generals who sought to drag Spain back into the darkness of monarchy and clerical tyranny have been crushed. Across every liberated city, workers, peasants, and soldiers flood the streets, cheering the dawn of a new, free Spain.\n\nThe heroic militias of the workers, the courageous International Brigades, and the steadfast defenders of democracy have proven that the will of the people cannot be defeated by bombs and bayonets. Franco's so-called \"National Crusade\" is dead—its leaders executed or fleeing in disgrace, its lies buried beneath the rubble of their failed uprising.\n\nThe Second Republic is stronger than ever. Land will belong to those who work it, the factories to those who labor in them, and education to every child of Spain. The reactionary clergy and their fascist allies will never again hold the people in chains.\n\nThis is the birth of a new Spain—a Spain of workers, farmers, and freedom-loving patriots. The world watches as we march forward into a future of justice, liberty, and equality.\n\n¡No pasarán! ¡Viva la República! ¡Viva España!"
+ SPA_PostWar.1.A: "Viva España!"
+
+ SPA_PostWar.2.t: "End of the Spanish Civil War" # Republicans
+ SPA_PostWar.2.d: "[FROM.GetNewsIcon]The Spanish Civil War has ended with a decisive victory for the Republican forces. Republican armies, reinforced by Soviet equipment and advisors, and supported by International Brigades, launched coordinated offensives that broke Nationalist positions across Aragón, La Mancha, and the northern coast. Cut off from supplies and surrounded, Nationalist units in Burgos, Seville, and Galicia surrendered in succession, leaving the Republicans in full control of the country.\n\nThe Republican government, headed by [SPA.GetLeader], now begins consolidating authority from Madrid. Emergency committees are overseeing the reopening of ports, railways, and communication networks, while mixed military and civilian tribunals process surrendered Nationalist officers and foreign volunteers. Militias and loyalist units have secured former insurgent strongholds and stabilized regions devastated by the conflict.\n\nForeign support proved decisive in the Republican victory. Soviet aircraft, tanks, and advisors reinforced critical operations, while volunteers from around the world contributed manpower. With the war concluded, officials in Madrid have pledged to rebuild the nation under constitutional governance while maintaining close cooperation with the Soviet Union, whose assistance was instrumental to the Republic's success."
+ SPA_PostWar.2.A: "Viva España!"
+ SPA_PostWar.2.B: "A highly worrying outcome."
+
+### Category - Foreign Support
+# Events surrounding foreign support for the sides of the Spanish Civil War
+
+# Nationalists
+ SPN_CW_Foreign_Support.1.t: "Italian Corpo Truppe Volontarie Arrives"
+ SPN_CW_Foreign_Support.1.d: "The Italian Corpo Truppe Volontarie has landed in Spain to bolster the Nationalist cause. Composed of thousands of volunteers—soldiers, officers, and Fascist Blackshirts—this force arrives equipped with modern artillery, tanks, and aircraft, offering a crucial boost to our fledgling armies.\n\nTheir arrival reflects the close alliance between Spain's Nationalist movement and Italy's Fascist regime, both united in the struggle against Bolshevism and disorder. The CTV quickly begins reinforcing our front lines, especially in Andalusia and Extremadura, and their experienced commanders help to coordinate joint operations with our forces.\n\nThough initially intended as volunteers, the CTV's presence marks a significant increase in Italy's direct military intervention, signaling to the world the seriousness of our mission. Their aid strengthens our cause, bringing us ever closer to the restoration of a united and traditional Spain."
+ SPN_CW_Foreign_Support.1.A: "¡Bienvenidos, hermanos de armas!"
+ SPN_CTV: "Italian Volunteer Corps"
+
+ SPN_CW_Foreign_Support.2.t: "Flechas Azules Mixed Brigade Arrives"
+ SPN_CW_Foreign_Support.2.d: "The Flechas Azules (\"Blue Arrows\") Mixed Brigade has arrived to join the Nationalist forces, a symbol of the growing cooperation between Spain and Fascist Italy. Composed of Italian troops integrated with Spanish volunteers, this brigade combines Italian military expertise with local knowledge and fervor.\n\nTheir arrival strengthens our frontline in key sectors, bringing improved coordination, morale, and combat effectiveness. The Flechas Azules exemplify international solidarity in the fight against the Red menace, reinforcing our shared commitment to restoring order and tradition in Spain."
+ SPN_CW_Foreign_Support.2.A: "¡Adelante, flechas de la victoria!"
+
+ SPN_CW_Foreign_Support.3.t: "Spanish Nationalists Request Equipment" # ITA POV
+ SPN_CW_Foreign_Support.3.d: "Representatives of the Spanish Nationalists have formally requested additional military equipment and supplies to aid their struggle against the Republican government.\n\nThe conflict in Spain is more than a civil war—it is a clash of ideologies that will decide the future of Europe. By supporting Franco and his allies, we can secure a friendly government in Madrid, expand Italian influence in the western Mediterranean, and strike a blow against Bolshevism.\n\nHowever, increased involvement will strain our own resources and risk further entanglement in the conflict."
+ SPN_CW_Foreign_Support.3.A: "We need to deter the rise of communism!"
+ SPN_CW_Foreign_Support.3.B: "Don't bother."
+
+ SPN_CW_Foreign_Support.4.t: "Spain Requests Air Support"
+ SPN_CW_Foreign_Support.4.d: "The outbreak of the Spanish Civil War has enraged Europe. The Soviet Union has already backed the Republic, while the Italians have sided with the Nationalists. Generalissimo Franco, on the other hand, does not appear to be satisfied with only Italian assistance. That is why, in a recent letter to Hitler, he requested German support for his war effort. We already provided critical early assistance in transporting Franco's African Army from Morocco to Spain. However, our assistance has been rather limited since then.\n\nHitler has reached a few conclusions after a marathon late-night session with his military advisors. Officially, no land-based military volunteers from Germany will be sent; Hitler cannot risk this devolving into a wider war, which Germany is not yet prepared for. If assistance is to be sent, it will be in the form of a Luftwaffe detachment known as the Condor Legion for the time being. The experience gained from such an endeavour could be extremely beneficial. However, the risk of escalation is also high. Hitler has finally made up his mind after many hours of deliberation."
+ SPN_CW_Foreign_Support.4.A: "The Condor Legion will be deployed."
+ SPN_CW_Foreign_Support.4.B: "It's not worth our time."
+
+ SPN_CW_Foreign_Support.5.t: "Spanish Nationalists Request Support"
+ SPN_CW_Foreign_Support.5.d: "A delegation from the Spanish Nationalists has arrived in Lisbon, urging us to aid their struggle against the Republican government. They speak of shared Catholic faith, the threat of Bolshevism spreading across the Iberian Peninsula, and the historic ties between our two nations.\n\n[POR.GetLeader] has so far maintained a cautious stance, wary of provoking international outrage or dragging Portugal into a wider conflict. However, the argument is compelling: if the Republic wins, Portugal may find itself surrounded by hostile leftist powers, and the Iberian balance would tilt dangerously.\n\nThe decision now lies with the government—should we covertly support our Spanish neighbors in their fight for \"order and tradition,\" or remain firmly neutral in this bloody civil war?"
+ SPN_CW_Foreign_Support.5.A: "Nossos amigos Iberianos!"
+ SPN_CW_Foreign_Support.5.B: "Uma mala influencia para o Chefe."
+
+ SPN_CW_Foreign_Support.6.t: "Spanish Nationalists Request Naval Support"
+ SPN_CW_Foreign_Support.6.d: "Representatives of the Spanish Nationalists have approached our government with a request for naval assistance. Their forces struggle to secure the vital sea lanes around the Iberian Peninsula, and control of the Mediterranean approaches could be decisive in cutting off Republican supply lines.\n\nThey have specifically asked for the transfer of submarines and other naval equipment, promising that such aid will strengthen our common fight against Bolshevism and ensure a friendly government in Madrid.\n\nHowever, openly providing warships risks further international scrutiny and could provoke Britain and France. The decision must balance ideological commitment with diplomatic caution."
+ SPN_CW_Foreign_Support.6.A: "Sell them submarines!"
+ SPN_CW_Foreign_Support.6.B: "Not a chance."
+ 
+ SPN_CW_Foreign_Support.7.t: "A Spanish Volunteer Corps?"
+ SPN_CW_Foreign_Support.7.d: "The Nationalists have requested the formation of a dedicated Italian volunteer corps to fight alongside their forces in Spain. This Corpo Truppe Volontarie would allow us to send seasoned troops, equipment, and officers under the guise of volunteers, avoiding direct involvement while securing our influence in the conflict.\n\nThe project promises to bolster the Nationalist front, demonstrating Italy's commitment to combating communism and expanding fascist ideals abroad. Yet, there are risks of international condemnation and the possibility of escalation beyond Spanish borders."
+ SPN_CW_Foreign_Support.7.A: "Begin the project!"
+ SPN_CW_Foreign_Support.7.B: "Don't bother."
+ SPN_Spawn_Volunteers_tt: "§LSpain will get multiple volunteer divisions!§!"
+
+ SPN_CW_Foreign_Support.8.t: "Spanish Nationalists Request Further Equipment"
+ SPN_CW_Foreign_Support.8.d: "The Spanish Nationalists have come once again with urgent requests for more military equipment. We have already supplied them with considerable aid, but their fight against the Republicans—and the spread of communism—continues to demand support.\n\nTheir success remains vital to securing our interests in the Mediterranean and ensuring a stable, friendly regime in Spain. Yet we must consider how much more we can afford to provide."
+ SPN_CW_Foreign_Support.8.A: "Anything for our Mediterranean brothers."
+ SPN_CW_Foreign_Support.8.B: "We've given enough already."
+
+ SPN_CW_Foreign_Support.9.t: "Spanish Nationalists Request Advisors"
+ SPN_CW_Foreign_Support.9.d: "A formal diplomatic communiqué has been received from representatives of the Nationalist command in [SPN.Capital.GetName], which is currently engaged in armed conflict with the Republican government in Spain. The message includes an urgent request for military assistance in the form of higher-level advisory personnel. According to the request, the goal is to improve the organisational capacity and combat effectiveness of the Nationalist armed forces, which, despite recent successes, require comprehensive reform and modernisation to secure a decisive victory in the conflict.\n\nOur experienced officers could help coordinate nationalist command and control, overhaul and modernise training, and use their battle experience to assist high command with planning. This has the potential to significantly improve the combat and planning effectiveness of the nationalist forces, giving them an advantage over the Republican militias and international volunteers.\n\nOf course, this is not something we have to do. Perhaps we don't need to get involved in Spain. After all, it does not directly serve Germany's military interests, and approval of this request will almost certainly lead to more. Some argue that devoting so many vital military resources to this Iberian adventure is unwise."
+ SPN_CW_Foreign_Support.9.A: "Send Himmler and a few generals."
+ SPN_CW_Foreign_Support.9.B: "Don't bother."
+
+ SPN_CW_Foreign_Support.10.t: "Spanish Nationalists Request Advisors from Ethiopia"
+ SPN_CW_Foreign_Support.10.d: "The Nationalists have requested experienced military advisors from our forces in Ethiopia to aid their campaign in Spain. These veterans of colonial warfare bring expertise in irregular tactics and harsh conditions, which could prove invaluable in the ongoing conflict.\n\nSupporting this request would deepen our involvement and showcase Italy's commitment to shaping the future of the Iberian Peninsula. Yet it may also stretch our resources and invite further international scrutiny."
+ SPN_CW_Foreign_Support.10.A: "Send them the experts!"
+ SPN_CW_Foreign_Support.10.B: "It's not worth our time."
+
+ SPN_CW_Foreign_Support.11.t: "Expand Corpo Truppe Voluntarie?"
+ SPN_CW_Foreign_Support.11.d: "The Spanish Nationalists have requested an expansion of the Corpo Truppe Volontarie. They seek more troops, equipment, and logistical support to press their advantage against the Republican forces.\n\nExpanding the CTV would demonstrate Italy's unwavering commitment to the Nationalist cause and further Italy's influence in the Iberian Peninsula. However, it also risks increasing international tensions and stretching our military resources during a critical period."
+ SPN_CW_Foreign_Support.11.A: "Expand the project!"
+ SPN_CW_Foreign_Support.11.B: "We shouldn't continue."
+
+ # Republicans
+ SPA_ENG_volunteers_1: "Two International Brigades are formed in Madrid."
+ SPA_ENG_volunteers_2: "An International Brigade is formed in Madrid."
+ SPA_USA_volunteers: "An International Brigade is formed in Madrid."
+
+ SPA_CW_Foreign_Support.1.t: "American or Soviet Support?"
+ SPA_CW_Foreign_Support.1.d: "As the civil war engulfs our nation, we face a crucial decision: where to seek external aid to bolster our forces against the Nationalist rebellion.\n\nThe United States offers advanced equipment and potential diplomatic backing but remains wary of direct involvement. Meanwhile, the Soviet Union stands ready to provide arms and advisors, motivated by a shared fight against fascism and imperialism.\n\nChoosing the right ally could determine the fate of the Republic and the future of Spain's democracy."
+ SPA_CW_Foreign_Support.1.A: "Request help from the Americans."
+ SPA_CW_Foreign_Support.1.B: "Approach the Soviets."
+
+ SPA_CW_Foreign_Support.2.t: "Volunteer Law?"
+ SPA_CW_Foreign_Support.2.d: "The outbreak of the Spanish Civil War has sparked an international rallying cry in support of the Republican government and against Franco's nationalists, with thousands of volunteers travelling to Spain with the stated goal of defending democracy. Many people in Britain, too, feel a strong sense of duty to fight the fascists and Carlists in Spain, and there has been a heated debate over whether to send volunteers and other aid to the Republicans as official policy, or to remain neutral in the conflict. Many argue that as one of the world's leading democratic powers, we have a responsibility to defend democracy against those who would undermine it, with nationalists in Spain being a prime example.\n\nHowever, it cannot be ignored that the Republican government is dominated by socialists, and the Republican camp is becoming increasingly aligned with the USSR and its authoritarian communist ideologies. Meanwhile, thousands of anarchist and other radical socialist groups, such as the CNT/FAI or the POUM, are present within the republican zone, and support for the republicans may indicate that we are aligning ourselves with a side that actively collaborates with rabid anti-monarchists, communists, and other groups who oppose everything we stand for as a nation. Nonetheless, if we don't intervene, the Soviets could completely dominate the republican camp, and a nationalist takeover could be far worse for Europe."
+ SPA_CW_Foreign_Support.2.A: "We should support democratic movements in Europe."
+ SPA_CW_Foreign_Support.2.B: "The Republicans are Soviet puppets."
+ 
+ SPA_CW_Foreign_Support.3.t: "Thousands of Britons Join Fight Against Fascism in Spain"
+ SPA_CW_Foreign_Support.3.d: "An unprecedented wave of volunteers has departed from Britain to fight in Spain's brutal civil war, pledging themselves to the Republican cause. These men and women, united by a common opposition to fascism, have formed part of what is becoming known as the International Brigades.\n\nThough the British government maintains a policy of non-intervention, it faces growing pressure both at home and abroad as thousands risk their lives in a conflict seen by many as a frontline battle against the spread of authoritarianism in Europe.\n\nhile some view these volunteers as idealistic heroes defending liberty, others regard them as reckless extremists whose involvement threatens to draw Britain into a wider war. The government's hands remain tied, watching as its citizens follow their consciences into foreign battlefields."
+ SPA_CW_Foreign_Support.3.A: "Let the extremists die if they so wish."
+
+ SPA_CW_Foreign_Support.4.t: "The International Mexican Brigades"
+ SPA_CW_Foreign_Support.4.d: "The Spanish Republic's  call for aid has reached our shores, and volunteers from across Mexico have gathered, united by a shared struggle against fascism and tyranny. Students, workers, and veterans of revolutionary causes are leaving for Spain to defend democracy and the ideals of social justice.\n\nWhile their numbers are modest, their spirit reflects Mexico's historic solidarity with the oppressed. These first brigades will join the growing International Brigades, carrying with them our hopes for the triumph of liberty in Spain."
+ SPA_CW_Foreign_Support.4.A: "Support the Fight Against Fascism!"
+
+ SPA_CW_Foreign_Support.5.t: "The Ideological Struggle Expands"
+ SPA_CW_Foreign_Support.5.d: "The war in Spain has become more than a civil conflict—it is now a clash of ideologies shaping the future of the world. Inspired by the first wave of Mexican volunteers, a second, larger group has organized to travel to the Iberian Peninsula.\n\nTeachers, intellectuals, and revolutionaries now join workers and soldiers, convinced that Spain is the frontline against fascism. Their departure symbolizes not only solidarity but Mexico's unwavering commitment to the Republican cause."
+ SPA_CW_Foreign_Support.5.A: "¡No Pasarán!"
+
+ SPA_CW_Foreign_Support.6.t: "International Brigades Depart"
+ SPA_CW_Foreign_Support.6.d: "Hundreds of American volunteers, many of them left-wing activists, trade unionists, and idealists, are departing for Spain to fight alongside the Republicans. Despite our official policy of neutrality and the Neutrality Acts restricting involvement, these individuals are slipping through legal barriers, driven by a fierce determination to oppose fascism.\n\nThough they represent only a fraction of the population, their actions have stirred debate at home. Some hail them as defenders of democracy, while others condemn them as radicals who risk dragging America into Europe's ideological struggles."
+ SPA_CW_Foreign_Support.6.A: "Let the radicals leave America."
+
+ SPA_CW_Foreign_Support.7.t: "More Arms for Spain"
+ SPA_CW_Foreign_Support.7.d: "The only issue with Operation X is the transportation of arms to Spain. The majority of our supplies fail to arrive or arrive with insufficient forces. To avoid detection by the Nationalists, Soviet captains are now using false flags. The majority of the weapons supplied to Spain are from the mid-late 1800s; however, Soviet High Command has demanded that we use guns from the Russian Civil War or better.  In other news, the tanks have proven to be extremely effective in the Civil War, prompting the Spanish to seek an additional 200.\n\nInstead of the promised 202.4 million rubles, the Republicans have changed their payment method. They are now compensating us with their gold reserves, of which we have received 510 tonnes. Following Mikhail Koltsov's newspaper articles, the Spanish Civil War has gained a lot of attention among the Soviet people."
+ SPA_CW_Foreign_Support.7.A: "Aid our socialist comrades!"
+
+ SPA_CW_Foreign_Support.8.t: "Arms for Spain"
+ SPA_CW_Foreign_Support.8.d: "Since Napoleon tore the country apart in the early 1800s, Spain has been in a bad way. This constant state of upheaval and unrest has left the Spanish Army in disarray, forcing it to constantly play catch-up in terms of advanced, modern weapons. While the Fascists claim neutrality, it is clear that they are arming and volunteering their puppets. If we let them continue without responding in kind, it will only be a matter of time before the Nationalists take over Spain and secure Western Europe for Fascism. While the 'Neutral Powers' have established a blockade to prevent foreign arms, let us see how they will attempt to stop us. Spain will have weapons to match whatever the Fascists bring."
+ SPA_CW_Foreign_Support.8.A: "Support the fight against fascism!"
+
+ SPA_CW_Foreign_Support.9.t: "Heavy Weapons for Spain?"
+ SPA_CW_Foreign_Support.9.d: "The Spanish Civil War has erupted, and the question of whether we should aid the Spanish Republicans remains unresolved. We have previously signed the Non-Intervention Agreement, with the rest of the Western nations boycotting Spain completely, which means sending aid would be extremely controversial. Western countries are already terrified of the spread of communism. Following the twelve-point Politburo procedure, commonly known as Plan \"X,\" the people are on the side of the Spanish Republicans, with up to 120,000 people rallying in Moscow alone to show their support. Could we secretly assist the Republicans?"
+ SPA_CW_Foreign_Support.9.A: "Bombard the reactionaries today!"
+
+ SPA_CW_Foreign_Support.10.t: "Military Leadership in Spain"
+ SPA_CW_Foreign_Support.10.d: "As the civil war in Spain rages on, one thing has become abundantly clear. Republicans are incapable of leading! While the Nationalists run roughshod over their lines, the Republicans have fragmented and are more likely to shoot each other than the enemy. We must seize control if we are to save Spain for the Proletariat and save Spain from itself. As a condition for our continued support, we will demand that Soviet officers and advisors be placed in key positions throughout the chain of command. Without being entangled in the rampant factionalism that afflicts Madrid, these new officers may be able to concentrate on fighting our adversaries."
+ SPA_CW_Foreign_Support.10.A: "Teach them how to command the working class!"
+
+ SPA_CW_Foreign_Support.11.t: "Political Doctrine in Spain"
+ SPA_CW_Foreign_Support.11.d: "The Republic, like the Kingdom it deposed, is unstable. Syndicalists, Democrats, Anarchists, and Communists barely get along. They are constantly plotting and conspiring against each other as the levers of power change hands on a daily basis. If one person gains even slightly more power than the other, they immediately begin to flaunt it, and the pendulum begins to swing in the opposite direction. In this cutthroat environment, little actual ruling is done.\n\nIn fact, the constant betrayals, backstabs, and inter-party tensions are so toxic that our government agents are aware of at least 13 plots to overthrow the current government, some large and most minor. The anarchists openly declare their intention to revolt! It is obvious that the Spanish cannot govern themselves. To ensure strict Marxist-Leninist unity, we will introduce our own political operatives into the system. Some fear that this will further polarise Republicans and possibly spark a Democratic revolt, but if they try anything, we'll simply get rid of them as well."
+ SPA_CW_Foreign_Support.11.A: "Let us assume political control in Spain!"
+
+######################################################################
+#  Decisions
+######################################################################
+ SPA_Spanish_Civil_War_category: "Spanish Civil War"
+ SPA_Spanish_Civil_War_category_desc: "War rages across the Iberian Peninsula. Spain has descended into chaos as two irreconcilable visions for the nation clash in a struggle for survival. Cities burn, armies mobilize, and foreign powers circle like vultures, sending weapons, advisors, and volunteers to influence the outcome.\n\nEvery decision—whether to reinforce a front, secure political loyalty, or extend aid from abroad—has the power to shift the balance of the war. The fate of Spain, and perhaps the ideological future of Europe itself, will be decided on these battlefields."
+
+ SPA_Occupy_Tangier: "Occupy Tangier"
+ SPA_Occupy_Tangier_desc: "With France defeated and Britain distracted by the war in Europe, the unique status of the Tangier International Zone stands on shaky ground. By moving swiftly, we can assert Spanish control over this strategic port, strengthening our position in the Strait of Gibraltar and reclaiming what is rightfully ours."
+
+# Nationalist
+ SPA_Request_Supplies_from_Italy: "Request Supplies from Italy"
+ SPA_Request_Supplies_from_Italy_desc: "Our Italian allies stand ready to assist our righteous cause. By appealing to Rome, we may secure vital shipments of weapons, ammunition, and equipment to strengthen our forces. Every crate of supplies brings us one step closer to crushing the Reds and restoring order to Spain."
+ SPA_Request_Supplies_from_Italy_2: "Request Additional Supplies from Italy"
+ SPA_Request_Supplies_from_Italy_2_desc: "The first shipments from Italy have proven invaluable, but our struggle is far from over. By requesting additional arms and ammunition, we can further equip our forces and maintain the momentum against the Republican resistance."
+ SPA_Form_Condor_Legion: "Form the Condor Legion"
+ SPA_Form_Condor_Legion_desc: "Our struggle has drawn the attention of sympathetic powers in Europe. By formally requesting German military assistance, we may secure shipments of modern equipment and the presence of German \"volunteers.\".\n\nBerlin is said to be considering the creation of a specialized expeditionary force to aid us—a powerful air and ground contingent that could change the course of the war. It is time to send the request."
+ SPA_Convince_Salazar: "Convince Salazar"
+ SPA_Convince_Salazar_desc: "Portugal, under Salazar, shares our vision of a stable, anti-communist Iberia. By convincing Lisbon to aid our cause, we can secure vital logistical support and strengthen our rear lines along the Portuguese border."
+ SPA_Regia_Marina_Support: "Support from the Regia Marina"
+ SPA_Regia_Marina_Support_desc: "The Regia Marina can ensure control of the seas, disrupting Republican shipping and protecting our own convoys. Italian naval cooperation will greatly enhance our capacity to cut off enemy supply lines."
+ SPA_Corpo_Truppe_Voluntarie: "Corpo Truppe Voluntarie"
+ SPA_Corpo_Truppe_Voluntarie_desc: "Italian volunteers, organized into the Corpo Truppe Volontarie, are prepared to join our cause. Their experience and modern equipment will greatly strengthen our forces on the battlefield."
+ SPA_Corpo_Truppe_Voluntarie_2: "Expand Corpo Truppe Voluntarie"
+ SPA_Corpo_Truppe_Voluntarie_2_desc: "The initial Italian contingent has performed admirably. By expanding the Corpo Truppe Volontarie, we can deploy more troops, armored vehicles, and artillery to crush Republican resistance once and for all."
+ SPA_Attract_Viriatos: "Attract Viriatos"
+ SPA_Attract_Viriatos_desc: "Portuguese volunteers, inspired by our shared struggle against communism, are forming units known as the \"Viriatos.\" Though few in number, their contribution serves as a symbol of Iberian unity against the Red menace."
+ SPA_German_Advisors: "Invite Advisors from Germany"
+ SPA_German_Advisors_desc: "The German High Command has offered to send military advisors to reorganize our army, train our troops, and introduce modern tactics. Their expertise will be essential in transforming our forces into an effective war machine."
+ SPA_Italian_Advisors: "Invite Advisors from Italy"
+ SPA_Italian_Advisors_desc: "Italian officers, veterans of Ethiopia and trained in modern warfare, are willing to advise our command staff. Their experience will help us better coordinate operations and secure quick victories on key fronts."
+
+# Republican
+ SPA_International_Support: "Request Support from Major Powers"
+ SPA_International_Support_desc: "The Spanish Republic cannot survive this struggle alone. By appealing to major powers sympathetic to our cause, we may secure weapons, equipment, and volunteers to resist the fascist uprising."
+ SPA_Influence_British_Legislation: "Influence British Legislation"
+ SPA_Influence_British_Legislation_desc: "Britain's policy of non-intervention hampers the flow of supplies to our forces. By lobbying sympathetic politicians and activists, we may sway legislation and weaken the blockade strangling our war effort."
+ SPA_Illegal_British_Volunteers: "Attract Illegal British Volunteers"
+ SPA_Illegal_British_Volunteers_desc: "Though the British government refuses official support, leftist movements in Britain are sympathetic to our cause. By secretly coordinating with them, we can attract idealistic volunteers willing to risk everything to defend the Republic."
+ SPA_Mexican_Brigades: "The Mexican Brigades"
+ SPA_Mexican_Brigades_desc: "Mexico has pledged its solidarity with our Republic. Mexican volunteers—workers, students, and revolutionaries—are forming brigades to fight alongside us, a proud gesture of international brotherhood."
+ SPA_Second_Mexican_Brigades: "The Second Mexican Brigades"
+ SPA_Second_Mexican_Brigades_desc: "Inspired by the first wave, a second contingent of Mexican volunteers has mobilized. Teachers, intellectuals, and veteran revolutionaries now join the struggle, determined to stop fascism in Spain."
+ SPA_Request_Soviet_Shipments: "Request Soviet Shipments"
+ SPA_Request_Soviet_Shipments_desc: "The Soviet Union has agreed to send shipments of rifles, machine guns, and ammunition. Though controversial, these weapons are essential if we are to match the firepower of the Nationalists."
+ SPA_Request_Heavy_Weapons_Shipments: "Request Heavy Shipments"
+ SPA_Request_Heavy_Weapons_Shipments_desc: "Basic arms are no longer enough. We must request heavy Soviet weapons—artillery, tanks, and aircraft—to break the Nationalist advances and retake the initiative."
+ SPA_Soviet_Military_Command: "Soviet Military Command"
+ SPA_Soviet_Military_Command_desc: "The Soviets have offered to dispatch experienced officers to oversee key operations. While their presence may raise tensions within the Republic, their expertise could be decisive on the battlefield."
+ SPA_Soviet_Political_Support: "Soviet Political Support"
+ SPA_Soviet_Political_Support_desc: "Moscow's influence among leftist factions strengthens our political position and helps secure further aid. However, accepting this support risks alienating moderates and deepening internal divisions."
+ SPA_Fortify_Madrid: "Fortify Madrid"
+ SPA_Fortify_Madrid_desc: "The capital city stands as one of the last bastions of the Republic. With Nationalist forces closing in, it is vital to strengthen Madrid's defenses—fortifying key positions, mobilizing militias, and preparing civilians for a prolonged siege."
+ SPA_Mobilize_Unions_decision: "Mobilize the Unions"
+ SPA_Mobilize_Unions_decision_desc: "The workers of Spain are the backbone of the Republic. By mobilizing trade unions, we can expand arms production, reinforce our militias, and ensure the people themselves contribute to the war effort."
+
+ ######################################################################
+ # National Spirits
+ ######################################################################
+ SPA_La_Guerra_Civil: "¡La Guerra Civil!"
+ SPA_La_Guerra_Civil_desc: "Spain is engulfed in a brutal civil war, tearing apart families, communities, and the very fabric of the nation. Every resource is devoted to the struggle—factories converted to produce weapons, fields worked by whoever remains, and entire cities turned into battlegrounds.\n\nMorale rises and falls with each victory or defeat, but for both sides, there is no turning back. The war will not end until one vision of Spain triumphs completely, no matter the cost."
+ SPA_Armed_Masses: "Armed Masses"
+ SPA_Disorganised_Command_Structure: "Disorganised Command Structure"
+ SPA_Popular_Front: "The Popular Front"
+ SPA_No_Pasaran: "¡No Pasarán!"
+ SPA_Soviet_Military_Leadership: "Soviet Military Leadership"
+ SPA_Soviet_Political_Leadership: "Soviet Political Leadership"
+ SPA_Reorganising_Command_Structure: "Reorganising Command Structure"
+ SPA_The_Army_Is_With_Us: "The Army Is With Us"
+ SPA_The_Church_Is_With_Us: "The Church Is With Us"
+ SPA_Military_Power_Struggles: "Military Power Struggles"
+ SPA_Civil_War_Scars: "Scars of the Civil War"
+ SPA_Disorganized_Army: "Disorganized Army"
+
+ ######################################################################
+ # Dynamic Modifiers
+ ######################################################################
+ SPA_Spanish_Civil_War_Modifier: "Roaring Chaos"

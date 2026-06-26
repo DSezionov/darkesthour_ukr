@@ -1,0 +1,5110 @@
+﻿l_english:
+
+ ### Germany
+ GER: "Germany"
+ GER_DEF: "Germany"
+ GER_ADJ: "German"
+
+ GER_fascist: "German Reich"
+ GER_fascist_DEF: "the German Reich"
+ GER_authoritarian: "German Reich"
+ GER_authoritarian_DEF: "the German Reich"
+ GER_democratic: "German Reich"
+ GER_democratic_DEF: "the German Reich"
+ GER_socialist: "German Soviet Republic"
+ GER_socialist_DEF: "the German Soviet Republic"
+ GER_communist: "German Soviet Republic"
+ GER_communist_DEF: "the German Soviet Republic"
+
+ GER_North_Germany: "North German Confederation"
+ GER_North_Germany_ADJ: "North German"
+ 
+ GER_GREATER_GERMANIC_REICH_fascist_DEF: "the Großgermanisches Reich"
+ GER_GREATER_GERMANIC_REICH_fascist: "Großgermanisches Reich"
+ GER_GREATER_REICH_fascist_DEF: "the Großdeutsches Reich"
+ GER_GREATER_REICH_fascist: "Großdeutsches Reich"
+ GER_IMPERIAL_FLAG_fascist_DEF: "the German Reich"
+ GER_IMPERIAL_FLAG_fascist: "German Reich"
+ GER_EMPIRE_authoritarian_DEF: "the German Empire"
+ GER_EMPIRE_authoritarian: "German Empire"
+ GER_NSDAP_GCW_fascist_DEF: "the Government of National Salvation"
+ GER_NSDAP_GCW_fascist: "Government of National Salvation"
+ GER_SA_fascist_DEF: "the Deutscher Sozialistischer Arbeiterstaat"
+ GER_SA_fascist: "Deutscher Sozialistischer Arbeiterstaat"
+ GER_SS_fascist_DEF: "Germania"
+ GER_SS_fascist: "SS-Ordensstaat Germania"
+ GER_STRASSER_fascist_DEF: "the Deutscher Volksstaat"
+ GER_STRASSER_fascist: "Deutscher Volksstaat"
+ GER_GREATER_KAISERREICH_authoritarian_DEF: "the Großdeutsches Kaiserreich"
+ GER_GREATER_KAISERREICH_authoritarian: "Großdeutsches Kaiserreich"
+ GER_OKH_authoritarian_DEF: "the German Reich"
+ GER_OKH_authoritarian: "German Reich"
+ GER_OKH_GCW_authoritarian_DEF: "the Weimar Republic"
+ GER_OKH_GCW_authoritarian: "Weimar Republic"
+ GER_WEIMAR_authoritarian_DEF: "the German Reich"
+ GER_WEIMAR_authoritarian: "German Reich"
+ GER_PRUSSIA_democratic_DEF: "the Free State of Prussia"
+ GER_PRUSSIA_democratic: "Free State of Prussia"
+ GER_PRUSSIA_authoritarian_DEF: "the Kingdom of Prussia"
+ GER_PRUSSIA_authoritarian: "Kingdom of Prussia"
+ GER_PRUSSIA_communist_DEF: "Prussian Democratic Republic"
+ GER_PRUSSIA_communist: "the Prussian Democratic Republic"
+
+ # East Germany
+ DDR_communist: "German Democratic Republic"
+ DDR_communist_DEF: "the German Democratic Republic"
+ GER_SOV_communist_AUTONOMY_SSR: "German Soviet Socialist Republic"
+
+ # West Germany
+ FRG_democratic: "Federal Republic of Germany"
+ FRG_democratic_DEF: "the Federal Republic of Germany"
+ TRZ: "Trizonesia"
+ TRZ_DEF: "Trizonesia"
+
+ ### United Kingdom
+ ENG: "United Kingdom"
+ ENG_DEF: "the United Kingdom"
+ ENG_ADJ: "British"
+
+ ENG_fascist: "United Kingdom"
+ ENG_fascist_DEF: "the United Kingdom"
+ ENG_authoritarian: "United Kingdom"
+ ENG_authoritarian_DEF: "the United Kingdom"
+ ENG_democratic: "United Kingdom"
+ ENG_democratic_DEF: "the United Kingdom"
+ ENG_socialist: "United Kingdom"
+ ENG_socialist_DEF: "the United Kingdom"
+ ENG_communist: "Union of Socialist Republics of Britain"
+ ENG_communist_DEF: "the USSB"
+
+ FRA_UK: "Franco-British Union"
+ FRA_UK_DEF: "the Franco-British Union"
+ FRA_UK_ADJ: "Franco-British"
+
+ FRA_UK_fascist: "Franco-British Empire"
+ FRA_UK_fascist_DEF: "the Franco-British Empire"
+ FRA_UK_authoritarian: "Angevin Empire"
+ FRA_UK_authoritarian_DEF: "the Angevin Empire"
+ FRA_UK_communist: "United Socialist Republics of France and Britain"
+ FRA_UK_communist_DEF: "the United Socialist Republics of France and Britain"
+
+ EGL: "Kingdom of England" # Axis victory
+ EGL_DEF: "the Kingdom of England"
+ ENG_Exile: "United Kingdom in-Exile"
+ ENG_Exile_DEF: "the United Kingdom in-Exile"
+
+ ### Soviet Union/Russia
+ SOV: "Russia"
+ SOV_DEF: "Russia"
+ SOV_ADJ: "Russian"
+
+ SOV_fascist: "All-Russian Federative State"
+ SOV_fascist_DEF: "the All-Russian Federative State"
+ SOV_authoritarian: "Russian Federation"
+ SOV_authoritarian_DEF: "the Russian Federation"
+ SOV_democratic: "Russian Federation"
+ SOV_democratic_DEF: "the Russian Federation"
+ SOV_socialist: "Russian Federation"
+ SOV_socialist_DEF: "the Russian Federation"
+ SOV_communist: "Union of Soviet Socialist Republics"
+ SOV_communist_DEF: "the Soviet Union"
+ SOV_communist_ADJ: "Soviet"
+
+ SOV_LENINGRAD_communist: "Soviet Provisional Government"
+ SOV_LENINGRAD_communist_DEF: "the Soviet Provisional Government"
+ SOV_KONR: "Provisional Government of the Russian Republic"
+ SOV_KONR_DEF: "the Provisional Government of the Russian Republic"
+
+ ### United States
+ USA: "United States"
+ USA_DEF: "the United States"
+ USA_ADJ: "American"
+
+ USA_fascist: "United States of America"
+ USA_fascist_DEF: "the United States of America"
+ USA_authoritarian: "United States of America"
+ USA_authoritarian_DEF: "the United States of America"
+ USA_democratic: "United States of America"
+ USA_democratic_DEF: "the United States of America"
+ USA_socialist: "United States of America"
+ USA_socialist_DEF: "the United States of America"
+ USA_communist: "United Socialist States of America"
+ USA_communist_DEF: "the USSA"
+
+ USA_MILITARY_authoritarian: "United States Army Military Government"
+ USA_MILITARY_authoritarian_DEF: "the United States Army Military Government"
+ USA_ASR_communist: "American Soviet Republic"
+ USA_ASR_communist_DEF: "the American Soviet Republic"
+
+ USA_GER_Military_AUTONOMY_Reichskommissariat: "Gebiet des Militärbefehlshabers in Ostamerika"
+ USA_GER_AUTONOMY_Reichskommissariat: "Reichskommissariat Amerika"
+ USA_GER_AUTONOMY_Reichsprotectorate: "Amerikanischer Staat"
+ USA_GER_fascist_AUTONOMY_Satellite: "American Republic"
+
+ ### Sweden
+ SWE: "Sweden"
+ SWE_DEF: "Sweden"
+ SWE_ADJ: "Swedish"
+
+ SWE_fascist: "Kingdom of Sweden"
+ SWE_fascist_DEF: "the Kingdom of Sweden"
+ SWE_authoritarian: "Kingdom of Sweden"
+ SWE_authoritarian_DEF: "the Kingdom of Sweden"
+ SWE_democratic: "Kingdom of Sweden"
+ SWE_democratic_DEF: "the Kingdom of Sweden"
+ SWE_socialist: "Republic of Sweden"
+ SWE_socialist_DEF: "the Republic of Sweden"
+ SWE_communist: "People's Republic of Sweden"
+ SWE_communist_DEF: "the People's Republic of Sweden"
+
+ SWE_GER_AUTONOMY_Marionettenstaat: "Reichskommissariat Schweland"
+ SWE_GER_AUTONOMY_Reichsprotectorate: "Protektorat Schweden"
+
+ ### France
+ FRA: "France"
+ FRA_DEF: "France"
+ FRA_ADJ: "French"
+
+ FRA_fascist: "French State"
+ FRA_fascist_DEF: "the French State"
+ FRA_authoritarian: "French State"
+ FRA_authoritarian_DEF: "the French State"
+ FRA_democratic: "French Republic"
+ FRA_democratic_DEF: "the French Republic"
+ FRA_socialist: "French Republic"
+ FRA_socialist_DEF: "the French Republic"
+ FRA_communist: "French Socialist Republic"
+ FRA_communist_DEF: "the French Socialist Republic"
+
+ FRC: "Soviet Military Administration in Northern France"
+ FRC_DEF: "the Soviet Military Administration in Northern France"
+
+ FRA_GER_AUTONOMY_Reichsprotectorate: "Protektorat Frankreich"
+
+ FFL: "Free France"
+ FFL_DEF: "Free France"
+ FFL_ADJ: "Free French"
+ FRA_PGFR: "Provisional Government of the French Republic"
+ FRA_PGFR_DEF: "the Provisional Government of the French Republic"
+
+ ### Brittany
+ BRT: "Brittany"
+ BRT_DEF: "Brittany"
+ BRT_ADJ: "Breton"
+
+ BRT_fascist: "Independent State of Britanny"
+ BRT_fascist_DEF: "the Independent State of Britanny"
+ BRT_authoritarian: "Independent State of Britanny"
+ BRT_authoritarian_DEF: "the Independent State of Britanny"
+ BRT_democratic: "Breton Republic"
+ BRT_democratic_DEF: "the Breton Republic"
+ BRT_socialist: "Breton Republic"
+ BRT_socialist_DEF: "the Breton Republic"
+ BRT_communist: "People's Republic of Brittany"
+ BRT_communist_DEF: "the People's Republic of Brittany"
+
+ ### Saarland
+ SAR: "Saarland"
+ SAR_DEF: "Saarland"
+ SAR_ADJ: "Saarlander"
+
+ SAR_LoN: "Territory of the Saar Basin"
+ SAR_LoN_DEF: "the Territory of the Saar Basin"
+ SAR_1947: "Saar Protectorate"
+ SAR_1947_DEF: "the Saar Protectorate"
+
+ ### Macedonia
+ MAC: "Macedonia"
+ MAC_DEF: "Macedonia"
+ MAC_ADJ: "Macedonian"
+
+ MAC_fascist: "Independent State of Macedonia"
+ MAC_fascist_DEF: "the Independent State of Macedonia"
+ MAC_authoritarian: "Republic of Macedonia"
+ MAC_authoritarian_DEF: "the Republic of Macedonia"
+ MAC_democratic: "Republic of Macedonia"
+ MAC_democratic_DEF: "the Republic of Macedonia"
+ MAC_socialist: "Socialist Republic of Macedonia"
+ MAC_socialist_DEF: "the Socialist Republic of Macedonia"
+ MAC_communist: "People's Republic of Macedonia"
+ MAC_communist_DEF: "the People's Republic of Macedonia"
+
+ ### Bosnia and Herzegovina
+ BOS: "Bosnia and Herzegovina"
+ BOS_DEF: "Bosnia and Herzegovina"
+ BOS_ADJ: "Bosnian"
+
+ BOS_fascist: "Republic of Bosnia and Herzegovina"
+ BOS_fascist_DEF: "the Republic of Bosnia and Herzegovina"
+ BOS_authoritarian: "Republic of Bosnia and Herzegovina"
+ BOS_authoritarian_DEF: "the Republic of Bosnia and Herzegovina"
+ BOS_democratic: "Republic of Bosnia and Herzegovina"
+ BOS_democratic_DEF: "the Republic of Bosnia and Herzegovina"
+ BOS_socialist: "Socialist Republic of Bosnia and Herzegovina"
+ BOS_socialist_DEF: "the Socialist Republic of Bosnia and Herzegovina"
+ BOS_communist: "People's Republic of Bosnia and Herzegovina"
+ BOS_communist_DEF: "the People's Republic of Bosnia and Herzegovina"
+
+ ### Ossetia
+ OSS: "Ossetia"
+ OSS_DEF: "Ossetia"
+ OSS_ADJ: "Ossetian"
+
+ OSS_fascist: "Free State of Alania"
+ OSS_fascist_DEF: "the Free State of Alania"
+ OSS_authoritarian: "Republic of Ossetia"
+ OSS_authoritarian_DEF: "the Republic of Ossetia"
+ OSS_democratic: "Republic of Ossetia"
+ OSS_democratic_DEF: "the Republic of Ossetia"
+ OSS_socialist: "Republic of Ossetia"
+ OSS_socialist_DEF: "the Republic of Ossetia"
+ OSS_communist: "People's Republic of Ossetia"
+ OSS_communist_DEF: "the People's Republic of Ossetia"
+
+ ### Somalia
+ SOM: "Somalia"
+ SOM_DEF: "Somalia"
+ SOM_ADJ: "Somali"
+
+ SOM_fascist: "State of Somalia"
+ SOM_fascist_DEF: "the State of Somalia"
+ SOM_authoritarian: "Republic of Somalia"
+ SOM_authoritarian_DEF: "the Republic of Somalia"
+ SOM_democratic: "Federal Republic of Somalia"
+ SOM_democratic_DEF: "the Federal Republic of Somalia"
+ SOM_socialist: "Federal Republic of Somalia"
+ SOM_socialist_DEF: "the Federal Republic of Somalia"
+ SOM_communist: "Somali Democratic Republic"
+ SOM_communist_DEF: "the Somali Democratic Republic"
+
+ ### Chad
+ CHA: "Chad"
+ CHA_DEF: "Chad"
+ CHA_ADJ: "Chadian"
+
+ CHA_fascist: "Republic of Chad"
+ CHA_fascist_DEF: "the Republic of Chad"
+ CHA_authoritarian: "Republic of Chad"
+ CHA_authoritarian_DEF: "the Republic of Chad"
+ CHA_democratic: "Republic of Chad"
+ CHA_democratic_DEF: "the Republic of Chad"
+ CHA_socialist: "Republic of Chad"
+ CHA_socialist_DEF: "the Republic of Chad"
+ CHA_communist: "People's Republic of Chad"
+ CHA_communist_DEF: "the People's Republic of Chad"
+
+ ### Nigeria
+ NGA: "Nigeria"
+ NGA_DEF: "Nigeria"
+ NGA_ADJ: "Nigerian"
+
+ NGA_fascist: "Federal Republic of Nigeria"
+ NGA_fascist_DEF: "the Federal Republic of Nigeria"
+ NGA_authoritarian: "Federal Republic of Nigeria"
+ NGA_authoritarian_DEF: "the Federal Republic of Nigeria"
+ NGA_democratic: "Federal Republic of Nigeria"
+ NGA_democratic_DEF: "the Federal Republic of Nigeria"
+ NGA_socialist: "Federal Republic of Nigeria"
+ NGA_socialist_DEF: "the Federal Republic of Nigeria"
+ NGA_communist: "People's Republic of Nigeria"
+ NGA_communist_DEF: "the People's Republic of Nigeria"
+
+ ### Gabon
+ GAB: "Gabon"
+ GAB_DEF: "Gabon"
+ GAB_ADJ: "Gabonese"
+
+ GAB_fascist: "Gabonese Republic"
+ GAB_fascist_DEF: "the Gabonese Republic"
+ GAB_authoritarian: "Gabonese Republic"
+ GAB_authoritarian_DEF: "the Gabonese Republic"
+ GAB_democratic: "Gabonese Republic"
+ GAB_democratic_DEF: "the Gabonese Republic"
+ GAB_socialist: "Gabonese Republic"
+ GAB_socialist_DEF: "the Gabonese Republic"
+ GAB_communist: "Democratic Republic of Gabon"
+ GAB_communist_DEF: "the Democratic Republic of Gabon"
+
+ ### Uganda
+ UGA: "Uganda"
+ UGA_DEF: "Uganda"
+ UGA_ADJ: "Ugandan"
+
+ UGA_fascist: "Republic of Uganda"
+ UGA_fascist_DEF: "the Republic of Uganda"
+ UGA_authoritarian: "Republic of Uganda"
+ UGA_authoritarian_DEF: "the Republic of Uganda"
+ UGA_democratic: "Republic of Uganda"
+ UGA_democratic_DEF: "the Republic of Uganda"
+ UGA_socialist: "Republic of Uganda"
+ UGA_socialist_DEF: "the Republic of Uganda"
+ UGA_communist: "Democratic Republic of Uganda"
+ UGA_communist_DEF: "the Democratic Republic of Uganda"
+
+ ### Bangladesh
+ BAN: "Bangladesh"
+ BAN_DEF: "Bangladesh"
+ BAN_ADJ: "Bangladeshi"
+
+ BAN_fascist: "Republic of Bangladesh"
+ BAN_fascist_DEF: "the Republic of Bangladesh"
+ BAN_authoritarian: "Republic of Bangladesh"
+ BAN_authoritarian_DEF: "the Republic of Bangladesh"
+ BAN_democratic: "People's Republic of Bangladesh"
+ BAN_democratic_DEF: "the People's Republic of Bangladesh"
+ BAN_socialist: "People's Republic of Bangladesh"
+ BAN_socialist_DEF: "the People's Republic of Bangladesh"
+ BAN_communist: "People's Republic of Bangladesh"
+ BAN_communist_DEF: "the People's Republic of Bangladesh"
+
+ ### Rhine
+ RHI: "Rhineland"
+ RHI_DEF: "Rhineland"
+ RHI_ADJ: "Rhenish"
+
+ RHI_fascist: "Rhenish State"
+ RHI_fascist_DEF: "the Rhenish State"
+ RHI_authoritarian: "Rhenish State"
+ RHI_authoritarian_DEF: "the Rhenish State"
+ RHI_democratic: "Rhenish Republic"
+ RHI_democratic_DEF: "the Rhenish Republic"
+ RHI_socialist: "Rhenish Republic"
+ RHI_socialist_DEF: "the Rhenish Republic"
+ RHI_communist: "Rhenish Soviet Republic"
+ RHI_communist_DEF: "the Rhenish Soviet Republic"
+
+ ### Luxembourg
+ LUX: "Luxembourg"
+ LUX_DEF: "Luxembourg"
+ LUX_ADJ: "Luxembourgish"
+
+ LUX_fascist: "Luxembourgish State"
+ LUX_fascist_DEF: "the Luxembourgish State"
+ LUX_authoritarian: "Grand Duchy of Luxembourg"
+ LUX_authoritarian_DEF: "the Grand Duchy of Luxembourg"
+ LUX_democratic: "Grand Duchy of Luxembourg"
+ LUX_democratic_DEF: "the Grand Duchy of Luxembourg"
+ LUX_socialist: "Luxembourg Commune"
+ LUX_socialist_DEF: "the Luxembourg Commune"
+ LUX_communist: "People's Republic of Luxembourg"
+ LUX_communist_DEF: "the People's Republic of Luxembourg"
+
+ ### Belgium
+ BEL: "Belgium"
+ BEL_DEF: "Belgium"
+ BEL_ADJ: "Belgian"
+
+ BEL_fascist: "Kingdom of Belgium"
+ BEL_fascist_DEF: "the Kingdom of Belgium"
+ BEL_authoritarian: "Kingdom of Belgium"
+ BEL_authoritarian_DEF: "the Kingdom of Belgium"
+ BEL_democratic: "Kingdom of Belgium"
+ BEL_democratic_DEF: "the Kingdom of Belgium"
+ BEL_socialist: "Belgian Socialist Republic"
+ BEL_socialist_DEF: "the Belgian Socialist Republic"
+ BEL_communist: "Belgian Socialist Republic"
+ BEL_communist_DEF: "the Belgian Socialist Republic"
+
+ ### Netherlands
+ HOL: "Netherlands"
+ HOL_DEF: "Netherlands"
+ HOL_ADJ: "Dutch"
+
+ HOL_fascist: "Dutch Rijk"
+ HOL_fascist_DEF: "the Dutch Rijk"
+ HOL_authoritarian: "Kingdom of the Netherlands"
+ HOL_authoritarian_DEF: "the Kingdom of the Netherlands"
+ HOL_democratic: "Kingdom of the Netherlands"
+ HOL_democratic_DEF: "the Kingdom of the Netherlands"
+ HOL_socialist: "Kingdom of the Netherlands"
+ HOL_socialist_DEF: "the Kingdom of the Netherlands"
+ HOL_communist: "Republic of the Netherlands"
+ HOL_communist_DEF: "the Republic of the Netherlands"
+
+ ### Czechia
+ CZE: "Czechia"
+ CZE_DEF: "Czechia"
+ CZE_ADJ: "Czech"
+
+ CZE_fascist: "Czech State"
+ CZE_fascist_DEF: "the Czech State"
+ CZE_authoritarian: "Czech Republic"
+ CZE_authoritarian_DEF: "the Czech Republic"
+ CZE_democratic: "Czech Republic"
+ CZE_democratic_DEF: "the Czech Republic"
+ CZE_socialist: "Czech Socialist Republic"
+ CZE_socialist_DEF: "the Czech Socialist Republic"
+ CZE_communist: "Czech Socialist Republic"
+ CZE_communist_DEF: "the Czech Socialist Republic"
+
+ CZE_SOV_1946_communist_AUTONOMY_Satellite: "Czechoslovak Republic"
+
+ ### Bohemia-Moravia
+ PBM: "Protektorat Böhmen und Mähren"
+ PBM_DEF: "the Protektorat Böhmen und Mähren"
+ PBM_ADJ: "Bohemian-Moravian"
+
+ ### Poland
+ POL: "Poland"
+ POL_DEF: "Poland"
+ POL_ADJ: "Polish"
+
+ POL_fascist: "Polish National Republic"
+ POL_fascist_DEF: "the Polish National Republic"
+ POL_authoritarian: "Republic of Poland"
+ POL_authoritarian_DEF: "the Republic of Poland"
+ POL_democratic: "Republic of Poland"
+ POL_democratic_DEF: "the Republic of Poland"
+ POL_socialist: "Polish People's Republic"
+ POL_socialist_DEF: "the Polish People's Republic"
+ POL_communist: "Polish People's Republic"
+ POL_communist_DEF: "the Polish People's Republic"
+
+ POL_AK: "Polish Underground State"
+ POL_AK_DEF: "the Polish Underground State"
+ PKWN: "Polish Committee of National Liberation"
+ PKWN_DEF: "the Polish Committee of National Liberation"
+
+ POL_SOV_AUTONOMY_SSR: "Polish Soviet Socialist Republic"
+
+ ### Austria
+ AUS: "Austria"
+ AUS_DEF: "Austria"
+ AUS_ADJ: "Austrian"
+
+ AUS_fascist: "Federal State of Austria"
+ AUS_fascist_DEF: "the Federal State of Austria"
+ AUS_authoritarian: "Kingdom of Austria"
+ AUS_authoritarian_DEF: "Kingdom of Austria"
+ AUS_democratic: "Republic of Austria"
+ AUS_democratic_DEF: "the Republic of Austria"
+ AUS_communist: "Austrian Democratic Republic"
+ AUS_communist_DEF: "the Austrian Democratic Republic"
+ AUS_socialist: "Austrian Democratic Republic"
+ AUS_socialist_DEF: "the Austrian Democratic Republic"
+
+ AUS_REP_authoritarian: "Republic of Austria"
+ AUS_REP_authoritarian_DEF: "the Republic of Austria"
+
+ AUS_GER_AUTONOMY_Reichskommissariat: "Deutschösterreich"
+ AUS_GER_AUTONOMY_Reichsprotectorate: "Protektorat Ostmark"
+
+ ### Lithuania
+ LIT: "Lithuania"
+ LIT_DEF: "Lithuania"
+ LIT_ADJ: "Lithuanian"
+
+ LIT_fascist: "Republic of Lithuania"
+ LIT_fascist_DEF: "the Republic of Lithuania"
+ LIT_authoritarian: "Republic of Lithuania"
+ LIT_authoritarian_DEF: "the Republic of Lithuania"
+ LIT_democratic: "Republic of Lithuania"
+ LIT_democratic_DEF: "the Republic of Lithuania"
+ LIT_socialist: "Socialist Republic of Lithuania"
+ LIT_socialist_DEF: "the Socialist Republic of Lithuania"
+ LIT_communist: "Lithuanian Soviet Socialist Republic"
+ LIT_communist_DEF: "the Lithuanian Soviet Socialist Republic"
+
+ ### Estonia
+ EST: "Estonia"
+ EST_DEF: "Estonia"
+ EST_ADJ: "Estonian"
+
+ EST_fascist: "Republic of Estonia"
+ EST_fascist_DEF: "the Republic of Estonia"
+ EST_authoritarian: "Republic of Estonia"
+ EST_authoritarian_DEF: "the Republic of Estonia"
+ EST_democratic: "Republic of Estonia"
+ EST_democratic_DEF: "the Republic of Estonia"
+ EST_socialist: "Republic of Estonia"
+ EST_socialist_DEF: "the Republic of Estonia"
+ EST_communist: "Estonian Soviet Socialist Republic"
+ EST_communist_DEF: "the Estonian Soviet Socialist Republic"
+
+ ### Latvia
+ LAT: "Latvia"
+ LAT_DEF: "Latvia"
+ LAT_ADJ: "Latvian"
+ 
+ LAT_fascist: "Republic of Latvia"
+ LAT_fascist_DEF: "the Republic of Latvia"
+ LAT_authoritarian: "Republic of Latvia"
+ LAT_authoritarian_DEF: "the Republic of Latvia"
+ LAT_democratic: "Republic of Latvia"
+ LAT_democratic_DEF: "the Republic of Latvia"
+ LAT_socialist: "Socialist Republic of Latvia"
+ LAT_socialist_DEF: "the Socialist Republic of Latvia"
+ LAT_communist: "Latvian Soviet Socialist Republic"
+ LAT_communist_DEF: "the Latvian Soviet Socialist Republic"
+
+ ### Spain
+ SPA: "Spain"
+ SPA_DEF: "Spain"
+ SPA_ADJ: "Spanish"
+
+ SPA_fascist: "Spanish State"
+ SPA_fascist_DEF: "the State of Spain"
+ SPA_authoritarian: "Spanish State"
+ SPA_authoritarian_DEF: "the State of Spain"
+ SPA_democratic: "Spanish Republic"
+ SPA_democratic_DEF: "the Spanish Republic"
+ SPA_socialist: "Spanish Republic"
+ SPA_socialist_DEF: "the Spanish Republic"
+ SPA_communist: "Spanish People's Republic"
+ SPA_communist_DEF: "the Spanish People's Republic"
+
+ ### Catalonia
+ CAT: "Catalonia"
+ CAT_DEF: "Catalonia"
+ CAT_ADJ: "Catalan"
+
+ CAT_fascist: "Catalan State"
+ CAT_fascist_DEF: "the Catalan State"
+ CAT_authoritarian: "Catalan State"
+ CAT_authoritarian_DEF: "the Catalan State"
+ CAT_democratic: "Catalan State"
+ CAT_democratic_DEF: "the Catalan State"
+ CAT_socialist: "Revolutionary Catalonia"
+ CAT_socialist_DEF: "the Revolutionary Catalonia"
+ CAT_communist: "Catalan Socialist Republic"
+ CAT_communist_DEF: "the Catalan Socialist Republic"
+
+ ### Basque Country
+ BSQ: "Basque Country"
+ BSQ_DEF: "Basque Country"
+ BSQ_ADJ: "Basque"
+
+ BSQ_fascist: "Basque State"
+ BSQ_fascist_DEF: "the Basque State"
+ BSQ_authoritarian: "Basque Republic"
+ BSQ_authoritarian_DEF: "the Basque Republic"
+ BSQ_democratic: "Basque Republic"
+ BSQ_democratic_DEF: "the Basque Republic"
+ BSQ_socialist: "Basque Republic"
+ BSQ_socialist_DEF: "the Basque Republic"
+ BSQ_communist: "Basque People's Republic"
+ BSQ_communist_DEF: "the Basque People's Republic"
+
+ ### Italy
+ ITA: "Italy"
+ ITA_DEF: "Italy"
+ ITA_ADJ: "Italian"
+
+ ITA_fascist: "Italian Social Republic"
+ ITA_fascist_DEF: "the Italian Social Republic"
+ ITA_authoritarian: "Kingdom of Italy"
+ ITA_authoritarian_DEF: "the Kingdom of Italy"
+ ITA_democratic: "Italian Republic"
+ ITA_democratic_DEF: "the Italian Republic"
+ ITA_socialist: "Italian Socialist Republic"
+ ITA_socialist_DEF: "the Italian Socialist Republic"
+ ITA_communist: "Italian Socialist Republic"
+ ITA_communist_DEF: "the Italian Socialist Republic"
+
+ ### Italian East Africa
+ AOI: "Italian East Africa"
+ AOI_DEF: "Italian East Africa"
+ AOI_ADJ: "Italian"
+ 
+ AOI_fascist: "Italian East Africa"
+ AOI_fascist_DEF: "Italian East Africa"
+ AOI_authoritarian: "Italian East Africa"
+ AOI_authoritarian_DEF: "Italian East Africa"
+ AOI_democratic: "Italian East Africa"
+ AOI_democratic_DEF: "Italian East Africa"
+ AOI_communist: "Italian East Africa"
+ AOI_communist_DEF: "Italian East Africa"
+ AOI_socialist: "Italian East Africa"
+ AOI_socialist_DEF: "Italian East Africa"
+
+ ### Romania
+ ROM: "Romania"
+ ROM_DEF: "Romania"
+ ROM_ADJ: "Romanian"
+
+ ROM_fascist: "Romanian Legionary State"
+ ROM_fascist_DEF: "Romanian Legionary State"
+ ROM_authoritarian: "Kingdom of Romania"
+ ROM_authoritarian_DEF: "the Kingdom of Romania"
+ ROM_democratic: "Kingdom of Romania"
+ ROM_democratic_DEF: "the Kingdom of Romania"
+ ROM_socialist: "Kingdom of Romania"
+ ROM_socialist_DEF: "the Kingdom of Romania"
+ ROM_communist: "Romanian People's Republic"
+ ROM_communist_DEF: "the Romanian People's Republic"
+
+ ROM_SOV_AUTONOMY_SSR: "Romanian Soviet Socialist Republic"
+ ROM_SOV_communist_AUTONOMY_Puppet: "Romanian Soviet Republic"
+ ROM_SOV_communist_AUTONOMY_Satellite: "Romanian People's Republic"
+ ROM_SOV_1946: "Kingdom of Romania"
+
+ ### Yugoslavia
+ YUG: "Yugoslavia"
+ YUG_DEF: "Yugoslavia"
+ YUG_ADJ: "Yugoslav"
+
+ YUG_fascist: "Kingdom of Yugoslavia"
+ YUG_fascist_DEF: "the Kingdom of Yugoslavia"
+ YUG_authoritarian: "Kingdom of Yugoslavia"
+ YUG_authoritarian_DEF: "the Kingdom of Yugoslavia"
+ YUG_democratic: "Kingdom of Yugoslavia"
+ YUG_democratic_DEF: "the Kingdom of Yugoslavia"
+ YUG_socialist: "Kingdom of Yugoslavia"
+ YUG_socialist_DEF: "the Kingdom of Yugoslavia"
+ YUG_communist: "Federal People's Republic of Yugoslavia"
+ YUG_communist_DEF: "the Federal People's Republic of Yugoslavia"
+
+ YUG_AVNOJ: "Democratic Federal Yugoslavia"
+ YUG_AVNOJ_DEF: "the Democratic Federal Yugoslavia"
+
+ ### Switzerland
+ SWI: "Switzerland"
+ SWI_DEF: "Switzerland"
+ SWI_ADJ: "Swiss"
+
+ SWI_fascist: "Swiss State"
+ SWI_fascist_DEF: "the Swiss State"
+ SWI_authoritarian: "Swiss Confederation"
+ SWI_authoritarian_DEF: "the Swiss Confederation"
+ SWI_democratic: "Swiss Confederation"
+ SWI_democratic_DEF: "Swiss Confederation"
+ SWI_communist: "Swiss Socialist Republic"
+ SWI_communist_DEF: "the Swiss Socialist Republic"
+ SWI_socialist: "Swiss People's Republic"
+ SWI_socialist_DEF: "the Swiss People's Republic"
+ 
+ ### Liechtenstein
+ LIE: "Liechtenstein"
+ LIE_DEF: "Liechtenstein"
+ LIE_ADJ: "Liechtensteiner"
+
+ LIE_fascist: "Principality of Liechtenstein"
+ LIE_fascist_DEF: "the Principality of Liechtenstein"
+ LIE_authoritarian: "Principality of Liechtenstein"
+ LIE_authoritarian_DEF: "the Principality of Liechtenstein"
+ LIE_democratic: "Principality of Liechtenstein"
+ LIE_democratic_DEF: "the Principality of Liechtenstein"
+ LIE_communist: "People's Republic of Liechtenstein"
+ LIE_communist_DEF: "the People's Republic of Liechtenstein"
+ LIE_socialist: "People's Republic of Liechtenstein"
+ LIE_socialist_DEF: "the People's Republic of Liechtenstein"
+
+ ### Turkey
+ TUR: "Turkey"
+ TUR_DEF: "Turkey"
+ TUR_ADJ: "Turkish"
+
+ TUR_fascist: "Republic of Turkey"
+ TUR_fascist_DEF: "the Republic of Turkey"
+ TUR_authoritarian: "Republic of Turkey"
+ TUR_authoritarian_DEF: "the Republic of Turkey"
+ TUR_democratic: "Republic of Turkey"
+ TUR_democratic_DEF: "the Republic of Turkey"
+ TUR_communist: "People's Republic of Turkey"
+ TUR_communist_DEF: "the People's Republic of Turkey"
+ TUR_socialist: "Republic of Turkey"
+ TUR_socialist_DEF: "the Republic of Turkey"
+
+ TUR_OTTOMAN_authoritarian: "Ottoman Empire"
+ TUR_OTTOMAN_authoritarian_DEF: "the Ottoman Empire"
+
+ ### Greece
+ GRE: "Greece"
+ GRE_DEF: "Greece"
+ GRE_ADJ: "Greek"
+
+ GRE_fascist: "Hellenic State"
+ GRE_fascist_DEF: "the Hellenic State"
+ GRE_authoritarian: "Kingdom of Greece"
+ GRE_authoritarian_DEF: "the Kingdom of Greece"
+ GRE_democratic: "Hellenic Republic"
+ GRE_democratic_DEF: "the Hellenic Republic"
+ GRE_socialist: "Greek Democratic Republic"
+ GRE_socialist_DEF: "the Greek Democratic Republic"
+ GRE_communist: "Greek Democratic Republic"
+ GRE_communist_DEF: "the Greek Democratic Republic"
+
+ GRE_Monarchy: "Kingdom of Greece"
+ GRE_Monarchy_DEF: "the Kingdom of Greece"
+
+ ### Albania
+ ALB: "Albania"
+ ALB_DEF: "Albania"
+ ALB_ADJ: "Albanian"
+
+ ALB_fascist: "Kingdom of Albania"
+ ALB_fascist_DEF: "the Kingdom of Albania"
+ ALB_authoritarian: "Kingdom of Albania"
+ ALB_authoritarian_DEF: "the Kingdom of Albania"
+ ALB_democratic: "Albanian Republic"
+ ALB_democratic_DEF: "the Albanian Republic"
+ ALB_socialist: "People's Republic of Albania"
+ ALB_socialist_DEF: "the People's Republic of Albania"
+ ALB_communist: "People's Republic of Albania"
+ ALB_communist_DEF: "the People's Republic of Albania"
+
+ ALB_ITA_fascist: "Kingdom of Albania"
+ ALB_ITA_fascist_DEF: "the Kingdom of Albania"
+
+ ### Algeria
+ ALG: "Algeria"
+ ALG_DEF: "Algeria"
+ ALG_ADJ: "Algerian"
+
+ ALG_fascist: "Algerian State"
+ ALG_fascist_DEF: "the Algerian State"
+ ALG_authoritarian: "Kingdom of Algeria"
+ ALG_authoritarian_DEF: "the Kingdom of Algeria"
+ ALG_democratic: "Republic of Algeria"
+ ALG_democratic_DEF: "the Algerian Republic"
+ ALG_socialist: "People's Democratic Republic of Algeria"
+ ALG_socialist_DEF: "the Republic of Algeria"
+ ALG_communist: "Algerian Commune"
+ ALG_communist_DEF: "the Algerian Commune"
+
+ ### Burma
+ BRM: "Burma"
+ BRM_DEF: "Burma"
+ BRM_ADJ: "Burmese"
+
+ BRM_fascist: "State of Burma"
+ BRM_fascist_DEF: "the State of Burma"
+ BRM_democratic: "Union of Burma"
+ BRM_democratic_DEF: "the Union of Burma"
+ BRM_authoritarian: "Union of Burma"
+ BRM_authoritarian_DEF: "the Union of Burma"
+ BRM_socialist: "Union of Burma"
+ BRM_socialist_DEF: "the Union of Burma"
+ BRM_communist: "Socialist Republic of the Union of Burma"
+ BRM_communist_DEF: "the Socialist Republic of the Union of Burma"
+
+ BRM_ENG_AUTONOMY_Colony: "Colony of Burma"
+ BRM_ENG_AUTONOMY_Colony_DEF: "the Colony of Burma"
+
+ ### Norway
+ NOR: "Norway"
+ NOR_DEF: "Norway"
+ NOR_ADJ: "Norwegian"
+
+ NOR_fascist: "National State of Norway"
+ NOR_fascist_DEF: "the National State of Norway"
+ NOR_authoritarian: "Kingdom of Norway"
+ NOR_authoritarian_DEF: "the Kingdom of Norway"
+ NOR_democratic: "Kingdom of Norway"
+ NOR_democratic_DEF: "the Kingdom of Norway"
+ NOR_socialist: "Norwegian Republic"
+ NOR_socialist_DEF: "the Norwegian Republic"
+ NOR_communist: "Norwegian People's Republic"
+ NOR_communist_DEF: "the Norwegian People's Republic"
+
+ ### Denmark
+ DEN: "Denmark"
+ DEN_DEF: "Denmark"
+ DEN_ADJ: "Danish"
+ 
+ DEN_fascist: "Danish State"
+ DEN_fascist_DEF: "the Danish State"
+ DEN_authoritarian: "Kingdom of Denmark"
+ DEN_authoritarian_DEF: "the Kingdom of Denmark"
+ DEN_democratic: "Kingdom of Denmark"
+ DEN_democratic_DEF: "the Kingdom of Denmark"
+ DEN_socialist: "Danish Republic"
+ DEN_socialist_DEF: "the Danish Republic"
+ DEN_communist: "Danish People's Republic"
+ DEN_communist_DEF: "the Danish People's Republic"
+
+ ### Bulgaria
+ BUL: "Bulgaria"
+ BUL_DEF: "Bulgaria"
+ BUL_ADJ: "Bulgarian"
+
+ BUL_fascist: "Bulgarian Legionary State"
+ BUL_fascist_DEF: "the Bulgarian Legionary State"
+ BUL_authoritarian: "Tsardom of Bulgaria"
+ BUL_authoritarian_DEF: "the Tsardom of Bulgaria"
+ BUL_democratic: "Tsardom of Bulgaria"
+ BUL_democratic_DEF: "the Tsardom of Bulgaria"
+ BUL_socialist: "People’s Republic of Bulgaria"
+ BUL_socialist_DEF: "the People’s Republic of Bulgaria"
+ BUL_communist: "People’s Republic of Bulgaria"
+ BUL_communist_DEF: "the People’s Republic of Bulgaria"
+ BUL_Republic: "Republic of Bulgaria"
+ BUL_Republic_DEF: "the Republic of Bulgaria"
+
+ BUL_SOV_AUTONOMY_SSR: "Bulgarian Soviet Socialist Republic"
+ BUL_SOV_communist_AUTONOMY_Puppet: "Bulgarian Soviet Republic"
+ BUL_SOV_communist_AUTONOMY_Satellite: "People's Republic of Bulgaria"
+
+ ### Portugal
+ POR: "Portugal"
+ POR_DEF: "Portugal"
+ POR_ADJ: "Portuguese"
+
+ POR_fascist: "Portuguese Republic"
+ POR_fascist_DEF: "the Portuguese Republic"
+ POR_authoritarian: "Portuguese Republic"
+ POR_authoritarian_DEF: "the Portuguese Republic"
+ POR_democratic: "Portuguese Republic"
+ POR_democratic_DEF: "the Portuguese Republic"
+ POR_socialist: "Portuguese Republic"
+ POR_socialist_DEF: "the Portuguese Republic"
+ POR_communist: "Portuguese Republic"
+ POR_communist_DEF: "the Portuguese Republic"
+
+ ### Finland
+ FIN: "Finland"
+ FIN_DEF: "Finland"
+ FIN_ADJ: "Finnish"
+
+ FIN_fascist: "Republic of Finland"
+ FIN_fascist_DEF: "the Republic of Finland"
+ FIN_authoritarian: "Republic of Finland"
+ FIN_authoritarian_DEF: "the Republic of Finland"
+ FIN_democratic: "Republic of Finland"
+ FIN_democratic_DEF: "the Republic of Finland"
+ FIN_communist: "Finnish Democratic Republic"
+ FIN_communist_DEF: "the Finnish Democratic Republic"
+ FIN_socialist: "Republic of Finland"
+ FIN_socialist_DEF: "the Republic of Finland"
+
+ ### Ireland
+ IRE: "Ireland"
+ IRE_DEF: "Ireland"
+ IRE_ADJ: "Irish"
+
+ IRE_fascist: "Irish Union State"
+ IRE_fascist_DEF: "the Irish Union State"
+ IRE_authoritarian: "Kingdom of Ireland"
+ IRE_authoritarian_DEF: "the Kingdom of Ireland"
+ IRE_socialist: "People's Republic of Ireland"
+ IRE_socialist_DEF: "the People's Republic of Ireland"
+ IRE_communist: "People's Republic of Ireland"
+ IRE_communist_DEF: "the People's Republic of Ireland"
+
+ IRE_ENG_AUTONOMY_Dominion: "Irish Free State"
+ IRE_ENG_AUTONOMY_Dominion_DEF: "the Irish Free State"
+
+ ### Hungary
+ HUN: "Hungary"
+ HUN_DEF: "Hungary"
+ HUN_ADJ: "Hungarian"
+
+ HUN_fascist: "Hungarian Government of National Unity"
+ HUN_fascist_DEF: "the Hungarian Government of National Unity"
+ HUN_authoritarian: "Kingdom of Hungary"
+ HUN_authoritarian_DEF: "the Kingdom of Hungary"
+ HUN_democratic: "Kingdom of Hungary"
+ HUN_democratic_DEF: "the Kingdom of Hungary"
+ HUN_communist: "Hungarian People's Republic"
+ HUN_communist_DEF: "the Hungarian People's Republic"
+ HUN_socialist: "Hungarian People's Republic"
+ HUN_socialist_DEF: "the Hungarian People's Republic"
+
+ HUN_SOV_AUTONOMY_SSR: "Hungarian Soviet Socialist Republic"
+ HUN_SOV_communist_AUTONOMY_Puppet: "Hungarian Soviet Republic"
+ HUN_SOV_communist_AUTONOMY_Satellite: "Hungarian People's Republic"
+ HUN_SOV_1946: "Republic of Hungary"
+
+ ### Afghanistan
+ AFG: "Afghanistan"
+ AFG_DEF: "Afghanistan"
+ AFG_ADJ: "Afghan"
+
+ AFG_fascist: "Kingdom of Afghanistan"
+ AFG_fascist_DEF: "the Kingdom of Afghanistan"
+ AFG_authoritarian: "Kingdom of Afghanistan"
+ AFG_authoritarian_DEF: "the Kingdom of Afghanistan"
+ AFG_democratic: "Republic of Afghanistan"
+ AFG_democratic_DEF: "the Republic of Afghanistan"
+ AFG_socialist: "Republic of Afghanistan"
+ AFG_socialist_DEF: "the Republic of Afghanistan"
+ AFG_communist: "Democratic Republic of Afghanistan"
+ AFG_communist_DEF: "the Democratic Republic of Afghanistan"
+
+ ### Argentina
+ ARG: "Argentina"
+ ARG_DEF: "Argentina"
+ ARG_ADJ: "Argentinian"
+
+ ARG_fascist: "Argentine Republic"
+ ARG_fascist_DEF: "the Argentine Republic"
+ ARG_authoritarian: "Argentine Republic"
+ ARG_authoritarian_DEF: "the Argentine Republic"
+ ARG_democratic: "Argentine Republic"
+ ARG_democratic_DEF: "the Argentine Republic"
+ ARG_socialist: "Argentine Republic"
+ ARG_socialist_DEF: "Argentine Republic"
+ ARG_communist: "Popular Argentine Republic"
+ ARG_communist_DEF: "Popular Argentine Republic"
+
+ ### Bolivia
+ BOL: "Bolivia"
+ BOL_DEF: "Bolivia"
+ BOL_ADJ: "Bolivian"
+
+ BOL_fascist: "State of Bolivia"
+ BOL_fascist_DEF: "the State of Bolivia"
+ BOL_authoritarian: "Republic of Bolivia"
+ BOL_authoritarian_DEF: "the Republic of Bolivia"
+ BOL_democratic: "Republic of Bolivia"
+ BOL_democratic_DEF: "the Republic of Bolivia"
+ BOL_socialist: "Republic of Bolivia"
+ BOL_socialist_DEF: "the Republic of Bolivia"
+ BOL_communist: "Bolivian Socialist Republic"
+ BOL_communist_DEF: "the Bolivian Socialist Republic"
+
+ BOL_AUT_authoritarian: "Republic of Bolivia"
+ BOL_AUT_authoritarian_DEF: "the Republic of Bolivia"
+
+ ### Benin
+ BEN: "Benin"
+ BEN_DEF: "Benin"
+ BEN_ADJ: "Beninese"
+
+ BEN_fascist: "Republic of Benin"
+ BEN_fascist_DEF: "the Republic of Benin"
+ BEN_authoritarian: "Republic of Benin"
+ BEN_authoritarian_DEF: "the Republic of Benin"
+ BEN_democratic: "Republic of Benin"
+ BEN_democratic_DEF: "the Republic of Benin"
+ BEN_socialist: "Republic of Benin"
+ BEN_socialist_DEF: "the Republic of Benin"
+ BEN_communist: "People's Republic of Benin"
+ BEN_communist_DEF: "the People's Republic of Benin"
+
+ ### Central Africa
+ CAR: "Central Africa"
+ CAR_DEF: "Central Africa"
+ CAR_ADJ: "Central African"
+
+ CAR_fascist: "Central African Empire"
+ CAR_fascist_DEF: "the Central African Empire"
+ CAR_authoritarian: "Central African Empire"
+ CAR_authoritarian_DEF: "the Central African Empire"
+ CAR_democratic: "Central African Republic"
+ CAR_democratic_DEF: "the Central African Republic"
+ CAR_socialist: "Central African Republic"
+ CAR_socialist_DEF: "the Central African Republic"
+ CAR_communist: "Central African Republic"
+ CAR_communist_DEF: "the Central African Republic"
+
+ ### Ivory Coast
+ IVO: "Ivory Coast"
+ IVO_DEF: "Ivory Coast"
+ IVO_ADJ: "Ivorian"
+
+ IVO_fascist: "Republic of Côte d'Ivoire"
+ IVO_fascist_DEF: "the Republic of Côte d'Ivoire"
+ IVO_authoritarian: "Republic of Côte d'Ivoire"
+ IVO_authoritarian_DEF: "the Republic of Côte d'Ivoire"
+ IVO_democratic: "Republic of Côte d'Ivoire"
+ IVO_democratic_DEF: "the Republic of Côte d'Ivoire"
+ IVO_socialist: "Republic of Côte d'Ivoire"
+ IVO_socialist_DEF: "the Republic of Côte d'Ivoire"
+ IVO_communist: "Republic of Côte d'Ivoire"
+ IVO_communist_DEF: "the Republic of Côte d'Ivoire"
+
+ ### Rhodesia
+ RHD: "Rhodesia"
+ RHD_DEF: "Rhodesia"
+ RHD_ADJ: "Rhodesian"
+
+ RHD_fascist: "Republic of Rhodesia"
+ RHD_fascist_DEF: "the Republic of Rhodesia"
+ RHD_authoritarian: "Republic of Rhodesia"
+ RHD_authoritarian_DEF: "the Republic of Rhodesia"
+ RHD_democratic: "Republic of Rhodesia"
+ RHD_democratic_DEF: "the Republic of Rhodesia"
+ RHD_socialist: "Socialist Republic of Rhodesia"
+ RHD_socialist_DEF: "the Socialist Republic of Rhodesia"
+ RHD_communist: "People's Republic of Rhodesia"
+ RHD_communist_DEF: "the People's Republic of Rhodesia"
+
+ RHD_ENG_AUTONOMY_Colony: "Colony of Southern Rhodesia"
+ RHD_ENG_AUTONOMY_Colony_DEF: "the Colony of Southern Rhodesia"
+ RHD_ENG_AUTONOMY_Protectorate: "Southern Rhodesia"
+ RHD_ENG_AUTONOMY_Protectorate_DEF: "Southern Rhodesia"
+ RHD_ENG_AUTONOMY_Dominion: "Dominion of Southern Rhodesia"
+ RHD_ENG_AUTONOMY_Dominion_DEF: "the Dominion of Southern Rhodesia"
+
+ FRN: "Federation of Rhodesia and Nyasaland"
+ FRN_DEF: "the Federation of Rhodesia and Nyasaland"
+
+ ### Morocco
+ MOR: "Morocco"
+ MOR_DEF: "Morocco"
+ MOR_ADJ: "Moroccan"
+
+ MOR_fascist: "Kingdom of Morocco"
+ MOR_fascist_DEF: "the Kingdom of Morocco"
+ MOR_authoritarian: "Kingdom of Morocco"
+ MOR_authoritarian_DEF: "the Kingdom of Morocco"
+ MOR_democratic: "Kingdom of Morocco"
+ MOR_democratic_DEF: "the Kingdom of Morocco"
+ MOR_socialist: "Arab Republic of Morocco"
+ MOR_socialist_DEF: "the Arab Republic of Morocco"
+ MOR_communist: "People's Republic of Morocco"
+ MOR_communist_DEF: "the People's Republic of Morocco"
+
+ MOR_FRA_AUTONOMY_Protectorate: "Protectorate of Morocco"
+ MOR_FRA_AUTONOMY_Protectorate_DEF: "the Protectorate of Morocco"
+
+ ### Rif
+ RIF: "Morocco"
+ RIF_DEF: "Morocco"
+ RIF_ADJ: "Moroccan"
+
+ RIF_fascist: "Republic of the Rif"
+ RIF_fascist_DEF: "the Republic of the Rif"
+ RIF_authoritarian: "Republic of the Rif"
+ RIF_authoritarian_DEF: "the Republic of the Rif"
+ RIF_democratic: "Republic of the Rif"
+ RIF_democratic_DEF: "the Republic of the Rif"
+ RIF_socialist: "Confederal Republic of the Rif"
+ RIF_socialist_DEF: "the Confederal Republic of the Rif"
+ RIF_communist: "Confederal Republic of the Tribes of the Rif"
+ RIF_communist_DEF: "the Confederal Republic of the Tribes of the Rif"
+
+ ### Senegal
+ SEN: "Senegal"
+ SEN_DEF: "Senegal"
+ SEN_ADJ: "Senegalese"
+
+ SEN_fascist: "Senegalese State"
+ SEN_fascist_DEF: "the Senegalese State"
+ SEN_authoritarian: "Republic of Senegal"
+ SEN_authoritarian_DEF: "the Republic of Senegal"
+ SEN_democratic: "Republic of Senegal"
+ SEN_democratic_DEF: "the Republic of Senegal"
+ SEN_socialist: "Republic of Senegal"
+ SEN_socialist_DEF: "the Republic of Senegal"
+ SEN_communist: "Republic of Senegal"
+ SEN_communist_DEF: "the Republic of Senegal"
+
+ ### Brazil
+ BRA: "Brazil"
+ BRA_DEF: "Brazil"
+ BRA_ADJ: "Brazilian"
+
+ BRA_fascist: "State of Brazil"
+ BRA_fascist_DEF: "the State of Brazil"
+ BRA_authoritarian: "United States of Brazil"
+ BRA_authoritarian_DEF: "the United States of Brazil"
+ BRA_democratic: "Federative Republic of Brazil"
+ BRA_democratic_DEF: "the Federative Republic of Brazil"
+ BRA_socialist: "Federative Republic of Brazil"
+ BRA_socialist_DEF: "the Federative Republic of Brazil"
+ BRA_communist: "Federative People's Republic of Brazil"
+ BRA_communist_DEF: "the Federative People's Republic of Brazil"
+
+ BRA_REP_1933_authoritarian: "Republic of the United States of Brazil"
+ BRA_REP_1933_authoritarian_DEF: "the Republic of the United States of Brazil"
+
+ RRN: "Revolutionary People's Government of Rio Grande do Norte"
+ RRN_DEF: "the Revolutionary People's Government of Rio Grande do Norte"
+ RRN_ADJ: "Potiguar"
+
+ ### Canada
+ CAN: "Canada"
+ CAN_DEF: "Canada"
+ CAN_ADJ: "Canadian"
+
+ CAN_ENG_AUTONOMY_Colony: "Province of Canada"
+ CAN_ENG_AUTONOMY_Colony_DEF: "the Province of Canada"
+ CAN_ENG_AUTONOMY_Dominion: "Dominion of Canada"
+ CAN_ENG_AUTONOMY_Dominion_DEF: "the Dominion of Canada"
+
+ ### Quebec
+ QUE: "Quebec"
+ QUE_DEF: "Quebec"
+ QUE_ADJ: "Quebecan"
+
+ QUE_fascist: "State of Free Quebec"
+ QUE_fascist_DEF: "the State of Free Quebec"
+ QUE_authoritarian: "Republic of Quebec"
+ QUE_authoritarian_DEF: "the Republic of Quebec"
+ QUE_democratic: "Republic of Quebec"
+ QUE_democratic_DEF: "Republic of Quebec"
+ QUE_socialist: "Republic of Quebec"
+ QUE_socialist_DEF: "the Republic of Quebec"
+ QUE_communist: "Socialist Union of Quebec"
+ QUE_communist_DEF: "the Socialist Union of Quebec"
+
+ ### Nationalist China
+ CHI: "China"
+ CHI_DEF: "China"
+ CHI_ADJ: "Chinese"
+
+ CHI_fascist: "Republic of China"
+ CHI_fascist_DEF: "the Republic of China"
+ CHI_authoritarian: "Republic of China"
+ CHI_authoritarian_DEF: "the Republic of China"
+ CHI_democratic: "Republic of China"
+ CHI_democratic_DEF: "the Republic of China"
+ CHI_communist: "People's Republic of China"
+ CHI_communist_DEF: "the People's Republic of China"
+ CHI_socialist: "People's Republic of China"
+ CHI_socialist_DEF: "the People's Republic of China"
+
+ RGC: "Reformed Government of of China"
+ RGC_DEF: "the Reformed Government of China"
+ RGC_ADJ: "Chinese"
+
+ RNG: "Reorganized National Government of China"
+ RNG_DEF: "the Reorganized National Government of China"
+ RNG_ADJ: "Chinese"
+
+ ### Communist China
+ PRC: "China"
+ PRC_DEF: "China"
+ PRC_ADJ: "Chinese"
+
+ PRC_communist: "People's Republic of China"
+ PRC_communist_DEF: "the People's Republic of China"
+ PRC_socialist: "People's Republic of China"
+ PRC_socialist_DEF: "the People's Republic of China"
+
+ PRC_JFS_communist: "Jiangxi-Fujian Soviet"
+ PRC_JFS_communist_DEF: "the Jiangxi-Fujian Soviet"
+ PRC_JFS_communist_ADJ: "Jiangxi-Fujian Soviet"
+ PRC_CSR_communist: "Chinese Soviet Republic" 
+ PRC_CSR_communist_DEF: "the Chinese Soviet Republic"
+ PRC_CPC_communist: "Communist Party of China"
+ PRC_CPC_communist_DEF: "the Communist Party of China"
+ 
+ ### Chile
+ CHL: "Chile"
+ CHL_DEF: "Chile"
+ CHL_ADJ: "Chilean"
+
+ CHL_fascist: "Republic of Chile"
+ CHL_fascist_DEF: "the Republic of Chile"
+ CHL_authoritarian: "Republic of Chile"
+ CHL_authoritarian_DEF: "the Republic of Chile"
+ CHL_democratic: "Republic of Chile"
+ CHL_democratic_DEF: "the Republic of Chile"
+ CHL_socialist: "Republic of Chile"
+ CHL_socialist_DEF: "the Republic of Chile"
+ CHL_communist: "Socialist Republic of Chile"
+ CHL_communist_DEF: "the Socialist Republic of Chile"
+
+ ### Colombia
+ COL: "Colombia"
+ COL_DEF: "Colombia"
+ COL_ADJ: "Colombian"
+
+ COL_fascist: "Republic of Colombia"
+ COL_fascist_DEF: "the Republic of Colombia"
+ COL_authoritarian: "Republic of Colombia"
+ COL_authoritarian_DEF: "the Republic of Colombia"
+ COL_democratic: "Republic of Colombia"
+ COL_democratic_DEF: "the Republic of Colombia"
+ COL_socialist: "Republic of Colombia"
+ COL_socialist_DEF: "the Republic of Colombia"
+ COL_communist: "People's Republic of Colombia"
+ COL_communist_DEF: "the People's Republic of Colombia"
+
+ ### Costa Rica
+ COS: "Costa Rica"
+ COS_DEF: "Costa Rica"
+ COS_ADJ: "Costa Rican"
+
+ COS_fascist: "State of Costa Rica"
+ COS_fascist_DEF: "the State of Costa Rica"
+ COS_authoritarian: "State of Costa Rica"
+ COS_authoritarian_DEF: "the State of Costa Rica"
+ COS_democratic: "Republic of Costa Rica"
+ COS_democratic_DEF: "the Republic of Costa Rica"
+ COS_socialist: "Socialist Republic of Costa Rica"
+ COS_socialist_DEF: "the Socialist Republic of Costa Rica"
+ COS_communist: "Socialist Republic of Costa Rica"
+ COS_communist_DEF: "the Socialist Republic of Costa Rica"
+
+ ### Guadeloupe
+ GLP: "Guadeloupe"
+ GLP_DEF: "Guadeloupe"
+ GLP_ADJ: "Guadeloupean"
+
+ ### Curacao
+ CRC: "Curaçao"
+ CRC_DEF: "Curaçao"
+ CRC_ADJ: "Curaçaoan"
+
+ CRC_HOL_AUTONOMY_Colony: "Netherlands Antilles"
+ CRC_HOL_AUTONOMY_Colony_DEF: "the Netherlands Antilles"
+
+ ### Saint Lucia
+ STL: "Saint Lucia"
+ STL_DEF: "Saint Lucia"
+ STL_ADJ: "Saint Lucian"
+
+ ### Saint Kitts and Nevis
+ SKN: "Saint Kitts and Nevis"
+ SKN_DEF: "Saint Kitts and Nevis"
+ SKN_ADJ: "Kittitian"
+
+ SKN_fascist: "State of Saint Kitts and Nevis"
+ SKN_fascist_DEF: "the State of Saint Kitts and Nevis"
+ SKN_authoritarian: "Republic of Saint Kitts and Nevis"
+ SKN_authoritarian_DEF: "the Republic of Saint Kitts and Nevis"
+ SKN_democratic: "Federation of Saint Kitts and Nevis"
+ SKN_democratic_DEF: "the Federation of Saint Kitts and Nevis"
+ SKN_communist: "People's Republic of Saint Kitts and Nevis"
+ SKN_communist_DEF: "the People's Republic of Saint Kitts and Nevis"
+ SKN_socialist: "People's Republic of Saint Kitts and Nevis"
+ SKN_socialist_DEF: "the People's Republic of Saint Kitts and Nevis"
+
+ ### Grenada
+ GRD: "Grenada"
+ GRD_DEF: "Grenada"
+ GRD_ADJ: "Grenadian"
+
+ ### Barbados
+ BRB: "Barbados"
+ BRB_DEF: "Barbados"
+ BRB_ADJ: "Barbadian"
+
+ ### Martinique
+ MRQ: "Martinique"
+ MRQ_DEF: "Martinique"
+ MRQ_ADJ: "Martinican"
+
+ ### Dominica
+ DMN: "Dominica"
+ DMN_DEF: "Dominica"
+ DMN_ADJ: "Dominican"
+
+ DMN_fascist: "Commonwealth of Dominica"
+ DMN_fascist_DEF: "the Commonwealth of Dominica"
+ DMN_authoritarian: "Commonwealth of Dominica"
+ DMN_authoritarian_DEF: "the Commonwealth of Dominica"
+ DMN_democratic: "Commonwealth of Dominica"
+ DMN_democratic_DEF: "the Commonwealth of Dominica"
+ DMN_communist: "Commonwealth of Dominica"
+ DMN_communist_DEF: "the Commonwealth of Dominica"
+ DMN_socialist: "Commonwealth of Dominica"
+ DMN_socialist_DEF: "the Commonwealth of Dominica"
+
+ ### Saint Vincent & the Grenadines
+ SVG: "Saint Vincent & the Grenadines"
+ SVG_DEF: "Saint Vincent & the Grenadines"
+ SVG_ADJ: "Vincentian"
+
+ ### Antigua and Barbuda
+ ANT: "Antigua and Barbuda"
+ ANT_DEF: "Antigua and Barbuda"
+ ANT_ADJ: "Antiguan"
+ 
+ ### Anguilla
+ AGU: "Anguilla"
+ AGU_DEF: "Anguilla"
+ AGU_ADJ: "Anguillan"
+
+ AGU_fascist: "Republic of Anguilla"
+ AGU_fascist_DEF: "the Republic of Anguilla"
+ AGU_authoritarian: "Republic of Anguilla"
+ AGU_authoritarian_DEF: "the Republic of Anguilla"
+ AGU_democratic: "Republic of Anguilla"
+ AGU_democratic_DEF: "the Republic of Anguilla"
+ AGU_communist: "Republic of Anguilla"
+ AGU_communist_DEF: "the Republic of Anguilla"
+ AGU_socialist: "Republic of Anguilla"
+ AGU_socialist_DEF: "the Republic of Anguilla"
+
+ ### Belize
+ BLZ: "Belize"
+ BLZ_DEF: "Belize"
+ BLZ_ADJ: "Belizean"
+ 
+ ### Trinidad and Tobago
+ TRT: "Trinidad and Tobago"
+ TRT_DEF: "Trinidad and Tobago"
+ TRT_ADJ: "Trinidadian"
+
+ TRT_fascist: "Republic of Trinidad and Tobago"
+ TRT_fascist_DEF: "the Republic of Trinidad and Tobago"
+ TRT_authoritarian: "Republic of Trinidad and Tobago"
+ TRT_authoritarian_DEF: "the Republic of Trinidad and Tobago"
+ TRT_democratic: "Republic of Trinidad and Tobago"
+ TRT_democratic_DEF: "the Republic of Trinidad and Tobago"
+ TRT_communist: "Republic of Trinidad and Tobago"
+ TRT_communist_DEF: "the Republic of Trinidad and Tobago"
+ TRT_socialist: "Republic of Trinidad and Tobago"
+ TRT_socialist_DEF: "the Republic of Trinidad and Tobago"
+
+ ### Ecuador
+ ECU: "Ecuador"
+ ECU_DEF: "Ecuador"
+ ECU_ADJ: "Ecuador"
+
+ ECU_fascist: "Republic of Ecuador"
+ ECU_fascist_DEF: "the Republic of Ecuador"
+ ECU_authoritarian: "Republic of Ecuador"
+ ECU_authoritarian_DEF: "the Republic of Ecuador"
+ ECU_democratic: "Republic of Ecuador"
+ ECU_democratic_DEF: "the Republic of Ecuador"
+ ECU_communist: "Socialist Republic of Ecuador"
+ ECU_communist_DEF: "the Socialist Republic of Ecuador"
+ ECU_socialist: "Socialist Republic of Ecuador"
+ ECU_socialist_DEF: "the Socialist Republic of Ecuador"
+
+ ### El Salvador
+ ELS: "El Salvador"
+ ELS_DEF: "El Salvador"
+ ELS_ADJ: "Salvadoran"
+
+ ELS_fascist: "Republic of El Salvador"
+ ELS_fascist_DEF: "the Republic of El Salvador"
+ ELS_authoritarian: "Republic of El Salvador"
+ ELS_authoritarian_DEF: "the Republic of El Salvador"
+ ELS_democratic: "Republic of El Salvador"
+ ELS_democratic_DEF: "the Republic of El Salvador"
+ ELS_communist: "Democratic Republic of El Salvador"
+ ELS_communist_DEF: "the Democratic Republic of El Salvador"
+ ELS_socialist: "Republic of El Salvador"
+ ELS_socialist_DEF: "the Republic of El Salvador"
+
+ ### Guatemala
+ GUA: "Guatemala"
+ GUA_DEF: "Guatemala"
+ GUA_ADJ: "Guatemalan"
+
+ GUA_fascist: "Republic of Guatemala"
+ GUA_fascist_DEF: "the Republic of Guatemala"
+ GUA_authoritarian: "Republic of Guatemala"
+ GUA_authoritarian_DEF: "the Republic of Guatemala"
+ GUA_democratic: "Republic of Guatemala"
+ GUA_democratic_DEF: "the Republic of Guatemala"
+ GUA_communist: "Union of Guatemala"
+ GUA_communist_DEF: "the Union of Guatemala"
+ GUA_socialist: "Union of Guatemala"
+ GUA_socialist_DEF: "the Union of Guatemala"
+
+ ### Honduras
+ HON: "Honduras"
+ HON_DEF: "Honduras"
+ HON_ADJ: "Honduran"
+
+ HON_fascist: "Corporatist State of Honduras"
+ HON_fascist_DEF: "the Corporatist State of Honduras"
+ HON_authoritarian: "Republic of Honduras"
+ HON_authoritarian_DEF: "the Republic of Honduras"
+ HON_democratic: "Republic of Honduras"
+ HON_democratic_DEF: "the Republic of Honduras"
+ HON_communist: "Commonwealth of Honduras"
+ HON_communist_DEF: "the Commonwealth of Honduras"
+ HON_socialist: "Commonwealth of Honduras"
+ HON_socialist_DEF: "the Commonwealth of Honduras"
+
+ ### Iraq
+ IRQ: "Iraq"
+ IRQ_DEF: "Iraq"
+ IRQ_ADJ: "Iraqi"
+
+ IRQ_fascist: "Hashemite Kingdom of Iraq" # Golden Square maintained kingdom under a puppet regent, potential for future content to change this however
+ IRQ_fascist_DEF: "the Hashemite Kingdom of Iraq"
+ IRQ_authoritarian: "Hashemite Kingdom of Iraq"
+ IRQ_authoritarian_DEF: "the Hashemite Kingdom of Iraq"
+ IRQ_democratic: "Republic of Iraq"
+ IRQ_democratic_DEF: "the Republic of Iraq"
+ IRQ_communist: "People's Republic of Iraq"
+ IRQ_communist_DEF: "the People's Republic of Iraq"
+ IRQ_socialist: "Iraqi Republic"
+ IRQ_socialist_DEF: "the Iraqi Republic"
+
+ IRQ_NDG_fascist: "National Defense Government of Iraq"
+ IRQ_NDG_fascist_DEF: "the National Defense Government of Iraq"
+
+ ### Japan
+ JAP: "Japan"
+ JAP_DEF: "Japan"
+ JAP_ADJ: "Japanese"
+
+ JAP_fascist: "Empire of Japan"
+ JAP_fascist_DEF: "the Empire of Japan"
+ JAP_authoritarian: "Empire of Japan"
+ JAP_authoritarian_DEF: "the Empire of Japan"
+ JAP_democratic: "State of Japan"
+ JAP_democratic_DEF: "the State of Japan"
+ JAP_communist: "Democratic People's Republic of Japan"
+ JAP_communist_DEF: "the Democratic People's Republic of Japan"
+ JAP_socialist: "Republic of Japan"
+ JAP_socialist_DEF: "the Republic of Japan"
+
+ JAP_OCCUPIED: "Allied-occupied Japan"
+ JAP_OCCUPIED_DEF: "Allied-occupied Japan"
+
+ ### Mexico
+ MEX: "Mexico"
+ MEX_DEF: "Mexico"
+ MEX_ADJ: "Mexican"
+
+ MEX_fascist: "Synarchist State of Mexico"
+ MEX_fascist_DEF: "Synarchist State of Mexico"
+ MEX_authoritarian: "United Mexican States"
+ MEX_authoritarian_DEF: "the United Mexican States"
+ MEX_democratic: "United Mexican States"
+ MEX_democratic_DEF: "the United Mexican States"
+ MEX_communist: "Socialist Republic of Mexico"
+ MEX_communist_DEF: "the Socialist Republic of Mexico"
+ MEX_socialist: "United Mexican States"
+ MEX_socialist_DEF: "the United Mexican States"
+
+ ### Mongolia
+ MON: "Mongolia"
+ MON_DEF: "Mongolia"
+ MON_ADJ: "Mongolian"
+
+ MON_fascist: "Mongolian State"
+ MON_fascist_DEF: "the Mongolian State"
+ MON_socialist: "Mongolian People's Republic"
+ MON_socialist_DEF: "the Mongolian People's Republic"
+ MON_communist: "Mongolian People's Republic"
+ MON_communist_DEF: "the Mongolian People's Republic"
+
+ ### Nepal
+ NEP: "Nepal"
+ NEP_DEF: "Nepal"
+ NEP_ADJ: "Nepali"
+
+ NEP_fascist: "Kingdom of Nepal"
+ NEP_fascist_DEF: "the Kingdom of Nepal"
+ NEP_authoritarian: "Kingdom of Nepal"
+ NEP_authoritarian_DEF: "Kingdom of Nepal"
+ NEP_democratic: "Federal Republic of Nepal"
+ NEP_democratic_DEF: "the Federal Republic of Nepal"
+ NEP_communist: "Federal Democratic Republic of Nepal"
+ NEP_communist_DEF: "the Federal Democratic Republic of Nepal"
+ NEP_socialist: "Federal Democratic Republic of Nepal"
+ NEP_socialist_DEF: "the Federal Democratic Republic of Nepal"
+
+ ### Nicaragua
+ NIC: "Nicaragua"
+ NIC_DEF: "Nicaragua"
+ NIC_ADJ: "Nicaraguan"
+
+ NIC_fascist: "Republic of Nicaragua"
+ NIC_fascist_DEF: "the Republic of Nicaragua"
+ NIC_authoritarian: "Republic of Nicaragua"
+ NIC_authoritarian_DEF: "the Republic of Nicaragua"
+ NIC_democratic: "Republic of Nicaragua"
+ NIC_democratic_DEF: "the Republic of Nicaragua"
+ NIC_communist: "Republic of Nicaragua"
+ NIC_communist_DEF: "the Republic of Nicaragua"
+ NIC_socialist: "Republic of Nicaragua"
+ NIC_socialist_DEF: "the Republic of Nicaragua"
+
+ ### Panama
+ PAN: "Panama"
+ PAN_DEF: "Panama"
+ PAN_ADJ: "Panamanian"
+
+ PAN_fascist: "Republic of Panama"
+ PAN_fascist_DEF: "the Republic of Panama"
+ PAN_authoritarian: "Republic of Panama"
+ PAN_authoritarian_DEF: "the Republic of Panama"
+ PAN_democratic: "Republic of Panama"
+ PAN_democratic_DEF: "Republic of Panama"
+ PAN_communist: "Socialist Republic of Panama"
+ PAN_communist_DEF: "the Socialist Republic of Panama"
+ PAN_socialist: "Socialist Republic of Panama"
+ PAN_socialist_DEF: "the Socialist Republic of Panama"
+
+ ### Paraguay
+ PAR: "Paraguay"
+ PAR_DEF: "Paraguay"
+ PAR_ADJ: "Paraguayan"
+
+ PAR_fascist: "Republic of Paraguay"
+ PAR_fascist_DEF: "the Republic of Paraguay"
+ PAR_authoritarian: "Republic of Paraguay"
+ PAR_authoritarian_DEF: "Republic of Paraguay"
+ PAR_democratic: "Republic of Paraguay"
+ PAR_democratic_DEF: "the Republic of Paraguay"
+ PAR_communist: "Republic of Paraguay"
+ PAR_communist_DEF: "the Republic of Paraguay"
+ PAR_socialist: "Republic of Paraguay"
+ PAR_socialist_DEF: "the Republic of Paraguay"
+
+ ### Persia (Iran)
+ PER: "Persia"
+ PER_DEF: "Persia"
+ PER_ADJ: "Persian"
+
+ PER_fascist: "Imperial State of Persia"
+ PER_fascist_DEF: "the Imperial State of Persia"
+ PER_authoritarian: "Imperial State of Persia"
+ PER_authoritarian_DEF: "the Imperial State of Persia"
+ PER_democratic: "Republic of Persia"
+ PER_democratic_DEF: "the Republic of Persia"
+ PER_socialist: "People's Republic of Persia"
+ PER_socialist_DEF: "the People's Republic of Persia"
+ PER_communist: "People's Republic of Persia"
+ PER_communist_DEF: "the People's Republic of Persia"
+
+ PER_IRAN: "Iran"
+ PER_IRAN_DEF: "Iran"
+ PER_IRAN_ADJ: "Iranian"
+
+ PER_IRAN_fascist: "Imperial State of Iran"
+ PER_IRAN_fascist_DEF: "the Imperial State of Iran"
+ PER_IRAN_authoritarian: "Imperial State of Iran"
+ PER_IRAN_authoritarian_DEF: "the Imperial State of Iran"
+ PER_IRAN_democratic: "Republic of Iran"
+ PER_IRAN_democratic_DEF: "the Republic of Iran"
+ PER_IRAN_socialist: "People's Republic of Iran"
+ PER_IRAN_socialist_DEF: "the People's Republic of Iran"
+ PER_IRAN_communist: "People's Republic of Iran"
+ PER_IRAN_communist_DEF: "the People's Republic of Iran"
+
+ ### Philippines
+ PHI: "Philippines"
+ PHI_DEF: "Philippines"
+ PHI_ADJ: "Filipino"
+
+ PHI_fascist: "Republic of the Philippines"
+ PHI_fascist_DEF: "the Republic of the Philippines"
+ PHI_authoritarian: "Republic of the Philippines"
+ PHI_authoritarian_DEF: "the Republic of the Philippines"
+ PHI_democratic: "Republic of the Philippines"
+ PHI_democratic_DEF: "the Republic of the Philippines"
+ PHI_communist: "People's Republic of the Philippines"
+ PHI_communist_DEF: "the People's Republic of the Philippines"
+ PHI_socialist: "Republic of the Philippines"
+ PHI_socialist_DEF: "the Republic of the Philippines"
+
+ PHI_USA_AUTONOMY_Insular_Government: "Insular Government of the Philippine Islands"
+ PHI_USA_AUTONOMY_Insular_Government_DEF: "the Insular Government of the Philippine Islands"
+ PHI_USA_AUTONOMY_Integrated_Puppet: "United States Military Government of the Philippine Islands"
+ PHI_USA_AUTONOMY_Integrated_Puppet_DEF: "the United States Military Government of the Philippine Islands"
+ PHI_USA_AUTONOMY_Satellite: "Commonwealth of the Philippines"
+ PHI_USA_AUTONOMY_Satellite_DEF: "the Commonwealth of the Philippines"
+
+ ### Peru
+ PRU: "Peru"
+ PRU_DEF: "Peru"
+ PRU_ADJ: "Peruvian"
+
+ PRU_fascist: "Republic of Peru"
+ PRU_fascist_DEF: "the Republic of Peru"
+ PRU_authoritarian: "Republic of Peru"
+ PRU_authoritarian_DEF: "the Republic of Peru"
+ PRU_democratic: "Republic of Peru"
+ PRU_democratic_DEF: "the Republic of Peru"
+ PRU_socialist: "Republic of Peru"
+ PRU_socialist_DEF: "the Republic of Peru"
+ PRU_communist: "Republic of Peru"
+ PRU_communist_DEF: "the Republic of Peru"
+
+ ### South Africa
+ SAF: "South Africa"
+ SAF_DEF: "South Africa"
+ SAF_ADJ: "South African"
+
+ SAF_fascist: "Afrikaner People's State"
+ SAF_fascist_DEF: "the Afrikaner People's State"
+ SAF_fascist_ADJ: "Afrikaner"
+ SAF_authoritarian: "Kingdom of South Africa"
+ SAF_authoritarian_DEF: "the Kingdom of South Africa"
+ SAF_democratic: "Union of South Africa"
+ SAF_democratic_DEF: "the Union of South Africa"
+ SAF_socialist: "Republic of South Africa"
+ SAF_socialist_DEF: "the Republic of South Africa"
+ SAF_communist: "People's Republic of South Africa"
+ SAF_communist_DEF: "the People's Republic of South Africa"
+
+ ### Saudi Arabia
+ SAU: "Saudi Arabia"
+ SAU_DEF: "Saudi Arabia"
+ SAU_ADJ: "Arabian"
+
+ SAU_fascist: "Kingdom of Saudi Arabia"
+ SAU_fascist_DEF: "the Kingdom of Saudi Arabia"
+ SAU_authoritarian: "Kingdom of Saudi Arabia"
+ SAU_authoritarian_DEF: "Kingdom of Saudi Arabia"
+ SAU_democratic: "Republic of Arabia"
+ SAU_democratic_DEF: "the Republic of Arabia"
+ SAU_communist: "People's Socialist Republic of Arabia"
+ SAU_communist_DEF: "the People's Socialist Republic of Arabia"
+ SAU_socialist: "Federation of Arabian Republics"
+ SAU_socialist_DEF: "the Federation of Arabian Republics"
+ SAU_fascist_ADJ: "Saudi Arabian"
+ SAU_authoritarian_ADJ: "Saudi Arabian"
+
+ ### Siam / Thailand
+ SIA: "Siam"
+ SIA_DEF: "Siam"
+ SIA_ADJ: "Siamese"
+
+ SIA_fascist: "Kingdom of Siam"
+ SIA_fascist_DEF: "the Kingdom of Siam"
+ SIA_authoritarian: "Kingdom of Siam"
+ SIA_authoritarian_DEF: "Kingdom of Siam"
+ SIA_democratic: "Kingdom of Siam"
+ SIA_democratic_DEF: "the Kingdom of Siam"
+ SIA_socialist: "People's Republic of Siam"
+ SIA_socialist_DEF: "the People's Republic of Siam"
+ SIA_communist: "People's Republic of Siam"
+ SIA_communist_DEF: "the People's Republic of Siam"
+
+ THA: "Thailand"
+ THA_DEF: "Thailand"
+ THA_ADJ: "Thai"
+
+ THA_fascist: "Kingdom of Thailand"
+ THA_fascist_DEF: "the Kingdom of Thailand"
+ THA_authoritarian: "Kingdom of Thailand"
+ THA_authoritarian_DEF: "Kingdom of Thailand"
+ THA_democratic: "Kingdom of Thailand"
+ THA_democratic_DEF: "the Kingdom of Thailand"
+ THA_socialist: "People's Republic of Thailand"
+ THA_socialist_DEF: "the People's Republic of Thailand"
+ THA_communist: "People's Republic of Thailand"
+ THA_communist_DEF: "the People's Republic of Thailand"
+
+ ### Xinjiang
+ XIJ: "Xinjiang"
+ XIJ_DEF: "Xinjiang"
+ XIJ_ADJ: "Xinjiangese"
+
+ XIJ_fascist: "Xinjiang Clique"
+ XIJ_fascist_DEF: "the Xinjiang Clique"
+ XIJ_authoritarian: "Xinjiang Clique"
+ XIJ_authoritarian_DEF: "the Xinjiang Clique"
+ XIJ_democratic: "Xinjiang Clique"
+ XIJ_democratic_DEF: "the Xinjiang Clique"
+ XIJ_communist: "Xinjiang Clique"
+ XIJ_communist_DEF: "Xinjiang Clique"
+ XIJ_socialist: "Xinjiang Clique"
+ XIJ_socialist_DEF: "Xinjiang Clique"
+
+ XIJ_SOV_AUTONOMY_Satellite: "People's Government of Xinjiang"
+ XIJ_SOV_AUTONOMY_Satellite_DEF: "the People's Government of Xinjiang"
+ XIJ_SOV_AUTONOMY_SSR: "Xinjiang Soviet Socialist Republic"
+ XIJ_SOV_AUTONOMY_SSR_DEF: "the Xinjiang Soviet Socialist Republic"
+
+ ### Tuva
+ TAN: "Tuva"
+ TAN_DEF: "Tuva"
+ TAN_ADJ: "Tuvan"
+
+ TAN_fascist: "Tuva Republic"
+ TAN_fascist_DEF: "the Tuva Republic"
+ TAN_authoritarian: "Tannu Uriankhai"
+ TAN_authoritarian_DEF: "the Tannu Uriankhai"
+ TAN_democratic: "Tuva Republic"
+ TAN_democratic_DEF: "the Tuva Republic"
+ TAN_communist: "Tuvan People's Republic"
+ TAN_communist_DEF: "the Tuvan People's Republic"
+ TAN_socialist: "Tuvan People's Republic"
+ TAN_socialist_DEF: "the Tuvan People's Republic"
+
+ ### Danzig
+ DNZ: "Danzig"
+ DNZ_DEF: "Danzig"
+ DNZ_ADJ: "Danziger"
+
+ DNZ_fascist: "Free City of Danzig"
+ DNZ_fascist_DEF: "the Free City of Danzig"
+ DNZ_authoritarian: "Free City of Danzig"
+ DNZ_authoritarian_DEF: "the Free City of Danzig"
+ DNZ_democratic: "Free City of Danzig"
+ DNZ_democratic_DEF: "the Free City of Danzig"
+ DNZ_communist: "Free City of Danzig"
+ DNZ_communist_DEF: "the Free City of Danzig"
+ DNZ_socialist: "Free City of Danzig"
+ DNZ_socialist_DEF: "the Free City of Danzig"
+
+ ### Tibet
+ TIB: "Tibet"
+ TIB_DEF: "Tibet"
+ TIB_ADJ: "Tibetan"
+
+ ### Venezuela
+ VEN: "Venezuela"
+ VEN_DEF: "Venezuela"
+ VEN_ADJ: "Venezuelan"
+
+ VEN_fascist: "United States of Venezuela"
+ VEN_fascist_DEF: "the United States of Venezuela"
+ VEN_authoritarian: "United States of Venezuela"
+ VEN_authoritarian_DEF: "the United States of Venezuela"
+ VEN_democratic: "Republic of Venezuela"
+ VEN_democratic_DEF: "the Republic of Venezuela"
+ VEN_socialist: "Bolivarian Republic of Venezuela"
+ VEN_socialist_DEF: "the Bolivarian Republic of Venezuela"
+ VEN_communist: "Bolivarian Republic of Venezuela"
+ VEN_communist_DEF: "the Bolivarian Republic of Venezuela"
+
+ ### Yunnan
+ YUN: "Yunnan"
+ YUN_DEF: "Yunnan"
+ YUN_ADJ: "Yunnanese"
+
+ YUN_fascist: "Yunnan Free State"
+ YUN_fascist_DEF: "the Yunnan Free State"
+ YUN_authoritarian: "Yunnan Clique"
+ YUN_authoritarian_DEF: "the Yunnan Clique"
+ YUN_democratic: "Yunnan Independent Republic"
+ YUN_democratic_DEF: "the Yunnan Independent Republic"
+ YUN_communist: "Soviet State of Yunnan"
+ YUN_communist_DEF: "the Soviet State of Yunnan"
+ YUN_socialist: "Soviet State of Yunnan"
+ YUN_socialist_DEF: "the Soviet State of Yunnan"
+
+ ### Australia
+ AST: "Australia"
+ AST_DEF: "Australia"
+ AST_ADJ: "Australian"
+
+ AST_fascist: "Union of Australia"
+ AST_fascist_DEF: "the Union of Australia"
+ AST_authoritarian: "Commonwealth of Australia"
+ AST_authoritarian_DEF: "Commonwealth of Australia"
+ AST_democratic: "Commonwealth of Australia"
+ AST_democratic_DEF: "the Commonwealth of Australia"
+ AST_communist: "Australian People's Republic"
+ AST_communist_DEF: "the Australian People's Republic"
+ AST_socialist: "Australian People's Republic"
+ AST_socialist_DEF: "the Australian People's Republic"
+
+ ### New Zealand
+ NZL: "New Zealand"
+ NZL_DEF: "New Zealand"
+ NZL_ADJ: "New Zealander"
+
+ NZL_fascist: "Imperial State of New Zealand"
+ NZL_fascist_DEF: "the Imperial State of New Zealand"
+ NZL_communist: "People's Republic of New Zealand"
+ NZL_communist_DEF: "the People's Republic of New Zealand"
+ NZL_socialist: "People's Republic of New Zealand"
+ NZL_socialist_DEF: "the People's Republic of New Zealand"
+
+ ### Uruguay
+ URG: "Uruguay"
+ URG_DEF: "Uruguay"
+ URG_ADJ: "Uruguayan"
+
+ URG_fascist: "Oriental Republic of Uruguay"
+ URG_fascist_DEF: "Oriental Republic of Uruguay"
+ URG_authoritarian: "Oriental Republic of Uruguay"
+ URG_authoritarian_DEF: "the Oriental Republic of Uruguay"
+ URG_democratic: "Oriental Republic of Uruguay"
+ URG_democratic_DEF: "the Oriental Republic of Uruguay"
+ URG_communist: "Socialist Republic of Uruguay"
+ URG_communist_DEF: "the Socialist Republic of Uruguay"
+ URG_socialist: "Socialist Republic of Uruguay"
+ URG_socialist_DEF: "the Socialist Republic of Uruguay"
+
+ ### Cuba
+ CUB: "Cuba"
+ CUB_DEF: "Cuba"
+ CUB_ADJ: "Cuban"
+
+ CUB_fascist: "Republic of Cuba"
+ CUB_fascist_DEF: "the Republic of Cuba"
+ CUB_authoritarian: "Republic of Cuba"
+ CUB_authoritarian_DEF: "the Republic of Cuba"
+ CUB_democratic: "Republic of Cuba"
+ CUB_democratic_DEF: "the Republic of Cuba"
+ CUB_communist: "Republic of Cuba"
+ CUB_communist_DEF: "the Republic of Cuba"
+ CUB_socialist: "Republic of Cuba"
+ CUB_socialist_DEF: "the Republic of Cuba"
+
+ ### Dominican Republic
+ DOM: "Dominican Republic"
+ DOM_DEF: "Dominican Republic"
+ DOM_ADJ: "Dominican"
+
+ DOM_fascist: "Dominican Republic"
+ DOM_fascist_DEF: "the Dominican Republic"
+ DOM_authoritarian: "Dominican Republic"
+ DOM_authoritarian_DEF: "the Dominican Republic"
+ DOM_democratic: "Dominican Republic"
+ DOM_democratic_DEF: "the Dominican Republic"
+ DOM_communist: "Dominican People's Republic"
+ DOM_communist_DEF: "the Dominican People's Republic"
+ DOM_socialist: "Dominican People's Republic"
+ DOM_socialist_DEF: "the Dominican People's Republic"
+
+ ### Haiti
+ HAI: "Haiti"
+ HAI_DEF: "Haiti"
+ HAI_ADJ: "Haitian"
+
+ HAI_fascist: "Republic of Haiti"
+ HAI_fascist_DEF: "the Republic of Haiti"
+ HAI_authoritarian: "Republic of Haiti"
+ HAI_authoritarian_DEF: "the Republic of Haiti"
+ HAI_democratic: "Republic of Haiti"
+ HAI_democratic_DEF: "the Republic of Haiti"
+ HAI_socialist: "Republic of Haiti"
+ HAI_socialist_DEF: "the Republic of Haiti"
+ HAI_communist: "People's Republic of Haiti"
+ HAI_communist_DEF: "the People's Republic of Haiti"
+
+ ### Oman
+ OMA: "Oman"
+ OMA_DEF: "Oman"
+ OMA_ADJ: "Omani"
+
+ OMA_fascist: "Sultanate of Muscat and Oman"
+ OMA_fascist_DEF: "the Sultanate of Muscat and Oman"
+ OMA_authoritarian: "Sultanate of Muscat and Oman"
+ OMA_authoritarian_DEF: "the Sultanate of Muscat and Oman"
+ OMA_democratic: "Republic of Oman"
+ OMA_democratic_DEF: "the Republic of Oman"
+ OMA_communist: "People's Republic of Oman"
+ OMA_communist_DEF: "the People's Republic of Oman"
+ OMA_socialist: "People's Republic of Oman"
+ OMA_socialist_DEF: "the People's Republic of Oman"
+
+ ### Yemen
+ YEM: "Yemen"
+ YEM_DEF: "Yemen"
+ YEM_ADJ: "Yemeni"
+
+ YEM_fascist: "Federation of South Arabia"
+ YEM_fascist_DEF: "the Federation of South Arabia"
+ YEM_authoritarian: "Mutawakkilite Kingdom of Yemen"
+ YEM_authoritarian_DEF: "the Mutawakkilite Kingdom of Yemen"
+ YEM_democratic: "Yemen Arab Republic"
+ YEM_democratic_DEF: "the Yemen Arab Republic"
+ YEM_socialist: "People's Democratic Republic of Yemen"
+ YEM_socialist_DEF: "the People's Democratic Republic of Yemen"
+ YEM_communist: "People's Democratic Republic of Yemen"
+ YEM_communist_DEF: "the People's Democratic Republic of Yemen"
+
+ ### Ethiopia/Abyssinia
+ ETH: "Ethiopia"
+ ETH_DEF: "Ethiopia"
+ ETH_ADJ: "Ethiopian"
+ # ETH_ADJ: "Abyssinian"
+
+ ETH_fascist: "Ethiopian Empire"
+ ETH_fascist_DEF: "the Ethiopian Empire"
+ ETH_authoritarian: "Ethiopian Empire"
+ ETH_authoritarian_DEF: "the Ethiopian Empire"
+ ETH_democratic: "Federal Democratic Republic of Ethiopia"
+ ETH_democratic_DEF: "the Federal Democratic Republic of Ethiopia"
+ ETH_communist: "People's Democratic Republic of Ethiopia"
+ ETH_communist_DEF: "the People's Democratic Republic of Ethiopia"
+ ETH_socialist: "People's Democratic Republic of Ethiopia"
+ ETH_socialist_DEF: "the People's Democratic Republic of Ethiopia"
+
+ ### Slovakia
+ SLO: "Slovakia"
+ SLO_DEF: "Slovakia"
+ SLO_ADJ: "Slovak"
+
+ SLO_fascist: "Slovak Republic"
+ SLO_fascist_DEF: "the Slovak Republic"
+ SLO_authoritarian: "Slovak Republic"
+ SLO_authoritarian_DEF: "the Slovak Republic"
+ SLO_democratic: "Slovak Republic"
+ SLO_democratic_DEF: "the Slovak Republic"
+ SLO_communist: "Slovak Socialist Republic"
+ SLO_communist_DEF: "the Slovak Socialist Republic"
+ SLO_socialist: "Slovak Socialist Republic"
+ SLO_socialist_DEF: "the Slovak Socialist Republic"
+
+ SLO_GER_fascist_AUTONOMY_Reichskommissariat: "Protektorat Slowakei"
+ SLO_GER_fascist_AUTONOMY_Reichskommissariat_DEF: "the Slovak Protectorate"
+ SLO_GER_fascist_AUTONOMY_Mitstreiter: "Protektorat Slowakei"
+ SLO_GER_fascist_AUTONOMY_Mitstreiter_DEF: "the Slovak Protectorate"
+ SLO_GER_fascist_AUTONOMY_Satellite: "Slovak Republic"
+ SLO_GER_fascist_AUTONOMY_Satellite_DEF: "the Slovak Republic"
+
+ ### Bhutan
+ BHU: "Bhutan"
+ BHU_DEF: "Bhutan"
+ BHU_ADJ: "Bhutanese"
+ 
+ BHU_fascist: "Kingdom of Bhutan"
+ BHU_fascist_DEF: "the Kingdom of Bhutan"
+ BHU_authoritarian: "Kingdom of Bhutan"
+ BHU_authoritarian_DEF: "the Kingdom of Bhutan"
+ BHU_democratic: "Republic of Bhutan"
+ BHU_democratic_DEF: "the Republic of Bhutan"
+ BHU_communist: "People's Republic of Bhutan"
+ BHU_communist_DEF: "the People's Republic of Bhutan"
+ BHU_socialist: "Socialist Republic of Bhutan"
+ BHU_socialist_DEF: "the Socialist Republic of Bhutan"
+
+ ### Liberia
+ LIB: "Liberia"
+ LIB_DEF: "Liberia"
+ LIB_ADJ: "Liberian"
+
+ LIB_fascist: "Liberian Free State"
+ LIB_fascist_DEF: "the Liberian Free State"
+ LIB_authoritarian: "Republic of Liberia"
+ LIB_authoritarian_DEF: "the Republic of Liberia"
+ LIB_democratic: "Republic of Liberia"
+ LIB_democratic_DEF: "the Republic of Liberia"
+ LIB_communist: "Liberian Commune"
+ LIB_communist_DEF: "the Liberian Commune"
+ LIB_socialist: "Liberian Commune"
+ LIB_socialist_DEF: "the Liberian Commune"
+
+ ### Sierra Leone
+ SIE: "Sierra Leone"
+ SIE_DEF: "Sierra Leone"
+ SIE_ADJ: "Sierra Leonean"
+
+ SIE_fascist: "Sierra Leone Junta"
+ SIE_fascist_DEF: "the Sierra Leone Junta"
+ SIE_authoritarian: "Republic of Sierra Leone"
+ SIE_authoritarian_DEF: "the Republic of Sierra Leone"
+ SIE_democratic: "Republic of Sierra Leone"
+ SIE_democratic_DEF: "the Republic of Sierra Leone"
+ SIE_communist: "Republic of Sierra Leone"
+ SIE_communist_DEF: "the Republic of Sierra Leone"
+ SIE_socialist: "Republic of Sierra Leone"
+ SIE_socialist_DEF: "the Republic of Sierra Leone"
+
+ ### Guinea
+ GNA: "Guinea"
+ GNA_DEF: "Guinea"
+ GNA_ADJ: "Guinean"
+
+ GNA_fascist: "Republic of Guinea"
+ GNA_fascist_DEF: "the Republic of Guinea"
+ GNA_authoritarian: "Republic of Guinea"
+ GNA_authoritarian_DEF: "the Republic of Guinea"
+ GNA_democratic: "Republic of Guinea"
+ GNA_democratic_DEF: "the Republic of Guinea"
+ GNA_communist: "Socialist Republic of Guinea-Conakry"
+ GNA_communist_DEF: "the Socialist Republic of Guinea-Conakry"
+ GNA_socialist: "Republic of Guinea"
+ GNA_socialist_DEF: "the Republic of Guinea"
+
+ ### Gambia
+ GAM: "Gambia"
+ GAM_DEF: "Gambia"
+ GAM_ADJ: "Gambian"
+
+ GAM_fascist: "Republic of The Gambia"
+ GAM_fascist_DEF: "the Republic of The Gambia"
+ GAM_authoritarian: "Republic of The Gambia"
+ GAM_authoritarian_DEF: "the Republic of The Gambia"
+ GAM_democratic: "Republic of The Gambia"
+ GAM_democratic_DEF: "the Republic of The Gambia"
+ GAM_communist: "People's Republic of The Gambia"
+ GAM_communist_DEF: "the People's Republic of The Gambia"
+ GAM_socialist: "People's Republic of The Gambia"
+ GAM_socialist_DEF: "the People's Republic of The Gambia"
+
+ ### Upper Volta
+ VOL: "Upper Volta"
+ VOL_DEF: "Upper Volta"
+ VOL_ADJ: "Upper Voltan"
+
+ VOL_fascist: "Republic of Upper Volta"
+ VOL_fascist_DEF: "the Republic of Upper Volta"
+ VOL_authoritarian: "Republic of Upper Volta"
+ VOL_authoritarian_DEF: "the Republic of Upper Volta"
+ VOL_democratic: "Republic of Upper Volta"
+ VOL_democratic_DEF: "the Republic of Upper Volta"
+ VOL_communist: "Republic of Upper Volta"
+ VOL_communist_DEF: "the Republic of Upper Volta"
+ VOL_socialist: "Republic of Upper Volta"
+ VOL_socialist_DEF: "the Republic of Upper Volta"
+
+ ### Ghana
+ GHA: "Ghana"
+ GHA_DEF: "Ghana"
+ GHA_ADJ: "Ghanaian"
+
+ GHA_fascist: "Republic of Ghana"
+ GHA_fascist_DEF: "the Republic of Ghana"
+ GHA_authoritarian: "Republic of Ghana"
+ GHA_authoritarian_DEF: "the Republic of Ghana"
+ GHA_democratic: "Republic of Ghana"
+ GHA_democratic_DEF: "the Republic of Ghana"
+ GHA_communist: "Republic of Ghana"
+ GHA_communist_DEF: "the Republic of Ghana"
+ GHA_socialist: "Republic of Ghana"
+ GHA_socialist_DEF: "the Republic of Ghana"
+
+ ### Togo
+ TOG: "Togo"
+ TOG_DEF: "Togo"
+ TOG_ADJ: "Togolese"
+
+ TOG_fascist: "Togolese Republic"
+ TOG_fascist_DEF: "the Togolese Republic"
+ TOG_authoritarian: "Togolese Republic"
+ TOG_authoritarian_DEF: "the Togolese Republic"
+ TOG_democratic: "Togolese Republic"
+ TOG_democratic_DEF: "the Togolese Republic"
+ TOG_communist: "Togolese Commune"
+ TOG_communist_DEF: "the Togolese Commune"
+ TOG_socialist: "Togolese Commune"
+ TOG_socialist_DEF: "the Togolese Commune"
+
+ ### India
+ RAJ: "India"
+ RAJ_DEF: "India"
+ RAJ_ADJ: "Indian"
+
+ RAJ_fascist: "State of Free India"
+ RAJ_fascist_DEF: "the State of Free India"
+ RAJ_authoritarian: "Republic of India"
+ RAJ_authoritarian_DEF: "the Republic of India"
+ RAJ_democratic: "Republic of India"
+ RAJ_democratic_DEF: "the Republic of India"
+ RAJ_communist: "Indian People's Republic"
+ RAJ_communist_DEF: "the Indian People's Republic"
+ RAJ_socialist: "Republic of India"
+ RAJ_socialist_DEF: "the Republic of India"
+
+ RAJ_ENG_AUTONOMY_Colony: "British India"
+ RAJ_ENG_AUTONOMY_Colony_DEF: "British India"
+ RAJ_ENG_AUTONOMY_Protectorate: "British India"
+ RAJ_ENG_AUTONOMY_Protectorate_DEF: "British India"
+ RAJ_ENG_AUTONOMY_Dominion: "Dominion of India"
+ RAJ_ENG_AUTONOMY_Dominion_DEF: "the Dominion of India"
+
+ AZH: "Provisional Government of Free India"
+ AZH_DEF: "the Provisional Government of Free India"
+
+ ### Croatia
+ CRO: "Croatia"
+ CRO_DEF: "Croatia"
+ CRO_ADJ: "Croatian"
+
+ CRO_fascist: "Independent State of Croatia"
+ CRO_fascist_DEF: "the Independent State of Croatia"
+ CRO_authoritarian: "Republic of Croatia"
+ CRO_authoritarian_DEF: "the Republic of Croatia"
+ CRO_democratic: "Republic of Croatia"
+ CRO_democratic_DEF: "the Republic of Croatia"
+ CRO_socialist: "Socialist Republic of Croatia"
+ CRO_socialist_DEF: "the Socialist Republic of Croatia"
+ CRO_communist: "People's Republic of Croatia"
+ CRO_communist_DEF: "the People's Republic of Croatia"
+
+ CRO_YUG_AUTONOMY_Integrated_Puppet: "Banovina of Croatia"
+ CRO_YUG_AUTONOMY_Integrated_Puppet_DEF: "the Banovina of Croatia"
+
+ ### Guangxi
+ GXC: "Guangxi"
+ GXC_DEF: "Guangxi"
+ GXC_ADJ: "Guangxiese"
+
+ GXC_fascist: "Guangxi Military Government"
+ GXC_fascist_DEF: "the Guangxi Military Government"
+ GXC_authoritarian: "New Guangxi Clique"
+ GXC_authoritarian_DEF: "the New Guangxi Clique"
+ GXC_democratic: "Guangxi Independent Republic"
+ GXC_democratic_DEF: "the Guangxi Independent Republic"
+ GXC_communist: "People's Republic of Guangxi Zhuang"
+ GXC_communist_DEF: "the People's Republic of Guangxi Zhuang"
+ GXC_socialist: "People's Republic of Guangxi Zhuang"
+ GXC_socialist_DEF: "the People's Republic of Guangxi Zhuang"
+
+ GXC_LIANGGUANG_authoritarian: "Liangguang Clique"
+ GXC_LIANGGUANG_authoritarian_DEF: "the Liangguang Clique"
+
+ ### Shanxi
+ SHX: "Shanxi"
+ SHX_DEF: "Shanxi"
+ SHX_ADJ: "Shanxese"
+
+ SHX_fascist: "Shanxi Clique"
+ SHX_fascist_DEF: "the Shanxi Clique"
+ SHX_authoritarian: "Shanxi Clique"
+ SHX_authoritarian_DEF: "the Shanxi Clique"
+ SHX_democratic: "Shanxi Republic"
+ SHX_democratic_DEF: "the Shanxi Republic"
+ SHX_communist: "People's Republic of Shanxi"
+ SHX_communist_DEF: "the People's Republic of Shanxi"
+ SHX_socialist: "People's Republic of Shanxi"
+ SHX_socialist_DEF: "the People's Republic of Shanxi"
+
+ ### Qinghai
+ QIH: "Qinghai Ma Clique"
+ QIH_DEF: "the Qinghai Ma Clique"
+ QIH_ADJ: "Ma"
+
+ HUI: "Hui State"
+ HUI_DEF: "the Hui State"
+ HUI_ADJ: "Hui"
+
+ ### Ningxia
+ NXA: "Ningxia Ma Clique"
+ NXA_DEF: "the Ningxia Ma Clique"
+ NXA_ADJ: "Ma"
+
+ ### Mengjiang
+ MEN: "Inner Mongolia"
+ MEN_DEF: "Inner Mongolia"
+ MEN_ADJ: "Inner Mongolian"
+
+ MEN_fascist: "Mongol Local Autonomy Political Affairs Committee"
+ MEN_fascist_DEF: "the Mongol Local Autonomy Political Affairs Committee"
+ MEN_authoritarian: "Mongol Local Autonomy Political Affairs Committee"
+ MEN_authoritarian_DEF: "the Mongol Local Autonomy Political Affairs Committee"
+ MEN_democratic: "Republic of Inner Mongolia"
+ MEN_democratic_DEF: "the Republic of Inner Mongolia"
+ MEN_communist: "Inner Mongolian People's Republic"
+ MEN_communist_DEF: "the Inner Mongolian People's Republic"
+ MEN_socialist: "Inner Mongolian People's Republic"
+ MEN_socialist_DEF: "the Inner Mongolian People's Republic"
+
+ MEN_RNG_AUTONOMY_Integrated_Puppet: "Mongolian Autonomous Union"
+ MEN_RNG_AUTONOMY_Integrated_Puppet_DEF: "the Mongolian Autonomous Union"
+
+ MEN_MILITARY_authoritarian: "Mongol Military Government"
+ MEN_MILITARY_authoritarian_DEF: "the Mongol Military Government"
+ MEN_MILITARY_fascist: "Mongol Military Government"
+ MEN_MILITARY_fascist_DEF: "the Mongol Military Government"
+ MEN_ASSEMBLY_authoritarian: "Mengjiang United Autonomous Government"
+ MEN_ASSEMBLY_authoritarian_DEF: "the Mengjiang United Autonomous Government"
+ MEN_ASSEMBLY_fascist: "Mengjiang United Autonomous Government"
+ MEN_ASSEMBLY_fascist_DEF: "the Mengjiang United Autonomous Government"
+ MEN_EMPIRE_authoritarian: "Mongol Empire"
+ MEN_EMPIRE_authoritarian_DEF: "the Mongol Empire"
+ MEN_EMPIRE_fascist: "Mongol Empire"
+ MEN_EMPIRE_fascist_DEF: "the Mongol Empire"
+
+ ### Pailingmiao Council
+ PLM: "Pailingmiao Council"
+ PLM_DEF: "the Pailingmiao Council"
+ PLM_ADJ: "Pailingmiao Council"
+
+ ### Korea
+ KOR: "Korea"
+ KOR_DEF: "Korea"
+ KOR_ADJ: "Korean"
+
+ KOR_fascist: "Republic of Korea"
+ KOR_fascist_DEF: "the Republic of Korea"
+ KOR_authoritarian: "Republic of Korea"
+ KOR_authoritarian_DEF: "the Republic of Korea"
+ KOR_democratic: "Republic of Korea"
+ KOR_democratic_DEF: "the Republic of Korea"
+ KOR_socialist: "People's Republic of Korea"
+ KOR_socialist_DEF: "the People's Republic of Korea"
+ KOR_communist: "Democratic People's Republic of Korea"
+ KOR_communist_DEF: "the Democratic People's Republic of Korea"
+
+ USAMGIK: "United States Army Military Government in Korea"
+ USAMGIK_DEF: "U.S-occupied Korea"
+
+ SCAK: "Soviet Civil Administration in Korea"
+ SCAK_DEF: "Soviet-occupied Korea"
+
+ ### Serbia
+ SER: "Serbia"
+ SER_DEF: "Serbia"
+ SER_ADJ: "Serbian"
+
+ SER_fascist: "Independent State of Serbia"
+ SER_fascist_DEF: "the Independent State of Serbia"
+ SER_authoritarian: "Kingdom of Serbia"
+ SER_authoritarian_DEF: "the Kingdom of Serbia"
+ SER_democratic: "Republic of Serbia"
+ SER_democratic_DEF: "the Republic of Serbia"
+ SER_communist: "Socialist Republic of Serbia"
+ SER_communist_DEF: "the Socialist Republic of Serbia"
+ SER_socialist: "Socialist Republic of Serbia"
+ SER_socialist_DEF: "the Socialist Republic of Serbia"
+
+ SER_GER_AUTONOMY_Militarverwaltung: "Government of National Salvation"
+ SER_GER_AUTONOMY_Militarverwaltung_DEF: "the Government of National Salvation"
+
+ ### Iceland
+ ICE: "Iceland"
+ ICE_DEF: "Iceland"
+ ICE_ADJ: "Icelandic"
+
+ ICE_fascist: "Icelandic State"
+ ICE_fascist_DEF: "the Icelandic State"
+ ICE_socialist: "Socialist Republic of Iceland"
+ ICE_socialist_DEF: "the Socialist Republic of Iceland"
+ ICE_communist: "People's Republic of Iceland"
+ ICE_communist_DEF: "the People's Republic of Iceland"
+
+ ICE_KINGDOM_fascist: "Kingdom of Iceland"
+ ICE_KINGDOM_fascist_DEF: "the Kingdom of Iceland"
+ ICE_KINGDOM_authoritarian: "Kingdom of Iceland"
+ ICE_KINGDOM_authoritarian_DEF: "the Kingdom of Iceland"
+ ICE_KINGDOM_democratic: "Kingdom of Iceland"
+ ICE_KINGDOM_democratic_DEF: "the Kingdom of Iceland"
+
+ ICE_GER_AUTONOMY_Reichskommissariat: "Reichskommissariat Island"
+ ICE_GER_AUTONOMY_Reichsprotectorate: "Protektorat Island"
+
+ ### Eritrea
+ ERI: "Eritrea"
+ ERI_DEF: "Eritrea"
+ ERI_ADJ: "Eritrean"
+
+ ERI_fascist: "State of Eritrea"
+ ERI_fascist_DEF: "the State of Eritrea"
+ ERI_authoritarian: "State of Eritrea"
+ ERI_authoritarian_DEF: "the State of Eritrea"
+ ERI_democratic: "State of Eritrea"
+ ERI_democratic_DEF: "the State of Eritrea"
+ ERI_socialist: "State of Eritrea"
+ ERI_socialist_DEF: "the State of Eritrea"
+ ERI_communist: "State of Eritrea"
+ ERI_communist_DEF: "the State of Eritrea"
+
+ ### Syria
+ SYR: "Syria"
+ SYR_DEF: "Syria"
+ SYR_ADJ: "Syrian"
+
+ SYR_fascist: "Syrian National State"
+ SYR_fascist_DEF: "the Syrian National State"
+ SYR_authoritarian: "Kingdom of Syria"
+ SYR_authoritarian_DEF: "the Kingdom of Syria"
+ SYR_democratic: "Syrian Republic"
+ SYR_democratic_DEF: "the Syrian Republic"
+ SYR_communist: "Arab Socialist Union of Syria"
+ SYR_communist_DEF: "the Arab Socialist Union of Syria"
+ SYR_socialist: "Syrian Arab Republic"
+ SYR_socialist_DEF: "the Syrian Arab Republic"
+
+ ### Lebanon
+ LEB: "Lebanon"
+ LEB_DEF: "Lebanon"
+ LEB_ADJ: "Lebanese"
+
+ LEB_fascist: "Lebanon Free State"
+ LEB_fascist_DEF: "the Lebanon Free State"
+ LEB_authoritarian: "Kingdom of Lebanon"
+ LEB_authoritarian_DEF: "the Kingdom of Lebanon"
+ LEB_democratic: "Lebanese Republic"
+ LEB_democratic_DEF: "the Lebanese Republic"
+ LEB_communist: "Lebanese Socialist Republic"
+ LEB_communist_DEF: "the Lebanese Socialist Republic"
+ LEB_socialist: "Lebanese Arab Republic"
+ LEB_socialist_DEF: "the Lebanese Arab Republic"
+
+ ### Jordan
+ JOR: "Transjordan"
+ JOR_DEF: "Transjordan"
+ JOR_ADJ: "Transjordanian"
+
+ JOR_fascist: "Hashemite Kingdom of Transjordan"
+ JOR_fascist_DEF: "the Hashemite Kingdom of Transjordan"
+ JOR_authoritarian: "Hashemite Kingdom of Transjordan"
+ JOR_authoritarian_DEF: "the Hashemite Kingdom of Transjordan"
+ JOR_democratic: "Hashemite Kingdom of Transjordan"
+ JOR_democratic_DEF: "the Hashemite Kingdom of Transjordan"
+ JOR_socialist: "People's Republic of Transjordan"
+ JOR_socialist_DEF: "the People's Republic of Transjordan"
+ JOR_communist: "People's Republic of Transjordan"
+ JOR_communist_DEF: "the People's Republic of Transjordan"
+
+ JOR_1949: "Jordan"
+ JOR_1949_DEF: "Jordan"
+ JOR_1949_ADJ: "Jordanian"
+
+ JOR_1949_fascist: "Hashemite Kingdom of Jordan"
+ JOR_1949_fascist_DEF: "the Hashemite Kingdom of Jordan"
+ JOR_1949_authoritarian: "Hashemite Kingdom of Jordan"
+ JOR_1949_authoritarian_DEF: "the Hashemite Kingdom of Jordan"
+ JOR_1949_democratic: "Hashemite Kingdom of Jordan"
+ JOR_1949_democratic_DEF: "the Hashemite Kingdom of Jordan"
+ JOR_1949_socialist: "People's Republic of Jordan"
+ JOR_1949_socialist_DEF: "the People's Republic of Jordan"
+ JOR_1949_communist: "People's Republic of Jordan"
+ JOR_1949_communist_DEF: "the People's Republic of Jordan"
+
+ JOR_ENG_authoritarian_AUTONOMY_Protectorate: "Emirate of Transjordan"
+ JOR_ENG_authoritarian_AUTONOMY_Protectorate_DEF: "the Emirate of Transjordan"
+
+ ### Egypt
+ EGY: "Egypt"
+ EGY_DEF: "Egypt"
+ EGY_ADJ: "Egyptian"
+
+ EGY_fascist: "Kingdom of Egypt"
+ EGY_fascist_DEF: "Kingdom of Egypt"
+ EGY_authoritarian: "Kingdom of Egypt"
+ EGY_authoritarian_DEF: "the Kingdom of Egypt"
+ EGY_democratic: "Arab Republic of Egypt"
+ EGY_democratic_DEF: "the Arab Republic of Egypt"
+ EGY_socialist: "Republic of Egypt"
+ EGY_socialist_DEF: "the Republic of Egypt"
+ EGY_communist: "Arab Socialist Republic of Egypt"
+ EGY_communist_DEF: "the Arab Socialist Republic of Egypt"
+
+ EGY_ARABREP_authoritarian: "Arab Republic of Egypt"
+ EGY_ARABREP_authoritarian_DEF: "the Arab Republic of Egypt"
+ EGY_UAR_authoritarian: "United Arab Republic"
+ EGY_UAR_authoritarian_DEF: "the United Arab Republic"
+ EGY_UAR_socialist: "United Arab Republic"
+ EGY_UAR_socialist_DEF: "the United Arab Republic"
+
+ ### Libya
+ LBA: "Libya"
+ LBA_DEF: "Libya"
+ LBA_ADJ: "Libyan"
+
+ LBA_fascist: "Arab State of Libya"
+ LBA_fascist_DEF: "the Arab State of Libya"
+ LBA_authoritarian: "United Kingdom of Libya"
+ LBA_authoritarian_DEF: "the United Kingdom of Libya"
+ LBA_democratic: "Arab Republic of Libya"
+ LBA_democratic_DEF: "the Arab Republic of Libya"
+ LBA_communist: "Libyan Socialist Republic"
+ LBA_communist_DEF: "the Libyan Socialist Republic"
+ LBA_socialist: "Libyan Arab Republic"
+ LBA_socialist_DEF: "the Libyan Arab Republic"
+
+ CYR: "Emirate of Cyrenaica"
+ CYR_DEF: "the Emirate of Cyrenaica"
+
+ ### Palestine
+ PAL: "Palestine"
+ PAL_DEF: "Palestine"
+ PAL_ADJ: "Palestinian"
+
+ PAL_fascist: "State of Palestine"
+ PAL_fascist_DEF: "the State of Palestine"
+ PAL_authoritarian: "State of Palestine"
+ PAL_authoritarian_DEF: "the State of Palestine"
+ PAL_democratic: "State of Palestine"
+ PAL_democratic_DEF: "the State of Palestine"
+ PAL_socialist: "State of Palestine"
+ PAL_socialist_DEF: "the State of Palestine"
+ PAL_communist: "People's Republic of Palestine"
+ PAL_communist_DEF: "the People's Republic of Palestine"
+
+ PAL_EGY_AUTONOMY_Protectorate: "All-Palestine Protectorate"
+ PAL_EGY_AUTONOMY_Protectorate_DEF: "the All-Palestine Protectorate"
+
+ ### Western Sahara
+ SAH: "Western Sahara"
+ SAH_DEF: "Western Sahara"
+ SAH_ADJ: "Sahrawi"
+
+ SAH_fascist: "Sahrawi National State"
+ SAH_fascist_DEF: "the Sahrawi National State"
+ SAH_authoritarian: "Sahrawi Arab Democratic Republic"
+ SAH_authoritarian_DEF: "the Sahrawi Arab Democratic Republic"
+ SAH_democratic: "Sahrawi Arab Democratic Republic"
+ SAH_democratic_DEF: "Sahrawi Arab Democratic Republic"
+ SAH_communist: "Sahrawi Arab Democratic Republic"
+ SAH_communist_DEF: "the Sahrawi Arab Democratic Republic"
+ SAH_socialist: "Sahrawi Arab Democratic Republic"
+ SAH_socialist_DEF: "the Sahrawi Arab Democratic Republic"
+
+ ### Abkhazia
+ ABK: "Abkhazia"
+ ABK_DEF: "Abkhazia"
+ ABK_ADJ: "Abkhazian"
+
+ ABK_fascist: "State of Abkhazia"
+ ABK_fascist_DEF: "State of Abkhazia"
+ ABK_authoritarian: "Republic of Abkhazia"
+ ABK_authoritarian_DEF: "the Republic of Abkhazia"
+ ABK_democratic: "Republic of Abkhazia"
+ ABK_democratic_DEF: "Republic of Abkhazia"
+ ABK_communist: "Republic of Abkhazia"
+ ABK_communist_DEF: "the Republic of Abkhazia"
+ ABK_socialist: "Republic of Abkhazia"
+ ABK_socialist_DEF: "the Republic of Abkhazia"
+
+ ### Texas
+ TEX: "Texas"
+ TEX_DEF: "Texas"
+ TEX_ADJ: "Texan"
+
+ TEX_fascist: "Republic of Texas"
+ TEX_fascist_DEF: "Republic of Texas"
+ TEX_authoritarian: "Republic of Texas"
+ TEX_authoritarian_DEF: "the Republic of Texas"
+ TEX_democratic: "Republic of Texas"
+ TEX_democratic_DEF: "Republic of Texas"
+ TEX_communist: "Socialist Republic of Texas"
+ TEX_communist_DEF: "the Socialist Republic of Texas"
+ TEX_socialist: "Socialist Republic of Texas"
+ TEX_socialist_DEF: "the Socialist Republic of Texas"
+
+ ### Israel
+ ISR: "Israel"
+ ISR_DEF: "Israel"
+ ISR_ADJ: "Israeli"
+
+ ISR_fascist: "State of Israel"
+ ISR_fascist_DEF: "the State of Israel"
+ ISR_authoritarian: "State of Israel"
+ ISR_authoritarian_DEF: "the State of Israel"
+ ISR_democratic: "State of Israel"
+ ISR_democratic_DEF: "the State of Israel"
+ ISR_communist: "Israeli People's Republic"
+ ISR_communist_DEF: "the Israeli People's Republic"
+ ISR_socialist: "State of Israel"
+ ISR_socialist_DEF: "the State of Israel"
+
+ ### Jamaica
+ JAM: "Jamaica"
+ JAM_DEF: "Jamaica"
+ JAM_ADJ: "Jamaican"
+
+ JAM_West_Indies: "West Indies Federation"
+ JAM_West_Indies_DEF: "the West Indies Federation"
+
+ ### Guyana
+ GUY: "Guyana"
+ GUY_DEF: "Guyana"
+ GUY_ADJ: "Guyanese"
+
+ GUY_fascist: "Co-operative Republic of Guyana"
+ GUY_fascist_DEF: "the Co-operative Republic of Guyana"
+ GUY_authoritarian: "Co-operative Republic of Guyana"
+ GUY_authoritarian_DEF: "the Co-operative Republic of Guyana"
+ GUY_democratic: "Co-operative Republic of Guyana"
+ GUY_democratic_DEF: "the Co-operative Republic of Guyana"
+ GUY_socialist: "Co-operative Republic of Guyana"
+ GUY_socialist_DEF: "the Co-operative Republic of Guyana"
+ GUY_communist: "Co-operative Republic of Guyana"
+ GUY_communist_DEF: "the Co-operative Republic of Guyana"
+
+ GUY_USA_AUTONOMY_Insular_Government: "Insular Government of Guyana"
+ GUY_USA_AUTONOMY_Insular_Government_DEF: "the Insular Government of Guyana"
+ GUY_USA_AUTONOMY_Integrated_Puppet: "United States Military Government of Guyana"
+ GUY_USA_AUTONOMY_Integrated_Puppet_DEF: "the United States Military Government of Guyana"
+
+ ### Suriname
+ SUR: "Suriname"
+ SUR_DEF: "Suriname"
+ SUR_ADJ: "Surinamese"
+
+ SUR_fascist: "Republic of Suriname"
+ SUR_fascist_DEF: "the Republic of Suriname"
+ SUR_authoritarian: "Republic of Suriname"
+ SUR_authoritarian_DEF: "the Republic of Suriname"
+ SUR_democratic: "Republic of Suriname"
+ SUR_democratic_DEF: "the Republic of Suriname"
+ SUR_socialist: "Republic of Suriname"
+ SUR_socialist_DEF: "the Republic of Suriname"
+ SUR_communist: "Surinam Democratic Republic"
+ SUR_communist_DEF: "the Surinam Democratic Republic"
+
+ ### Cayenne
+ CAY: "Cayenne"
+ CAY_DEF: "Cayenne"
+ CAY_ADJ: "Cayenne"
+
+ CAY_fascist: "Republic of Cayenne"
+ CAY_fascist_DEF: "the Republic of Cayenne"
+ CAY_authoritarian: "Republic of Cayenne"
+ CAY_authoritarian_DEF: "the Republic of Cayenne"
+ CAY_democratic: "Republic of Cayenne"
+ CAY_democratic_DEF: "the Republic of Cayenne"
+ CAY_socialist: "Cayenne Democratic Republic"
+ CAY_socialist_DEF: "the Cayenne Democratic Republic"
+ CAY_communist: "Cayenne Democratic Republic"
+ CAY_communist_DEF: "the Cayenne Democratic Republic"
+
+ ### Vietnam
+ VIN: "Vietnam"
+ VIN_DEF: "Vietnam"
+ VIN_ADJ: "Vietnamese"
+
+ VIN_fascist: "Empire of Vietnam"
+ VIN_fascist_DEF: "the Empire of Vietnam"
+ VIN_authoritarian: "State of Vietnam"
+ VIN_authoritarian_DEF: "the State of Vietnam"
+ VIN_democratic: "Republic of Vietnam"
+ VIN_democratic_DEF: "the Republic of Vietnam"
+ VIN_socialist: "Socialist Republic of Vietnam"
+ VIN_socialist_DEF: "the Socialist Republic of Vietnam"
+ VIN_communist: "Democratic Republic of Vietnam"
+ VIN_communist_DEF: "the Democratic Republic of Vietnam"
+
+ FRI: "Indochinese Union"
+ FRI_DEF: "the Indochinese Union"
+ FRI_ADJ: "Indochinese"
+
+ ### Cambodia
+ CAM: "Cambodia"
+ CAM_DEF: "Cambodia"
+ CAM_ADJ: "Cambodian"
+
+ CAM_fascist: "Kingdom of Kampuchea"
+ CAM_fascist_DEF: "Kingdom of Kampuchea"
+ CAM_authoritarian: "Kingdom of Kampuchea"
+ CAM_authoritarian_DEF: "the Kingdom of Cambodia"
+ CAM_democratic: "Republic of Cambodia"
+ CAM_democratic_DEF: "the Republic of Cambodia"
+ CAM_socialist: "Republic of Cambodia"
+ CAM_socialist_DEF: "the Republic of Cambodia"
+ CAM_communist: "Democratic Kampuchea"
+ CAM_communist_DEF: "Democratic Kampuchea"
+ CAM_fascist_ADJ: "Kampuchean"
+ CAM_communist_ADJ: "Kampuchean"
+
+ CAM_JAP_authoritarian_AUTONOMY_Imperial_Protectorate: "Kingdom of Kampuchea"
+ CAM_JAP_authoritarian_AUTONOMY_Imperial_Protectorate_DEF: "the Kingdom of Kampuchea"
+
+ ### Indonesia
+ INS: "Indonesia"
+ INS_DEF: "Indonesia"
+ INS_ADJ: "Indonesian"
+
+ INS_fascist: "Republic of Indonesia"
+ INS_fascist_DEF: "the Republic of Indonesia"
+ INS_authoritarian: "Indonesia"
+ INS_authoritarian_DEF: "Indonesia"
+ INS_democratic: "Republic of Indonesia"
+ INS_democratic_DEF: "the Republic of Indonesia"
+ INS_socialist: "Republic of Indonesia"
+ INS_socialist_DEF: "the Republic of Indonesia"
+ INS_communist: "Socialist Republic of Indonesia"
+ INS_communist_DEF: "the Socialist Republic of Indonesia"
+
+ ### Dutch East Indies
+ DEI: "Dutch East Indies"
+ DEI_DEF: "Dutch East Indies"
+ DEI_ADJ: "Dutch East Indian"
+
+ DEI_fascist: "Dutch East Indies"
+ DEI_fascist_DEF: "the Dutch East Indies"
+ DEI_authoritarian: "Dutch East Indies"
+ DEI_authoritarian_DEF: "the Dutch East Indies"
+ DEI_democratic: "Dutch East Indies"
+ DEI_democratic_DEF: "the Dutch East Indies"
+ DEI_communist: "Dutch East Indies"
+ DEI_communist_DEF: "the Dutch East Indies"
+ DEI_socialist: "Dutch East Indies"
+ DEI_socialist_DEF: "the Dutch East Indies"
+
+ ### Malaya
+ MAL: "Malaya"
+ MAL_DEF: "Malaya"
+ MAL_ADJ: "Malayan"
+
+ MAL_fascist: "Malay State"
+ MAL_fascist_DEF: "the Malay State"
+ MAL_authoritarian: "Federation of Malaya"
+ MAL_authoritarian_DEF: "the Federation of Malaya"
+ MAL_democratic: "Federation of Malaya"
+ MAL_democratic_DEF: "the Federation of Malaya"
+ MAL_communist: "Malay People's Republic"
+ MAL_communist_DEF: "the Malay People's Republic"
+ MAL_socialist: "Greater Malay Anti-Imperialist State"
+ MAL_socialist_DEF: "the Greater Malay Anti-Imperialist State"
+
+ MAL_FMS: "Federated Malay States"
+ MAL_FMS_DEF: "the Federated Malay States"
+ MAL_FMS_ADJ: "Malay"
+
+ MYS: "Malaysia"
+ MYS_DEF: "Malaysia"
+ MYS_ADJ: "Malaysian"
+
+ ### Laos
+ LAO: "Laos"
+ LAO_DEF: "Laos"
+ LAO_ADJ: "Laotian"
+
+ LAO_fascist: "Kingdom of Laos"
+ LAO_fascist_DEF: "Kingdom of Laos"
+ LAO_authoritarian: "Kingdom of Luang Prabang"
+ LAO_authoritarian_DEF: "the Kingdom of Luang Prabang"
+ LAO_democratic: "Republic of Laos"
+ LAO_democratic_DEF: "the Republic of Laos"
+ LAO_communist: "Lao People's Democratic Republic"
+ LAO_communist_DEF: "the Lao People's Democratic Republic"
+ LAO_socialist: "Lao People's Democratic Republic"
+ LAO_socialist_DEF: "the Lao People's Democratic Republic"
+
+ ### Montenegro
+ MNT: "Montenegro"
+ MNT_DEF: "Montenegro"
+ MNT_ADJ: "Montenegrin"
+
+ MNT_fascist: "Kingdom of Montenegro"
+ MNT_fascist_DEF: "the Kingdom of Montenegro"
+ MNT_authoritarian: "Kingdom of Montenegro"
+ MNT_authoritarian_DEF: "the Kingdom of Montenegro"
+ MNT_socialist: "Socialist Republic of Montenegro"
+ MNT_socialist_DEF: "the Socialist Republic of Montenegro"
+ MNT_communist: "Socialist Republic of Montenegro"
+ MNT_communist_DEF: "the Socialist Republic of Montenegro"
+
+ MNT_ITA_AUTONOMY_Integrated_Puppet: "Governorate of Montenegro"
+ MNT_ITA_AUTONOMY_Integrated_Puppet_DEF: "the Governorate of Montenegro"
+
+ ### Ukraine
+ UKR: "Ukraine"
+ UKR_DEF: "Ukraine"
+ UKR_ADJ: "Ukrainian"
+
+ UKR_fascist: "Ukrainian State"
+ UKR_fascist_DEF: "the Ukrainian State"
+ UKR_authoritarian: "Ukrainian State"
+ UKR_authoritarian_DEF: "the Ukrainian State"
+ UKR_socialist: "Ukrainian People's Republic"
+ UKR_socialist_DEF: "the Ukrainian People's Republic"
+ UKR_communist: "Ukrainian Soviet Socialist Republic"
+ UKR_communist_DEF: "the Ukrainian Soviet Socialist Republic"
+
+ UKR_SOV_communist_AUTONOMY_Puppet: "Ukrainian Soviet Republic"
+ UKR_SOV_communist_AUTONOMY_Satellite: "Ukrainian People's Republic"
+
+ ### Georgia
+ GEO: "Georgia"
+ GEO_DEF: "Georgia"
+ GEO_ADJ: "Georgian"
+
+ GEO_fascist: "Georgian State"
+ GEO_fascist_DEF: "the Georgian State"
+ GEO_authoritarian: "Georgian State"
+ GEO_authoritarian_DEF: "the Georgian State"
+ GEO_communist: "Georgian Soviet Socialist Republic"
+ GEO_communist_DEF: "the Georgian Soviet Socialist Republic"
+ GEO_socialist: "Democratic Republic of Georgia"
+ GEO_socialist_DEF: "the Democratic Republic of Georgia"
+
+ ### Kazakhstan
+ KAZ: "Kazakhstan"
+ KAZ_DEF: "Kazakhstan"
+ KAZ_ADJ: "Kazakh"
+
+ KAZ_fascist: "Republic of Kazakhstan"
+ KAZ_fascist_DEF: "the Republic of Kazakhstan"
+ KAZ_authoritarian: "Republic of Kazakhstan"
+ KAZ_authoritarian_DEF: "the Republic of Kazakhstan"
+ KAZ_democratic: "Republic of Kazakhstan"
+ KAZ_democratic_DEF: "the Republic of Kazakhstan"
+ KAZ_socialist: "Kazakh Socialist Republic"
+ KAZ_socialist_DEF: "the Kazakh Socialist Republic"
+ KAZ_communist: "Kazakh Soviet Socialist Republic"
+ KAZ_communist_DEF: "the Kazakh Soviet Socialist Republic"
+
+ ### Tajikistan
+ TAJ: "Tajikistan"
+ TAJ_DEF: "Tajikistan"
+ TAJ_ADJ: "Tajik"
+
+ TAJ_fascist: "Republic of Tajikistan"
+ TAJ_fascist_DEF: "the Republic of Tajikistan"
+ TAJ_authoritarian: "Republic of Tajikistan"
+ TAJ_authoritarian_DEF: "the Republic of Tajikistan"
+ TAJ_democratic: "Republic of Tajikistan"
+ TAJ_democratic_DEF: "the Republic of Tajikistan"
+ TAJ_socialist: "Republic of Tajikistan"
+ TAJ_socialist_DEF: "the Republic of Tajikistan"
+ TAJ_communist: "Republic of Tajikistan"
+ TAJ_communist_DEF: "the Republic of Tajikistan"
+
+ ### Kyrgyzstan
+ KYR: "Kyrgyzstan"
+ KYR_DEF: "Kyrgyzstan"
+ KYR_ADJ: "Kyrgyz"
+
+ KYR_fascist: "Kyrgyz Republic"
+ KYR_fascist_DEF: "the Kyrgyz Republic"
+ KYR_authoritarian: "Kyrgyz Republic"
+ KYR_authoritarian_DEF: "the Kyrgyz Republic"
+ KYR_democratic: "Kyrgyz Republic"
+ KYR_democratic_DEF: "the Kyrgyz Republic"
+ KYR_socialist: "Kyrgyz Republic"
+ KYR_socialist_DEF: "the Kyrgyz Republic"
+ KYR_communist: "Kyrgyz Republic"
+ KYR_communist_DEF: "the Kyrgyz Republic"
+
+ ### Uzbekistan
+ UZB: "Uzbekistan"
+ UZB_DEF: "Uzbekistan"
+ UZB_ADJ: "Uzbek"
+
+ UZB_fascist: "Republic of Uzbekistan"
+ UZB_fascist_DEF: "the Republic of Uzbekistan"
+ UZB_authoritarian: "Republic of Uzbekistan"
+ UZB_authoritarian_DEF: "the Republic of Uzbekistan"
+ UZB_democratic: "Republic of Uzbekistan"
+ UZB_democratic_DEF: "the Republic of Uzbekistan"
+ UZB_socialist: "Republic of Uzbekistan"
+ UZB_socialist_DEF: "the Republic of Uzbekistan"
+ UZB_communist: "Republic of Uzbekistan"
+ UZB_communist_DEF: "the Republic of Uzbekistan"
+
+ ### Turkmenistan
+ TMS: "Turkmenistan"
+ TMS_DEF: "Turkmenistan"
+ TMS_ADJ: "Turkmen"
+
+ TMS_socialist: "Turkmen Socialist Republic"
+ TMS_socialist_DEF: "the Turkmen Socialist Republic"
+ TMS_communist: "Turkmen Soviet Socialist Republic"
+ TMS_communist_DEF: "the Turkmen Soviet Socialist Republic"
+
+ ### Azerbaijan
+ AZR: "Azerbaijan"
+ AZR_DEF: "Azerbaijan"
+ AZR_ADJ: "Azerbaijani"
+
+ AZR_fascist: "Republic of Azerbaijan"
+ AZR_fascist_DEF: "the Republic of Azerbaijan"
+ AZR_authoritarian: "Republic of Azerbaijan"
+ AZR_authoritarian_DEF: "the Republic of Azerbaijan"
+ AZR_democratic: "Azerbaijan Democratic Republic"
+ AZR_democratic_DEF: "the Azerbaijan Democratic Republic"
+ AZR_socialist: "Azerbaijan Socialist Republic"
+ AZR_socialist_DEF: "the Azerbaijan Socialist Republic"
+ AZR_communist: "Azerbaijan People's Government"
+ AZR_communist_DEF: "the Azerbaijan People's Government"
+
+ ### Armenia
+ ARM: "Armenia"
+ ARM_DEF: "Armenia"
+ ARM_ADJ: "Armenian"
+
+ ARM_fascist: "Republic of Armenia"
+ ARM_fascist_DEF: "Republic of Armenia"
+ ARM_authoritarian: "Republic of Armenia"
+ ARM_authoritarian_DEF: "the Republic of Armenia"
+ ARM_democratic: "Republic of Armenia"
+ ARM_democratic_DEF: "the Republic of Armenia"
+ ARM_socialist: "Republic of Armenia"
+ ARM_socialist_DEF: "the Republic of Armenia"
+ ARM_communist: "Armenian Soviet Socialist Republic"
+ ARM_communist_DEF: "the Armenian Soviet Socialist Republic"
+
+ ### Belarus
+ BLR: "Belarus"
+ BLR_DEF: "Belarus"
+ BLR_ADJ: "Belarusian"
+
+ BLR_fascist: "Belarusian National Republic"
+ BLR_fascist_DEF: "the Belarusian National Republic"
+ BLR_authoritarian: "Republic of Belarus"
+ BLR_authoritarian_DEF: "the Republic of Belarus"
+ BLR_democratic: "Belarusian People's Republic"
+ BLR_democratic_DEF: "the Belarusian People's Republic"
+ BLR_socialist: "Belarusian People's Republic"
+ BLR_socialist_DEF: "the Belarusian People's Republic"
+ BLR_communist: "Byelorussian Soviet Socialist Republic"
+ BLR_communist_DEF: "the Byelorussian Soviet Socialist Republic"
+
+ BLR_SOV_AUTONOMY_SSR: "Belarussian Soviet Socialist Republic"
+ BLR_SOV_communist_AUTONOMY_Puppet: "Belarussian Soviet Republic"
+ BLR_SOV_communist_AUTONOMY_Satellite: "Belarussian People's Republic"
+
+ ### Angola
+ ANG: "Angola"
+ ANG_DEF: "Angola"
+ ANG_ADJ: "Angolan"
+
+ ANG_fascist: "Republic of Angola"
+ ANG_fascist_DEF: "the Republic of Angola"
+ ANG_authoritarian: "Republic of Angola"
+ ANG_authoritarian_DEF: "the Republic of Angola"
+ ANG_democratic: "Republic of Angola"
+ ANG_democratic_DEF: "the Republic of Angola"
+ ANG_communist: "People's Republic of Angola"
+ ANG_communist_DEF: "the People's Republic of Angola"
+ ANG_socialist: "People's Republic of Angola"
+ ANG_socialist_DEF: "the People's Republic of Angola"
+
+ ### Mozambique
+ MZB: "Mozambique"
+ MZB_DEF: "Mozambique"
+ MZB_ADJ: "Mozambican"
+
+ MZB_fascist: "Republic of Mozambique"
+ MZB_fascist_DEF: "Republic of Mozambique"
+ MZB_authoritarian: "Republic of Mozambique"
+ MZB_authoritarian_DEF: "Republic of Mozambique"
+ MZB_democratic: "Republic of Mozambique"
+ MZB_democratic_DEF: "the Republic of Mozambique"
+ MZB_socialist: "People's Republic of Mozambique"
+ MZB_socialist_DEF: "the People's Republic of Mozambique"
+ MZB_communist: "People's Republic of Mozambique"
+ MZB_communist_DEF: "the People's Republic of Mozambique"
+
+ ### Zimbwabwe
+ ZIM: "Zimbabwe"
+ ZIM_DEF: "Zimbabwe"
+ ZIM_ADJ: "Zimbabwean"
+
+ ZIM_fascist: "State of Zimbabwe"
+ ZIM_fascist_DEF: "the State of Zimbabwe"
+ ZIM_authoritarian: "Republic of Zimbabwe"
+ ZIM_authoritarian_DEF: "the Republic of Zimbabwe"
+ ZIM_democratic: "Republic of Zimbabwe"
+ ZIM_democratic_DEF: "the Republic of Zimbabwe"
+ ZIM_communist: "Republic of Zimbabwe"
+ ZIM_communist_DEF: "the Republic of Zimbabwe"
+ ZIM_socialist: "Republic of Zimbabwe"
+ ZIM_socialist_DEF: "the Republic of Zimbabwe"
+
+ ### Congo-Brazzaville
+ RCG: "Congo"
+ RCG_DEF: "Congo"
+ RCG_ADJ: "Congolese"
+
+ RCG_fascist: "Republic of the Congo"
+ RCG_fascist_DEF: "the Republic of the Congo"
+ RCG_authoritarian: "Republic of the Congo"
+ RCG_authoritarian_DEF: "the Republic of the Congo"
+ RCG_democratic: "Republic of the Congo"
+ RCG_democratic_DEF: "the Republic of the Congo"
+ RCG_communist: "People's Republic of the Congo"
+ RCG_communist_DEF: "the People's Republic of the Congo"
+ RCG_socialist: "Democratic Republic of the Congo"
+ RCG_socialist_DEF: "the Democratic Republic of the Congo"
+
+ ### Congo-Leopoldville / Zaire
+ COG: "Congo"
+ COG_DEF: "Congo"
+ COG_ADJ: "Congolese"
+
+ COG_fascist: "Republic of the Congo"
+ COG_fascist_DEF: "the Republic of the Congo"
+ COG_authoritarian: "Republic of the Congo"
+ COG_authoritarian_DEF: "the Republic of the Congo"
+ COG_democratic: "Republic of the Congo"
+ COG_democratic_DEF: "the Republic of the Congo"
+ COG_socialist: "Republic of the Congo"
+ COG_socialist_DEF: "the Republic of the Congo"
+ COG_communist: "People's Republic of the Congo"
+ COG_communist_DEF: "the People's Republic of the Congo"
+
+ COG_BEL_AUTONOMY_Protectorate: "Congo Free State"
+ COG_BEL_AUTONOMY_Protectorate_DEF: "the Congo Free State"
+ COG_BEL_AUTONOMY_Colony: "Belgian Congo"
+ COG_BEL_AUTONOMY_Colony_DEF: "the Belgian Congo"
+
+ ZAI: "Zaire"
+ ZAI_DEF: "Zaire"
+ ZAI_ADJ: "Zairian"
+
+ ZAI_fascist: "State of Zaire"
+ ZAI_fascist_DEF: "the State of Zaire"
+ ZAI_authoritarian: "Republic of Zaire"
+ ZAI_authoritarian_DEF: "the Republic of Zaire"
+ ZAI_democratic: "Republic of Zaire"
+ ZAI_democratic_DEF: "the Republic of Zaire"
+ ZAI_socialist: "Socialist Republic of Zaire"
+ ZAI_socialist_DEF: "the Socialist Republic of Zaire"
+ ZAI_communist: "People's Republic of Zaire"
+ ZAI_communist_DEF: "the People's Republic of Zaire"
+
+ ### Kenya
+ KEN: "Kenya"
+ KEN_DEF: "Kenya"
+ KEN_ADJ: "Kenyan"
+
+ KEN_fascist: "Republic of Kenya"
+ KEN_fascist_DEF: "the Republic of Kenya"
+ KEN_authoritarian: "Republic of Kenya"
+ KEN_authoritarian_DEF: "Republic of Kenya"
+ KEN_democratic: "Republic of Kenya"
+ KEN_democratic_DEF: "the Republic of Kenya"
+ KEN_communist: "People's Republic of Kenya"
+ KEN_communist_DEF: "the People's Republic of Kenya"
+ KEN_socialist: "Republic of Kenya"
+ KEN_socialist_DEF: "the Republic of Kenya"
+
+ ### Pakistan
+ PAK: "Pakistan"
+ PAK_DEF: "Pakistan"
+ PAK_ADJ: "Pakistani"
+
+ PAK_fascist: "Islamic Republic of Pakistan"
+ PAK_fascist_DEF: "the Islamic Republic of Pakistan"
+ PAK_authoritarian: "Islamic Republic of Pakistan"
+ PAK_authoritarian_DEF: "Islamic Republic of Pakistan"
+ PAK_democratic: "Islamic Republic of Pakistan"
+ PAK_democratic_DEF: "the Islamic Republic of Pakistan"
+ PAK_communist: "People's Republic of Pakistan"
+ PAK_communist_DEF: "the People's Republic of Pakistan"
+ PAK_socialist: "Islamic Republic of Pakistan"
+ PAK_socialist_DEF: "the Islamic Republic of Pakistan"
+
+ ### Botswana
+ BOT: "Botswana"
+ BOT_DEF: "Botswana"
+ BOT_ADJ: "Batswana"
+
+ BOT_fascist: "Republic of Botswana"
+ BOT_fascist_DEF: "the Republic of Botswana"
+ BOT_authoritarian: "Republic of Botswana"
+ BOT_authoritarian_DEF: "the Republic of Botswana"
+ BOT_democratic: "Republic of Botswana"
+ BOT_democratic_DEF: "the Republic of Botswana"
+ BOT_socialist: "Socialist Republic of Botswana"
+ BOT_socialist_DEF: "the Socialist Republic of Botswana"
+ BOT_communist: "Socialist Republic of Botswana"
+ BOT_communist_DEF: "the Socialist Republic of Botswana"
+
+ ### Manchuria
+ MAN: "Manchuria"
+ MAN_DEF: "Manchuria"
+ MAN_ADJ: "Manchu"
+
+ MAN_fascist: "Empire of Great Manchuria"
+ MAN_fascist_DEF: "the Empire of Great Manchuria"
+ MAN_authoritarian: "Empire of Great Manchuria"
+ MAN_authoritarian_DEF: "the Empire of Great Manchuria"
+ MAN_democratic: "Manchu Republic"
+ MAN_democratic_DEF: "the Manchu Republic"
+ MAN_communist: "Democratic People's Republic of Manchuria"
+ MAN_communist_DEF: "the Democratic People's Republic of Manchuria"
+ MAN_socialist: "Democratic People's Republic of Manchuria"
+ MAN_socialist_DEF: "the Democratic People's Republic of Manchuria"
+
+ MAN_SOV_AUTONOMY_SSR: "Manchu Soviet Socialist Republic"
+ MAN_SOV_AUTONOMY_SSR_DEF: "the Manchu Soviet Socialist Republic"
+
+ MAN_EMPIRE_fascist: "Chinese Empire"
+ MAN_EMPIRE_fascist_DEF: "the Chinese Empire"
+ MAN_EMPIRE_authoritarian: "Chinese Empire"
+ MAN_EMPIRE_authoritarian_DEF: "the Chinese Empire"
+ MAN_REP_fascist: "State of Manchuria"
+ MAN_REP_fascist_DEF: "the State of Manchuria"
+ MAN_REP_authoritarian: "State of Manchuria"
+ MAN_REP_authoritarian_DEF: "the State of Manchuria"
+
+ ### RK Ostland
+ ROS: "Reichskommissariat Ostland"
+ ROS_DEF: "Reichskommissariat Ostland"
+ ROS_ADJ: "German"
+
+ ### RK Ukraine
+ RUK: "Reichskommissariat Ukraine"
+ RUK_DEF: "Reichskommissariat Ukraine"
+ RUK_ADJ: "German"
+
+ ### RK Moskowien
+ RMO: "Reichskommissariat Moskowien"
+ RMO_DEF: "Reichskommissariat Moskowien"
+ RMO_ADJ: "German"
+ 
+ ### RK Niederlande
+ RND: "Reichskommissariat Niederlande"
+ RND_DEF: "Reichskommissariat Niederlande"
+ RND_ADJ: "German"
+ 
+ ### RK Belgien-Nordfrankreich
+ RBF: "Reichskommissariat Belgien-Nordfrankreich"
+ RBF_DEF: "Reichskommissariat Belgien-Nordfrankreich"
+ RBF_ADJ: "German"
+ 
+ ### RK Norwegen
+ RNR: "Reichskommissariat Norwegen"
+ RNR_DEF: "Reichskommissariat Norwegen"
+ RNR_ADJ: "German"
+
+ ### RK Kaukasien
+ RKA: "Reichskommissariat Kaukasien"
+ RKA_DEF: "Reichskommissariat Kaukasien"
+ RKA_ADJ: "German"
+
+ ### RK Schweden
+ RKS: "Reichskommissariat Schweden"
+ RKS_DEF: "Reichskommissariat Schweden"
+ RKS_ADJ: "German"
+
+ ### RK Turkestan
+ RTU: "Reichskommissariat Turkestan"
+ RTU_DEF: "Reichskommissariat Turkestan"
+ RTU_ADJ: "German"
+
+ ### RK Ural
+ RUR: "Reichskommissariat Ural"
+ RUR_DEF: "Reichskommissariat Ural"
+ RUR_ADJ: "German"
+
+ ### RK Siberia
+ RSB: "Reichskommissariat Sibirien"
+ RSB_DEF: "Reichskommissariat Sibirien"
+ RSB_ADJ: "German"
+
+### POST WW3 RUSSIAN TAGS
+ SOV_Novosibirsk: "Novosibirsk Government"
+ SOV_Novosibirsk_DEF: "Novosibirsk Government"
+
+ SOV_Sverdlovsk: "Sverdlovsk Government"
+ SOV_Sverdlovsk_DEF: "Sverdlovsk Government"
+
+ SBA_Siberian_Republic: "Siberian Republic"
+ SBA_Siberian_Republic_DEF: "Siberian Republic"
+
+ FER: "Far Eastern Republic"
+ FER_DEF: "Far Eastern Republic"
+ FER_ADJ: "Far Eastern"
+
+ FER_Green_Ukraine: "Green Ukraine"
+ FER_Green_Ukraine_DEF: "Green Ukraine"
+ FER_Second_Republic: "Second Far Eastern Republic"
+ FER_Second_Republic_DEF: "the Second Far Eastern Republic"
+ FER_USA: "U.S Military Administration in the Russian Far East"
+ FER_USA_DEF: "the U.S Military Administration in the Russian Far East"
+
+ ### Scotland
+ SCO: "Scotland"
+ SCO_DEF: "Scotland"
+ SCO_ADJ: "Scottish"
+
+ SCO_fascist: "Scottish State"
+ SCO_fascist_DEF: "the Scottish State"
+ SCO_authoritarian: "Kingdom of Scotland"
+ SCO_authoritarian_DEF: "the Kingdom of Scotland"
+ SCO_democratic: "Republic of Scotland"
+ SCO_democratic_DEF: "the Republic of Scotland"
+ SCO_communist: "People's Republic of Scotland"
+ SCO_communist_DEF: "the People's Republic of Scotland"
+ SCO_socialist: "Socialist Republic of Scotland"
+ SCO_socialist_DEF: "the Socialist Republic of Scotland"
+
+ SCO_GER_AUTONOMY_Reichskommissariat: "Reichskommissariat Schottland"
+ SCO_GER_AUTONOMY_Reichsprotectorate: "Protektorat Schottland"
+
+ ### Wales
+ WAL: "Wales"
+ WAL_DEF: "Wales"
+ WAL_ADJ: "Welsh"
+
+ WAL_fascist: "State of Wales"
+ WAL_fascist_DEF: "the State of Wales"
+ WAL_authoritarian: "Republic of Wales"
+ WAL_authoritarian_DEF: "the Republic of Wales"
+ WAL_democratic: "Republic of Wales"
+ WAL_democratic_DEF: "the Republic of Wales"
+ WAL_communist: "People's Republic of Wales"
+ WAL_communist_DEF: "the People's Republic of Wales"
+ WAL_socialist: "Socialist Republic of Wales"
+ WAL_socialist_DEF: "the Socialist Republic of Wales"
+
+ ### East Turkestan
+ ETS: "East Turkestan"
+ ETS_DEF: "East Turkestan"
+ ETS_ADJ: "East Turkestani"
+
+ ETS_fascist: "East Turkestan Republic"
+ ETS_fascist_DEF: "the East Turkestan Republic"
+ ETS_authoritarian: "Turkic Islamic Republic of East Turkestan"
+ ETS_authoritarian_DEF: "the Turkic Islamic Republic of East Turkestan"
+ ETS_democratic: "East Turkestan Republic"
+ ETS_democratic_DEF: "the East Turkestan Republic"
+ ETS_communist: "East Turkestan Republic"
+ ETS_communist_DEF: "the East Turkestan Republic"
+ ETS_socialist: "East Turkestan Republic"
+ ETS_socialist_DEF: "the East Turkestan Republic"
+
+ ### Generalgouvernement
+ GGP: "Generalgouvernement"
+ GGP_DEF: "the Generalgouvernement"
+ GGP_ADJ: "German"
+
+ ### Crimea
+ CRM: "Crimea"
+ CRM_DEF: "Crimea"
+ CRM_ADJ: "Crimean"
+
+ CRM_fascist: "State of Crimea"
+ CRM_fascist_DEF: "the State of Crimea"
+ CRM_authoritarian: "Republic of Crimea"
+ CRM_authoritarian_DEF: "the Republic of Crimea"
+ CRM_democratic: "Republic of Crimea"
+ CRM_democratic_DEF: "the Republic of Crimea"
+ CRM_socialist: "Socialist Republic of Crimea"
+ CRM_socialist_DEF: "the Socialist Republic of Crimea"
+ CRM_communist: "People's Republic of Crimea"
+ CRM_communist_DEF: "the People's Republic of Crimea"
+
+ CRM_UKR_democratic_AUTONOMY_Integrated_Puppet: "Autonomous Republic of Crimea"
+ CRM_UKR_democratic_AUTONOMY_Integrated_Puppet_DEF: "the Autonomous Republic of Crimea"
+
+ ### Northeastern Army
+ NEA: "Northeastern Army"
+ NEA_DEF: "the Northeastern Army"
+ NEA_ADJ: "Northeastern"
+
+ NWB: "Northwest Bandit Suppression Headquarters"
+ NWB_DEF: "the Northwest Bandit Suppression Headquarters"
+ NWB_ADJ: "Northwestern"
+
+ ### Tunganistan
+ TNG: "Tunganistan"
+ TNG_DEF: "Tunganistan"
+ TNG_ADJ: "Tungan"
+
+ TNG_fascist: "Tunganistan"
+ TNG_fascist_DEF: "Tunganistan"
+ TNG_authoritarian: "Tunganistan"
+ TNG_authoritarian_DEF: "Tunganistan"
+ TNG_democratic: "Tunganistan"
+ TNG_democratic_DEF: "Tunganistan"
+ TNG_socialist: "Tunganistan"
+ TNG_socialist_DEF: "Tunganistan"
+ TNG_communist: "Tunganistan"
+ TNG_communist_DEF: "Tunganistan"
+
+ TNG_36TH_DIV_authoritarian: "New 36th Division"
+ TNG_36TH_DIV_authoritarian_DEF: "the New 36th Division"
+ TNG_EMPIRE_authoritarian: "Tungan Empire"
+ TNG_EMPIRE_authoritarian_DEF: "the Tungan Empire"
+
+ ### Sichuan-Xikang Warlords
+ SCP: "Sichuan Protection Army"
+ SCP_DEF: "the Sichuan Protection Army"
+ SCP_ADJ: "Sichuan"
+
+ SPMA: "Sichuan Province Military Administration"
+ SPMA_DEF: "the Sichuan Province Military Administration"
+ SPMA_ADJ: "Sichuan"
+
+ XIK: "Xikang Clique"
+ XIK_DEF: "the Xikang Clique"
+ XIK_ADJ: "Xikang"
+
+ 24A: "Chinese 24th Army"
+ 24A_DEF: "the Chinese 24th Army"
+ 24A_ADJ: "24th Army"
+
+ SIC: "Sichuan"
+ SIC_DEF: "Sichuan"
+ SIC_ADJ: "Sichuan"
+
+ SIC_fascist: "Sichuan Clique"
+ SIC_fascist_DEF: "the Sichuan Clique"
+ SIC_authoritarian: "Sichuan Clique"
+ SIC_authoritarian_DEF: "the Sichuan Clique"
+ SIC_democratic: "Sichuan Clique"
+ SIC_democratic_DEF: "the Sichuan Clique"
+ SIC_socialist: "Sichuan Clique"
+ SIC_socialist_DEF: "the Sichuan Clique"
+ SIC_communist: "Sichuan Clique"
+ SIC_communist_DEF: "the Sichuan Clique"
+
+ ### Hebei–Chahar Political Council
+ HCP: "Hebei-Chahar Political Council"
+ HCP_DEF: "the Hebei-Chahar Political Council"
+ HCP_ADJ: "Hebei-Chahar"
+
+ ### Guizhou Clique
+ GUZ: "Guizhou Clique"
+ GUZ_DEF: "Guizhou Clique"
+ GUZ_ADJ: "Guizhou"
+
+ GUZ_fascist: "Guizhou Clique"
+ GUZ_fascist_DEF: "the Guizhou Clique"
+ GUZ_authoritarian: "Guizhou Clique"
+ GUZ_authoritarian_DEF: "the Guizhou Clique"
+ GUZ_democratic: "Guizhou Clique"
+ GUZ_democratic_DEF: "the Guizhou Clique"
+ GUZ_socialist: "Soviet Republic of Guizhou"
+ GUZ_socialist_DEF: "the Soviet Republic of Guizhou"
+ GUZ_communist: "Soviet Republic of Guizhou"
+ GUZ_communist_DEF: "the Soviet Republic of Guizhou"
+
+ ### East Hebei
+ EHB: "East Hebei"
+ EHB_DEF: "East Hebei"
+ EHB_ADJ: "Hebeiensis"
+
+ EHB_fascist: "East Hebei Autonomous Government"
+ EHB_fascist_DEF: "the East Hebei Autonomous Government"
+ EHB_authoritarian: "East Hebei Autonomous Government"
+ EHB_authoritarian_DEF: "the East Hebei Autonomous Government"
+ EHB_democratic: "East Hebei Autonomous Government"
+ EHB_democratic_DEF: "the East Hebei Autonomous Government"
+ EHB_socialist: "East Hebei Autonomous Government"
+ EHB_socialist_DEF: "the East Hebei Autonomous Government"
+ EHB_communist: "East Hebei Autonomous Government"
+ EHB_communist_DEF: "the East Hebei Autonomous Government"
+
+ PGC: "Provisional Government of China"
+ PGC_DEF: "the Provisional Government of China"
+ PGC_ADJ: "Chinese"
+
+ ### Hunan Clique
+ HNN: "Hunan Clique"
+ HNN_DEF: "Hunan Clique"
+ HNN_ADJ: "Hunan"
+
+ HNN_fascist: "Hunan Clique"
+ HNN_fascist_DEF: "the Hunan Clique"
+ HNN_authoritarian: "Hunan Clique"
+ HNN_authoritarian_DEF: "the Hunan Clique"
+ HNN_democratic: "Hunan Clique"
+ HNN_democratic_DEF: "the Hunan Clique"
+ HNN_socialist: "Soviet Republic of Hunan"
+ HNN_socialist_DEF: "the Soviet Republic of Hunan"
+ HNN_communist: "Soviet Republic of Hunan"
+ HNN_communist_DEF: "the Soviet Republic of Hunan"
+
+ ### Guangdong Province
+ GND: "Guangdong Province"
+ GND_DEF: "Guangdong Province"
+ GND_ADJ: "Guangdong"
+
+ GND_fascist: "Guangdong Clique"
+ GND_fascist_DEF: "the Guangdong Clique"
+ GND_authoritarian: "Guangdong Clique"
+ GND_authoritarian_DEF: "the Guangdong Clique"
+ GND_democratic: "Guangdong Clique"
+ GND_democratic_DEF: "the Guangdong Clique"
+ GND_socialist: "Soviet Republic of Guangdong"
+ GND_socialist_DEF: "Soviet Republic of Guangdong"
+ GND_communist: "Soviet Republic of Guangdong"
+ GND_communist_DEF: "Soviet Republic of Guangdong"
+
+ ### Fujian
+ FUJ: "Fujian People's Government"
+ FUJ_DEF: "the Fujian People's Government"
+ FUJ_ADJ: "Fujianese"
+
+ ### Chahar
+ AJC: "Chahar"
+ AJC_DEF: "Chahar"
+ AJC_ADJ: "Chahar"
+
+ AJC_fascist: "Chahar People's Anti-Japanese Army"
+ AJC_fascist_DEF: "the Chahar People's Anti-Japanese Army"
+ AJC_authoritarian: "Anti-Japanese Allied Army"
+ AJC_authoritarian_DEF: "the Anti-Japanese Allied Army"
+ AJC_democratic: "Chahar People's Anti-Japanese Army"
+ AJC_democratic_DEF: "the Chahar People's Anti-Japanese Army"
+ AJC_socialist: "Chahar People's Anti-Japanese Army"
+ AJC_socialist_DEF: "the Chahar People's Anti-Japanese Army"
+ AJC_communist: "Northeast Anti-Japanese United Army"
+ AJC_communist_DEF: "the Northeast Anti-Japanese United Army"
+ AJC_authoritarian_ADJ: "Anti-Japanese Allied Army"
+ AJC_communist_ADJ: "Chinese"
+
+ AJC_BPA_authoritarian: "Anti-Japanese Bandit-Punishing Army"
+ AJC_BPA_authoritarian_DEF: "the Anti-Japanese Bandit-Punishing Army"
+
+ ### Yulin
+ YUL: "Yulin"
+ YUL_ADJ: "Yulin"
+ YUL_DEF: "Yulin"
+
+ YUL_fascist: "Yulin Clique"
+ YUL_fascist_DEF: "the Yulin Clique"
+ YUL_authoritarian: "Yulin Clique"
+ YUL_authoritarian_DEF: "the Yulin Clique"
+ YUL_democratic: "Yulin Clique"
+ YUL_democratic_DEF: "the Yulin Clique"
+ YUL_socialist: "Yulin Clique"
+ YUL_socialist_DEF: "the Yulin Clique"
+ YUL_communist: "Yulin Clique"
+ YUL_communist_DEF: "the Yulin Clique"
+
+ ### Shandong
+ SHD: "Shandong"
+ SHD_DEF: "Shandong"
+ SHD_ADJ: "Shandong"
+
+ SHD_fascist: "Shandong Clique"
+ SHD_fascist_DEF: "Shandong Clique"
+ SHD_authoritarian: "Shandong Clique"
+ SHD_authoritarian_DEF: "Shandong Clique"
+ SHD_democratic: "Shandong Clique"
+ SHD_democratic_DEF: "Shandong Clique"
+ SHD_socialist: "Soviet Republic of Shandong"
+ SHD_socialist_DEF: "the Soviet Republic of Shandong"
+ SHD_communist: "Soviet Republic of Shandong"
+ SHD_communist_DEF: "the Soviet Republic of Shandong"
+
+ ### Cameroon
+ CMR: "Cameroon"
+ CMR_DEF: "Cameroon"
+ CMR_ADJ: "Cameroonian"
+
+ CMR_fascist: "Republic of Cameroon"
+ CMR_fascist_DEF: "the Republic of Cameroon"
+ CMR_authoritarian: "Republic of Cameroon"
+ CMR_authoritarian_DEF: "the Republic of Cameroon"
+ CMR_democratic: "Republic of Cameroon"
+ CMR_democratic_DEF: "the Republic of Cameroon"
+ CMR_socialist: "Republic of Cameroon"
+ CMR_socialist_DEF: "the Republic of Cameroon"
+ CMR_communist: "People's Republic of Cameroon"
+ CMR_communist_DEF: "the People's Republic of Cameroon"
+
+ ### Zambia
+ ZAM: "Zambia"
+ ZAM_DEF: "Zambia"
+ ZAM_ADJ: "Zambian"
+
+ ZAM_fascist: "Republic of Zambia"
+ ZAM_fascist_DEF: "the Republic of Zambia"
+ ZAM_authoritarian: "Kingdom of Zambia"
+ ZAM_authoritarian_DEF: "the Kingdom of Zambia"
+ ZAM_democratic: "Republic of Zambia"
+ ZAM_democratic_DEF: "the Republic of Zambia"
+ ZAM_socialist: "Republic of Zambia"
+ ZAM_socialist_DEF: "the Republic of Zambia"
+ ZAM_communist: "Zambian People's Republic"
+ ZAM_communist_DEF: "the Zambian People's Republic"
+
+ ### Malawi
+ MLW: "Malawi"
+ MLW_DEF: "Malawi"
+ MLW_ADJ: "Malawian"
+
+ MLW_fascist: "Republic of Malawi"
+ MLW_fascist_DEF: "the Republic of Malawi"
+ MLW_authoritarian: "Republic of Malawi"
+ MLW_authoritarian_DEF: "the Republic of Malawi"
+ MLW_democratic: "Republic of Malawi"
+ MLW_democratic_DEF: "the Republic of Malawi"
+ MLW_socialist: "Republic of Malawi"
+ MLW_socialist_DEF: "the Republic of Malawi"
+ MLW_communist: "People's Republic of Malawi"
+ MLW_communist_DEF: "the People's Republic of Malawi"
+
+ ### Tunisia
+ TUN: "Tunisia"
+ TUN_DEF: "Tunisia"
+ TUN_ADJ: "Tunisian"
+
+ TUN_fascist: "State of Tunisia"
+ TUN_fascist_DEF: "the State of Tunisia"
+ TUN_authoritarian: "Kingdom of Tunisia"
+ TUN_authoritarian_DEF: "the Kingdom of Tunisia"
+ TUN_democratic: "Republic of Tunisia"
+ TUN_democratic_DEF: "the Republic of Tunisia"
+ TUN_socialist: "Republic of Tunisia"
+ TUN_socialist_DEF: "the Republic of Tunisia"
+ TUN_communist: "People's Socialist Republic of Tunisia"
+ TUN_communist_DEF: "the People's Socialist Republic of Tunisia"
+
+ TUN_FRA_AUTONOMY_Protectorate: "Protectorate of Tunisia"
+ TUN_FRA_AUTONOMY_Protectorate_DEF: "the Protectorate of Tunisia"
+
+ ### Sudan
+ SUD: "Sudan"
+ SUD_DEF: "Sudan"
+ SUD_ADJ: "Sudanese"
+
+ SUD_fascist: "State of Sudan"
+ SUD_fascist_DEF: "the State of Sudan"
+ SUD_authoritarian: "Republic of the Sudan"
+ SUD_authoritarian_DEF: "the Republic of the Sudan"
+ SUD_democratic: "Republic of the Sudan"
+ SUD_democratic_DEF: "the Republic of the Sudan"
+ SUD_socialist: "Democratic Republic of the Sudan"
+ SUD_socialist_DEF: "the Democratic Republic of the Sudan"
+ SUD_communist: "Democratic Republic of the Sudan"
+ SUD_communist_DEF: "the Democratic Republic of the Sudan"
+
+ ### Mauritania
+ MRT: "Mauritania"
+ MRT_DEF: "Mauritania"
+ MRT_ADJ: "Mauritanian"
+
+ MRT_fascist: "Islamic Republic of Mauritania"
+ MRT_fascist_DEF: "the Islamic Republic of Mauritania"
+ MRT_authoritarian: "Islamic Republic of Mauritania"
+ MRT_authoritarian_DEF: "the Islamic Republic of Mauritania"
+ MRT_democratic: "Islamic Republic of Mauritania"
+ MRT_democratic_DEF: "the Islamic Republic of Mauritania"
+ MRT_socialist: "Islamic Republic of Mauritania"
+ MRT_socialist_DEF: "the Islamic Republic of Mauritania"
+ MRT_communist: "Democratic Republic of Mauritania"
+ MRT_communist_DEF: "the Democratic Republic of Mauritania"
+
+ ### Mali
+ MLI: "Mali"
+ MLI_DEF: "Mali"
+ MLI_ADJ: "Malian"
+
+ MLI_fascist: "Republic of Mali"
+ MLI_fascist_DEF: "the Republic of Mali"
+ MLI_authoritarian: "Republic of Mali"
+ MLI_authoritarian_DEF: "the Republic of Mali"
+ MLI_democratic: "Republic of Mali"
+ MLI_democratic_DEF: "the Republic of Mali"
+ MLI_socialist: "Republic of Mali"
+ MLI_socialist_DEF: "the Republic of Mali"
+ MLI_communist: "Malian Socialist Republic"
+ MLI_communist_DEF: "the Malian Socialist Republic"
+
+ ### Niger
+ NGR: "Niger"
+ NGR_DEF: "Niger"
+ NGR_ADJ: "Nigerien"
+
+ NGR_fascist: "Republic of the Niger"
+ NGR_fascist_DEF: "the Republic of the Niger"
+ NGR_authoritarian: "Republic of the Niger"
+ NGR_authoritarian_DEF: "the Republic of the Niger"
+ NGR_democratic: "Republic of the Niger"
+ NGR_democratic_DEF: "the Republic of the Niger"
+ NGR_socialist: "Republic of the Niger"
+ NGR_socialist_DEF: "the Republic of the Niger"
+ NGR_communist: "People's Republic of the Niger"
+ NGR_communist_DEF: "the People's Republic of the Niger"
+
+ ### Slovenia
+ SLV: "Slovenia"
+ SLV_DEF: "Slovenia"
+ SLV_ADJ: "Slovene"
+
+ SLV_fascist: "Independent State of Slovenia"
+ SLV_fascist_DEF: "the Independent State of Slovenia"
+ SLV_authoritarian: "Republic of Slovenia"
+ SLV_authoritarian_DEF: "the Republic of Slovenia"
+ SLV_democratic: "Republic of Slovenia"
+ SLV_democratic_DEF: "the Republic of Slovenia"
+ SLV_socialist: "Republic of Slovenia"
+ SLV_socialist_DEF: "the Republic of Slovenia"
+ SLV_communist: "People's Republic of Slovenia"
+ SLV_communist_DEF: "the People's Republic of Slovenia"
+
+ ### California
+ CAL: "California"
+ CAL_DEF: "California"
+ CAL_ADJ: "Californian"
+
+ CAL_fascist: "State of California"
+ CAL_fascist_DEF: "the State of California"
+ CAL_authoritarian: "State of California"
+ CAL_authoritarian_DEF: "the State of California"
+ CAL_democratic: "California Republic"
+ CAL_democratic_DEF: "the California Republic"
+ CAL_socialist: "California Republic"
+ CAL_socialist_DEF: "the California Republic"
+ CAL_communist: "Federal Socialist Republic of California"
+ CAL_communist_DEF: "the Federal Socialist Republic of California"
+ 
+ CAL_GER_authoritarian_AUTONOMY_Reichskommissariat: "Gebiet des Militärbefehlshabers in Westamerika"
+
+ ### Kurdistan
+ KUR: "Kurdistan"
+ KUR_DEF: "Kurdistan"
+ KUR_ADJ: "Kurdish"
+
+ KUR_fascist: "State of Kurdistan"
+ KUR_fascist_DEF: "the State of Kurdistan"
+ KUR_authoritarian: "Republic of Kurdistan"
+ KUR_authoritarian_DEF: "the Republic of Kurdistan"
+ KUR_democratic: "Republic of Kurdistan"
+ KUR_democratic_DEF: "the Republic of Kurdistan"
+ KUR_socialist: "Republic of Kurdistan"
+ KUR_socialist_DEF: "the Republic of Kurdistan"
+ KUR_communist: "People's Republic of Kurdistan"
+ KUR_communist_DEF: "the People's Republic of Kurdistan"
+
+ ### Carpatho-Ukraine
+ CPU: "Transcarpathia"
+ CPU_DEF: "Transcarpathia"
+ CPU_ADJ: "Carpatho-Ukrainian"
+
+ CPU_fascist: "Republic of Carpatho-Ukraine"
+ CPU_fascist_DEF: "the Republic of Carpatho-Ukraine"
+ CPU_authoritarian: "Republic of Carpatho-Ukraine"
+ CPU_authoritarian_DEF: "the Republic of Carpatho-Ukraine"
+ CPU_democratic: "Republic of Carpatho-Ukraine"
+ CPU_democratic_DEF: "the Republic of Carpatho-Ukraine"
+ CPU_socialist: "Socialist Republic of Carpatho-Ukraine"
+ CPU_socialist_DEF: "the Socialist Republic of Carpatho-Ukraine"
+ CPU_communist: "Socialist Republic of Carpatho-Ukraine"
+ CPU_communist_DEF: "the Socialist Republic of Carpatho-Ukraine"
+
+ ### Newfoundland
+ NFL: "Newfoundland"
+ NFL_DEF: "Newfoundland"
+ NFL_ADJ: "Newfoundlander"
+
+ NFL_fascist: "State of Newfoundland"
+ NFL_fascist_DEF: "the State of Newfoundland"
+ NFL_authoritarian: "State of Newfoundland"
+ NFL_authoritarian_DEF: "the State of Newfoundland"
+ NFL_democratic: "Republic of Newfoundland"
+ NFL_democratic_DEF: "the Republic of Newfoundland"
+ NFL_socialist: "Socialist Republic of Newfoundland"
+ NFL_socialist_DEF: "the Socialist Republic of Newfoundland"
+ NFL_communist: "Socialist Republic of Newfoundland"
+ NFL_communist_DEF: "the Socialist Republic of Newfoundland"
+
+ NFL_ENG: "Dominion of Newfoundland"
+ NFL_ENG_DEF: "Dominion of Newfoundland"
+ NFL_ENG_ADJ: "Newfoundlander"
+
+ ### Tangier International Zone
+ TIZ: "Tangier International Zone"
+ TIZ_DEF: "Tangier International Zone"
+ TIZ_ADJ: "Tangerine"
+
+ TIZ_fascist: "Tangier International Zone"
+ TIZ_fascist_DEF: "the Tangier International Zone"
+ TIZ_authoritarian: "Tangier International Zone"
+ TIZ_authoritarian_DEF: "the Tangier International Zone"
+ TIZ_democratic: "Tangier International Zone"
+ TIZ_democratic_DEF: "the Tangier International Zone"
+ TIZ_socialist: "Tangier International Zone"
+ TIZ_socialist_DEF: "the Tangier International Zone"
+ TIZ_communist: "Tangier International Zone"
+ TIZ_communist_DEF: "the Tangier International Zone"
+
+ ### Sri Lanka
+ SLI: "Sri Lanka"
+ SLI_DEF: "Sri Lanka"
+ SLI_ADJ: "Sri Lankan"
+
+ SLI_fascist: "Republic of Sri Lanka"
+ SLI_fascist_DEF: "the Republic of Sri Lanka"
+ SLI_authoritarian: "Republic of Sri Lanka"
+ SLI_authoritarian_DEF: "the Republic of Sri Lanka"
+ SLI_democratic: "Democratic Socialist Republic of Sri Lanka"
+ SLI_democratic_DEF: "the Democratic Socialist Republic of Sri Lanka"
+ SLI_socialist: "Democratic Socialist Republic of Sri Lanka"
+ SLI_socialist_DEF: "the Democratic Socialist Republic of Sri Lanka"
+ SLI_communist: "Democratic Socialist Republic of Sri Lanka"
+ SLI_communist_DEF: "the Democratic Socialist Republic of Sri Lanka"
+
+ ### Timor-Leste
+ TLE: "Timor-Leste"
+ TLE_DEF: "Timor-Leste"
+ TLE_ADJ: "East Timorese"
+
+ TLE_fascist: "Timor-Leste"
+ TLE_fascist_DEF: "Timor-Leste"
+ TLE_authoritarian: "Timor-Leste"
+ TLE_authoritarian_DEF: "Timor-Leste"
+ TLE_democratic: "Democratic Republic of Timor-Leste"
+ TLE_democratic_DEF: "the Democratic Republic of Timor-Leste"
+ TLE_socialist: "The Democratic Republic of Timor-Leste"
+ TLE_socialist_DEF: "the Democratic Republic of Timor-Leste"
+ TLE_communist: "Democratic Republic of Timor-Leste"
+ TLE_communist_DEF: "the Democratic Republic of Timor-Leste"
+
+ ### Tanzania
+ TZN: "Tanzania"
+ TZN_DEF: "Tanzania"
+ TZN_ADJ: "Tanzanian"
+
+ TZN_fascist: "United Republic of Tanzania"
+ TZN_fascist_DEF: "the United Republic of Tanzania"
+ TZN_authoritarian: "United Republic of Tanzania"
+ TZN_authoritarian_DEF: "the United Republic of Tanzania"
+ TZN_democratic: "United Republic of Tanzania"
+ TZN_democratic_DEF: "the United Republic of Tanzania"
+ TZN_socialist: "United Republic of Tanzania"
+ TZN_socialist_DEF: "the United Republic of Tanzania"
+ TZN_communist: "United Republic of Tanzania"
+ TZN_communist_DEF: "the United Republic of Tanzania"
+ 
+ TGN: "Tanganyika"
+ TGN_DEF: "Tanganyika"
+ TGN_ADJ: "Tanganyikan"
+
+ ### Assyria
+ ASY: "Assyria"
+ ASY_DEF: "Assyria"
+ ASY_ADJ: "Assyrian"
+
+ ASY_fascist: "Assyrian State"
+ ASY_fascist_DEF: "the Assyrian State"
+ ASY_authoritarian: "Assyrian State"
+ ASY_authoritarian_DEF: "the Assyrian State"
+ ASY_democratic: "Assyrian Republic"
+ ASY_democratic_DEF: "the Assyrian Republic"
+ ASY_socialist: "Assyrian People's Republic"
+ ASY_socialist_DEF: "the Assyrian People's Republic"
+ ASY_communist: "Assyrian People's Republic"
+ ASY_communist_DEF: "the Assyrian People's Republic"
+ 
+ ### Zanzibar
+ ZNB: "Zanzibar"
+ ZNB_DEF: "Zanzibar"
+ ZNB_ADJ: "Zanzibari"
+
+ ZNB_fascist: "State of Zanzibar"
+ ZNB_fascist_DEF: "the State of Zanzibar"
+ ZNB_authoritarian: "Sultanate of Zanzibar"
+ ZNB_authoritarian_DEF: "the Sultanate of Zanzibar"
+ ZNB_democratic: "Republic of Zanzibar"
+ ZNB_democratic_DEF: "the Republic of Zanzibar"
+ ZNB_socialist: "People's Republic of Zanzibar and Pemba"
+ ZNB_socialist_DEF: "the People's Republic of Zanzibar and Pemba"
+ ZNB_communist: "People's Republic of Zanzibar and Pemba"
+ ZNB_communist_DEF: "the People's Republic of Zanzibar and Pemba"
+
+ ### South Sudan
+ SSD: "South Sudan"
+ SSD_DEF: "South Sudan"
+ SSD_ADJ: "South Sudanese"
+
+ SSD_fascist: "Republic of South Sudan"
+ SSD_fascist_DEF: "the Republic of South Sudan"
+ SSD_authoritarian: "State of South Sudan"
+ SSD_authoritarian_DEF: "the State of South Sudan"
+ SSD_democratic: "Republic of South Sudan"
+ SSD_democratic_DEF: "the Republic of South Sudan"
+ SSD_socialist: "People's Republic of South Sudan"
+ SSD_socialist_DEF: "the People's Republic of South Sudan"
+ SSD_communist: "People's Republic of South Sudan"
+ SSD_communist_DEF: "the People's Republic of South Sudan"
+
+ ### South Maluku
+ SMK: "South Maluku"
+ SMK_DEF: "South Maluku"
+ SMK_ADJ: "South Malukese"
+
+ SMK_fascist: "Republic of South Maluku"
+ SMK_fascist_DEF: "the Republic of South Maluku"
+ SMK_authoritarian: "Republic of South Maluku"
+ SMK_authoritarian_DEF: "the Republic of South Maluku"
+ SMK_democratic: "Republic of South Maluku"
+ SMK_democratic_DEF: "the Republic of South Maluku"
+ SMK_socialist: "Republic of South Maluku"
+ SMK_socialist_DEF: "the Republic of South Maluku"
+ SMK_communist: "Republic of South Maluku"
+ SMK_communist_DEF: "the Republic of South Maluku"
+
+
+ ### West Papua
+ WPA: "West Papua"
+ WPA_DEF: "West Papua"
+ WPA_ADJ: "West Papuan"
+
+ WPA_fascist: "State of West Papua"
+ WPA_fascist_DEF: "the State of West Papua"
+ WPA_authoritarian: "State of West Papua"
+ WPA_authoritarian_DEF: "the State of West Papua"
+ WPA_democratic: "Republic of West Papua"
+ WPA_democratic_DEF: "the Republic of West Papua"
+ WPA_socialist: "Socialist Republic of West Papua"
+ WPA_socialist_DEF: "the Socialist Republic of West Papua"
+ WPA_communist: "Socialist Republic of West Papua"
+ WPA_communist_DEF: "the Socialist Republic of West Papua"
+ 
+ ### Brunei
+ BRU: "Brunei"
+ BRU_DEF: "Brunei"
+ BRU_ADJ: "Bruneian"
+
+ BRU_fascist: "Nation of Brunei"
+ BRU_fascist_DEF: "the Nation of Brunei"
+ BRU_authoritarian: "Nation of Brunei"
+ BRU_authoritarian_DEF: "the Nation of Brunei"
+ BRU_democratic: "Nation of Brunei"
+ BRU_democratic_DEF: "the Nation of Brunei"
+ BRU_socialist: "People's Republic of Brunei"
+ BRU_socialist_DEF: "the People's Republic of Brunei"
+ BRU_communist: "People's Republic of Brunei"
+ BRU_communist_DEF: "the People's Republic of Brunei"
+
+
+ ### Djibouti
+ DJI: "Djibouti"
+ DJI_DEF: "Djibouti"
+ DJI_ADJ: "Djiboutian"
+
+ DJI_fascist: "Republic of Djibouti"
+ DJI_fascist_DEF: "the Republic of Djibouti"
+ DJI_authoritarian: "Republic of Djibouti"
+ DJI_authoritarian_DEF: "the Republic of Djibouti"
+ DJI_democratic: "Republic of Djibouti"
+ DJI_democratic_DEF: "the Republic of Djibouti"
+ DJI_socialist: "Republic of Djibouti"
+ DJI_socialist_DEF: "the Republic of Djibouti"
+ DJI_communist: "Republic of Djibouti"
+ DJI_communist_DEF: "the Republic of Djibouti"
+ 
+ ### Papua New Guinea
+ PNG: "Papua New Guinea"
+ PNG_DEF: "Papua New Guinea"
+ PNG_ADJ: "Papuan-New Guinean"
+
+ PNG_fascist: "Independent State of Papua New Guinea"
+ PNG_fascist_DEF: "the Independent State of Papua New Guinea"
+ PNG_authoritarian: "Independent State of Papua New Guinea"
+ PNG_authoritarian_DEF: "the Independent State of Papua New Guinea"
+ PNG_democratic: "Independent State of Papua New Guinea"
+ PNG_democratic_DEF: "the Independent State of Papua New Guinea"
+ PNG_socialist: "People's Republic of Papua-New Guinea"
+ PNG_socialist_DEF: "the People's Republic of Papua-New Guinea"
+ PNG_communist: "People's Republic of Papua-New Guinea"
+ PNG_communist_DEF: "the People's Republic of Papua-New Guinea"
+
+ ### Equatorial Guinea
+ EQG: "Equatorial Guinea"
+ EQG_DEF: "Equatorial Guinea"
+ EQG_ADJ: "Equatorial Guinean"
+
+ EQG_fascist: "Republic of Equatorial Guinea"
+ EQG_fascist_DEF: "the Republic of Equatorial Guinea"
+ EQG_authoritarian: "Republic of Equatorial Guinea"
+ EQG_authoritarian_DEF: "the Republic of Equatorial Guinea"
+ EQG_democratic: "Republic of Equatorial Guinea"
+ EQG_democratic_DEF: "the Republic of Equatorial Guinea"
+ EQG_socialist: "Republic of Equatorial Guinea"
+ EQG_socialist_DEF: "the Republic of Equatorial Guinea"
+ EQG_communist: "Republic of Equatorial Guinea"
+ EQG_communist_DEF: "the Republic of Equatorial Guinea"
+
+ ### Bougainville
+ BGV: "Bougainville"
+ BGV_DEF: "Bougainville"
+ BGV_ADJ: "Bougainvillean"
+
+ BGV_fascist: "National State of Bougainville"
+ BGV_fascist_DEF: "the National State of Bougainville"
+ BGV_authoritarian: "State of Bougainville"
+ BGV_authoritarian_DEF: "the State of Bougainville"
+ BGV_democratic: "Republic of Bougainville"
+ BGV_democratic_DEF: "the Republic of Bougainville"
+ BGV_socialist: "Democratic Socialist Republic of Bougainville"
+ BGV_socialist_DEF: "the Democratic Socialist Republic of Bougainville"
+ BGV_communist: "Democratic Socialist Republic of Bougainville"
+ BGV_communist_DEF: "the Democratic Socialist Republic of Bougainville"
+
+ ### Swaziland
+ SWZ: "Swaziland"
+ SWZ_DEF: "Swaziland"
+ SWZ_ADJ: "Swazi"
+
+ SWZ_fascist: "National State of Swaziland"
+ SWZ_fascist_DEF: "the National State of Swaziland"
+ SWZ_authoritarian: "Kingdom of Swaziland"
+ SWZ_authoritarian_DEF: "the Kingdom of Swaziland"
+ SWZ_democratic: "Republic of Swaziland"
+ SWZ_democratic_DEF: "the Republic of Swaziland"
+ SWZ_socialist: "Socialist Republic of Swaziland"
+ SWZ_socialist_DEF: "the Socialist Republic of Swaziland"
+ SWZ_communist: "People's Republic of Swaziland"
+ SWZ_communist_DEF: "the People's Republic of Swaziland"
+
+ ### Lesotho
+ LES: "Lesotho"
+ LES_DEF: "Lesotho"
+ LES_ADJ: "Sotho"
+
+ LES_fascist: "National State of Lesotho"
+ LES_fascist_DEF: "the National State of Lesotho"
+ LES_authoritarian: "Kingdom of Lesotho"
+ LES_authoritarian_DEF: "the Kingdom of Lesotho"
+ LES_democratic: "Kingdom of Lesotho"
+ LES_democratic_DEF: "the Kingdom of Lesotho"
+ LES_socialist: "Democratic People's Republic of Lesotho"
+ LES_socialist_DEF: "the Democratic People's Republic of Lesotho"
+ LES_communist: "Democratic People's Republic of Lesotho"
+ LES_communist_DEF: "the Democratic People's Republic of Lesotho"
+
+ ### São Tomé and Principe
+ STP: "São Tomé"
+ STP_DEF: "São Tomé"
+ STP_ADJ: "São Toméan"
+
+ STP_fascist: "National State of São Tomé and Principe"
+ STP_fascist_DEF: "the National State of São Tomé and Principe"
+ STP_authoritarian: "State of São Tomé and Principe"
+ STP_authoritarian_DEF: "the State of São Tomé and Principe"
+ STP_democratic: "Republic of São Tomé and Principe"
+ STP_democratic_DEF: "the Republic of São Tomé and Principe"
+ STP_socialist: "People's Republic of São Tomé and Principe"
+ STP_socialist_DEF: "the People's Republic of São Tomé and Principe"
+ STP_communist: "People's Republic of São Tomé and Principe"
+ STP_communist_DEF: "the People's Republic of São Tomé and Principe"
+
+ ### Maldives
+ MLD: "Maldives"
+ MLD_DEF: "Maldives"
+ MLD_ADJ: "Maldivian"
+
+ MLD_fascist: "Islamic State of Maldives"
+ MLD_fascist_DEF: "the Islamic State of Maldives"
+ MLD_authoritarian: "State of Maldives"
+ MLD_authoritarian_DEF: "the State of Maldives"
+ MLD_democratic: "Republic of Maldives"
+ MLD_democratic_DEF: "the Republic of Maldives"
+ MLD_socialist: "People's Republic of Maldives"
+ MLD_socialist_DEF: "the People's Republic of Maldives"
+ MLD_communist: "People's Republic of Maldives"
+ MLD_communist_DEF: "the People's Republic of Maldives"
+
+ ### Kabylia
+ KBY: "Kabylia"
+ KBY_DEF: "Kabylia"
+ KBY_ADJ: "Kabylian"
+
+ KBY_fascist: "Islamic State of Kabylia"
+ KBY_fascist_DEF: "the Islamic State of Kabylia"
+ KBY_authoritarian: "State of Kabylia"
+ KBY_authoritarian_DEF: "the State of Kabylia"
+ KBY_democratic: "Republic of Kabylia"
+ KBY_democratic_DEF: "the Republic of Kabylia"
+ KBY_socialist: "Socialist Republic of Kabylia"
+ KBY_socialist_DEF: "the Socialist Republic of Kabylia"
+ KBY_communist: "Socialist Republic of Kabylia"
+ KBY_communist_DEF: "the Socialist Republic of Kabylia"
+
+ ### Mariana Islands
+ MRI: "Mariana Islands"
+ MRI_DEF: "the Mariana Islands"
+ MRI_ADJ: "Chamorro"
+
+ MRI_fascist: "National State of the Mariana Islands"
+ MRI_fascist_DEF: "the National State of the Mariana Islands"
+ MRI_authoritarian: "State of the Mariana Islands"
+ MRI_authoritarian_DEF: "the State of the Northern Marianas Islands"
+ MRI_democratic: "Republic of the Mariana Islands"
+ MRI_democratic_DEF: "the Republic of the Mariana Islands"
+ MRI_socialist: "Socialist Republic of the Mariana Islands"
+ MRI_socialist_DEF: "the Socialist Republic of the Mariana Islands"
+ MRI_communist: "Socialist Republic of the Mariana Islands"
+ MRI_communist_DEF: "the Socialist Republic of the Mariana Islands"
+
+ ### Micronesia
+ FSM: "Micronesia"
+ FSM_DEF: "Micronesia"
+ FSM_ADJ: "Micronesian"
+
+ FSM_fascist: "Federated States of Micronesia"
+ FSM_fascist_DEF: "the Federated States of Micronesia"
+ FSM_authoritarian: "Federated States of Micronesia"
+ FSM_authoritarian_DEF: "the Federated States of Micronesia"
+ FSM_democratic: "Federated States of Micronesia"
+ FSM_democratic_DEF: "the Federated States of Micronesia"
+ FSM_socialist: "Socialist Republic of Micronesia"
+ FSM_socialist_DEF: "the Socialist Republic of Micronesia"
+ FSM_communist: "Socialist Republic of Micronesia"
+ FSM_communist_DEF: "the Socialist Republic of Micronesia"
+
+ ### the Marshall Islands
+ MHL: "Marshall Islands"
+ MHL_DEF: "Marshall Islands"
+ MHL_ADJ: "Marshallese"
+
+ MHL_fascist: "Republic of the Marshall Islands"
+ MHL_fascist_DEF: "the Republic of the Marshall Islands"
+ MHL_authoritarian: "Republic of the Marshall Islands"
+ MHL_authoritarian_DEF: "the Republic of the Marshall Islands"
+ MHL_democratic: "Republic of the Marshall Islands"
+ MHL_democratic_DEF: "the Republic of the Marshall Islands"
+ MHL_socialist: "Socialist Republic of the Marshall Islands"
+ MHL_socialist_DEF: "the Socialist Republic of the Marshall Islands"
+ MHL_communist: "Socialist Republic of the Marshall Islands"
+ MHL_communist_DEF: "the Socialist Republic of the Marshall Islands"
+
+ ### Kiribati
+ KIR: "Kiribati"
+ KIR_DEF: "Kiribati"
+ KIR_ADJ: "I-Kiribati"
+
+ KIR_fascist: "Republic of Kiribati"
+ KIR_fascist_DEF: "the Republic of Kiribati"
+ KIR_authoritarian: "Republic of Kiribati"
+ KIR_authoritarian_DEF: "the Republic of Kiribati"
+ KIR_democratic: "Republic of Kiribati"
+ KIR_democratic_DEF: "the Republic of Kiribati"
+ KIR_socialist: "Socialist Republic of Kiribati"
+ KIR_socialist_DEF: "the Socialist Republic of Kiribati"
+ KIR_communist: "Socialist Republic of Kiribati"
+ KIR_communist_DEF: "the Socialist Republic of Kiribati"
+
+ ### Tuvalu
+ TUV: "Tuvalu"
+ TUV_DEF: "Tuvalu"
+ TUV_ADJ: "Tuvaluan"
+
+ TUV_socialist: "Socialist Republic of Tuvalu"
+ TUV_socialist_DEF: "the Socialist Republic of Tuvalu"
+ TUV_communist: "Socialist Republic of Tuvalu"
+ TUV_communist_DEF: "the Socialist Republic of Tuvalu"
+
+ ### Fiji
+ FIJ: "Fiji"
+ FIJ_DEF: "Fiji"
+ FIJ_ADJ: "Fijian"
+
+ FIJ_fascist: "Republic of Fiji"
+ FIJ_fascist_DEF: "the Republic of Fiji"
+ FIJ_authoritarian: "Republic of Fiji"
+ FIJ_authoritarian_DEF: "the Republic of Fiji"
+ FIJ_democratic: "Republic of Fiji"
+ FIJ_democratic_DEF: "the Republic of Fiji"
+ FIJ_socialist: "Socialist Republic of Fiji"
+ FIJ_socialist_DEF: "the Socialist Republic of Fiji"
+ FIJ_communist: "Socialist Republic of Fiji"
+ FIJ_communist_DEF: "the Socialist Republic of Fiji"
+
+ ### the Solomon Islands
+ SOL: "Solomon Islands"
+ SOL_DEF: "Solomon Islands"
+ SOL_ADJ: "Solomon Islander"
+
+ SOL_socialist: "Socialist Republic of the Solomon Islands"
+ SOL_socialist_DEF: "the Socialist Republic of the Solomon Islands"
+ SOL_communist: "Socialist Republic of the Solomon Islands"
+ SOL_communist_DEF: "the Socialist Republic of the Solomon Islands"
+
+ ### Tonga
+ TON: "Tonga"
+ TON_DEF: "Tonga"
+ TON_ADJ: "Tongan"
+
+ TON_fascist: "Kingdom of Tonga"
+ TON_fascist_DEF: "the Kingdom of Tonga"
+ TON_authoritarian: "Kingdom of Tonga"
+ TON_authoritarian_DEF: "the Kingdom of Tonga"
+ TON_democratic: "Kingdom of Tonga"
+ TON_democratic_DEF: "the Kingdom of Tonga"
+ TON_socialist: "Socialist Republic of Tonga"
+ TON_socialist_DEF: "the Socialist Republic of Tonga"
+ TON_communist: "Socialist Republic of Tonga"
+ TON_communist_DEF: "the Socialist Republic of Tonga"
+
+ ### Tokelau
+ TOK: "Tokelau"
+ TOK_DEF: "Tokelau"
+ TOK_ADJ: "Tokelauan"
+
+ TOK_fascist: "Republic of Tokelau"
+ TOK_fascist_DEF: "the Republic of Tokelau"
+ TOK_authoritarian: "Republic of Tokelau"
+ TOK_authoritarian_DEF: "the Republic of Tokelau"
+ TOK_democratic: "Republic of Tokelau"
+ TOK_democratic_DEF: "the Republic of Tokelau"
+ TOK_socialist: "Socialist Republic of Tokelau"
+ TOK_socialist_DEF: "the Socialist Republic of Tokelau"
+ TOK_communist: "Socialist Republic of Tokelau"
+ TOK_communist_DEF: "the Socialist Republic of Tokelau"
+
+ ### Niue
+ NIU: "Niue"
+ NIU_DEF: "Niue"
+ NIU_ADJ: "Niuean"
+
+ NIU_fascist: "Republic of Niue"
+ NIU_fascist_DEF: "the Republic of Niue"
+ NIU_authoritarian: "Republic of Niue"
+ NIU_authoritarian_DEF: "the Republic of Niue"
+ NIU_democratic: "Republic of Niue"
+ NIU_democratic_DEF: "the Republic of Niue"
+ NIU_socialist: "Socialist Republic of Niue"
+ NIU_socialist_DEF: "the Socialist Republic of Niue"
+ NIU_communist: "Socialist Republic of Niue"
+ NIU_communist_DEF: "the Socialist Republic of Niue"
+
+ ### the Cook Islands
+ CKI: "Cook Islands"
+ CKI_DEF: "Cook Islands"
+ CKI_ADJ: "Cook Islanders"
+
+ CKI_fascist: "Republic of the Cook Islands"
+ CKI_fascist_DEF: "the Republic of the Cook Islands"
+ CKI_authoritarian: "Republic of the Cook Islands"
+ CKI_authoritarian_DEF: "the Republic of the Cook Islands"
+ CKI_democratic: "Republic of the Cook Islands"
+ CKI_democratic_DEF: "the Republic of the Cook Islands"
+ CKI_socialist: "Socialist Republic of the Cook Islands"
+ CKI_socialist_DEF: "the Socialist Republic of the Cook Islands"
+ CKI_communist: "Socialist Republic of the Cook Islands"
+ CKI_communist_DEF: "the Socialist Republic of the Cook Islands"
+
+ ### Samoa
+ SAM: "Samoa"
+ SAM_DEF: "Samoa"
+ SAM_ADJ: "Samoan"
+
+ SAM_fascist: "Independent State of Samoa"
+ SAM_fascist_DEF: "the Independent State of Samoa"
+ SAM_authoritarian: "Independent State of Samoa"
+ SAM_authoritarian_DEF: "the Independent State of Samoa"
+ SAM_democratic: "Independent State of Samoa"
+ SAM_democratic_DEF: "the Independent State of Samoa"
+ SAM_socialist: "Socialist Republic of Samoa"
+ SAM_socialist_DEF: "the Socialist Republic of Samoa"
+ SAM_communist: "Socialist Republic of Samoa"
+ SAM_communist_DEF: "the Socialist Republic of Samoa"
+
+ ### Vanuatu
+ VAN: "Vanuatu"
+ VAN_DEF: "Vanuatu"
+ VAN_ADJ: "Vanuatuan"
+
+ VAN_fascist: "Republic of Vanuatu"
+ VAN_fascist_DEF: "the Republic of Vanuatu"
+ VAN_authoritarian: "Republic of Vanuatu"
+ VAN_authoritarian_DEF: "the Republic of Vanuatu"
+ VAN_democratic: "Republic of Vanuatu"
+ VAN_democratic_DEF: "the Republic of Vanuatu"
+ VAN_socialist: "Socialist Republic of Vanuatu"
+ VAN_socialist_DEF: "the Socialist Republic of Vanuatu"
+ VAN_communist: "Socialist Republic of Vanuatu"
+ VAN_communist_DEF: "the Socialist Republic of Vanuatu"
+
+ ### Nauru
+ NAU: "Nauru"
+ NAU_DEF: "Nauru"
+ NAU_ADJ: "Nauruan"
+
+ NAU_fascist: "Republic of Nauru"
+ NAU_fascist_DEF: "the Republic of Nauru"
+ NAU_authoritarian: "Republic of Nauru"
+ NAU_authoritarian_DEF: "Republic of Nauru"
+ NAU_democratic: "Republic of Nauru"
+ NAU_democratic_DEF: "the Republic of Nauru"
+ NAU_socialist: "Socialist Republic of Nauru"
+ NAU_socialist_DEF: "the Socialist Republic of Nauru"
+ NAU_communist: "Socialist Republic of Nauru"
+ NAU_communist_DEF: "the Socialist Republic of Nauru"
+
+ ### Moldova
+ MOL: "Moldova"
+ MOL_DEF: "Moldova"
+ MOL_ADJ: "Moldovan"
+
+ MOL_fascist: "State of Moldova"
+ MOL_fascist_DEF: "the State of Moldova"
+ MOL_authoritarian: "Principality of Moldavia"
+ MOL_authoritarian_DEF: "the Principality of Moldavia"
+ MOL_democratic: "Republic of Moldova"
+ MOL_democratic_DEF: "the Republic of Moldova"
+ MOL_socialist: "Republic of Moldova"
+ MOL_socialist_DEF: "the Republic of Moldova"
+ MOL_communist: "Moldavian Socialist Republic"
+ MOL_communist_DEF: "the Moldavian Socialist Republic"
+ MOL_authoritarian_ADJ: "Moldavian"
+ MOL_communist_ADJ: "Moldavian"
+
+ ### Sikkim
+ SKK: "Sikkim"
+ SKK_DEF: "Sikkim"
+ SKK_ADJ: "Sikkimese"
+
+ SKK_fascist: "Kingdom of Sikkim"
+ SKK_fascist_DEF: "the Kingdom of Sikkim"
+ SKK_authoritarian: "Kingdom of Sikkim"
+ SKK_authoritarian_DEF: "the Kingdom of Sikkim"
+ SKK_democratic: "Kingdom of Sikkim"
+ SKK_democratic_DEF: "the Kingdom of Sikkim"
+ SKK_socialist: "Socialist Republic of Sikkim"
+ SKK_socialist_DEF: "the Socialist Republic of Sikkim"
+ SKK_communist: "Socialist Republic of Sikkim"
+ SKK_communist_DEF: "the Socialist Republic of Sikkim"
+
+ ### Karachay-Cherkessia
+ KRC: "Karachay-Cherkessia"
+ KRC_DEF: "Karachay-Cherkessia"
+ KRC_ADJ: "Karachay-Cherkess"
+
+ KRC_fascist: "Karachay-Cherkess Republic"
+ KRC_fascist_DEF: "the Karachay-Cherkess Republic"
+ KRC_authoritarian: "Karachay-Cherkess Republic"
+ KRC_authoritarian_DEF: "the Karachay-Cherkess Republic"
+ KRC_democratic: "Karachay-Cherkess Republic"
+ KRC_democratic_DEF: "the Karachay-Cherkess Republic"
+ KRC_socialist: "Autonomous Soviet Socialist Republic of Karachay-Cherkessia"
+ KRC_socialist_DEF: "the Autonomous Soviet Socialist Republic of Karachay-Cherkessia"
+ KRC_communist: "Autonomous Soviet Socialist Republic of Karachay-Cherkessia"
+ KRC_communist_DEF: "the Autonomous Soviet Socialist Republic of Karachay-Cherkessia"
+
+ ### Kabardino-Balkaria
+ KBA: "Kabardino-Balkaria"
+ KBA_DEF: "Kabardino-Balkaria"
+ KBA_ADJ: "Kabardino-Balkarian"
+
+ KBA_fascist: "Kabardino-Balkarian Republic"
+ KBA_fascist_DEF: "the Kabardino-Balkarian Republic"
+ KBA_authoritarian: "Kabardino-Balkarian Republic"
+ KBA_authoritarian_DEF: "the Kabardino-Balkarian Republic"
+ KBA_democratic: "Kabardino-Balkarian Republic"
+ KBA_democratic_DEF: "the Kabardino-Balkarian Republic"
+ KBA_socialist: "Kabardino-Balkarian Autonomous Soviet Socialist Republic"
+ KBA_socialist_DEF: "the Kabardino-Balkarian Autonomous Soviet Socialist Republic"
+ KBA_communist: "Kabardino-Balkarian Autonomous Soviet Socialist Republic"
+ KBA_communist_DEF: "the Kabardino-Balkarian Autonomous Soviet Socialist Republic"
+
+
+ ### Chechnya
+ CHE: "Chechnya"
+ CHE_DEF: "Chechnya"
+ CHE_ADJ: "Chechen"
+
+ CHE_fascist: "Chechen Islamic Republic"
+ CHE_fascist_DEF: "the Chechen Islamic Republic"
+ CHE_authoritarian: "Chechen Republic"
+ CHE_authoritarian_DEF: "the Chechen Republic"
+ CHE_democratic: "Chechen Republic"
+ CHE_democratic_DEF: "the Chechen Republic"
+ CHE_socialist: "Checheno-Ingush Soviet Socialist Republic"
+ CHE_socialist_DEF: "the Checheno-Ingush Soviet Socialist Republic"
+ CHE_communist: "Checheno-Ingush Soviet Socialist Republic"
+ CHE_communist_DEF: "the Checheno-Ingush Soviet Socialist Republic"
+
+ ### Ingushetia
+ ING: "Ingushetia"
+ ING_DEF: "Ingushetia"
+ ING_ADJ: "Ingush"
+
+ ING_fascist: "Ingush National Republic"
+ ING_fascist_DEF: "the Ingush National Republic"
+ ING_authoritarian: "Ingush Republic"
+ ING_authoritarian_DEF: "the Ingush Republic"
+ ING_democratic: "Ingush Republic"
+ ING_democratic_DEF: "the Ingush Republic"
+ ING_socialist: "Ingush Soviet Republic"
+ ING_socialist_DEF: "the Ingush Soviet Republic"
+ ING_communist: "Ingush Soviet Republic"
+ ING_communist_DEF: "the Ingush Soviet Republic"
+
+ ### Dagestan
+ DAG: "Dagestan"
+ DAG_DEF: "Dagestan"
+ DAG_ADJ: "Dagestani"
+
+ DAG_fascist: "Republic of Dagestan"
+ DAG_fascist_DEF: "the Republic of Dagestan"
+ DAG_authoritarian: "Republic of Dagestan"
+ DAG_authoritarian_DEF: "the Republic of Dagestan"
+ DAG_democratic: "Republic of Dagestan"
+ DAG_democratic_DEF: "the Republic of Dagestan"
+ DAG_socialist: "Soviet Republic of Dagestan"
+ DAG_socialist_DEF: "the Soviet Republic of Dagestan"
+ DAG_communist: "Soviet Republic of Dagestan"
+ DAG_communist_DEF: "the Soviet Republic of Dagestan"
+
+ ### Circassia
+ CIR: "Circassia"
+ CIR_DEF: "Circassia"
+ CIR_ADJ: "Circassian"
+
+ CIR_fascist: "Republic of Circassia"
+ CIR_fascist_DEF: "the Republic of Circassia"
+ CIR_authoritarian: "Republic of Circassia"
+ CIR_authoritarian_DEF: "the Republic of Circassia"
+ CIR_democratic: "Republic of Circassia"
+ CIR_democratic_DEF: "the Republic of Circassia"
+ CIR_socialist: "Soviet Republic of Circassia"
+ CIR_socialist_DEF: "the Soviet Republic of Circassia"
+ CIR_communist: "Soviet Republic of Circassia"
+ CIR_communist_DEF: "the Soviet Republic of Circassia"
+
+ ### Khakassia
+ KHK: "Khakassia"
+ KHK_DEF: "Khakassia"
+ KHK_ADJ: "Khakassian"
+
+ KHK_fascist: "State of Khakassia"
+ KHK_fascist_DEF: "the State of Khakassia"
+ KHK_authoritarian: "State of Khakassia"
+ KHK_authoritarian_DEF: "the State of Khakassia"
+ KHK_democratic: "Republic of Khakassia"
+ KHK_democratic_DEF: "the Republic of Khakassia"
+ KHK_socialist: "Soviet Republic of Khakassia"
+ KHK_socialist_DEF: "the Soviet Republic of Khakassia"
+ KHK_communist: "Soviet Republic of Khakassia"
+ KHK_communist_DEF: "the Soviet Republic of Khakassia"
+
+ ### Karakalpakstan
+ KPK: "Karakalpakstan"
+ KPK_DEF: "Karakalpakstan"
+ KPK_ADJ: "Karakalpakstani"
+
+ KPK_fascist: "State of Karakalpakstan"
+ KPK_fascist_DEF: "the State of Karakalpakstan"
+ KPK_authoritarian: "State of Karakalpakstan"
+ KPK_authoritarian_DEF: "the State of Karakalpakstan"
+ KPK_democratic: "Republic of Karakalpakstan"
+ KPK_democratic_DEF: "the Republic of Karakalpakstan"
+ KPK_socialist: "Soviet Republic of Karakalpakstan"
+ KPK_socialist_DEF: "the Soviet Republic of Karakalpakstan"
+ KPK_communist: "Soviet Republic of Karakalpakstan"
+ KPK_communist_DEF: "the Soviet Republic of Karakalpakstan"
+
+ ### United Arab Emirates
+ UAE: "United Arab Emirates"
+ UAE_DEF: "United Arab Emirates"
+ UAE_ADJ: "Arab"
+ UAE_fascist_ADJ: "Emirati"
+ UAE_authoritarian_ADJ: "Emirati"
+
+ UAE_fascist: "Arab Emirate"
+ UAE_fascist_DEF: "the Arab Emirate"
+ UAE_authoritarian: "United Arab Emirates"
+ UAE_authoritarian_DEF: "the United Arab Emirates"
+ UAE_democratic: "United Arab Republics"
+ UAE_democratic_DEF: "the United Arab Republics"
+ UAE_socialist: "People's Arab Union"
+ UAE_socialist_DEF: "the People's Arab Union"
+ UAE_communist: "People's Arab Union"
+ UAE_communist_DEF: "the People's Arab Union"
+
+ UAE_TRUCIAL: "Trucial States"
+ UAE_TRUCIAL_DEF: "the Trucial States"
+ UAE_TRUCIAL_ADJ: "Trucial"
+
+ ### Qatar
+ QAT: "Qatar"
+ QAT_DEF: "Qatar"
+ QAT_ADJ: "Qatari"
+
+ QAT_fascist: "State of Qatar"
+ QAT_fascist_DEF: "the State of Qatar"
+ QAT_authoritarian: "State of Qatar"
+ QAT_authoritarian_DEF: "the State of Qatar"
+ QAT_democratic: "Republic of Qatar"
+ QAT_democratic_DEF: "the Republic of Qatar"
+ QAT_socialist: "People's Republic of Qatar"
+ QAT_socialist_DEF: "the People's Republic of Qatar"
+ QAT_communist: "People's Republic of Qatar"
+ QAT_communist_DEF: "the People's Republic of Qatar"
+
+ ### Bahrain
+ BHR: "Bahrain"
+ BHR_DEF: "Bahrain"
+ BHR_ADJ: "Bahraini"
+
+ BHR_fascist: "State of Bahrain"
+ BHR_fascist_DEF: "the State of Bahrain"
+ BHR_authoritarian: "State of Bahrain"
+ BHR_authoritarian_DEF: "the State of Bahrain"
+ BHR_democratic: "Republic of Bahrain"
+ BHR_democratic_DEF: "the Republic of Bahrain"
+ BHR_socialist: "People's Republic of Bahrain"
+ BHR_socialist_DEF: "the People's Republic of Bahrain"
+ BHR_communist: "People's Republic of Bahrain"
+ BHR_communist_DEF: "the People's Republic of Bahrain"
+
+ ### Kuwait
+ KUW: "Kuwait"
+ KUW_DEF: "Kuwait"
+ KUW_ADJ: "Kuwaiti"
+
+ KUW_fascist: "State of Kuwait"
+ KUW_fascist_DEF: "the State of Kuwait"
+ KUW_authoritarian: "State of Kuwait"
+ KUW_authoritarian_DEF: "the State of Kuwait"
+ KUW_democratic: "Republic of Kuwait"
+ KUW_democratic_DEF: "the Republic of Kuwait"
+ KUW_socialist: "Socialist Republic of Kuwait"
+ KUW_socialist_DEF: "the Socialist Republic of Kuwait"
+ KUW_communist: "People's Republic of Kuwait"
+ KUW_communist_DEF: "the People's Republic of Kuwait"
+
+ KUW_ENG_AUTONOMY_Protectorate: "Sheikhdom of Kuwait"
+ KUW_ENG_AUTONOMY_Protectorate_DEF: "the Sheikhdom of Kuwait"
+
+ ### Namibia
+ NAM: "Namibia"
+ NAM_DEF: "Namibia"
+ NAM_ADJ: "Namibian"
+
+ NAM_fascist: "State of Namibia"
+ NAM_fascist_DEF: "the State of Namibia"
+ NAM_authoritarian: "State of Namibia"
+ NAM_authoritarian_DEF: "the State of Namibia"
+ NAM_democratic: "Republic of Namibia"
+ NAM_democratic_DEF: "the Republic of Namibia"
+ NAM_socialist: "People's Republic of Namibia"
+ NAM_socialist_DEF: "the People's Republic of Namibia"
+ NAM_communist: "People's Republic of Namibia"
+ NAM_communist_DEF: "the People's Republic of Namibia"
+
+ ### Madagascar
+ MAD: "Madagascar"
+ MAD_DEF: "Madagascar"
+ MAD_ADJ: "Malagasy"
+
+ MAD_fascist: "State of Madagascar"
+ MAD_fascist_DEF: "the State of Madagascar"
+ MAD_authoritarian: "Kingdom of Imerina"
+ MAD_authoritarian_DEF: "the Kingdom of Imerina"
+ MAD_democratic: "Republic of Madagascar"
+ MAD_democratic_DEF: "the Republic of Madagascar"
+ MAD_socialist: "Democratic Republic of Madagascar"
+ MAD_socialist_DEF: "the Democratic Republic of Madagascar"
+ MAD_communist: "People's Republic of Madagascar"
+ MAD_communist_DEF: "the People's Republic of Madagascar"
+
+ ### Manipur
+ MNP: "Manipur"
+ MNP_DEF: "Manipur"
+ MNP_ADJ: "Manipuri"
+
+ MNP_fascist: "State of Manipur"
+ MNP_fascist_DEF: "the State of Manipur"
+ MNP_authoritarian: "Manipur Kingdom"
+ MNP_authoritarian_DEF: "the Manipur Kingdom"
+ MNP_democratic: "Republic of Manipur"
+ MNP_democratic_DEF: "the Republic of Manipur"
+ MNP_socialist: "Socialist Republic of Manipur"
+ MNP_socialist_DEF: "the Socialist Republic of Manipur"
+ MNP_communist: "Socialist Republic of Manipur"
+ MNP_communist_DEF: "the Socialist Republic of Manipur"
+
+ ### Tripura
+ TRP: "Tripura"
+ TRP_DEF: "Tripura"
+ TRP_ADJ: "Tripuran"
+
+ TRP_fascist: "Tripura State"
+ TRP_fascist_DEF: "the Tripura State"
+ TRP_authoritarian: "Tripura State"
+ TRP_authoritarian_DEF: "the Tripura State"
+ TRP_democratic: "Tripura Republic"
+ TRP_democratic_DEF: "the Tripura Republic"
+ TRP_socialist: "Tripura People's Republic"
+ TRP_socialist_DEF: "the Tripura People's Republic"
+ TRP_communist: "Tripura People's Republic"
+ TRP_communist_DEF: "the Tripura People's Republic"
+
+ ### Guinea-Bissau
+ GNB: "Guinea-Bissau"
+ GNB_DEF: "Guinea-Bissau"
+ GNB_ADJ: "Bissau-Guinean"
+
+ GNB_fascist: "Republic of Guinea-Bissau"
+ GNB_fascist_DEF: "the Republic of Guinea-Bissau"
+ GNB_authoritarian: "Republic of Guinea-Bissau"
+ GNB_authoritarian_DEF: "the Republic of Guinea-Bissau"
+ GNB_democratic: "Republic of Guinea-Bissau"
+ GNB_democratic_DEF: "the Republic of Guinea-Bissau"
+ GNB_socialist: "Socialist Republic of Guinea-Bissau"
+ GNB_socialist_DEF: "the Socialist Republic of Guinea-Bissau"
+ GNB_communist: "Socialist Republic of Guinea-Bissau"
+ GNB_communist_DEF: "the Socialist Republic of Guinea-Bissau"
+
+ ### Greenland
+ GRL: "Greenland"
+ GRL_DEF: "Greenland"
+ GRL_ADJ: "Greenlandic"
+
+ ### Hatay
+ HAT: "Hatay"
+ HAT_DEF: "Hatay"
+ HAT_ADJ: "Hatayan"
+
+ HAT_fascist: "Republic of Hatay"
+ HAT_fascist_DEF: "the Republic of Hatay"
+ HAT_authoritarian: "Republic of Hatay"
+ HAT_authoritarian_DEF: "the Republic of Hatay"
+ HAT_democratic: "Republic of Hatay"
+ HAT_democratic_DEF: "the Republic of Hatay"
+ HAT_socialist: "Socialist Republic of Hatay"
+ HAT_socialist_DEF: "the Socialist Republic of Hatay"
+ HAT_communist: "People's Republic of Hatay"
+ HAT_communist_DEF: "the People's Republic of Hatay"
+
+ HAT_STATE: "Hatay State"
+ HAT_STATE_DEF: "the Hatay State"
+ HAT_STATE_ADJ: "Hatayan"
+
+ ### Adjara
+ ADJ: "Adjara"
+ ADJ_DEF: "Adjara"
+ ADJ_ADJ: "Adjarian"
+
+ ADJ_fascist: "Republic of Adjara"
+ ADJ_fascist_DEF: "the Republic of Adjara"
+ ADJ_authoritarian: "Republic of Adjara"
+ ADJ_authoritarian_DEF: "the Republic of Adjara"
+ ADJ_democratic: "Republic of Adjara"
+ ADJ_democratic_DEF: "the Republic of Adjara"
+ ADJ_socialist: "Democratic Republic of Adjara"
+ ADJ_socialist_DEF: "the Democratic Republic of Adjara"
+ ADJ_communist: "Adjarian Soviet Socialist Republic"
+ ADJ_communist_DEF: "the Adjarian Soviet Socialist Republic"
+
+ ### Rwanda
+ RWA: "Rwanda"
+ RWA_DEF: "Rwanda"
+ RWA_ADJ: "Rwandan"
+
+ RWA_fascist: "Republic of Rwanda"
+ RWA_fascist_DEF: "the Republic of Rwanda"
+ RWA_authoritarian: "Kingdom of Rwanda"
+ RWA_authoritarian_DEF: "the Kingdom of Rwanda"
+ RWA_democratic: "Republic of Rwanda"
+ RWA_democratic_DEF: "the Republic of Rwanda"
+ RWA_communist: "People's Republic of Rwanda"
+ RWA_communist_DEF: "the People's Republic of Rwanda"
+ RWA_socialist: "Socialist Republic of Rwanda"
+ RWA_socialist_DEF: "the Socialist Republic of Rwanda"
+
+ ### Burundi
+ BRD: "Burundi"
+ BRD_DEF: "Burundi"
+ BRD_ADJ: "Burundian"
+
+ BRD_fascist: "Republic of Burundi"
+ BRD_fascist_DEF: "the Republic of Burundi"
+ BRD_authoritarian: "Kingdom of Burundi"
+ BRD_authoritarian_DEF: "the Kingdom of Burundi"
+ BRD_democratic: "Republic of Burundi"
+ BRD_democratic_DEF: "the Republic of Burundi"
+ BRD_communist: "People's Republic of Burundi"
+ BRD_communist_DEF: "the People's Republic of Burundi"
+ BRD_socialist: "Socialist Republic of Burundi"
+ BRD_socialist_DEF: "the Socialist Republic of Burundi"
+
+ ### Great Way Shanghai
+ GWS: "Shanghai"
+ GWS_DEF: "Shanghai"
+ GWS_ADJ: "Shanghainese"
+
+ GWS_fascist: "Great Way Government of Shanghai"
+ GWS_fascist_DEF: "the Great Way Government of Shanghai"
+ GWS_authoritarian: "Great Way Government of Shanghai"
+ GWS_authoritarian_DEF: "the Great Way Government of Shanghai"
+ GWS_democratic: "Great Way Government of Shanghai"
+ GWS_democratic_DEF: "the Great Way Government of Shanghai"
+ GWS_communist: "Great Way Government of Shanghai"
+ GWS_communist_DEF: "the Great Way Government of Shanghai"
+ GWS_socialist: "Great Way Government of Shanghai"
+ GWS_socialist_DEF: "the Great Way Government of Shanghai"
+
+ ### Bavaria
+ BAV: "Bavaria"
+ BAV_DEF: "Bavaria"
+ BAV_ADJ: "Bavarian"
+
+ BAV_fascist: "State of Bavaria"
+ BAV_fascist_DEF: "the State of Bavaria"
+ BAV_authoritarian: "Kingdom of Bavaria"
+ BAV_authoritarian_DEF: "the Kingdom of Bavaria"
+ BAV_democratic: "Free State of Bavaria"
+ BAV_democratic_DEF: "the Free State of Bavaria"
+ BAV_socialist: "People's State of Bavaria"
+ BAV_socialist_DEF: "the People's State of Bavaria"
+ BAV_communist: "Bavarian Soviet Republic"
+ BAV_communist_DEF: "the Bavarian Soviet Republic"
+
+ BAV_South_Germany: "South German Confederation"
+ BAV_South_Germany_DEF: "the South German Confederation"
+ BAV_South_Germany_ADJ: "South German"
+ BAV_Danube_Confederation: "Confederation of the Danube"
+ BAV_Danube_Confederation_DEF: "the Confederation of the Danube"
+
+ ### Hannover
+ HAN: "Hanover"
+ HAN_DEF: "Hanover"
+ HAN_ADJ: "Hanoverian"
+
+ HAN_fascist: "State of Hanover"
+ HAN_fascist_DEF: "the State of Hanover"
+ HAN_authoritarian: "Kingdom of Hanover"
+ HAN_authoritarian_DEF: "the Kingdom of Hanover"
+ HAN_democratic: "Free State of Hanover"
+ HAN_democratic_DEF: "the Free State of Hanover"
+ HAN_socialist: "People's State of Hanover"
+ HAN_socialist_DEF: "the People's State of Hanover"
+ HAN_communist: "Hanoverian Soviet Republic"
+ HAN_communist_DEF: "the Hanoverian Soviet Republic"
+
+ ### Hesse
+ HES: "Hesse"
+ HES_DEF: "Hesse"
+ HES_ADJ: "Hessian"
+
+ HES_fascist: "State of Hesse"
+ HES_fascist_DEF: "the State of Hesse"
+ HES_authoritarian: "Kingdom of Hesse"
+ HES_authoritarian_DEF: "the Kingdom of Hesse"
+ HES_democratic: "Free State of Hesse"
+ HES_democratic_DEF: "the Free State of Hesse"
+ HES_socialist: "People's State of Hesse"
+ HES_socialist_DEF: "the People's State of Hesse"
+ HES_communist: "Hessian Soviet Republic"
+ HES_communist_DEF: "the Hessian Soviet Republic"
+
+ ### Seychelles
+ SEY: "Seychelles"
+ SEY_DEF: "Seychelles"
+ SEY_ADJ: "Seychellois"
+
+ SEY_fascist: "Republic of Seychelles"
+ SEY_fascist_DEF: "the Republic of Seychelles"
+ SEY_authoritarian: "Republic of Seychelles"
+ SEY_authoritarian_DEF: "the Republic of Seychelles"
+ SEY_democratic: "Republic of Seychelles"
+ SEY_democratic_DEF: "the Republic of Seychelles"
+ SEY_communist: "People's Republic of Seychelles"
+ SEY_communist_DEF: "the People's Republic of Seychelles"
+ SEY_socialist: "Republic of Seychelles"
+ SEY_socialist_DEF: "the Republic of Seychelles"
+
+ ### Andorra
+ ADO: "Andorra"
+ ADO_DEF: "Andorra"
+ ADO_ADJ: "Andorran"
+
+ ADO_fascist: "State of Andorra"
+ ADO_fascist_DEF: "the State of Andorra"
+ ADO_authoritarian: "Principality of Andorra"
+ ADO_authoritarian_DEF: "the Principality of Andorra"
+ ADO_democratic: "Principality of Andorra"
+ ADO_democratic_DEF: "the Principality of Andorra"
+ ADO_socialist: "Socialist Republic of Andorra"
+ ADO_socialist_DEF: "the Socialist Republic of Andorra"
+ ADO_communist: "Socialist Republic of Andorra"
+ ADO_communist_DEF: "the Socialist Republic of Andorra"
+
+ ### Monaco
+ MCO: "Monaco"
+ MCO_DEF: "Monaco"
+ MCO_ADJ: "Monégasque"
+
+ MCO_fascist: "State of Monaco"
+ MCO_fascist_DEF: "the State of Monaco"
+ MCO_authoritarian: "Principality of Monaco"
+ MCO_authoritarian_DEF: "the Principality of Monaco"
+ MCO_democratic: "Principality of Monaco"
+ MCO_democratic_DEF: "the Principality of Monaco"
+ MCO_socialist: "Principality of Monaco"
+ MCO_socialist_DEF: "the Principality of Monaco"
+ MCO_communist: "Principality of Monaco"
+ MCO_communist_DEF: "the Principality of Monaco"
+
+ ### San Marino
+ SMR: "San Marino"
+ SMR_DEF: "San Marino"
+ SMR_ADJ: "Sammarinese"
+
+ SMR_fascist: "Republic of San Marino"
+ SMR_fascist_DEF: "the Republic of San Marino"
+ SMR_authoritarian: "Republic of San Marino"
+ SMR_authoritarian_DEF: "the Republic of San Marino"
+ SMR_democratic: "Republic of San Marino"
+ SMR_democratic_DEF: "the Republic of San Marino"
+ SMR_socialist: "Republic of San Marino"
+ SMR_socialist_DEF: "the Republic of San Marino"
+ SMR_communist: "Republic of San Marino"
+ SMR_communist_DEF: "the Republic of San Marino"
+
+ ### Cabo Verde
+ CVE: "Cabo Verde"
+ CVE_DEF: "Cabo Verde"
+ CVE_ADJ: "Cabo Verdean"
+
+ CVE_fascist: "State of Cabo Verde"
+ CVE_fascist_DEF: "the State of Cabo Verde"
+ CVE_authoritarian: "Republic of Cabo Verde"
+ CVE_authoritarian_DEF: "the Republic of Cabo Verde"
+ CVE_democratic: "Republic of Cabo Verde"
+ CVE_democratic_DEF: "the Republic of Cabo Verde"
+ CVE_socialist: "Republic of Cabo Verde"
+ CVE_socialist_DEF: "the Republic of Cabo Verde"
+ CVE_communist: "Republic of Cabo Verde"
+ CVE_communist_DEF: "the Republic of Cabo Verde"
+
+ ### Alaska
+ AKA: "Alaska"
+ AKA_DEF: "Alaska"
+ AKA_ADJ: "Alaskan"
+
+ AKA_fascist: "Republic of Alaska"
+ AKA_fascist_DEF: "the Republic of Alaska"
+ AKA_authoritarian: "Republic of Alaska"
+ AKA_authoritarian_DEF: "the Republic of Alaska"
+ AKA_democratic: "Republic of Alaska"
+ AKA_democratic_DEF: "the Republic of Alaska"
+ AKA_communist: "People's Republic of Alaska"
+ AKA_communist_DEF: "the People's Republic of Alaska"
+ AKA_socialist: "Socialist Republic of Alaska"
+ AKA_socialist_DEF: "the Socialist Republic of Alaska"
+
+ ### Cyprus
+ CYP: "Cyprus"
+ CYP_DEF: "Cyprus"
+ CYP_ADJ: "Cypriot"
+
+ CYP_fascist: "Republic of Cyprus"
+ CYP_fascist_DEF: "the Republic of Cyprus"
+ CYP_authoritarian: "Republic of Cyprus"
+ CYP_authoritarian_DEF: "the Republic of Cyprus"
+ CYP_democratic: "Republic of Cyprus"
+ CYP_democratic_DEF: "the Republic of Cyprus"
+ CYP_communist: "People's Republic of Cyprus"
+ CYP_communist_DEF: "the People's Republic of Cyprus"
+ CYP_socialist: "Socialist Republic of Cyprus"
+ CYP_socialist_DEF: "the Socialist Republic of Cyprus"
+
+ ### Aceh
+ ACE: "Aceh"
+ ACE_DEF: "Aceh"
+ ACE_ADJ: "Acehnese"
+
+ ACE_fascist: "State of Aceh"
+ ACE_fascist_DEF: "the State of Aceh"
+ ACE_authoritarian: "Republic of Aceh"
+ ACE_authoritarian_DEF: "the Republic of Aceh"
+ ACE_democratic: "Republic of Aceh"
+ ACE_democratic_DEF: "the Republic of Aceh"
+ ACE_communist: "People's Republic of Aceh"
+ ACE_communist_DEF: "the People's Republic of Aceh"
+ ACE_socialist: "Socialist Republic of Aceh"
+ ACE_socialist_DEF: "the Socialist Republic of Aceh"
+
+ ### Hawaii
+ HWI: "Hawaii"
+ HWI_DEF: "Hawaii"
+ HWI_ADJ: "Hawaiian"
+
+ HWI_fascist: "State of Hawaii"
+ HWI_fascist_DEF: "the State of Hawaii"
+ HWI_authoritarian: "Kingdom of Hawaii"
+ HWI_authoritarian_DEF: "the Kingdom of Hawaii"
+ HWI_democratic: "Republic of Hawaii"
+ HWI_democratic_DEF: "the Republic of Hawaii"
+ HWI_communist: "People's Republic of Hawaii"
+ HWI_communist_DEF: "the People's Republic of Hawaii"
+ HWI_socialist: "Socialist Republic of Hawaii"
+ HWI_socialist_DEF: "the Socialist Republic of Hawaii"
+
+ ### Trieste
+ TRS: "Trieste"
+ TRS_DEF: "Trieste"
+ TRS_ADJ: "Triestine"
+
+ TRS_fascist: "Free Territory of Trieste"
+ TRS_fascist_DEF: "the Free Territory of Trieste"
+ TRS_authoritarian: "Free Territory of Trieste"
+ TRS_authoritarian_DEF: "the Free Territory of Trieste"
+ TRS_democratic: "Free Territory of Trieste"
+ TRS_democratic_DEF: "the Free Territory of Trieste"
+ TRS_communist: "Free Territory of Trieste"
+ TRS_communist_DEF: "the Free Territory of Trieste"
+ TRS_socialist: "Free Territory of Trieste"
+ TRS_socialist_DEF: "the Free Territory of Trieste"
+
+ ### The Bahamas
+ BAH: "The Bahamas"
+ BAH_DEF: "The Bahamas"
+ BAH_ADJ: "Bahamian"
+
+ BAH_fascist: "State of The Bahamas"
+ BAH_fascist_DEF: "the State of The Bahamas"
+ BAH_authoritarian: "Republic of The Bahamas"
+ BAH_authoritarian_DEF: "the Republic of The Bahamas"
+ BAH_democratic: "Commonwealth of The Bahamas"
+ BAH_democratic_DEF: "the Commonwealth of The Bahamas"
+ BAH_communist: "People's Republic of The Bahamas"
+ BAH_communist_DEF: "the People's Republic of The Bahamas"
+ BAH_socialist: "Socialist Republic of The Bahamas"
+ BAH_socialist_DEF: "the Socialist Republic of The Bahamas"
+
+ ### Malta
+ MLT: "Malta"
+ MLT_DEF: "Malta"
+ MLT_ADJ: "Maltese"
+
+ MLT_fascist: "Republic of Malta"
+ MLT_fascist_DEF: "the Republic of Malta"
+ MLT_authoritarian: "Republic of Malta"
+ MLT_authoritarian_DEF: "the Republic of Malta"
+ MLT_democratic: "Republic of Malta"
+ MLT_democratic_DEF: "the Republic of Malta"
+ MLT_communist: "People's Republic of Malta"
+ MLT_communist_DEF: "the People's Republic of Malta"
+ MLT_socialist: "Socialist Republic of Malta"
+ MLT_socialist_DEF: "the Socialist Republic of Malta"
+
+ ### Sarawak
+ SWK: "Sarawak"
+ SWK_DEF: "Sarawak"
+ SWK_ADJ: "Sarawakian"
+
+ SWK_fascist: "State of Sarawak"
+ SWK_fascist_DEF: "the State of Sarawak"
+ SWK_authoritarian: "Raj of Sarawak"
+ SWK_authoritarian_DEF: "the Raj of Sarawak"
+ SWK_democratic: "Republic of Sarawak"
+ SWK_democratic_DEF: "the Republic of Sarawak"
+ SWK_communist: "People's Republic of Sarawak"
+ SWK_communist_DEF: "the People's Republic of Sarawak"
+ SWK_socialist: "Socialist Republic of Sarawak"
+ SWK_socialist_DEF: "the Socialist Republic of Sarawak"
+
+ ### Flanders
+ FLA: "Flanders"
+ FLA_DEF: "Flanders"
+ FLA_ADJ: "Flemish"
+
+ FLA_fascist: "Flemish State"
+ FLA_fascist_DEF: "the Flemish State"
+ FLA_authoritarian: "Flemish Republic"
+ FLA_authoritarian_DEF: "the Flemish Republic"
+ FLA_democratic: "Flemish Republic"
+ FLA_democratic_DEF: "the Flemish Republic"
+ FLA_socialist: "Flemish Socialist Republic"
+ FLA_socialist_DEF: "the Flemish Socialist Republic"
+ FLA_communist: "Flemish People's Republic"
+ FLA_communist_DEF: "the Flemish People's Republic"
+
+ ### Wallonia
+ WLN: "Wallonia"
+ WLN_DEF: "Wallonia"
+ WLN_ADJ: "Walloon"
+
+ WLN_fascist: "Walloon State"
+ WLN_fascist_DEF: "the Walloon State"
+ WLN_authoritarian: "Walloon Republic"
+ WLN_authoritarian_DEF: "the Walloon Republic"
+ WLN_democratic: "Walloon Republic"
+ WLN_democratic_DEF: "the Walloon Republic"
+ WLN_socialist: "Walloon Socialist Republic"
+ WLN_socialist_DEF: "the Walloon Socialist Republic"
+ WLN_communist: "Walloon People's Republic"
+ WLN_communist_DEF: "the Walloon People's Republic"
+
+ ### Saxony
+ SAX: "Saxony"
+ SAX_DEF: "Saxony"
+ SAX_ADJ: "Saxon"
+
+ SAX_fascist: "Saxon State"
+ SAX_fascist_DEF: "the Saxon State"
+ SAX_authoritarian: "Kingdom of Saxony"
+ SAX_authoritarian_DEF: "the Kingdom of Saxony"
+ SAX_democratic: "Free State of Saxony"
+ SAX_democratic_DEF: "the Free State of Saxony"
+ SAX_socialist: "Saxon Soviet Republic"
+ SAX_socialist_DEF: "the Saxon Soviet Republic"
+ SAX_communist: "Saxon Soviet Republic"
+ SAX_communist_DEF: "the Saxon Soviet Republic"
+
+ ### Comoros
+ COM: "Comoros"
+ COM_DEF: "Comoros"
+ COM_ADJ: "Comoros"
+
+ COM_fascist: "State of the Comoros"
+ COM_fascist_DEF: "the State of the Comoros"
+ COM_authoritarian: "State of the Comoros"
+ COM_authoritarian_DEF: "the State of the Comoros"
+ COM_democratic: "State of the Comoros"
+ COM_democratic_DEF: "the State of the Comoros"
+ COM_socialist: "State of the Comoros"
+ COM_socialist_DEF: "the State of the Comoros"
+ COM_communist: "People's State of the Comoros"
+ COM_communist_DEF: "the People's State of the Comoros"
+
+ ### Kalmykia
+ KMK: "Kalmykia"
+ KMK_DEF: "Kalmykia"
+ KMK_ADJ: "Kalmyk"
+
+ KMK_fascist: "Kalmyk State"
+ KMK_fascist_DEF: "the Kalmyk State"
+ KMK_authoritarian: "Republic of Kalmykia"
+ KMK_authoritarian_DEF: "the Republic of Kalmykia"
+ KMK_democratic: "Republic of Kalmykia"
+ KMK_democratic_DEF: "the Republic of Kalmykia"
+ KMK_socialist: "Socialist Republic of Kalmykia"
+ KMK_socialist_DEF: "the Socialist Republic of Kalmykia"
+ KMK_communist: "Kalmyk Soviet Socialist Republic"
+ KMK_communist_DEF: "the Kalmyk Soviet Socialist Republic"
+
+ ### Balochistan
+ BAL: "Balochistan"
+ BAL_DEF: "Balochistan"
+ BAL_ADJ: "Baloch"
+
+ BAL_fascist: "Republic of Balochistan"
+ BAL_fascist_DEF: "the Republic of Balochistan"
+ BAL_authoritarian: "Republic of Balochistan"
+ BAL_authoritarian_DEF: "the Republic of Balochistan"
+ BAL_democratic: "Republic of Balochistan"
+ BAL_democratic_DEF: "the Republic of Balochistan"
+ BAL_socialist: "Republic of Balochistan"
+ BAL_socialist_DEF: "the Republic of Balochistan"
+ BAL_communist: "People's Republic of Balochistan"
+ BAL_communist_DEF: "the People's Republic of Balochistan"
+
+ ### Mauritius
+ MAU: "Mauritius"
+ MAU_DEF: "Mauritius"
+ MAU_ADJ: "Mauritian"
+
+ MAU_fascist: "State of Mauritius"
+ MAU_fascist_DEF: "the State of Mauritius"
+ MAU_authoritarian: "Republic of Mauritius"
+ MAU_authoritarian_DEF: "the Republic of Mauritius"
+ MAU_democratic: "Republic of Mauritius"
+ MAU_democratic_DEF: "the Republic of Mauritius"
+ MAU_communist: "People's Republic of Mauritius"
+ MAU_communist_DEF: "the People's Republic of Mauritius"
+ MAU_socialist: "Socialist Republic of Mauritius"
+ MAU_socialist_DEF: "the Socialist Republic of Mauritius"
+
+ ### Kawthoolei
+ KAW: "Kawthoolei"
+ KAW_DEF: "Kawthoolei"
+ KAW_ADJ: "Karen"
+
+ KAW_communist: "People's Republic of Kawthoolei"
+ KAW_communist_DEF: "the People's Republic of Kawthoolei"
+
+ ### Faroe Islands
+ FAR: "Faroe Islands"
+ FAR_DEF: "Faroe Islands"
+ FAR_ADJ: "Faroese"
+
+ ### Åland
+ ALN: "Åland"
+ ALN_DEF: "Åland"
+ ALN_ADJ: "Ålandic"
+
+ ALN_fascist: "Republic of Åland"
+ ALN_fascist_DEF: "the Republic of Åland"
+ ALN_authoritarian: "Republic of Åland"
+ ALN_authoritarian_DEF: "the Republic of Åland"
+ ALN_democratic: "Republic of Åland"
+ ALN_democratic_DEF: "the Republic of Åland"
+ ALN_socialist: "Socialist Republic of Åland"
+ ALN_socialist_DEF: "the Socialist Republic of Åland"
+ ALN_communist: "People's Republic of Åland"
+ ALN_communist_DEF: "the People's Republic of Åland"
+
+ ### Cornwall
+ CRN: "Cornwall"
+ CRN_DEF: "Cornwall"
+ CRN_ADJ: "Cornish"
+
+ CRN_fascist: "Cornish State"
+ CRN_fascist_DEF: "the Cornish State"
+ CRN_authoritarian: "Republic of Cornwall"
+ CRN_authoritarian_DEF: "the Republic of Cornwall"
+ CRN_democratic: "Republic of Cornwall"
+ CRN_democratic_DEF: "the Republic of Cornwall"
+ CRN_socialist: "Socialist Republic of Cornwall"
+ CRN_socialist_DEF: "the Socialist Republic of Cornwall"
+ CRN_communist: "People's Republic of Cornwall"
+ CRN_communist_DEF: "the People's Republic of Cornwall"
+
+ ### Mann
+ MNN: "Mann"
+ MNN_DEF: "Mann"
+ MNN_ADJ: "Manx"
+
+ MNN_fascist: "Manx State"
+ MNN_fascist_DEF: "the Manx State"
+ MNN_authoritarian: "Republic of Mann"
+ MNN_authoritarian_DEF: "the Republic of Mann"
+ MNN_democratic: "Republic of Mann"
+ MNN_democratic_DEF: "the Republic of Mann"
+ MNN_socialist: "Socialist Republic of Mann"
+ MNN_socialist_DEF: "the Socialist Republic of Mann"
+ MNN_communist: "People's Republic of Mann"
+ MNN_communist_DEF: "the People's Republic of Mann"
+
+ ### Puerto Rico
+ PRT: "Puerto Rico"
+ PRT_DEF: "Puerto Rico"
+ PRT_ADJ: "Puerto Rican"
+
+ PRT_fascist: "Republic of Puerto Rico"
+ PRT_fascist_DEF: "the Republic of Puerto Rico"
+ PRT_authoritarian: "Republic of Puerto Rico"
+ PRT_authoritarian_DEF: "the Republic of Puerto Rico"
+ PRT_democratic: "Republic of Puerto Rico"
+ PRT_democratic_DEF: "the Republic of Puerto Rico"
+ PRT_socialist: "Socialist Republic of Puerto Rico"
+ PRT_socialist_DEF: "the Socialist Republic of Puerto Rico"
+ PRT_communist: "People's Republic of Puerto Rico"
+ PRT_communist_DEF: "the People's Republic of Puerto Rico"
+
+ ### Singapore
+ SGP: "Singapore"
+ SGP_DEF: "Singapore"
+ SGP_ADJ: "Singaporean"
+
+ SGP_fascist: "Singaporean State"
+ SGP_fascist_DEF: "the Singaporean State"
+ SGP_authoritarian: "Republic of Singapore"
+ SGP_authoritarian_DEF: "the Republic of Singapore"
+ SGP_democratic: "Republic of Singapore"
+ SGP_democratic_DEF: "the Republic of Singapore"
+ SGP_socialist: "People's Republic of Singapore"
+ SGP_socialist_DEF: "the People's Republic of Singapore"
+ SGP_communist: "People's Republic of Singapore"
+ SGP_communist_DEF: "the People's Republic of Singapore"
+
+ ### Baden
+ BAD: "Baden"
+ BAD_DEF: "Baden"
+ BAD_ADJ: "Badener"
+
+ BAD_fascist: "Badener State"
+ BAD_fascist_DEF: "the Badener State"
+ BAD_authoritarian: "Grand Duchy of Baden"
+ BAD_authoritarian_DEF: "the Grand Duchy of Baden"
+ BAD_democratic: "Republic of Baden"
+ BAD_democratic_DEF: "the Republic of Baden"
+ BAD_socialist: "Socialist Republic of Baden"
+ BAD_socialist_DEF: "the Socialist Republic of Baden"
+ BAD_communist: "Badener Soviet Republic"
+ BAD_communist_DEF: "the Badener Soviet Republic"
+
+ ### Württemberg
+ WUR: "Württemberg"
+ WUR_DEF: "Württemberg"
+ WUR_ADJ: "Württemberger"
+
+ WUR_fascist: "Württemberger State"
+ WUR_fascist_DEF: "the Württemberger State"
+ WUR_authoritarian: "Kingdom of Württemberg"
+ WUR_authoritarian_DEF: "the Kingdom of Württemberg"
+ WUR_democratic: "Free People's State of Württemberg"
+ WUR_democratic_DEF: "the Free People's State of Württemberg"
+ WUR_socialist: "Socialist Republic of Württemberg"
+ WUR_socialist_DEF: "the Socialist Republic of Württemberg"
+ WUR_communist: "People's Republic of Württemberg"
+ WUR_communist_DEF: "the People's Republic of Württemberg"
+
+ ### Corsica
+ CRS: "Corsica"
+ CRS_DEF: "Corsica"
+ CRS_ADJ: "Corsican"
+
+ CRS_fascist: "Republic of Corsica"
+ CRS_fascist_DEF: "the Republic of Corsica"
+ CRS_authoritarian: "Republic of Corsica"
+ CRS_authoritarian_DEF: "the Republic of Corsica"
+ CRS_democratic: "Republic of Corsica"
+ CRS_democratic_DEF: "the Republic of Corsica"
+ CRS_socialist: "Socialist Republic of Corsica"
+ CRS_socialist_DEF: "the Socialist Republic of Corsica"
+ CRS_communist: "People's Republic of Corsica"
+ CRS_communist_DEF: "the People's Republic of Corsica"
+
+ ### Karelia
+ KRL: "Karelia"
+ KRL_DEF: "Karelia"
+ KRL_ADJ: "Karelian"
+
+ KRL_fascist: "Karelian State"
+ KRL_fascist_DEF: "the Karelian State"
+ KRL_authoritarian: "Republic of Karelia"
+ KRL_authoritarian_DEF: "the Republic of Karelia"
+ KRL_democratic: "Republic of Karelia"
+ KRL_democratic_DEF: "the Republic of Karelia"
+ KRL_socialist: "Socialist Republic of Karelia"
+ KRL_socialist_DEF: "the Socialist Republic of Karelia"
+ KRL_communist: "Karelo-Finnish Soviet Socialist Republic"
+ KRL_communist_DEF: "the Karelo-Finnish Soviet Socialist Republic"
+
+ ### Aussa
+ AUA: "Aussa"
+ AUA_DEF: "Aussa"
+ AUA_ADJ: "Aussa"
+
+ AUA_fascist: "Sultanate of Aussa"
+ AUA_fascist_DEF: "the Sultanate of Aussa"
+ AUA_authoritarian: "Sultanate of Aussa"
+ AUA_authoritarian_DEF: "the Sultanate of Aussa"
+ AUA_democratic: "Republic of Aussa"
+ AUA_democratic_DEF: "the Republic of Aussa"
+ AUA_communist: "People's Republic of Aussa"
+ AUA_communist_DEF: "the People's Republic of Aussa"
+ AUA_socialist: "Socialist Republic of Aussa"
+ AUA_socialist_DEF: "the Socialist Republic of Aussa"
+
+ ####################################################################
+ ## Formable Nations/Miscellaneous
+ ####################################################################
+ 
+ ### Transcaucasia
+ TRC: "Transcaucasia"
+ TRC_DEF: "Transcaucasia"
+ TRC_ADJ: "Transcaucasian"
+
+ TRC_fascist: "Transcaucasian State"
+ TRC_fascist_DEF: "the Transcaucasian State"
+ TRC_authoritarian: "Transcaucasian Republic"
+ TRC_authoritarian_DEF: "the Transcaucasian Republic"
+ TRC_democratic: "Transcaucasian Democratic Federative Republic"
+ TRC_democratic_DEF: "the Transcaucasian Democratic Federative Republic"
+ TRC_communist: "Transcaucasian Socialist Federative Soviet Republic"
+ TRC_communist_DEF: "the Transcaucasian Socialist Federative Soviet Republic"
+ TRC_socialist: "The Transcaucasian Socialist Federative Republic"
+ TRC_socialist_DEF: "the Transcaucasian Socialist Federative Republic"
+
+ ### Scandinavia
+ SCN: "Scandinavia"
+ SCN_DEF: "Scandinavia"
+ SCN_ADJ: "Scandinavian"
+
+ SCN_fascist: "Scandinavian State"
+ SCN_fascist_DEF: "the Scandinavian State"
+ SCN_authoritarian: "Kingdom of Scandinavia"
+ SCN_authoritarian_DEF: "the Kingdom of Scandinavia"
+ SCN_democratic: "Kingdom of Scandinavia"
+ SCN_democratic_DEF: "the Kingdom of Scandinavia"
+ SCN_communist: "Scandinavian Democratic Republic"
+ SCN_communist_DEF: "the Scandinavian Democratic Republic"
+ SCN_socialist: "Scandinavian Socialist Republic"
+ SCN_socialist_DEF: "the Scandinavian Socialist Republic"
+
+ ### United Baltics
+ BLT: "United Baltics"
+ BLT_DEF: "the United Baltics"
+ BLT_ADJ: "Baltic"
+
+ BLT_fascist: "United Baltic State"
+ BLT_fascist_DEF: "the United Baltic State"
+ BLT_authoritarian: "United Baltic Duchy"
+ BLT_authoritarian_DEF: "the United Baltic Duchy"
+ BLT_democratic: "United Baltic Republic"
+ BLT_democratic_DEF: "the United Baltic Republic"
+ BLT_communist: "United Baltic Socialist Republic"
+ BLT_communist_DEF: "the United Baltic Socialist Republic"
+ BLT_socialist: "United Baltic People's Republic"
+ BLT_socialist_DEF: "the United Baltic People's Republic"
+
+ ### Czechoslovakia
+ CSL: "Czechoslovakia"
+ CSL_DEF: "Czechoslovakia"
+ CSL_ADJ: "Czechoslovak"
+
+ CSL_fascist: "Czecho-Slovak State"
+ CSL_fascist_DEF: "the Czecho-Slovak State"
+ CSL_authoritarian: "Czecho-Slovak Republic"
+ CSL_authoritarian_DEF: "the Czecho-Slovak Republic"
+ CSL_democratic: "Czechoslovak Republic"
+ CSL_democratic_DEF: "the Czechoslovak Republic"
+ CSL_socialist: "Czechoslovak Socialist Republic"
+ CSL_socialist_DEF: "the Czechoslovak Socialist Republic"
+ CSL_communist: "Czechoslovak Socialist Republic"
+ CSL_communist_DEF: "the Czechoslovak Socialist Republic"
+
+ ### Peru-Bolivian Confederation
+ PRB: "Peru-Bolivian Confederation"
+ PRB_DEF: "the Peru-Bolivian Confederation"
+ PRB_ADJ: "Peru-Bolivian"
+
+ ### Celtic Union
+ CLT: "Celtic Union"
+ CLT_DEF: "the Celtic Union"
+ CLT_ADJ: "Celtic"
+
+ CLT_fascist: "Celtic State"
+ CLT_fascist_DEF: "the Celtic State"
+ CLT_authoritarian: "Celtic Union"
+ CLT_authoritarian_DEF: "the Celtic Union"
+ CLT_democratic: "Celtic Union"
+ CLT_democratic_DEF: "the Celtic Union"
+ CLT_communist: "Celtic Socialist Union"
+ CLT_communist_DEF: "the Celtic Socialist Union"
+ CLT_socialist: "Celtic Socialist Union"
+ CLT_socialist_DEF: "the Celtic Socialist Union"
+
+ ### Austria-Hungary
+ AUH: "Austria-Hungary"
+ AUH_DEF: "Austria-Hungary"
+ AUH_ADJ: "Austro-Hungarian"
+
+ AUH_fascist: "Austro-Hungarian Empire"
+ AUH_fascist_DEF: "the Austro-Hungarian Empire"
+ AUH_authoritarian: "Austro-Hungarian Empire"
+ AUH_authoritarian_DEF: "the Austro-Hungarian Empire"
+ AUH_democratic: "Austro-Hungarian Empire"
+ AUH_democratic_DEF: "the Austro-Hungarian Empire"
+ AUH_communist: "Austro-Hungarian Empire"
+ AUH_communist_DEF: "the Austro-Hungarian Empire"
+ AUH_socialist: "Austro-Hungarian Empire"
+ AUH_socialist_DEF: "the Austro-Hungarian Empire"

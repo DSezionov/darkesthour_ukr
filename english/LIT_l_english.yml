@@ -1,0 +1,23 @@
+﻿l_english:
+######################################################################
+# Events
+######################################################################
+
+### Politics
+ LIT_Politics.1.t: "Vladas Mironas Becomes Prime Minister"
+ LIT_Politics.1.d: "Following the resignation of Juozas Tūbelis, President Antanas Smetona has appointed Vladas Mironas as the new Prime Minister of Lithuania. A priest and long-time supporter of Smetona's authoritarian regime, Mironas is known for his loyalty and administrative discipline. Under his leadership, the government is expected to continue the President's conservative and nationalist policies, prioritizing internal stability over political reform."
+ LIT_Politics.1.A: "A loyal servant to the President."
+
+ LIT_Politics.2.t: "Jonas Černius Forms a New Government"
+ LIT_Politics.2.d: "With growing tensions in Europe and the Polish ultimatum over the Vilnius region, the Lithuanian government faces uncertain times. Vladas Mironas has resigned, and President Smetona has appointed General Jonas Černius as the new Prime Minister. A respected officer and engineer, Černius is tasked with modernizing the state and strengthening national defense in the face of possible aggression from both East and West."
+ LIT_Politics.2.A: "A soldier takes charge in troubled times."
+
+ LIT_Politics.3.t: "Antanas Merkys Appointed Prime Minister"
+ LIT_Politics.3.d: "As the storm of conflict spreads across Europe, Lithuania once again faces political upheaval. Prime Minister Jonas Černius has stepped down, and Antanas Merkys, a seasoned politician and former Minister of Defense, has assumed leadership. Tasked with navigating the growing Soviet pressure following the Mutual Assistance Pact, Merkys must balance diplomacy and national survival as the independence of Lithuania hangs in the balance."
+ LIT_Politics.3.A: "A cautious man for dangerous times."
+
+### Flavour
+ LIT_Flavour.1.t: "The Flight of Lituanica"
+ LIT_Flavour.1.d: "[FROM.GetNewsIcon]The Lituanica, a small Bellanca CH-300 aircraft piloted by Lithuanian-American aviators Steponas Darius and Stasys Girėnas, crashed five days ago during its transatlantic flight.\n\nTaking off from New York, the two pilots planned to fly nonstop across the Atlantic Ocean to Kaunas, Lithuania. They flew over 6,000 kilometres without navigation aids or radio contact, braving darkness, storms, and fatigue. Lituanica crashed in the forests near the Pomeranian town of Soldin after more than 37 hours in the air and only a few hundred kilometres from their planned landing at Kaunas International Airport in Lithuania. Both men were killed on impact. The exact cause of the crash is unknown, but many believe that poor weather and limited visibility were major contributing factors. Others propose that the plane was deliberately shot down by German anti-aircraft guns.\n\nDespite not reaching their destination, Darius and Girėnas' transatlantic flight is recognised as one of the longest and most courageous in aviation history. Their names are honoured in Lithuania and among its diaspora as men who risked everything and braved everything nature could throw at them in order to demonstrate what a small nation, through courage and determination, could accomplish."
+ LIT_Flavour.1.A: "A tragedy indeed..."
+ LIT_Flavour.1.B: "They are the bravest of our countrymen."

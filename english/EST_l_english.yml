@@ -1,0 +1,11 @@
+﻿l_english:
+######################################################################
+#  Estonia Events
+######################################################################
+ EST_Politics.1.t: "Kaarel Eenpalu Forms New Government"
+ EST_Politics.1.d: "In 1938, Konstantin Päts appoints Kaarel Eenpalu as Prime Minister, tasking him with implementing constitutional reforms and overseeing the first controlled elections since the authoritarian takeover. Eenpalu, a loyal supporter of Päts, focuses on maintaining internal stability and preparing Estonia for an increasingly tense European political landscape."
+ EST_Politics.1.A: "A steady hand for uncertain times."
+
+ EST_Politics.2.t: "Jüri Uluots Leads the Government"
+ EST_Politics.2.d: "Following the resignation of Kaarel Eenpalu, Jüri Uluots has been appointed Prime Minister. As a respected lawyer and politician, Uluots inherits a government facing mounting pressure from the Soviet Union. His priority is to navigate Estonia through diplomatic crises while preserving as much autonomy as possible in a rapidly changing geopolitical situation."
+ EST_Politics.2.A: "Defending Estonia in dangerous times."

@@ -1,0 +1,7 @@
+﻿l_english:
+
+### Changed Vanilla Entries
+ UNLOCKED_SLOTS: "Building Slots: $NUM|Y$/$MAX|Y$"
+ STATE_CLAIMS: "Claims"
+ OWNER: "Owner"
+ STATE_CONTESTED_OWNER: "§T$COUNTRY|H$ is contesting the ownership of $STATE|H$.§!\n\n§T$STATE|H$§! has essentially been pre-annexed by §T$COUNTRY|H$, pending the final defeat of the previous owner."

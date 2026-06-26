@@ -1,0 +1,90 @@
+﻿l_english:
+
+##############################################################
+# Difficulty System
+##############################################################
+##############################################################
+# Don't Hurt Me
+##############################################################
+ BABY_DIFF_PEACE_TIME: "\n\nPlayer Pre-War Period: §GACTIVE§!\nType: §YMEDIUM§!\n\n§LBuffs for Player start at the beginning of the game.§!\n\nEntrenchment Speed: §G+35%§!\nConstruction Speed: §G+15%§!\nProduction Efficiency Cap: §G+20%§!\nProduction Efficiency Growth: §G+20%§!\nLack of Resources Penalty: §G-20%§!\nResearch Speed: §G+25%§!\nFactory Output: §G+25%§!\nDockyard Output: §G+40%§!\n\n\n\n\n£picture_Difficulty_Dont_Hurt_Me£\n\n\n£picture_Empty_Texticon£"
+
+ BABY_DIFF_WAR_TIME: "Player War-Time Period: §GACTIVE§!\nType: §YMEDIUM§!\n\n§LPlayer will get these buffs when they are at war with the AI.\n§!\nSupply Consumption: §G-12.5%§!\nEntrenchment Speed: §G+2.5%§!\nFactory Output: §G+5%§!\nDockyard Output: §G+5%§!\nRecruitable Population: §G+0.5%§!\nProduction Efficiency Growth: §G+12.5%§!\nExperience Gain: §G+3.75%§!\nReinforce Rate: §G+0.5%§!\n\n\n\n\n£picture_Difficulty_Dont_Hurt_Me£\n\n\n£picture_Empty_Texticon£"
+
+ BABY_DIFF_DESPERATE_DEF: "Player Desperate Defense: §GACTIVE§!\nType: §YMEDIUM§!\n\n§LPlayer will get more bonuses as they are closer to surrendering.§!\n\n§Y1% > surrender progress:§!\nFactory Output: §G+2.5%§!\nDockyard Output: §G+5%§!\nFactory Repair Speed: §G+7.5%§!\nProduction Efficiency Growth: §G+7.5%§!\nDivision Recruitment Time: §G-17.5%§!\n\n§Y20% > surrender progress:§!\nFactory Output: §G+2.5%§!\nDockyard Output: §G+5%§!\nFactory Repair Speed: §G+2.5%§!\nProduction Efficiency Growth: §G+2.5%§!\nDivision Recruitment Time: §G-12.5%§!\nEntrenchment Speed: §G+12.5%§!\n\n§Y45% > surrender progress:§!\nFactory Output: §G+5%§!\nDockyard Output: §G+7.5%§!\nFactory Repair Speed: §G+5%§!\nProduction Efficiency Growth: §G+5%§!\nDivision Recruitment Time: §G-15%§!\nEntrenchment Speed: §G+17.5%§!\nReinforce Rate: §G+0.5%§!\nDivision Defense on core territory: §G+5%§!\n\n§Y85% > surrender progress:\n§!Division Recruitment Time: §G-12.5%§!\nEntrenchment Speed: §G+12.5%§!\n\n\n\n\n£picture_Difficulty_Dont_Hurt_Me£\n\n\n£picture_Empty_Texticon£"
+##############################################################
+# Recruit
+##############################################################
+ RECRUIT_DIFF_PEACE_TIME: "\n\nAI Pre-War Period: §gOFFLINE§!\nType: §gNon-Existent§!\n\n\n\n\n£picture_Difficulty_Recruit£\n\n\n£picture_Empty_Texticon£"
+
+ RECRUIT_DIFF_WAR_TIME: "AI War-Time Period: §gOFFLINE§!\nType: §gNon-Existent§!\n\n\n\n\n\n£picture_Difficulty_Recruit£\n\n\n£picture_Empty_Texticon£"
+
+ RECRUIT_DIFF_DESPERATE_DEF: "AI Desperate Defense: §gOFFLINE§!\nType: §gNon-Existent§!\n\n\n\n\n\n£picture_Difficulty_Recruit£\n\n\n£picture_Empty_Texticon£"
+##############################################################
+# Soldier
+##############################################################
+ SOLDIER_DIFF_PEACE_TIME: "\n\nAI Pre-War Period: §GACTIVE§!\nType: §YMEDIUM§!\n\n§LBuffs for AI start at the beginning of the game.§!\n\nEntrenchment Speed: §G+35%§!\nConstruction Speed: §G+15%§!\nProduction Efficiency Cap: §G+20%§!\nProduction Efficiency Growth: §G+20%§!\nLack of Resources Penalty: §G-20%§!\nResearch Speed: §G+25%§!\nFactory Output: §G+25%§!\nDockyard Output: §G+40%§!\n\n\n\n\n£picture_Difficulty_Soldier£\n\n\n£picture_Empty_Texticon£"
+
+ SOLDIER_DIFF_WAR_TIME: "AI War-Time Period: §GACTIVE§!\nType: §YMEDIUM§!\n\n§LAI will get these buffs when they are at war with the player.\n§!\nSupply Consumption: §G-12.5%§!\nEntrenchment Speed: §G+2.5%§!\nFactory Output: §G+5%§!\nDockyard Output: §G+5%§!\nRecruitable Population: §G+0.5%§!\nProduction Efficiency Growth: §G+12.5%§!\nExperience Gain: §G+3.75%§!\nReinforce Rate: §G+0.5%§!\n\n\n\n\n£picture_Difficulty_Soldier£\n\n\n£picture_Empty_Texticon£"
+
+ SOLDIER_DIFF_DESPERATE_DEF: "AI Desperate Defense: §GACTIVE§!\nType: §YMEDIUM§!\n\n§LAI will get more bonuses as they are closer to surrendering.§!\n\n§Y1% > surrender progress:§!\nFactory Output: §G+2.5%§!\nDockyard Output: §G+5%§!\nFactory Repair Speed: §G+7.5%§!\nProduction Efficiency Growth: §G+7.5%§!\nDivision Recruitment Time: §G-17.5%§!\n\n§Y20% > surrender progress:§!\nFactory Output: §G+2.5%§!\nDockyard Output: §G+5%§!\nFactory Repair Speed: §G+2.5%§!\nProduction Efficiency Growth: §G+2.5%§!\nDivision Recruitment Time: §G-12.5%§!\nEntrenchment Speed: §G+12.5%§!\n\n§Y45% > surrender progress:§!\nFactory Output: §G+5%§!\nDockyard Output: §G+7.5%§!\nFactory Repair Speed: §G+5%§!\nProduction Efficiency Growth: §G+5%§!\nDivision Recruitment Time: §G-15%§!\nEntrenchment Speed: §G+17.5%§!\nReinforce Rate: §G+0.5%§!\nDivision Defense on core territory: §G+5%§!\n\n§Y85% > surrender progress:\n§!Division Recruitment Time: §G-12.5%§!\nEntrenchment Speed: §G+12.5%§!\n\n\n\n\n£picture_Difficulty_Soldier£\n\n\n£picture_Empty_Texticon£"
+##############################################################
+# Darkest Hour
+##############################################################
+ DARKEST_HOUR_DIFF_PEACE_TIME: "\n\nAI Pre-War Period: §GACTIVE§!\nType: §RHIGH§!\n\n§LBuffs for AI start at the beginning of the game.§!\n\nEntrenchment Speed: §G+35%§!\nConstruction Speed: §G+15%§!\nProduction Efficiency Cap: §G+20%§!\nProduction Efficiency Growth: §G+100%§!\nLack of Resources Penalty: §G-20%§!\nResearch Speed: §G+25%§!\nFactory Output: §G+25%§!\nDockyard Output: §G+40%§!\n\n\n\n\n£picture_Difficulty_Darkest_Hour£\n\n\n£picture_Empty_Texticon£"
+
+ DARKEST_HOUR_DIFF_WAR_TIME: "AI War-Time Period: §GACTIVE§!\nType: §RHIGH§!\n\n§LAI will get these buffs when they are at war with the player.\n§!\nSupply Consumption: §G-25%§!\nEntrenchment Speed: §G+5%§!\nFactory Output: §G+10%§!\nDockyard Output: §G+10%§!\nRecruitable Population: §G+1%§!\nProduction Efficiency Growth: §G+25%§!\nExperience Gain: §G+7.5%§!\nReinforce Rate: §G+1%§!\n\n\n\n\n£picture_Difficulty_Darkest_Hour£\n\n\n£picture_Empty_Texticon£"
+
+ DARKEST_HOUR_DIFF_DESPERATE_DEF: "AI Desperate Defense: §GACTIVE§!\nType: §RHIGH§!\n\n§LAI will get more bonuses as they are closer to surrendering.§!\n\n§Y1% > surrender progress:§!\nFactory Output: §G+5%§!\nDockyard Output: §G+10%§!\nFactory Repair Speed: §G+15%§!\nProduction Efficiency Growth: §G+15%§!\nDivision Recruitment Time: §G-35%§!\n\n§Y20% > surrender progress:§!\nFactory Output: §G+5%§!\nDockyard Output: §G+10%§!\nFactory Repair Speed: §G+5%§!\nProduction Efficiency Growth: §G+5%§!\nDivision Recruitment Time: §G-25%§!\nEntrenchment Speed: §G+25%§!\n\n§Y45% > surrender progress:§!\nFactory Output: §G+10%§!\nDockyard Output: §G+15%§!\nFactory Repair Speed: §G+10%§!\nProduction Efficiency Growth: §G+10%§!\nDivision Recruitment Time: §G-30%§!\nEntrenchment Speed: §G+35%§!\nReinforce Rate: §G+1%§!\nDivision Defense on core territory: §G+10%§!\n\n§Y85% > surrender progress:\n§!Division Recruitment Time: §G-25%§!\nEntrenchment Speed: §G+25%§!\n\n\n\n\n£picture_Difficulty_Darkest_Hour£\n\n\n£picture_Empty_Texticon£" 
+##############################################################
+# Mein Leben
+##############################################################
+ MEIN_LEBEN_DIFF_PEACE_TIME: "\n\nAI Pre-War Period: §GACTIVE§!\nType: §RVERY HIGH§!\n\n§LBuffs for AI start at the beginning of the game.§!\n\nEntrenchment Speed: §G+40%§!\nConstruction Speed: §G+30%§!\nProduction Efficiency Cap: §G+30%§!\nProduction Efficiency Growth: §G+100%§!\nLack of Resources Penalty: §G-30%§!\nResearch Speed: §G+37.5%§!\nFactory Output: §G+45%§!\nDockyard Output: §G+65%§!\n\n\n\n\n£picture_Difficulty_Mein_Leben£\n\n\n£picture_Empty_Texticon£"
+
+ MEIN_LEBEN_DIFF_WAR_TIME: "AI War-Time Period: §GACTIVE§!\nType: §RVERY HIGH§!\n\n§LAI will get these buffs when they are at war with the player.\n§!\nSupply Consumption: §G-37.5%§!\nEntrenchment Speed: §G+7.5%§!\nFactory Output: §G+15%§!\nDockyard Output: §G+15%§!\nRecruitable Population: §G+1.5%§!\nProduction Efficiency Growth: §G+37.5%§!\nExperience Gain: §G+11.25%§!\nReinforce Rate: §G+1.5%§!\n\n\n\n\n£picture_Difficulty_Mein_Leben£\n\n\n£picture_Empty_Texticon£"
+
+ MEIN_LEBEN_DIFF_DESPERATE_DEF: "AI Desperate Defense: §GACTIVE§!\nType: §RVERY HIGH§!\n\n§LAI will get more bonuses as they are closer to surrendering.§!\n\n§Y1% > surrender progress:§!\nFactory Output: §G+7.5%§!\nDockyard Output: §G+15%§!\nFactory Repair Speed: §G+22.5%§!\nProduction Efficiency Growth: §G+22.5%§!\nDivision Recruitment Time: §G-52.5%§!\n\n§Y20% > surrender progress:§!\nFactory Output: §G+7.5%§!\nDockyard Output: §G+15%§!\nFactory Repair Speed: §G+7.5%§!\nProduction Efficiency Growth: §G+7.5%§!\nDivision Recruitment Time: §G-37.5%§!\nEntrenchment Speed: §G+37.5%§!\n\n§Y45% > surrender progress:§!\nFactory Output: §G+15%§!\nDockyard Output: §G+22.5%§!\nFactory Repair Speed: §G+15%§!\nProduction Efficiency Growth: §G+15%§!\nDivision Recruitment Time: §G-45%§!\nEntrenchment Speed: §G+52.5%§!\nReinforce Rate: §G+1.5%§!\nDivision Defense on core territory: §G+15%§!\n\n§Y85% > surrender progress:\n§!Division Recruitment Time: §G-37.5%§!\nEntrenchment Speed: §G+37.5%§!\n\n\n\n\n£picture_Difficulty_Mein_Leben£\n\n\n£picture_Empty_Texticon£"
+
+ aimod_production_speed_ger: "@GER Germany - Construction Speed"
+ aimod_production_speed_ita: "@ITA Italy - Construction Speed"
+ aimod_production_speed_sov: "@SOV Soviet Union - Construction Speed"
+ aimod_production_speed_fra: "@FRA France - Construction Speed"
+ aimod_production_speed_eng: "@ENG United Kingdom - Construction Speed"
+ aimod_production_speed_usa: "@USA USA - Construction Speed"
+ aimod_production_speed_jap: "@JAP Japan - Construction Speed"
+ aimod_production_speed_chi: "@CHI China - Construction Speed"
+ 
+ aimod_dig_in_speed_ger: "@GER Germany - Dig in Speed"
+ aimod_dig_in_speed_ita: "@ITA Italy - Dig in Speed"
+ aimod_dig_in_speed_sov: "@SOV Soviet Union - Dig in Speed"
+ aimod_dig_in_speed_fra: "@FRA France - Dig in Speed"
+ aimod_dig_in_speed_eng: "@ENG United Kingdom - Dig in Speed"
+ aimod_dig_in_speed_usa: "@USA USA - Dig in Speed"
+ aimod_dig_in_speed_jap: "@JAP Japan - Dig in Speed"
+ aimod_dig_in_speed_chi: "@CHI China - Dig in Speed"
+
+ aimod_research_speed_ger: "@GER Germany - Research Speed"
+ aimod_research_speed_ita: "@ITA Italy - Research Speed"
+ aimod_research_speed_sov: "@SOV Soviet Union - Research Speed"
+ aimod_research_speed_fra: "@FRA France - Research Speed"
+ aimod_research_speed_eng: "@ENG United Kingdom - Research Speed"
+ aimod_research_speed_usa: "@USA USA - Research Speed"
+ aimod_research_speed_jap: "@JAP Japan - Research Speed"
+ aimod_research_speed_chi: "@CHI China - Research Speed"
+
+ aimod_industrial_capacity_factory_ger: "@GER Germany - Industrial Factory Output"
+ aimod_industrial_capacity_factory_ita: "@ITA Italy - Industrial Factory Output"
+ aimod_industrial_capacity_factory_sov: "@SOV Soviet Union - Industrial Factory Output"
+ aimod_industrial_capacity_factory_fra: "@FRA France - Industrial Factory Output"
+ aimod_industrial_capacity_factory_eng: "@ENG United Kingdom - Industrial Factory Output"
+ aimod_industrial_capacity_factory_usa: "@USA USA - Industrial Factory Output"
+ aimod_industrial_capacity_factory_jap: "@JAP Japan - Industrial Factory Output"
+ aimod_industrial_capacity_factory_chi: "@CHI China - Industrial Factory Output"
+
+ aimod_industrial_capacity_dockyard_ger: "@GER Germany - Dockyard Factory Output"
+ aimod_industrial_capacity_dockyard_ita: "@ITA Italy - Dockyard Factory Output"
+ aimod_industrial_capacity_dockyard_sov: "@SOV Soviet Union - Dockyard Factory Output"
+ aimod_industrial_capacity_dockyard_fra: "@FRA France - Dockyard Factory Output"
+ aimod_industrial_capacity_dockyard_eng: "@ENG United Kingdom - Dockyard Factory Output"
+ aimod_industrial_capacity_dockyard_usa: "@USA USA - Dockyard Factory Output"
+ aimod_industrial_capacity_dockyard_jap: "@JAP Japan - Dockyard Factory Output"
+ aimod_industrial_capacity_dockyard_chi: "@CHI China - Dockyard Factory Output"
