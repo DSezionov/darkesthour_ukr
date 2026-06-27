@@ -2,43 +2,43 @@
 ############################################################
 ### Achievements
 ############################################################
- DHachievements_28244: "Darkest Hour Achievements"
+ DHachievements_28244: "Досягнення Darkest Hour"
 
  Complete_DH_Tutorial_NAME: "Quick Learner"
- Complete_DH_Tutorial_DESC: "Complete the tutorial of the §RDarkest Hour§! mod (reading the '§YHow To Play§!' window does not count)."
+ Complete_DH_Tutorial_DESC: "Закінчить туторіал §RDarkest Hour§! (прочитати '§YHow To Play§!' не рахується)."
 
- You_Maniacs_You_blew_it_up_NAME: "You Maniacs! You blew it up!"
- You_Maniacs_You_blew_it_up_DESC: "Nuke New York"
- Nuked_New_York: "New York has been nuked"
+ You_Maniacs_You_blew_it_up_NAME: "Ви божевільні! Ви підірвали це!"
+ You_Maniacs_You_blew_it_up_DESC: "Ядерна бомба на Нью-Йорк"
+ Nuked_New_York: "На Нью-Йорк була скинута ядерна бомба"
 
- How_Did_We_Get_Here_NAME: "How Did We Get Here?"
- How_Did_We_Get_Here_DESC: "As a minor nation, be at war with five of the seven major powers."
- How_Did_We_Get_Here_tt: "As a minor nation, be at war with five of the seven major powers."
+ How_Did_We_Get_Here_NAME: "Як ми тут опинилися?"
+ How_Did_We_Get_Here_DESC: "Будучи невеликою країною, перебувайте у стані війни з п’ятьма з семи великих держав."
+ How_Did_We_Get_Here_tt: "Будучи невеликою країною, перебувайте у стані війни з п’ятьма з семи великих держав."
 
- Socialism_has_been_Achieved_NAME: "Socialism has been achieved!"
- Socialism_has_been_Achieved_DESC: "Have at least 95% popularity for either the communist or socialist party."
- Socialism_has_been_Achieved_tt: "Have at least 95% popularity for either the communist or socialist party."
+ Socialism_has_been_Achieved_NAME: "Ми досягли соціалізму!"
+ Socialism_has_been_Achieved_DESC: "Майте принаймні 95% популярності або у комуністичної, або у соціалістичної партії."
+ Socialism_has_been_Achieved_tt: "Майте принаймні 95% популярності або у комуністичної, або у соціалістичної партії."
 
- Literally_1984_NAME: "Literally 1984"
- Literally_1984_DESC: "Reach 1st of January, 1984."
+ Literally_1984_NAME: "Фактично 1984"
+ Literally_1984_DESC: "Досягти 1-го січня 1984 року."
 
- Literally_1948_NAME: "Literally 1948"
- Literally_1948_DESC: "Reach 1st of January, 1948."
+ Literally_1948_NAME: "Фактично 1948"
+ Literally_1948_DESC: "Досягти 1-го січня 1948 року."
 
- Animal_Farm_NAME: "Animal Farm"
- Animal_Farm_DESC: "As the Soviet Union, research all Agriculture techs."
- Animal_Farm_tt: "As the Soviet Union, research all Agriculture techs"
+ Animal_Farm_NAME: "Колгосп тварин"
+ Animal_Farm_DESC: "Граючи за Совєцький Союз, дослідіть усі сільськогосподарські технології."
+ Animal_Farm_tt: "Граючи за Совєцький Союз, дослідіть усі сільськогосподарські технології."
 
- Poland_is_not_Yet_Lost_NAME: "Poland is not Yet Lost!"
- Poland_is_not_Yet_Lost_DESC: "Survive as Poland until 1st of January, 1945."
+ Poland_is_not_Yet_Lost_NAME: "Польща не втрачена!"
+ Poland_is_not_Yet_Lost_DESC: "Граючи за Польщу, втримайтеся до 1-го січня 1945 року."
 
- Im_Something_of_a_Scientist_Myself_NAME: "I'm something of a scientist myself"
- Im_Something_of_a_Scientist_Myself_DESC: "Research all the techs from the electronics and rocketry tree till 1945."
- Im_Something_of_a_Scientist_Myself_tt: "Research all the techs from the electronics and rocketry tree till 1945."
+ Im_Something_of_a_Scientist_Myself_NAME: "Я й сам трохи вчений"
+ Im_Something_of_a_Scientist_Myself_DESC: "Дослідіть усі технології з гілки «Електроніка та ракетобудування» до 1945 року."
+ Im_Something_of_a_Scientist_Myself_tt: "Дослідіть усі технології з гілки «Електроніка та ракетобудування» до 1945 року."
 
- Pimp_My_Reich_NAME: "Pimp My Reich"
- Pimp_My_Reich_DESC: "As German Reich, proclaim the Großdeutsches Reich."
- Pimp_My_Reich_tt: "As German Reich, proclaim the Großdeutsches Reich."
+ Pimp_My_Reich_NAME: "Рейх на прокачку"
+ Pimp_My_Reich_DESC: "Граючи за Рейх, проголосіть Тисячолітній Рейх."
+ Pimp_My_Reich_tt: "Граючи за Рейх, проголосіть Тисячолітній Рейх."
 
  Royal_Flush_NAME: "Royal Flush"
  Royal_Flush_DESC: "As the United Kingdom, have production rights from 5 major powers in which you are allied with."
