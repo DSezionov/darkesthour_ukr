@@ -1,32 +1,32 @@
 ﻿l_english:
- Allows_Fascists_Ministers: "£ai_acceptance_texticon Fascist Ministers Allowed"
- Allows_Authoritarian_Ministers: "£ai_acceptance_texticon Authoritarian Ministers Allowed"
- Allows_Democratic_Ministers: "£ai_acceptance_texticon Democratic Ministers Allowed"
- Allows_Socialists_Ministers: "£ai_acceptance_texticon Socialist Ministers Allowed"
- Allows_Communists_Ministers: "£ai_acceptance_texticon Communist Ministers Allowed"
+ Allows_Fascists_Ministers: "£ai_acceptance_texticon Фашистський міністр дозволений"
+ Allows_Authoritarian_Ministers: "£ai_acceptance_texticon Авторитарний міністр дозволений"
+ Allows_Democratic_Ministers: "£ai_acceptance_texticon Демократичний міністр дозволений"
+ Allows_Socialists_Ministers: "£ai_acceptance_texticon Соціалістичний міністр дозволений"
+ Allows_Communists_Ministers: "£ai_acceptance_texticon Комуністичний міністр дозволений"
 ###########################################
 ## Cabinet 
 ###########################################
- cabinet: "Cabinet"
- Deputy_Leader: "Deputy Leader"
- Foreign_Minister: "Foreign Minister"
- Minister_of_Security: "Minister of Security"
- Armaments_Minister: "Economics Minister"
- Minister: "Minister"
- Chief_of_Staff: "Chief of Staff"
- Chief_of_Army: "Chief of Army"
- Chief_of_Navy: "Chief of Navy"
- Chief_of_Airforce: "Chief of Air Force"
- Head_of_Intelligence: "Head of Intelligence"
+ cabinet: "Кабінет"
+ Deputy_Leader: "Заступник керівника"
+ Foreign_Minister: "Міністр закордонних справ"
+ Minister_of_Security: "Міністр безпеки"
+ Armaments_Minister: "Міністр економіки"
+ Minister: "Міністр"
+ Chief_of_Staff: "Керівник апарату"
+ Chief_of_Army: "Командувач армії"
+ Chief_of_Navy: "Командувач ВМС"
+ Chief_of_Airforce: "Командувач ВПС"
+ Head_of_Intelligence: "Голова Розвідки"
  
- available_chief_of_staff: "§GAvailable§! as §LChief of Staff:§!\n"
+ available_chief_of_staff: "§GAvailable§! як §LChief of Staff:§!\n"
 ######################################################################
 ###  GUI
 ######################################################################
- leader_name_two_none: "Vacant Position"
- leader_title_one_none: "Leader"
- leader_title_one_generic: "Leader"
- leader_title_two_generic: "Deputy Leader"
+ leader_name_two_none: "Вакантна позиція"
+ leader_title_one_none: "Керівник"
+ leader_title_one_generic: "Керівник"
+ leader_title_two_generic: "Заступник керівника"
 
  LEADER_NAME_DIPLO_VIEW: "[This.GetFlag] [THIS.leader_title_one] §H[THIS.GetLeader]§!"
  SECOND_LEADER_NAME: "§H[This.leader_name_two]§!"
@@ -34,39 +34,39 @@
  SECOND_LEADER_DESC: "§L[This.leader_desc_two]§!"
 
 #Special Idea thing for advisors
- country_missing_advisors: "Missing Advisors"
+ country_missing_advisors: "Не вистачає радників"
 
 ###############################################
 ## Laws and Policies
 ##############################################
  # Foreign Policy
- idea_group_foreign_policy: "Foreign Policy"
- foreign_policy: "Foreign Policy"
- isolationism: "Isolationism"
- neutrality: "Neutrality"
- cooperation: "Cooperation"
- interventionism: "Interventionism"
- warmonger: "Warmonger"
+ idea_group_foreign_policy: "Зовнішня політика"
+ foreign_policy: "Зовнішня політика"
+ isolationism: "Ізоляціонізм"
+ neutrality: "Нейтралітет"
+ cooperation: "Співпраця"
+ interventionism: "Інтервенціонізм"
+ warmonger: "Войовнича політика"
 
 ## Recruitment Laws
- idea_group_recruitment_laws: "Recruitment Laws"
- recruitment_laws: "Recruitment Laws"
- law_volunteer_only: "Volunteer Only"
- one_year_service: "One Year Mandatory Service"
- two_year_service: "Two Year Mandatory Service"
- three_year_service: "Three Year Mandatory Service"
- law_service_by_requirement: "Service by Requirement"
- law_all_adults_serve: "All Adults Serve"
- law_scraping_the_barrel: "Scraping the Barrel"
+ idea_group_recruitment_laws: "Закони працевлаштування"
+ recruitment_laws: "Закони працевлаштування"
+ law_volunteer_only: "Вільне працевлаштування"
+ one_year_service: "Один рік обов’язкової роботи"
+ two_year_service: "Два роки обов’язкової роботи"
+ three_year_service: "Три роки обов’язкової роботи"
+ law_service_by_requirement: "Обов’язкова робота за потребою"
+ law_all_adults_serve: "Всі дорослі працюють"
+ law_scraping_the_barrel: "Працюють усі"
 
 ## Mobilization Laws
- idea_group_mobilization_laws: "Mobilization Laws"
- mobilization_laws: "Mobilization Laws"
- law_civilian_economy: "Civilian Economy"
- law_early_mobilisation: "Early Mobilisation"
- law_partial_mobilisation: "Partial Mobilisation"
- law_war_economy: "War Economy"
- law_total_mobilisation: "Total Mobilisation"
+ idea_group_mobilization_laws: "Закони мобілізації"
+ mobilization_laws: "Закони мобілізації"
+ law_civilian_economy: "Цивільна економіка"
+ law_early_mobilisation: "Рання мобілізації"
+ law_partial_mobilisation: "Часткова мобілізація"
+ law_war_economy: "Економіка військового часу"
+ law_total_mobilisation: "Тотальна мобілізація економіки"
 
 ## Society Policy
  idea_group_domestic_policies: "Domestic Policy"
