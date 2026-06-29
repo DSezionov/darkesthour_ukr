@@ -1,17 +1,17 @@
 ﻿l_english:
  # GUIs:
- DH_CUSTOM_ALERTS_DISMISSED_BUTTON_TT: "§YDismissed mod alerts§!"
- DH_CUSTOM_ALERTS_DISMISSED_BUTTON_TT_DELAYED: "Some alerts added by the §fDarkest Hour§! mod were dismissed. \n§GClick§! to make them show up again, if they are valid. \n--------------\nThe following mod alerts are currently dismissed: §Y[This.GetCustomAlertsDismissedList]§!"
+ DH_CUSTOM_ALERTS_DISMISSED_BUTTON_TT: "§YСповіщення моду закриті§!"
+ DH_CUSTOM_ALERTS_DISMISSED_BUTTON_TT_DELAYED: "Деякі сповіщення, додані модом §fDarkest Hour§! було закрито. \n§GClick§! щоб знову їх відобразити, якщо вони є дійсними. \n--------------\nНаразі закрито такі сповіщення модів: §Y[This.GetCustomAlertsDismissedList]§!"
 
  DH_CUSTOM_ALERTS_ENTRY_BUTTON_TT: "§Y[This.GetCustomAlertName]§!"
- DH_CUSTOM_ALERTS_ENTRY_BUTTON_TT_DELAYED: "[This.GetCustomAlertDesc] \n§GRight-click§! to dismiss."
+ DH_CUSTOM_ALERTS_ENTRY_BUTTON_TT_DELAYED: "[This.GetCustomAlertDesc] \n§GRight-click§! щоб закрити."
 
  # Scripted Localisation:
  DH_CUSTOM_ALERT_DISMISS_TT_LIST_NAME_OTHERS: "\n[This.GetCustomAlertNameOtherContext][This.GetCustomAlertsDismissedListEntry]"
- DH_CUSTOM_ALERT_DISMISS_TT_TOO_MANY: "... and [?num_temp] others"
+ DH_CUSTOM_ALERT_DISMISS_TT_TOO_MANY: "... та [?num_temp] інші."
 
  # Custom Alerts:
- CUSTOM_ALERT_1_NAME: "Minimum operation progress reached"
- CUSTOM_ALERT_1_DESC: "At least §Y1§! active operation has reached the minimum required progress to be able to launch it. \nThis does not necessarily mean that you fulfill all requirements to launch it. \n§GClick§! to open the §Y$DH_WAR_ROOM_HEADER$§! window."
- CUSTOM_ALERT_2_NAME: "Maximum operation progress reached"
- CUSTOM_ALERT_2_DESC: "At least §Y1§! active operation has reached §Y100%§! progress. Launching it now will give the maximum possible bonus. If possible, you can however still complete more decisions to gain additional bonuses from those, regardless of preparation progress. \nThis does not necessarily mean that you fulfill all requirements to launch it. \n§GClick§! to open the §Y$DH_WAR_ROOM_HEADER$§! window."
+ CUSTOM_ALERT_1_NAME: "Досягнуто мінімального прогресу операції"
+ CUSTOM_ALERT_1_DESC: "Принаймні §Y1§! активна операція досягла мінімального необхідного прогресу, щоб її можна було запустити. \nЦе не обов’язково означає, що ви виконуєте всі вимоги для її запуску. \n§GClick§! щоб відкрити вікно §Y$DH_WAR_ROOM_HEADER$§!."
+ CUSTOM_ALERT_2_NAME: "Досягнуто максимального прогресу операції"
+ CUSTOM_ALERT_2_DESC: "Принаймні §Y1§! активна операція досягла §Y100%§! прогресу. Запуск її зараз дасть максимально можливий бонус. Однак, якщо це можливо, ви все ще можете прийняти більше рішень, щоб отримати додаткові бонуси за них, незалежно від прогресу підготовки. \nЦе не обов’язково означає, що ви виконали всі вимоги для її запуску.. \n§GClick§! щоб відкрити вікно §Y$DH_WAR_ROOM_HEADER$§!."
