@@ -1,8 +1,8 @@
 ﻿l_english:
 
 ### Changed Vanilla Entries
-  POLITICS_IDEOLOGY_POPULARITY_CHANGE: "£boost_popularity_texticon  Change in popularity of $IDEOLOGY$: $VALUE|+2%$"
+  POLITICS_IDEOLOGY_POPULARITY_CHANGE: "£boost_popularity_texticon  Зміна популярності $IDEOLOGY$: $VALUE|+2%$"
 
 ### SUBIDEOLOGY REPLACERS UNTIL BACKEND REWORK
-  PRC_maoism: "People's Republic of China" #  Placeholder to override a vanilla loc, permanent solution needed
-  SWE_social_democracy: "Kingdom of Sweden" # Placeholder to override a vanilla loc, permanent solution needed
+  PRC_maoism: "Китайська Народна Республіка" #  Placeholder to override a vanilla loc, permanent solution needed
+  SWE_social_democracy: "Королівство Швеція" # Placeholder to override a vanilla loc, permanent solution needed

@@ -1,11 +1,11 @@
 ﻿l_english:
  #DH - Unique War Names
  #(may also include overridden vanilla names, kept as one list for simplicity)
- WAR_NAME_SPA_SPN: "Spanish Civil War"
- WAR_NAME_SPN_SPA: "Spanish Civil War"
+ WAR_NAME_SPA_SPN: "Громадянська війна в Іспанії"
+ WAR_NAME_SPN_SPA: "Громадянська війна в Іспанії"
 
- WAR_NAME_CHI_PRC: "Chinese Civil War"
- WAR_NAME_PRC_CHI: "Chinese Civil War"
+ WAR_NAME_CHI_PRC: "Громадянська війна в Китаї"
+ WAR_NAME_PRC_CHI: "Громадянська війна в Китаї"
 
  WAR_NAME_JAP_CHI: "Second Sino-Japanese War"
  WAR_NAME_CHI_JAP: "Second Sino-Japanese War"
@@ -16,12 +16,12 @@
  WAR_NAME_GER_FIN: "Lapland War"
  WAR_NAME_FIN_GER: "Lapland War"
 
- WAR_NAME_GER_ENG: "Second World War"
- WAR_NAME_GER_USA: "Second World War"
- WAR_NAME_GER_FRA: "Second World War"
+ WAR_NAME_GER_ENG: "Друга Світова війна"
+ WAR_NAME_GER_USA: "Друга Світова війна"
+ WAR_NAME_GER_FRA: "Друга Світова війна"
 
- WAR_NAME_JAP_USA: "Pacific War"
- WAR_NAME_USA_JAP: "Pacific War"
+ WAR_NAME_JAP_USA: "Війна в Тихому океані"
+ WAR_NAME_USA_JAP: "Війна в Тихому океані"
 
  WAR_NAME_PAR_BOL: "Chaco War"
  WAR_NAME_BOL_PAR: "Chaco War"
@@ -44,8 +44,8 @@
  WAR_NAME_DEI_INS: "Indonesian War of Independence"
  WAR_NAME_INS_DEI: "Indonesian War of Independence" 
 
- WAR_NAME_KOR_NRK: "Korean War"
- WAR_NAME_NRK_KOR: "Korean War"
+ WAR_NAME_KOR_NRK: "Корейська війна"
+ WAR_NAME_NRK_KOR: "Корейська війна"
 
  WAR_NAME_ITA_RSI: "Italian Civil War"
  WAR_NAME_RSI_ITA: "Italian Civil War"
@@ -55,12 +55,12 @@
 
  WAR_NAME_SOV_XIJ: "Soviet Invasion of Xinjiang"
 
- WAR_NAME_PAL_ENG: "Arab Revolt"
+ WAR_NAME_PAL_ENG: "Арабська революція"
 
  WAR_NAME_ENG_IRQ: "Anglo-Iraqi War"
  WAR_NAME_IRQ_ENG: "Anglo-Iraqi War"
 
- WAR_NAME_HUN_CPU: "Hungarian Invasion of Carpatho-Ukraine"
+ WAR_NAME_HUN_CPU: "Угорське вторгнення в Карпатську Україну"
 
  WAR_NAME_SCP_XIK: "War to Stabilize Sichuan"
  WAR_NAME_XIK_SCP: "War to Stabilize Sichuan"

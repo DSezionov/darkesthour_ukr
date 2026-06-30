@@ -1,4 +1,4 @@
 ﻿l_english:
 
 ### Changed Vanilla Entries
-  ABILITY_TOOLTIP_COST: "£command_power_texticon  Command Power Cost: $VALUE|H$"
+  ABILITY_TOOLTIP_COST: "£command_power_texticon  Вартість командного ресурсу: $VALUE|H$"

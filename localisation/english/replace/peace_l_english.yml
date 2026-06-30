@@ -1,4 +1,4 @@
 ﻿l_english:
 
 ### Changed Vanilla Entries
- PEACE_CONFERENCE_WHITE_PEACE: "@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ and $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\nhave signed a §Ypeace treaty§!."
+ PEACE_CONFERENCE_WHITE_PEACE: "@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ та $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\nпідписали §Yмирний договір§!."

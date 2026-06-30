@@ -2,6 +2,6 @@
 ############################################################
 ### Darkest Hour Version - Modify before every Steam update.
 ############################################################
- DH_version_short: "DH v1.1.0.6"
+ DH_version_short: "DH v1.1.0.6 + UKR Translation"
  DH_version_name: "“Strategic Command”"
- DH_difficulty_text: "Difficulty: [This.GetDHDifficultyName]"
+ DH_difficulty_text: "Складність: [This.GetDHDifficultyName]"

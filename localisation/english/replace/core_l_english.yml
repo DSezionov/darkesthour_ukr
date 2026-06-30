@@ -172,13 +172,13 @@
   WAR_PROPAGANDA_AGAINST_WARMONGER_TT: "Is not spreading §Ywar propaganda§! against any §twarmongers§Y."
 
   # National Spirits / Ideas
-  received_attache: "Recieved Attaché"
+  received_attache: "Аташе отриманий"
   # Tech Tree
-  ARMY_BRANCH_TECH_TREE_TT: "§YArmy Branch§!"
-  NAVY_BRANCH_TECH_TREE_TT: "§YNaval Branch§!"
-  AIRFORCE_BRANCH_TECH_TREE_TT: "§YAirforce Branch§!"
-  INDUSTRY_BRANCH_TECH_TREE_TT: "§YIndustry Branch§!"
-  EXPERIMENTAL_BRANCH_TECH_TREE_TT: "§YExperimental Branch§!"
+  ARMY_BRANCH_TECH_TREE_TT: "§YАрмійська гілка§!"
+  NAVY_BRANCH_TECH_TREE_TT: "§YГілка ВМС§!"
+  AIRFORCE_BRANCH_TECH_TREE_TT: "§YГілка ВПС§!"
+  INDUSTRY_BRANCH_TECH_TREE_TT: "§YІндустріальна гілка§!"
+  EXPERIMENTAL_BRANCH_TECH_TREE_TT: "§YЕкспериментальна гілка§!"
 
   # Politics Window
-  POLITICS_NEXT_ELECTION: "Next Election:\n§Y$DATE$§!"
+  POLITICS_NEXT_ELECTION: "Наступні вибори:\n§Y$DATE$§!"

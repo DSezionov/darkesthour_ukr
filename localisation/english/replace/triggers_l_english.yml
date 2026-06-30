@@ -1,5 +1,5 @@
 ﻿l_english:
 
 ### Changed Vanilla Entries
- TRIGGER_ALWAYS_TRUE: "Always"
- TRIGGER_ALWAYS_FALSE: "Never"
+ TRIGGER_ALWAYS_TRUE: "Завжди"
+ TRIGGER_ALWAYS_FALSE: "Ніколи"
